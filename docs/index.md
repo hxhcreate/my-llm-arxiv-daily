@@ -17,13 +17,13 @@ layout: default
 |**2024-01-04**|**Multi-Agent Context Learning Strategy for Interference-Aware Beam Allocation in mmWave Vehicular Communications**|Abdulkadir Kose et.al.|[2401.02323](http://arxiv.org/abs/2401.02323)|null|
 |**2024-01-04**|**A Decentralized Multiagent-Based Task Scheduling Framework for Handling Uncertain Events in Fog Computing**|Yikun Yang et.al.|[2401.02219](http://arxiv.org/abs/2401.02219)|null|
 |**2024-01-03**|**Optimizing UAV-UGV Coalition Operations: A Hybrid Clustering and Multi-Agent Reinforcement Learning Approach for Path Planning in Obstructed Environment**|Shamyo Brotee et.al.|[2401.01481](http://arxiv.org/abs/2401.01481)|null|
-|**2024-01-02**|**LLM Harmony: Multi-Agent Communication for Problem Solving**|Sumedh Rasal et.al.|[2401.01312](http://arxiv.org/abs/2401.01312)|null|
+|**2024-01-02**|**LLM Harmony: Multi-Agent Communication for Problem Solving**|Sumedh Rasal et.al.|[2401.01312](http://arxiv.org/abs/2401.01312)|**[link](https://github.com/sumedhrasal/simulation)**|
 |**2024-01-02**|**Joint Offloading and Resource Allocation for Hybrid Cloud and Edge Computing in SAGINs: A Decision Assisted Hybrid Action Space Deep Reinforcement Learning Approach**|Chong Huang et.al.|[2401.01140](http://arxiv.org/abs/2401.01140)|null|
 |**2024-01-01**|**Edge Computing based Human-Robot Cognitive Fusion: A Medical Case Study in the Autism Spectrum Disorder Therapy**|Qin Yang et.al.|[2401.00776](http://arxiv.org/abs/2401.00776)|null|
 |**2024-01-01**|**Plug-and-Play regularized 3D seismic inversion with 2D pre-trained denoisers**|Nick Luiken et.al.|[2401.00753](http://arxiv.org/abs/2401.00753)|null|
 |**2024-01-01**|**Polynomial-time Approximation Scheme for Equilibriums of Games**|Hongbo Sun et.al.|[2401.00747](http://arxiv.org/abs/2401.00747)|null|
 |**2023-12-30**|**Bidirectional Temporal Plan Graph: Enabling Switchable Passing Orders for More Efficient Multi-Agent Path Finding Plan Execution**|Yifan Su et.al.|[2401.00315](http://arxiv.org/abs/2401.00315)|null|
-|**2023-12-30**|**Physics-Informed Multi-Agent Reinforcement Learning for Distributed Multi-Robot Problems**|Eduardo Sebastian et.al.|[2401.00212](http://arxiv.org/abs/2401.00212)|null|
+|**2023-12-30**|**Physics-Informed Multi-Agent Reinforcement Learning for Distributed Multi-Robot Problems**|Eduardo Sebastian et.al.|[2401.00212](http://arxiv.org/abs/2401.00212)|**[link](https://github.com/eduardosebastianrodriguez/phmarl)**|
 |**2023-12-30**|**Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning**|Xin Yu et.al.|[2401.00167](http://arxiv.org/abs/2401.00167)|null|
 |**2023-12-30**|**Contrastive learning-based agent modeling for deep reinforcement learning**|Wenhao Ma et.al.|[2401.00132](http://arxiv.org/abs/2401.00132)|null|
 

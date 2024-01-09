@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-08**|**Zeroth-Order Non-Convex Optimization for Cooperative Multi-Agent Systems with Diminishing Step Size and Smoothing Radius**|Xinran Zheng et.al.|[2401.03998](http://arxiv.org/abs/2401.03998)|null|
+|**2024-01-08**|**SpeechAgents: Human-Communication Simulation with Multi-Modal Multi-Agent Systems**|Dong Zhang et.al.|[2401.03945](http://arxiv.org/abs/2401.03945)|**[link](https://github.com/0nutation/speechagents)**|
+|**2024-01-08**|**A Tensor Network Implementation of Multi Agent Reinforcement Learning**|Sunny Howard et.al.|[2401.03896](http://arxiv.org/abs/2401.03896)|null|
+|**2024-01-08**|**Is Limited Information Enough? An Approximate Multi-agent Coverage Control in Non-Convex Discrete Environments**|Tatsuya Iwase et.al.|[2401.03752](http://arxiv.org/abs/2401.03752)|null|
+|**2024-01-08**|**Why Solving Multi-agent Path Finding with Large Language Model has not Succeeded Yet**|Weizhe Chen et.al.|[2401.03630](http://arxiv.org/abs/2401.03630)|null|
+|**2024-01-07**|**NovelGym: A Flexible Ecosystem for Hybrid Planning and Learning Agents Designed for Open Worlds**|Shivam Goel et.al.|[2401.03546](http://arxiv.org/abs/2401.03546)|null|
+|**2024-01-07**|**ClusterComm: Discrete Communication in Decentralized MARL using Internal Representation Clustering**|Robert Müller et.al.|[2401.03504](http://arxiv.org/abs/2401.03504)|null|
+|**2024-01-07**|**Exploring Large Language Model based Intelligent Agents: Definitions, Methods, and Prospects**|Yuheng Cheng et.al.|[2401.03428](http://arxiv.org/abs/2401.03428)|null|
+|**2024-01-07**|**Improving Dribbling, Passing, and Marking Actions in Soccer Simulation 2D Games Using Machine Learning**|Nader Zare et.al.|[2401.03406](http://arxiv.org/abs/2401.03406)|null|
+|**2024-01-06**|**Distributed Identification of Stable Large-Scale Isomorphic Nonlinear Networks Using Partial Observations**|Chunhui Li et.al.|[2401.03216](http://arxiv.org/abs/2401.03216)|null|
 |**2024-01-05**|**Une ontologie pour les syst{è}mes multi-agents ambiants dans les villes intelligentes**|Nathan Aky et.al.|[2401.02726](http://arxiv.org/abs/2401.02726)|null|
 |**2024-01-05**|**XUAT-Copilot: Multi-Agent Collaborative System for Automated User Acceptance Testing with Large Language Model**|Zhitao Wang et.al.|[2401.02705](http://arxiv.org/abs/2401.02705)|null|
 |**2024-01-04**|**On the Prospects of Incorporating Large Language Models (LLMs) in Automated Planning and Scheduling (APS)**|Vishal Pallagani et.al.|[2401.02500](http://arxiv.org/abs/2401.02500)|null|

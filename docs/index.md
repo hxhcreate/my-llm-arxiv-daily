@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-09**|**Deep Reinforcement Multi-agent Learning framework for Information Gathering with Local Gaussian Processes for Water Monitoring**|Samuel Yanes Luis et.al.|[2401.04631](http://arxiv.org/abs/2401.04631)|null|
+|**2024-01-09**|**StarCraftImage: A Dataset For Prototyping Spatial Reasoning Methods For Multi-Agent Environments**|Sean Kulinski et.al.|[2401.04290](http://arxiv.org/abs/2401.04290)|null|
+|**2024-01-08**|**MARG: Multi-Agent Review Generation for Scientific Papers**|Mike D'Arcy et.al.|[2401.04259](http://arxiv.org/abs/2401.04259)|**[link](https://github.com/allenai/marg-reviewer)**|
 |**2024-01-08**|**Zeroth-Order Non-Convex Optimization for Cooperative Multi-Agent Systems with Diminishing Step Size and Smoothing Radius**|Xinran Zheng et.al.|[2401.03998](http://arxiv.org/abs/2401.03998)|null|
 |**2024-01-08**|**SpeechAgents: Human-Communication Simulation with Multi-Modal Multi-Agent Systems**|Dong Zhang et.al.|[2401.03945](http://arxiv.org/abs/2401.03945)|**[link](https://github.com/0nutation/speechagents)**|
 |**2024-01-08**|**A Tensor Network Implementation of Multi Agent Reinforcement Learning**|Sunny Howard et.al.|[2401.03896](http://arxiv.org/abs/2401.03896)|null|

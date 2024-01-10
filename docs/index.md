@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.09
+## Updated on 2024.01.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AGENT
@@ -22,7 +22,7 @@ layout: default
 |**2024-01-07**|**NovelGym: A Flexible Ecosystem for Hybrid Planning and Learning Agents Designed for Open Worlds**|Shivam Goel et.al.|[2401.03546](http://arxiv.org/abs/2401.03546)|null|
 |**2024-01-07**|**ClusterComm: Discrete Communication in Decentralized MARL using Internal Representation Clustering**|Robert Müller et.al.|[2401.03504](http://arxiv.org/abs/2401.03504)|null|
 |**2024-01-07**|**Exploring Large Language Model based Intelligent Agents: Definitions, Methods, and Prospects**|Yuheng Cheng et.al.|[2401.03428](http://arxiv.org/abs/2401.03428)|null|
-|**2024-01-07**|**Improving Dribbling, Passing, and Marking Actions in Soccer Simulation 2D Games Using Machine Learning**|Nader Zare et.al.|[2401.03406](http://arxiv.org/abs/2401.03406)|null|
+|**2024-01-07**|**Improving Dribbling, Passing, and Marking Actions in Soccer Simulation 2D Games Using Machine Learning**|Nader Zare et.al.|[2401.03406](http://arxiv.org/abs/2401.03406)|**[link](https://github.com/naderzare/cyrus2014)**|
 |**2024-01-06**|**Distributed Identification of Stable Large-Scale Isomorphic Nonlinear Networks Using Partial Observations**|Chunhui Li et.al.|[2401.03216](http://arxiv.org/abs/2401.03216)|null|
 |**2024-01-05**|**Une ontologie pour les syst{è}mes multi-agents ambiants dans les villes intelligentes**|Nathan Aky et.al.|[2401.02726](http://arxiv.org/abs/2401.02726)|null|
 |**2024-01-05**|**XUAT-Copilot: Multi-Agent Collaborative System for Automated User Acceptance Testing with Large Language Model**|Zhitao Wang et.al.|[2401.02705](http://arxiv.org/abs/2401.02705)|null|

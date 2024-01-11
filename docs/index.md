@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-10**|**Dual Quaternion Laplacian Matrix and Formation Control**|Liqun Qi et.al.|[2401.05132](http://arxiv.org/abs/2401.05132)|null|
+|**2024-01-10**|**Discrete-Time Stress Matrix-Based Formation Control of General Linear Multi-Agent Systems**|Okechi Onuoha et.al.|[2401.05083](http://arxiv.org/abs/2401.05083)|null|
+|**2024-01-10**|**Fully Decentralized Cooperative Multi-Agent Reinforcement Learning: A Survey**|Jiechuan Jiang et.al.|[2401.04934](http://arxiv.org/abs/2401.04934)|null|
 |**2024-01-09**|**Deep Reinforcement Multi-agent Learning framework for Information Gathering with Local Gaussian Processes for Water Monitoring**|Samuel Yanes Luis et.al.|[2401.04631](http://arxiv.org/abs/2401.04631)|null|
 |**2024-01-09**|**StarCraftImage: A Dataset For Prototyping Spatial Reasoning Methods For Multi-Agent Environments**|Sean Kulinski et.al.|[2401.04290](http://arxiv.org/abs/2401.04290)|null|
 |**2024-01-08**|**MARG: Multi-Agent Review Generation for Scientific Papers**|Mike D'Arcy et.al.|[2401.04259](http://arxiv.org/abs/2401.04259)|**[link](https://github.com/allenai/marg-reviewer)**|

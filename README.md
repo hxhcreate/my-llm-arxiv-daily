@@ -17,6 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**Combating Adversarial Attacks with Multi-Agent Debate**|Steffi Chern et.al.|[2401.05998](http://arxiv.org/abs/2401.05998)|**[link](https://github.com/andyjliu/llms-course-project)**|
+|**2024-01-11**|**Confidence-Based Curriculum Learning for Multi-Agent Path Finding**|Thomy Phan et.al.|[2401.05860](http://arxiv.org/abs/2401.05860)|null|
+|**2024-01-11**|**Secure Dynamic Event-triggered Consensus Under Asynchronous Denial of Service**|Ali Azarbahram et.al.|[2401.05857](http://arxiv.org/abs/2401.05857)|null|
+|**2024-01-11**|**Tracking Consensus of Networked Random Nonlinear Multi-agent Systems with Intermittent Communications**|Ali Azarbahram et.al.|[2401.05808](http://arxiv.org/abs/2401.05808)|null|
+|**2024-01-11**|**Augmented Reality User Interface for Command, Control, and Supervision of Large Multi-Agent Teams**|Frank Regal et.al.|[2401.05665](http://arxiv.org/abs/2401.05665)|null|
+|**2024-01-11**|**Full-State Prescribed Performance-Based Consensus of Double-Integrator Multi-Agent Systems with Jointly Connected Topologies**|Yahui Hou et.al.|[2401.05639](http://arxiv.org/abs/2401.05639)|null|
+|**2024-01-10**|**Innate-Values-driven Reinforcement Learning for Cooperative Multi-Agent Systems**|Qin Yang et.al.|[2401.05572](http://arxiv.org/abs/2401.05572)|null|
+|**2024-01-10**|**Transparency as Delayed Observability in Multi-Agent Systems**|Kshama Dwarakanath et.al.|[2401.05563](http://arxiv.org/abs/2401.05563)|null|
 |**2024-01-10**|**Dual Quaternion Laplacian Matrix and Formation Control**|Liqun Qi et.al.|[2401.05132](http://arxiv.org/abs/2401.05132)|null|
 |**2024-01-10**|**Discrete-Time Stress Matrix-Based Formation Control of General Linear Multi-Agent Systems**|Okechi Onuoha et.al.|[2401.05083](http://arxiv.org/abs/2401.05083)|null|
 |**2024-01-10**|**Fully Decentralized Cooperative Multi-Agent Reinforcement Learning: A Survey**|Jiechuan Jiang et.al.|[2401.04934](http://arxiv.org/abs/2401.04934)|null|

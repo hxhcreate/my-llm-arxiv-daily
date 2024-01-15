@@ -17,6 +17,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-12**|**Mutual Enhancement of Large Language and Reinforcement Learning Models through Bi-Directional Feedback Mechanisms: A Case Study**|Shangding Gu et.al.|[2401.06603](http://arxiv.org/abs/2401.06603)|null|
+|**2024-01-12**|**UNEX-RL: Reinforcing Long-Term Rewards in Multi-Stage Recommender Systems with UNidirectional EXecution**|Gengrui Zhang et.al.|[2401.06470](http://arxiv.org/abs/2401.06470)|null|
+|**2024-01-12**|**A Logic for Repair and State Recovery in Byzantine Fault-tolerant Multi-agent Systems**|Hans van Ditmarsch et.al.|[2401.06451](http://arxiv.org/abs/2401.06451)|null|
+|**2024-01-12**|**A Semantic-Aware Multiple Access Scheme for Distributed, Dynamic 6G-Based Applications**|Hamidreza Mazandarani et.al.|[2401.06308](http://arxiv.org/abs/2401.06308)|null|
+|**2024-01-11**|**Distributed Optimal Output Consensus Control of Heterogeneous Multi-Agent Systems with Safety Constraints**|Ji Ma et.al.|[2401.06245](http://arxiv.org/abs/2401.06245)|null|
+|**2024-01-11**|**Multi-Agent Based Simulation for Investigating Electric Vehicle Adoption and Its Impacts on Electricity Distribution Grids and CO2 Emissions**|Kristoffer Christensen et.al.|[2401.06192](http://arxiv.org/abs/2401.06192)|null|
 |**2024-01-11**|**Combating Adversarial Attacks with Multi-Agent Debate**|Steffi Chern et.al.|[2401.05998](http://arxiv.org/abs/2401.05998)|**[link](https://github.com/andyjliu/llms-course-project)**|
 |**2024-01-11**|**Confidence-Based Curriculum Learning for Multi-Agent Path Finding**|Thomy Phan et.al.|[2401.05860](http://arxiv.org/abs/2401.05860)|null|
 |**2024-01-11**|**Secure Dynamic Event-triggered Consensus Under Asynchronous Denial of Service**|Ali Azarbahram et.al.|[2401.05857](http://arxiv.org/abs/2401.05857)|null|

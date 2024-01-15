@@ -42,7 +42,7 @@ layout: default
 |**2024-01-05**|**XUAT-Copilot: Multi-Agent Collaborative System for Automated User Acceptance Testing with Large Language Model**|Zhitao Wang et.al.|[2401.02705](http://arxiv.org/abs/2401.02705)|null|
 |**2024-01-04**|**On the Prospects of Incorporating Large Language Models (LLMs) in Automated Planning and Scheduling (APS)**|Vishal Pallagani et.al.|[2401.02500](http://arxiv.org/abs/2401.02500)|null|
 |**2024-01-04**|**Multi-agent Modeling and Optimal Pumping Control of Magnetic Artificial Cilia**|Shuangshuang Yu et.al.|[2401.02455](http://arxiv.org/abs/2401.02455)|null|
-|**2024-01-04**|**Multi-Agent Context Learning Strategy for Interference-Aware Beam Allocation in mmWave Vehicular Communications**|Abdulkadir Kose et.al.|[2401.02323](http://arxiv.org/abs/2401.02323)|null|
+|**2024-01-04**|**Multi-Agent Context Learning Strategy for Interference-Aware Beam Allocation in mmWave Vehicular Communications**|Abdulkadir Kose et.al.|[2401.02323](http://arxiv.org/abs/2401.02323)|**[link](https://github.com/cfoh/beam-analysis)**|
 |**2024-01-04**|**A Decentralized Multiagent-Based Task Scheduling Framework for Handling Uncertain Events in Fog Computing**|Yikun Yang et.al.|[2401.02219](http://arxiv.org/abs/2401.02219)|null|
 |**2024-01-03**|**Optimizing UAV-UGV Coalition Operations: A Hybrid Clustering and Multi-Agent Reinforcement Learning Approach for Path Planning in Obstructed Environment**|Shamyo Brotee et.al.|[2401.01481](http://arxiv.org/abs/2401.01481)|null|
 |**2024-01-02**|**LLM Harmony: Multi-Agent Communication for Problem Solving**|Sumedh Rasal et.al.|[2401.01312](http://arxiv.org/abs/2401.01312)|**[link](https://github.com/sumedhrasal/simulation)**|

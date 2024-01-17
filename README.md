@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.16
+## Updated on 2024.01.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 |**2024-01-11**|**Distributed Optimal Output Consensus Control of Heterogeneous Multi-Agent Systems with Safety Constraints**|Ji Ma et.al.|[2401.06245](http://arxiv.org/abs/2401.06245)|null|
 |**2024-01-11**|**Multi-Agent Based Simulation for Investigating Electric Vehicle Adoption and Its Impacts on Electricity Distribution Grids and CO2 Emissions**|Kristoffer Christensen et.al.|[2401.06192](http://arxiv.org/abs/2401.06192)|null|
 |**2024-01-11**|**Combating Adversarial Attacks with Multi-Agent Debate**|Steffi Chern et.al.|[2401.05998](http://arxiv.org/abs/2401.05998)|**[link](https://github.com/andyjliu/llms-course-project)**|
-|**2024-01-11**|**Confidence-Based Curriculum Learning for Multi-Agent Path Finding**|Thomy Phan et.al.|[2401.05860](http://arxiv.org/abs/2401.05860)|null|
+|**2024-01-11**|**Confidence-Based Curriculum Learning for Multi-Agent Path Finding**|Thomy Phan et.al.|[2401.05860](http://arxiv.org/abs/2401.05860)|**[link](https://github.com/thomyphan/rl4mapf)**|
 |**2024-01-11**|**Secure Dynamic Event-triggered Consensus Under Asynchronous Denial of Service**|Ali Azarbahram et.al.|[2401.05857](http://arxiv.org/abs/2401.05857)|null|
 |**2024-01-11**|**Tracking Consensus of Networked Random Nonlinear Multi-agent Systems with Intermittent Communications**|Ali Azarbahram et.al.|[2401.05808](http://arxiv.org/abs/2401.05808)|null|
 |**2024-01-11**|**Augmented Reality User Interface for Command, Control, and Supervision of Large Multi-Agent Teams**|Frank Regal et.al.|[2401.05665](http://arxiv.org/abs/2401.05665)|null|
@@ -64,7 +64,7 @@
 |**2023-12-30**|**Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning**|Xin Yu et.al.|[2401.00167](http://arxiv.org/abs/2401.00167)|null|
 |**2023-12-30**|**Contrastive learning-based agent modeling for deep reinforcement learning**|Wenhao Ma et.al.|[2401.00132](http://arxiv.org/abs/2401.00132)|null|
 
-<p align=right>(<a href=#updated-on-20240116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240117>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

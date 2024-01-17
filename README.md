@@ -17,6 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-16**|**CycLight: learning traffic signal cooperation with a cycle-level strategy**|Gengyue Han et.al.|[2401.08121](http://arxiv.org/abs/2401.08121)|null|
+|**2024-01-15**|**SSL-Interactions: Pretext Tasks for Interactive Trajectory Prediction**|Prarthana Bhattacharyya et.al.|[2401.07729](http://arxiv.org/abs/2401.07729)|null|
+|**2024-01-15**|**Fully Decentralized Design of Initialization-free Distributed Network Size Estimation**|Donggil Lee et.al.|[2401.07472](http://arxiv.org/abs/2401.07472)|null|
+|**2024-01-14**|**BET: Explaining Deep Reinforcement Learning through The Error-Prone Decisions**|Xiao Liu et.al.|[2401.07263](http://arxiv.org/abs/2401.07263)|null|
+|**2024-01-13**|**One Agent Too Many: User Perspectives on Approaches to Multi-agent Conversational AI**|Christopher Clarke et.al.|[2401.07123](http://arxiv.org/abs/2401.07123)|null|
+|**2024-01-13**|**Generative AI-enabled Quantum Computing Networks and Intelligent Resource Allocation**|Minrui Xu et.al.|[2401.07120](http://arxiv.org/abs/2401.07120)|null|
+|**2024-01-13**|**Aquarium: A Comprehensive Framework for Exploring Predator-Prey Dynamics through Multi-Agent Reinforcement Learning Algorithms**|Michael Kölle et.al.|[2401.07056](http://arxiv.org/abs/2401.07056)|**[link](https://github.com/michaelkoelle/marl-aquarium)**|
 |**2024-01-12**|**Mutual Enhancement of Large Language and Reinforcement Learning Models through Bi-Directional Feedback Mechanisms: A Case Study**|Shangding Gu et.al.|[2401.06603](http://arxiv.org/abs/2401.06603)|null|
 |**2024-01-12**|**UNEX-RL: Reinforcing Long-Term Rewards in Multi-Stage Recommender Systems with UNidirectional EXecution**|Gengrui Zhang et.al.|[2401.06470](http://arxiv.org/abs/2401.06470)|null|
 |**2024-01-12**|**A Logic for Repair and State Recovery in Byzantine Fault-tolerant Multi-agent Systems**|Hans van Ditmarsch et.al.|[2401.06451](http://arxiv.org/abs/2401.06451)|null|

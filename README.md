@@ -17,6 +17,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-17**|**A Multi-Agent Security Testbed for the Analysis of Attacks and Defenses in Collaborative Sensor Fusion**|R. Spencer Hallyburton et.al.|[2401.09387](http://arxiv.org/abs/2401.09387)|null|
+|**2024-01-17**|**Self-navigation in crowds: An invariant set-based approach**|Veejay Karthik J et.al.|[2401.09375](http://arxiv.org/abs/2401.09375)|null|
+|**2024-01-16**|**REValueD: Regularised Ensemble Value-Decomposition for Factorisable Markov Decision Processes**|David Ireland et.al.|[2401.08850](http://arxiv.org/abs/2401.08850)|null|
+|**2024-01-16**|**Iterative Planning for Multi-agent Systems: An Application in Energy-Aware UAV-UGV Cooperative Task Site Assignments**|Neelanga Thelasingha et.al.|[2401.08846](http://arxiv.org/abs/2401.08846)|null|
+|**2024-01-16**|**AgentMixer: Multi-Agent Correlated Policy Factorization**|Zhiyuan Li et.al.|[2401.08728](http://arxiv.org/abs/2401.08728)|null|
+|**2024-01-16**|**Battery-Swapping Multi-Agent System for Sustained Operation of Large Planetary Fleets**|Ethan Holand et.al.|[2401.08497](http://arxiv.org/abs/2401.08497)|null|
 |**2024-01-16**|**CycLight: learning traffic signal cooperation with a cycle-level strategy**|Gengyue Han et.al.|[2401.08121](http://arxiv.org/abs/2401.08121)|null|
 |**2024-01-15**|**SSL-Interactions: Pretext Tasks for Interactive Trajectory Prediction**|Prarthana Bhattacharyya et.al.|[2401.07729](http://arxiv.org/abs/2401.07729)|null|
 |**2024-01-15**|**Fully Decentralized Design of Initialization-free Distributed Network Size Estimation**|Donggil Lee et.al.|[2401.07472](http://arxiv.org/abs/2401.07472)|null|

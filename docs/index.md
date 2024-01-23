@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-22**|**Natural Strategic Ability in Stochastic Multi-Agent Systems**|Raphaël Berthon et.al.|[2401.12170](http://arxiv.org/abs/2401.12170)|null|
+|**2024-01-22**|**PsySafe: A Comprehensive Framework for Psychological-based Attack, Defense, and Evaluation of Multi-agent System Safety**|Zaibin Zhang et.al.|[2401.11880](http://arxiv.org/abs/2401.11880)|**[link](https://github.com/ai4good24/psysafe)**|
+|**2024-01-21**|**Multi-Agent Generative Adversarial Interactive Self-Imitation Learning for AUV Formation Control and Obstacle Avoidance**|Zheng Fang et.al.|[2401.11378](http://arxiv.org/abs/2401.11378)|null|
+|**2024-01-20**|**Measuring Policy Distance for Multi-Agent Reinforcement Learning**|Tianyi Hu et.al.|[2401.11257](http://arxiv.org/abs/2401.11257)|**[link](https://github.com/harry67hu/madps)**|
+|**2024-01-19**|**T2MAC: Targeted and Trusted Multi-Agent Communication through Selective Engagement and Evidence-Driven Integration**|Chuxiong Sun et.al.|[2401.10973](http://arxiv.org/abs/2401.10973)|null|
+|**2024-01-18**|**The Synergy Between Optimal Transport Theory and Multi-Agent Reinforcement Learning**|Ali Baheri et.al.|[2401.10949](http://arxiv.org/abs/2401.10949)|null|
 |**2024-01-18**|**Cooperative Multi-Agent Graph Bandits: UCB Algorithm and Regret Analysis**|Phevos Paschalidis et.al.|[2401.10383](http://arxiv.org/abs/2401.10383)|null|
 |**2024-01-18**|**Model-Assisted Learning for Adaptive Cooperative Perception of Connected Autonomous Vehicles**|Kaige Qu et.al.|[2401.10156](http://arxiv.org/abs/2401.10156)|null|
 |**2024-01-18**|**Multi-Agent Reinforcement Learning for Maritime Operational Technology Cyber Security**|Alec Wilson et.al.|[2401.10149](http://arxiv.org/abs/2401.10149)|null|

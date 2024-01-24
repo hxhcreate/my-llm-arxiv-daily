@@ -17,6 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-23**|**Emergent Communication Protocol Learning for Task Offloading in Industrial Internet of Things**|Salwa Mostafa et.al.|[2401.12914](http://arxiv.org/abs/2401.12914)|null|
+|**2024-01-23**|**Localized Data-driven Consensus Control**|Zeze Chang et.al.|[2401.12707](http://arxiv.org/abs/2401.12707)|null|
+|**2024-01-23**|**Pragmatic Communication in Multi-Agent Collaborative Perception**|Yue Hu et.al.|[2401.12694](http://arxiv.org/abs/2401.12694)|null|
+|**2024-01-23**|**Learning Mean Field Games on Sparse Graphs: A Hybrid Graphex Approach**|Christian Fabian et.al.|[2401.12686](http://arxiv.org/abs/2401.12686)|null|
+|**2024-01-23**|**Knowledge Distillation from Language-Oriented to Emergent Communication for Multi-Agent Remote Control**|Yongjun Kim et.al.|[2401.12624](http://arxiv.org/abs/2401.12624)|null|
+|**2024-01-23**|**Backpropagation Through Agents**|Zhiyuan Li et.al.|[2401.12574](http://arxiv.org/abs/2401.12574)|null|
+|**2024-01-23**|**Multi-agent deep reinforcement learning with centralized training and decentralized execution for transportation infrastructure management**|M. Saifullah et.al.|[2401.12455](http://arxiv.org/abs/2401.12455)|null|
+|**2024-01-22**|**Multi-Agent Dynamic Relational Reasoning for Social Robot Navigation**|Jiachen Li et.al.|[2401.12275](http://arxiv.org/abs/2401.12275)|null|
 |**2024-01-22**|**Natural Strategic Ability in Stochastic Multi-Agent Systems**|Raphaël Berthon et.al.|[2401.12170](http://arxiv.org/abs/2401.12170)|null|
 |**2024-01-22**|**PsySafe: A Comprehensive Framework for Psychological-based Attack, Defense, and Evaluation of Multi-agent System Safety**|Zaibin Zhang et.al.|[2401.11880](http://arxiv.org/abs/2401.11880)|**[link](https://github.com/ai4good24/psysafe)**|
 |**2024-01-21**|**Multi-Agent Generative Adversarial Interactive Self-Imitation Learning for AUV Formation Control and Obstacle Avoidance**|Zheng Fang et.al.|[2401.11378](http://arxiv.org/abs/2401.11378)|null|

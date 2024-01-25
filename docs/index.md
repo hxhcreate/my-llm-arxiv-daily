@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-24**|**Event-triggered adaptive consensus of heterogeneous multi-agent system under communication and actuator faults**|Leyi Zheng et.al.|[2401.13492](http://arxiv.org/abs/2401.13492)|null|
+|**2024-01-24**|**Multi-Agent Diagnostics for Robustness via Illuminated Diversity**|Mikayel Samvelyan et.al.|[2401.13460](http://arxiv.org/abs/2401.13460)|null|
+|**2024-01-24**|**Dynamic Epistemic Logic of Resource Bounded Information Mining Agents**|Vitaliy Dolgorukov et.al.|[2401.13369](http://arxiv.org/abs/2401.13369)|null|
+|**2024-01-24**|**Past, Present, Future: A Comprehensive Exploration of AI Use Cases in the UMBRELLA IoT Testbed**|Peizheng Li et.al.|[2401.13346](http://arxiv.org/abs/2401.13346)|null|
+|**2024-01-23**|**Generalization of Heterogeneous Multi-Robot Policies via Awareness and Communication of Capabilities**|Pierce Howell et.al.|[2401.13127](http://arxiv.org/abs/2401.13127)|null|
+|**2024-01-23**|**Viewport Prediction, Bitrate Selection, and Beamforming Design for THz-Enabled 360-Degree Video Streaming**|Mehdi Setayesh et.al.|[2401.13114](http://arxiv.org/abs/2401.13114)|null|
 |**2024-01-23**|**Emergent Communication Protocol Learning for Task Offloading in Industrial Internet of Things**|Salwa Mostafa et.al.|[2401.12914](http://arxiv.org/abs/2401.12914)|null|
 |**2024-01-23**|**Localized Data-driven Consensus Control**|Zeze Chang et.al.|[2401.12707](http://arxiv.org/abs/2401.12707)|null|
 |**2024-01-23**|**Pragmatic Communication in Multi-Agent Collaborative Perception**|Yue Hu et.al.|[2401.12694](http://arxiv.org/abs/2401.12694)|null|

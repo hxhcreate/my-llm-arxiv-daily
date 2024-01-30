@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.29
+## Updated on 2024.01.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 |**2024-01-26**|**Enhancing Diagnostic Accuracy through Multi-Agent Conversations: Using Large Language Models to Mitigate Cognitive Bias**|Yu He Ke et.al.|[2401.14589](http://arxiv.org/abs/2401.14589)|null|
 |**2024-01-25**|**GCBF+: A Neural Graph Control Barrier Function Framework for Distributed Safe Multi-Agent Control**|Songyuan Zhang et.al.|[2401.14554](http://arxiv.org/abs/2401.14554)|null|
 |**2024-01-25**|**STEMFold: Stochastic Temporal Manifold for Multi-Agent Interactions in the Presence of Hidden Agents**|Hemant Kumawat et.al.|[2401.14522](http://arxiv.org/abs/2401.14522)|null|
-|**2024-01-25**|**Networked Multiagent Reinforcement Learning for Peer-to-Peer Energy Trading**|Chen Feng et.al.|[2401.13947](http://arxiv.org/abs/2401.13947)|null|
+|**2024-01-27**|**Networked Multiagent Reinforcement Learning for Peer-to-Peer Energy Trading**|Chen Feng et.al.|[2401.13947](http://arxiv.org/abs/2401.13947)|null|
 |**2024-01-24**|**Event-triggered adaptive consensus of heterogeneous multi-agent system under communication and actuator faults**|Leyi Zheng et.al.|[2401.13492](http://arxiv.org/abs/2401.13492)|null|
 |**2024-01-24**|**Multi-Agent Diagnostics for Robustness via Illuminated Diversity**|Mikayel Samvelyan et.al.|[2401.13460](http://arxiv.org/abs/2401.13460)|null|
 |**2024-01-24**|**Dynamic Epistemic Logic of Resource Bounded Information Mining Agents**|Vitaliy Dolgorukov et.al.|[2401.13369](http://arxiv.org/abs/2401.13369)|null|
@@ -110,7 +110,7 @@
 |**2023-12-30**|**Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning**|Xin Yu et.al.|[2401.00167](http://arxiv.org/abs/2401.00167)|null|
 |**2023-12-30**|**Contrastive learning-based agent modeling for deep reinforcement learning**|Wenhao Ma et.al.|[2401.00132](http://arxiv.org/abs/2401.00132)|null|
 
-<p align=right>(<a href=#updated-on-20240129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240130>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-29**|**A mechanism for discovering semantic relationships among agent communication protocols**|Idoia Berges et.al.|[2401.16216](http://arxiv.org/abs/2401.16216)|null|
+|**2024-01-29**|**FIMP: Future Interaction Modeling for Multi-Agent Motion Prediction**|Sungmin Woo et.al.|[2401.16189](http://arxiv.org/abs/2401.16189)|null|
+|**2024-01-28**|**ARGOS: An Automaton Referencing Guided Overtake System for Head-to-Head Autonomous Racing**|Varundev Sukhil et.al.|[2401.15783](http://arxiv.org/abs/2401.15783)|null|
+|**2024-01-28**|**Survey of Distributed Algorithms for Resource Allocation over Multi-Agent Systems**|Mohammadreza Doostmohammadian et.al.|[2401.15607](http://arxiv.org/abs/2401.15607)|null|
+|**2024-01-28**|**Accelerated Distributed Allocation**|Mohammadreza Doostmohammadian et.al.|[2401.15598](http://arxiv.org/abs/2401.15598)|null|
+|**2024-01-27**|**Distributed Resilient Interval Observer Synthesis for Nonlinear Discrete-Time Systems**|Mohammad Khajenejad et.al.|[2401.15511](http://arxiv.org/abs/2401.15511)|null|
 |**2024-01-26**|**Fully Independent Communication in Multi-Agent Reinforcement Learning**|Rafael Pina et.al.|[2401.15059](http://arxiv.org/abs/2401.15059)|null|
 |**2024-01-26**|**Multi-Agent Coordination for a Partially Observable and Dynamic Robot Soccer Environment with Limited Communication**|Daniele Affinita et.al.|[2401.15026](http://arxiv.org/abs/2401.15026)|null|
 |**2024-01-26**|**Energy Flexibility Potential in the Brewery Sector: A Multi-agent Based Simulation of 239 Danish Breweries**|Daniel Anthony Howard et.al.|[2401.14903](http://arxiv.org/abs/2401.14903)|null|

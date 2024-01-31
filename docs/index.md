@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**Scalable Mechanism Design for Multi-Agent Path Finding**|Paul Friedrich et.al.|[2401.17044](http://arxiv.org/abs/2401.17044)|null|
+|**2024-01-29**|**Collaborative Manipulation of Deformable Objects with Predictive Obstacle Avoidance**|Burak Aksoy et.al.|[2401.16560](http://arxiv.org/abs/2401.16560)|null|
 |**2024-01-29**|**A mechanism for discovering semantic relationships among agent communication protocols**|Idoia Berges et.al.|[2401.16216](http://arxiv.org/abs/2401.16216)|null|
 |**2024-01-29**|**FIMP: Future Interaction Modeling for Multi-Agent Motion Prediction**|Sungmin Woo et.al.|[2401.16189](http://arxiv.org/abs/2401.16189)|null|
 |**2024-01-28**|**ARGOS: An Automaton Referencing Guided Overtake System for Head-to-Head Autonomous Racing**|Varundev Sukhil et.al.|[2401.15783](http://arxiv.org/abs/2401.15783)|null|

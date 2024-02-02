@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**Learning and Calibrating Heterogeneous Bounded Rational Market Behaviour with Multi-Agent Reinforcement Learning**|Benjamin Patrick Evans et.al.|[2402.00787](http://arxiv.org/abs/2402.00787)|null|
+|**2024-02-01**|**FM3Q: Factorized Multi-Agent MiniMax Q-Learning for Two-Team Zero-Sum Markov Game**|Guangzheng Hu et.al.|[2402.00738](http://arxiv.org/abs/2402.00738)|null|
+|**2024-02-01**|**Developing A Multi-Agent and Self-Adaptive Framework with Deep Reinforcement Learning for Dynamic Portfolio Risk Management**|Zhenglong Li et.al.|[2402.00515](http://arxiv.org/abs/2402.00515)|null|
+|**2024-02-01**|**Multi-agent Path Finding for Cooperative Autonomous Driving**|Zhongxia Yan et.al.|[2402.00334](http://arxiv.org/abs/2402.00334)|null|
+|**2024-02-01**|**High-Level, Collaborative Task Planning Grammar and Execution for Heterogeneous Agents**|Amy Fang et.al.|[2402.00296](http://arxiv.org/abs/2402.00296)|null|
+|**2024-01-31**|**Nash Soft Actor-Critic LEO Satellite Handover Management Algorithm for Flying Vehicles**|Jinxuan Chen et.al.|[2402.00091](http://arxiv.org/abs/2402.00091)|null|
 |**2024-01-31**|**CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting**|Jiezhi Yang et.al.|[2401.18075](http://arxiv.org/abs/2401.18075)|null|
 |**2024-01-31**|**Attention Graph for Multi-Robot Social Navigation with Deep Reinforcement Learning**|Erwan Escudie et.al.|[2401.17914](http://arxiv.org/abs/2401.17914)|null|
 |**2024-01-31**|**Graph Attention-based Reinforcement Learning for Trajectory Design and Resource Assignment in Multi-UAV Assisted Communication**|Zikai Feng et.al.|[2401.17880](http://arxiv.org/abs/2401.17880)|null|

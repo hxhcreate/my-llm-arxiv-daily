@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-05**|**Multi-agent Reinforcement Learning for Energy Saving in Multi-Cell Massive MIMO Systems**|Tianzhang Cai et.al.|[2402.03204](http://arxiv.org/abs/2402.03204)|null|
+|**2024-02-05**|**Decentralized Event-Triggered Online Learning for Safe Consensus of Multi-Agent Systems with Gaussian Process Regression**|Xiaobing Dai et.al.|[2402.03174](http://arxiv.org/abs/2402.03174)|null|
+|**2024-02-05**|**Trustworthiness of Optimality Condition Violation in Inverse Optimal Control Methods Based on the Minimum Principle**|Philipp Karg et.al.|[2402.03157](http://arxiv.org/abs/2402.03157)|null|
+|**2024-02-05**|**Proof Theory and Decision Procedures for Deontic STIT Logics**|Tim S. Lyon et.al.|[2402.03148](http://arxiv.org/abs/2402.03148)|null|
+|**2024-02-05**|**Cooperative Learning with Gaussian Processes for Euler-Lagrange Systems Tracking Control under Switching Topologies**|Zewen Yang et.al.|[2402.03048](http://arxiv.org/abs/2402.03048)|null|
+|**2024-02-05**|**Whom to Trust? Elective Learning for Distributed Gaussian Process Regression**|Zewen Yang et.al.|[2402.03014](http://arxiv.org/abs/2402.03014)|null|
+|**2024-02-05**|**DualBi: A dual bisection algorithm for non-convex problems with a scalar complicating constraint**|Lucrezia Manieri et.al.|[2402.03013](http://arxiv.org/abs/2402.03013)|null|
+|**2024-02-05**|**Multi-Agent Reinforcement Learning for Offloading Cellular Communications with Cooperating UAVs**|Abhishek Mondal et.al.|[2402.02957](http://arxiv.org/abs/2402.02957)|null|
+|**2024-02-04**|**SIMPL: A Simple and Efficient Multi-agent Motion Prediction Baseline for Autonomous Driving**|Lu Zhang et.al.|[2402.02519](http://arxiv.org/abs/2402.02519)|**[link](https://github.com/hkust-aerial-robotics/simpl)**|
+|**2024-02-04**|**Fast Peer Adaptation with Context-aware Exploration**|Long Ma et.al.|[2402.02468](http://arxiv.org/abs/2402.02468)|null|
 |**2024-02-02**|**MAGDi: Structured Distillation of Multi-Agent Interaction Graphs Improves Reasoning in Smaller Language Models**|Justin Chih-Yao Chen et.al.|[2402.01620](http://arxiv.org/abs/2402.01620)|**[link](https://github.com/dinobby/magdi)**|
 |**2024-02-02**|**Guidance Graph Optimization for Lifelong Multi-Agent Path Finding**|Yulun Zhang et.al.|[2402.01446](http://arxiv.org/abs/2402.01446)|null|
 |**2024-02-02**|**CodePori: Large Scale Model for Autonomous Software Development by Using Multi-Agents**|Zeeshan Rasheed et.al.|[2402.01411](http://arxiv.org/abs/2402.01411)|null|

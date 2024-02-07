@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-06**|**Joint Intrinsic Motivation for Coordinated Exploration in Multi-Agent Deep Reinforcement Learning**|Maxime Toquebiau et.al.|[2402.03972](http://arxiv.org/abs/2402.03972)|**[link](https://github.com/mtoquebiau/joint-intrinsic-motivation)**|
+|**2024-02-06**|**Interpersonal trust: Asymptotic analysis of a stochastic coordination game with multi-agent learning**|Benedikt V. Meylahn et.al.|[2402.03894](http://arxiv.org/abs/2402.03894)|null|
+|**2024-02-06**|**The Emergence of Cooperation in the well-mixed Prisoner's Dilemma: Memory Couples Individual and Group Strategies**|Changyan Di et.al.|[2402.03890](http://arxiv.org/abs/2402.03890)|null|
+|**2024-02-06**|**Beyond Lines and Circles: Unveiling the Geometric Reasoning Gap in Large Language Models**|Spyridon Mouselinos et.al.|[2402.03877](http://arxiv.org/abs/2402.03877)|null|
+|**2024-02-06**|**SUB-PLAY: Adversarial Policies against Partially Observed Multi-Agent Reinforcement Learning Systems**|Oubo Ma et.al.|[2402.03741](http://arxiv.org/abs/2402.03741)|null|
+|**2024-02-06**|**Hierarchical Large Language Models in Cloud Edge End Architecture for Heterogeneous Robot Cluster Control**|Zhirong Luan et.al.|[2402.03703](http://arxiv.org/abs/2402.03703)|null|
+|**2024-02-05**|**Assessing the Impact of Distribution Shift on Reinforcement Learning Performance**|Ted Fujimoto et.al.|[2402.03590](http://arxiv.org/abs/2402.03590)|null|
+|**2024-02-05**|**A Reinforcement Learning Approach for Dynamic Rebalancing in Bike-Sharing System**|Jiaqi Liang et.al.|[2402.03589](http://arxiv.org/abs/2402.03589)|null|
+|**2024-02-05**|**LLM Multi-Agent Systems: Challenges and Open Problems**|Shanshan Han et.al.|[2402.03578](http://arxiv.org/abs/2402.03578)|null|
+|**2024-02-05**|**Toward Human-AI Alignment in Large-Scale Multi-Player Games**|Sugandha Sharma et.al.|[2402.03575](http://arxiv.org/abs/2402.03575)|null|
 |**2024-02-05**|**Multi-agent Reinforcement Learning for Energy Saving in Multi-Cell Massive MIMO Systems**|Tianzhang Cai et.al.|[2402.03204](http://arxiv.org/abs/2402.03204)|null|
 |**2024-02-05**|**Decentralized Event-Triggered Online Learning for Safe Consensus of Multi-Agent Systems with Gaussian Process Regression**|Xiaobing Dai et.al.|[2402.03174](http://arxiv.org/abs/2402.03174)|null|
 |**2024-02-05**|**Trustworthiness of Optimality Condition Violation in Inverse Optimal Control Methods Based on the Minimum Principle**|Philipp Karg et.al.|[2402.03157](http://arxiv.org/abs/2402.03157)|null|

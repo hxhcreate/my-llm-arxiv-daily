@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.10
+## Updated on 2024.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2024-02-08**|**Multi-Sender Persuasion -- A Computational Perspective**|Safwan Hossain et.al.|[2402.04971](http://arxiv.org/abs/2402.04971)|null|
 |**2024-02-07**|**Multimodal Query Suggestion with Multi-Agent Reinforcement Learning from Human Feedback**|Zheng Wang et.al.|[2402.04867](http://arxiv.org/abs/2402.04867)|null|
 |**2024-02-07**|**Learning Communication Policies for Different Follower Behaviors in a Collaborative Reference Game**|Philipp Sadler et.al.|[2402.04824](http://arxiv.org/abs/2402.04824)|null|
-|**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|null|
+|**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-06**|**Decentralized Blockchain-based Robust Multi-agent Multi-armed Bandit**|Mengfan Xu et.al.|[2402.04417](http://arxiv.org/abs/2402.04417)|null|
 |**2024-02-06**|**Breaking Data Silos: Cross-Domain Learning for Multi-Agent Perception from Independent Private Sources**|Jinlong Li et.al.|[2402.04273](http://arxiv.org/abs/2402.04273)|null|
 |**2024-02-06**|**Joint Intrinsic Motivation for Coordinated Exploration in Multi-Agent Deep Reinforcement Learning**|Maxime Toquebiau et.al.|[2402.03972](http://arxiv.org/abs/2402.03972)|**[link](https://github.com/mtoquebiau/joint-intrinsic-motivation)**|
@@ -171,7 +171,7 @@
 |**2023-12-30**|**Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning**|Xin Yu et.al.|[2401.00167](http://arxiv.org/abs/2401.00167)|null|
 |**2023-12-30**|**Contrastive learning-based agent modeling for deep reinforcement learning**|Wenhao Ma et.al.|[2401.00132](http://arxiv.org/abs/2401.00132)|null|
 
-<p align=right>(<a href=#updated-on-20240210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240211>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

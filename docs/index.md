@@ -49,7 +49,7 @@ layout: default
 |**2024-02-02**|**Guidance Graph Optimization for Lifelong Multi-Agent Path Finding**|Yulun Zhang et.al.|[2402.01446](http://arxiv.org/abs/2402.01446)|null|
 |**2024-02-02**|**CodePori: Large Scale Model for Autonomous Software Development by Using Multi-Agents**|Zeeshan Rasheed et.al.|[2402.01411](http://arxiv.org/abs/2402.01411)|null|
 |**2024-02-02**|**Can Large Language Models Serve as Data Analysts? A Multi-Agent Assisted Approach for Qualitative Data Analysis**|Zeeshan Rasheed et.al.|[2402.01386](http://arxiv.org/abs/2402.01386)|null|
-|**2024-02-02**|**Neural Trajectory Model: Implicit Neural Trajectory Representation for Trajectories Generation**|Zihan Yu et.al.|[2402.01254](http://arxiv.org/abs/2402.01254)|null|
+|**2024-02-02**|**Neural Trajectory Model: Implicit Neural Trajectory Representation for Trajectories Generation**|Zihan Yu et.al.|[2402.01254](http://arxiv.org/abs/2402.01254)|**[link](https://github.com/laser2099/neural-trajectory-model)**|
 |**2024-02-02**|**A Multi-Agent Conversational Recommender System**|Jiabao Fang et.al.|[2402.01135](http://arxiv.org/abs/2402.01135)|null|
 |**2024-02-02**|**Near-Optimal Reinforcement Learning with Self-Play under Adaptivity Constraints**|Dan Qiao et.al.|[2402.01111](http://arxiv.org/abs/2402.01111)|null|
 |**2024-02-02**|**Reasoning Capacity in Multi-Agent Systems: Limitations, Challenges and Human-Centered Solutions**|Pouya Pezeshkpour et.al.|[2402.01108](http://arxiv.org/abs/2402.01108)|null|
@@ -57,7 +57,7 @@ layout: default
 |**2024-02-01**|**Closure Discovery for Coarse-Grained Partial Differential Equations using Multi-Agent Reinforcement Learning**|Jan-Philipp von Bassewitz et.al.|[2402.00972](http://arxiv.org/abs/2402.00972)|null|
 |**2024-02-01**|**Learning and Calibrating Heterogeneous Bounded Rational Market Behaviour with Multi-Agent Reinforcement Learning**|Benjamin Patrick Evans et.al.|[2402.00787](http://arxiv.org/abs/2402.00787)|null|
 |**2024-02-01**|**FM3Q: Factorized Multi-Agent MiniMax Q-Learning for Two-Team Zero-Sum Markov Game**|Guangzheng Hu et.al.|[2402.00738](http://arxiv.org/abs/2402.00738)|null|
-|**2024-02-01**|**Developing A Multi-Agent and Self-Adaptive Framework with Deep Reinforcement Learning for Dynamic Portfolio Risk Management**|Zhenglong Li et.al.|[2402.00515](http://arxiv.org/abs/2402.00515)|null|
+|**2024-02-01**|**Developing A Multi-Agent and Self-Adaptive Framework with Deep Reinforcement Learning for Dynamic Portfolio Risk Management**|Zhenglong Li et.al.|[2402.00515](http://arxiv.org/abs/2402.00515)|**[link](https://github.com/steamerlee/masa)**|
 |**2024-02-01**|**Multi-agent Path Finding for Cooperative Autonomous Driving**|Zhongxia Yan et.al.|[2402.00334](http://arxiv.org/abs/2402.00334)|null|
 |**2024-02-01**|**High-Level, Collaborative Task Planning Grammar and Execution for Heterogeneous Agents**|Amy Fang et.al.|[2402.00296](http://arxiv.org/abs/2402.00296)|null|
 |**2024-01-31**|**Nash Soft Actor-Critic LEO Satellite Handover Management Algorithm for Flying Vehicles**|Jinxuan Chen et.al.|[2402.00091](http://arxiv.org/abs/2402.00091)|null|
@@ -148,7 +148,7 @@ layout: default
 |**2024-01-08**|**Why Solving Multi-agent Path Finding with Large Language Model has not Succeeded Yet**|Weizhe Chen et.al.|[2401.03630](http://arxiv.org/abs/2401.03630)|null|
 |**2024-01-07**|**NovelGym: A Flexible Ecosystem for Hybrid Planning and Learning Agents Designed for Open Worlds**|Shivam Goel et.al.|[2401.03546](http://arxiv.org/abs/2401.03546)|null|
 |**2024-01-07**|**ClusterComm: Discrete Communication in Decentralized MARL using Internal Representation Clustering**|Robert Müller et.al.|[2401.03504](http://arxiv.org/abs/2401.03504)|null|
-|**2024-01-07**|**Exploring Large Language Model based Intelligent Agents: Definitions, Methods, and Prospects**|Yuheng Cheng et.al.|[2401.03428](http://arxiv.org/abs/2401.03428)|null|
+|**2024-01-07**|**Exploring Large Language Model based Intelligent Agents: Definitions, Methods, and Prospects**|Yuheng Cheng et.al.|[2401.03428](http://arxiv.org/abs/2401.03428)|**[link](https://github.com/melih-unsal/demogpt)**|
 |**2024-01-07**|**Improving Dribbling, Passing, and Marking Actions in Soccer Simulation 2D Games Using Machine Learning**|Nader Zare et.al.|[2401.03406](http://arxiv.org/abs/2401.03406)|**[link](https://github.com/naderzare/cyrus2014)**|
 |**2024-01-06**|**Distributed Identification of Stable Large-Scale Isomorphic Nonlinear Networks Using Partial Observations**|Chunhui Li et.al.|[2401.03216](http://arxiv.org/abs/2401.03216)|null|
 |**2024-01-05**|**Une ontologie pour les syst{è}mes multi-agents ambiants dans les villes intelligentes**|Nathan Aky et.al.|[2401.02726](http://arxiv.org/abs/2401.02726)|null|

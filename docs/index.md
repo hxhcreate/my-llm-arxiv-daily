@@ -14,11 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-09**|**Evaluating the impact of items and cooperation in inventory models with exemptable ordering costs**|M. Gloria Fiestras-Janeiro et.al.|[2402.06545](http://arxiv.org/abs/2402.06545)|null|
+|**2024-02-09**|**Distributed Safe Navigation of Multi-Agent Systems using Control Barrier Function-Based Optimal Controllers**|Pol Mestres et.al.|[2402.06195](http://arxiv.org/abs/2402.06195)|null|
 |**2024-02-08**|**Risk-Sensitive Multi-Agent Reinforcement Learning in Network Aggregative Markov Games**|Hafez Ghaemi et.al.|[2402.05906](http://arxiv.org/abs/2402.05906)|**[link](https://github.com/hafezgh/risk-sensitive-marl-namg)**|
 |**2024-02-08**|**When is Mean-Field Reinforcement Learning Tractable and Relevant?**|Batuhan Yardim et.al.|[2402.05757](http://arxiv.org/abs/2402.05757)|null|
 |**2024-02-08**|**Adaptive Methods for Variational Inequalities under Relaxed Smoothness Assumption**|Daniil Vankov et.al.|[2402.05691](http://arxiv.org/abs/2402.05691)|null|
 |**2024-02-08**|**Linking Vision and Multi-Agent Communication through Visible Light Communication using Event Cameras**|Haruyuki Nakagawa et.al.|[2402.05619](http://arxiv.org/abs/2402.05619)|null|
-|**2024-02-07**|**Towards Generalizability of Multi-Agent Reinforcement Learning in Graphs with Recurrent Message Passing**|Jannis Weil et.al.|[2402.05027](http://arxiv.org/abs/2402.05027)|**[link](https://github.com/jw3il/graph-marl)**|
+|**2024-02-09**|**Towards Generalizability of Multi-Agent Reinforcement Learning in Graphs with Recurrent Message Passing**|Jannis Weil et.al.|[2402.05027](http://arxiv.org/abs/2402.05027)|**[link](https://github.com/jw3il/graph-marl)**|
 |**2024-02-08**|**Multi-Sender Persuasion -- A Computational Perspective**|Safwan Hossain et.al.|[2402.04971](http://arxiv.org/abs/2402.04971)|null|
 |**2024-02-09**|**Multimodal Query Suggestion with Multi-Agent Reinforcement Learning from Human Feedback**|Zheng Wang et.al.|[2402.04867](http://arxiv.org/abs/2402.04867)|null|
 |**2024-02-07**|**Learning Communication Policies for Different Follower Behaviors in a Collaborative Reference Game**|Philipp Sadler et.al.|[2402.04824](http://arxiv.org/abs/2402.04824)|null|

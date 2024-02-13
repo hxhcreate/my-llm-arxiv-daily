@@ -17,6 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-12**|**MAIDCRL: Semi-centralized Multi-Agent Influence Dense-CNN Reinforcement Learning**|Ayesha Siddika Nipu et.al.|[2402.07890](http://arxiv.org/abs/2402.07890)|null|
+|**2024-02-12**|**Continuous Assurance of Autonomous Vehicle Behavior Through Machine Learned Correctness Properties**|Matthew Litton et.al.|[2402.07791](http://arxiv.org/abs/2402.07791)|null|
+|**2024-02-12**|**Mixed Q-Functionals: Advancing Value-Based Methods in Cooperative MARL with Continuous Action Domains**|Yasin Findik et.al.|[2402.07752](http://arxiv.org/abs/2402.07752)|null|
+|**2024-02-12**|**Rethinking Scaling Laws for Learning in Strategic Environments**|Tinashe Handina et.al.|[2402.07588](http://arxiv.org/abs/2402.07588)|null|
+|**2024-02-12**|**Ensuring trustworthy and ethical behaviour in intelligent logical agents**|Stefania Costantini et.al.|[2402.07547](http://arxiv.org/abs/2402.07547)|**[link](https://github.com/AAAI-DISIM-UnivAQ/DALI)**|
+|**2024-02-12**|**Can LLMs Produce Faithful Explanations For Fact-checking? Towards Faithful Explainable Fact-Checking via Multi-Agent Debate**|Kyungha Kim et.al.|[2402.07401](http://arxiv.org/abs/2402.07401)|null|
+|**2024-02-11**|**Refined Sample Complexity for Markov Games with Independent Linear Function Approximation**|Yan Dai et.al.|[2402.07082](http://arxiv.org/abs/2402.07082)|null|
+|**2024-02-10**|**A Factor Graph Model of Trust for a Collaborative Multi-Agent System**|Behzad Akbari et.al.|[2402.07049](http://arxiv.org/abs/2402.07049)|null|
+|**2024-02-09**|**Distributed Quasi-Newton Method for Multi-Agent Optimization**|Ola Shorinwa et.al.|[2402.06778](http://arxiv.org/abs/2402.06778)|null|
 |**2024-02-09**|**Evaluating the impact of items and cooperation in inventory models with exemptable ordering costs**|M. Gloria Fiestras-Janeiro et.al.|[2402.06545](http://arxiv.org/abs/2402.06545)|null|
 |**2024-02-09**|**Distributed Safe Navigation of Multi-Agent Systems using Control Barrier Function-Based Optimal Controllers**|Pol Mestres et.al.|[2402.06195](http://arxiv.org/abs/2402.06195)|null|
 |**2024-02-08**|**Risk-Sensitive Multi-Agent Reinforcement Learning in Network Aggregative Markov Games**|Hafez Ghaemi et.al.|[2402.05906](http://arxiv.org/abs/2402.05906)|**[link](https://github.com/hafezgh/risk-sensitive-marl-namg)**|

@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-15**|**TDAG: A Multi-Agent Framework based on Dynamic Task Decomposition and Agent Generation**|Yaoxiang Wang et.al.|[2402.10178](http://arxiv.org/abs/2402.10178)|null|
+|**2024-02-14**|**Advancing Building Energy Modeling with Large Language Models: Exploration and Case Studies**|Liang Zhang et.al.|[2402.09579](http://arxiv.org/abs/2402.09579)|null|
+|**2024-02-14**|**ABIDES-Economist: Agent-Based Simulation of Economic Systems with Learning Agents**|Kshama Dwarakanath et.al.|[2402.09563](http://arxiv.org/abs/2402.09563)|null|
+|**2024-02-14**|**Enriched multi-agent middleware for building rule-based distributed security solutions for IoT environments**|Francisco José Aguayo-Canela et.al.|[2402.09499](http://arxiv.org/abs/2402.09499)|null|
 |**2024-02-14**|**Who Plays First? Optimizing the Order of Play in Stackelberg Games with Many Robots**|Haimin Hu et.al.|[2402.09246](http://arxiv.org/abs/2402.09246)|null|
 |**2024-02-13**|**Approximate Sequential Optimization for Informative Path Planning**|Joshua Ott et.al.|[2402.08841](http://arxiv.org/abs/2402.08841)|**[link](https://github.com/sisl/InformativePathPlanning)**|
 |**2024-02-13**|**Optimal Task Assignment and Path Planning using Conflict-Based Search with Precedence and Temporal Constraints**|Yu Quan Chong et.al.|[2402.08772](http://arxiv.org/abs/2402.08772)|null|

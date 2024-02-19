@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-16**|**Modelling crypto markets by multi-agent reinforcement learning**|Johann Lussange et.al.|[2402.10803](http://arxiv.org/abs/2402.10803)|**[link](https://github.com/johannlussange/symba_crypto)**|
+|**2024-02-14**|**Middleware-based multi-agent development environment for building and testing distributed intelligent systems**|Francisco José Aguayo-Canela et.al.|[2402.10385](http://arxiv.org/abs/2402.10385)|null|
 |**2024-02-15**|**TDAG: A Multi-Agent Framework based on Dynamic Task Decomposition and Agent Generation**|Yaoxiang Wang et.al.|[2402.10178](http://arxiv.org/abs/2402.10178)|null|
 |**2024-02-14**|**Advancing Building Energy Modeling with Large Language Models: Exploration and Case Studies**|Liang Zhang et.al.|[2402.09579](http://arxiv.org/abs/2402.09579)|null|
 |**2024-02-14**|**ABIDES-Economist: Agent-Based Simulation of Economic Systems with Learning Agents**|Kshama Dwarakanath et.al.|[2402.09563](http://arxiv.org/abs/2402.09563)|null|

@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-20**|**Formal Synthesis of Controllers for Safety-Critical Autonomous Systems: Developments and Challenges**|Xiang Yin et.al.|[2402.13075](http://arxiv.org/abs/2402.13075)|null|
+|**2024-02-19**|**Optimal Rejection of Bounded Perturbations in Linear Leader-Following Consensus Protocol: Method Invariant Ellipsoid**|Siyuan Wang et.al.|[2402.12468](http://arxiv.org/abs/2402.12468)|null|
+|**2024-02-19**|**Aligning Individual and Collective Objectives in Multi-Agent Cooperation**|Yang Li et.al.|[2402.12416](http://arxiv.org/abs/2402.12416)|null|
 |**2024-02-19**|**Easy as ABCs: Unifying Boltzmann Q-Learning and Counterfactual Regret Minimization**|Luca D'Amico-Wong et.al.|[2402.11835](http://arxiv.org/abs/2402.11835)|null|
 |**2024-02-19**|**Stochastic Approximation with Delayed Updates: Finite-Time Rates under Markovian Sampling**|Arman Adibi et.al.|[2402.11800](http://arxiv.org/abs/2402.11800)|null|
 |**2024-02-19**|**Targeted Parallelization of Conflict-Based Search for Multi-Robot Path Planning**|Teng Guo et.al.|[2402.11768](http://arxiv.org/abs/2402.11768)|null|

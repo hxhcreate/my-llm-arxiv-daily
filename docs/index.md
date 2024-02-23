@@ -14,11 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-22**|**A Decision-Language Model (DLM) for Dynamic Restless Multi-Armed Bandit Tasks in Public Health**|Nikhil Behari et.al.|[2402.14807](http://arxiv.org/abs/2402.14807)|null|
+|**2024-02-22**|**We Choose to Go to Space: Agent-driven Human and Multi-Robot Collaboration in Microgravity**|Miao Xin et.al.|[2402.14299](http://arxiv.org/abs/2402.14299)|null|
+|**2024-02-22**|**Parking of Connected Automated Vehicles: Vehicle Control, Parking Assignment, and Multi-agent Simulation**|Xu Shen et.al.|[2402.14183](http://arxiv.org/abs/2402.14183)|null|
+|**2024-02-21**|**AgentScope: A Flexible yet Robust Multi-Agent Platform**|Dawei Gao et.al.|[2402.14034](http://arxiv.org/abs/2402.14034)|**[link](https://github.com/modelscope/agentscope)**|
 |**2024-02-21**|**Multi-Agent Online Graph Exploration on Cycles and Tadpole Graphs**|Erik van den Akker et.al.|[2402.13845](http://arxiv.org/abs/2402.13845)|null|
 |**2024-02-21**|**Multi-Agent Contract Design beyond Binary Actions**|Federico Cacciamani et.al.|[2402.13824](http://arxiv.org/abs/2402.13824)|null|
 |**2024-02-21**|**Learning to Model Diverse Driving Behaviors in Highly Interactive Autonomous Driving Scenarios with Multi-Agent Reinforcement Learning**|Liu Weiwei et.al.|[2402.13481](http://arxiv.org/abs/2402.13481)|null|
 |**2024-02-21**|**A Neuro-Symbolic Approach to Multi-Agent RL for Interpretability and Probabilistic Decision Making**|Chitra Subramanian et.al.|[2402.13440](http://arxiv.org/abs/2402.13440)|null|
-|**2024-02-20**|**Learning and Sustaining Shared Normative Systems via Bayesian Rule Induction in Markov Games**|Ninell Oldenburg et.al.|[2402.13399](http://arxiv.org/abs/2402.13399)|null|
+|**2024-02-22**|**Learning and Sustaining Shared Normative Systems via Bayesian Rule Induction in Markov Games**|Ninell Oldenburg et.al.|[2402.13399](http://arxiv.org/abs/2402.13399)|**[link](https://github.com/ninell-oldenburg/social-contracts)**|
 |**2024-02-19**|**A Conflict-Aware Optimal Goal Assignment Algorithm for Multi-Robot Systems**|Aakash et.al.|[2402.13292](http://arxiv.org/abs/2402.13292)|null|
 |**2024-02-20**|**Formal Synthesis of Controllers for Safety-Critical Autonomous Systems: Developments and Challenges**|Xiang Yin et.al.|[2402.13075](http://arxiv.org/abs/2402.13075)|null|
 |**2024-02-19**|**Optimal Rejection of Bounded Perturbations in Linear Leader-Following Consensus Protocol: Method Invariant Ellipsoid**|Siyuan Wang et.al.|[2402.12468](http://arxiv.org/abs/2402.12468)|null|

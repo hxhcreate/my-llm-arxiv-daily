@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-23**|**Shapley Value Based Multi-Agent Reinforcement Learning: Theory, Method and Its Application to Energy Network**|Jianhong Wang et.al.|[2402.15324](http://arxiv.org/abs/2402.15324)|null|
+|**2024-02-23**|**DEEM: Dynamic Experienced Expert Modeling for Stance Detection**|Xiaolong Wang et.al.|[2402.15264](http://arxiv.org/abs/2402.15264)|null|
+|**2024-02-23**|**Multi-Agent Collaboration Framework for Recommender Systems**|Zhefan Wang et.al.|[2402.15235](http://arxiv.org/abs/2402.15235)|**[link](https://github.com/wzf2000/macrec)**|
+|**2024-02-23**|**Optimal mesh generation for a non-iterative grid-converged solution of flow through a blade passage using deep reinforcement learning**|Innyoung Kim et.al.|[2402.15079](http://arxiv.org/abs/2402.15079)|null|
+|**2024-02-23**|**Analyzing Games in Maker Protocol Part One: A Multi-Agent Influence Diagram Approach Towards Coordination**|Abhimanyu Nag et.al.|[2402.15037](http://arxiv.org/abs/2402.15037)|null|
 |**2024-02-22**|**A Decision-Language Model (DLM) for Dynamic Restless Multi-Armed Bandit Tasks in Public Health**|Nikhil Behari et.al.|[2402.14807](http://arxiv.org/abs/2402.14807)|null|
 |**2024-02-22**|**We Choose to Go to Space: Agent-driven Human and Multi-Robot Collaboration in Microgravity**|Miao Xin et.al.|[2402.14299](http://arxiv.org/abs/2402.14299)|null|
 |**2024-02-22**|**Parking of Connected Automated Vehicles: Vehicle Control, Parking Assignment, and Multi-agent Simulation**|Xu Shen et.al.|[2402.14183](http://arxiv.org/abs/2402.14183)|null|

@@ -17,6 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-26**|**LLMArena: Assessing Capabilities of Large Language Models in Dynamic Multi-Agent Environments**|Junzhe Chen et.al.|[2402.16499](http://arxiv.org/abs/2402.16499)|null|
+|**2024-02-26**|**Distributed Finite-time Differentiator for Multi-agent Systems Under Directed Graph**|Weile Chen et.al.|[2402.16260](http://arxiv.org/abs/2402.16260)|null|
+|**2024-02-26**|**Scaling Robust Optimization for Multi-Agent Robotic Systems: A Distributed Perspective**|Arshiya Taj Abdul et.al.|[2402.16227](http://arxiv.org/abs/2402.16227)|null|
+|**2024-02-24**|**Optimality of weighted contracts for multi-agent contract design with a budget**|Sumit Goel et.al.|[2402.15890](http://arxiv.org/abs/2402.15890)|null|
+|**2024-02-24**|**On the Redistribution of Maximal Extractable Value: A Dynamic Mechanism**|Pedro Braga et.al.|[2402.15849](http://arxiv.org/abs/2402.15849)|null|
+|**2024-02-24**|**Reward Design for Justifiable Sequential Decision-Making**|Aleksa Sukovic et.al.|[2402.15826](http://arxiv.org/abs/2402.15826)|**[link](https://github.com/aleksa-sukovic/iclr2024-reward-design-for-justifiable-rl)**|
+|**2024-02-24**|**Cooperation and Control in Delegation Games**|Oliver Sourbut et.al.|[2402.15821](http://arxiv.org/abs/2402.15821)|null|
+|**2024-02-23**|**HiMAP: Learning Heuristics-Informed Policies for Large-Scale Multi-Agent Pathfinding**|Huijie Tang et.al.|[2402.15546](http://arxiv.org/abs/2402.15546)|**[link](https://github.com/kaist-silab/himap)**|
 |**2024-02-23**|**Shapley Value Based Multi-Agent Reinforcement Learning: Theory, Method and Its Application to Energy Network**|Jianhong Wang et.al.|[2402.15324](http://arxiv.org/abs/2402.15324)|null|
 |**2024-02-23**|**DEEM: Dynamic Experienced Expert Modeling for Stance Detection**|Xiaolong Wang et.al.|[2402.15264](http://arxiv.org/abs/2402.15264)|null|
 |**2024-02-23**|**Multi-Agent Collaboration Framework for Recommender Systems**|Zhefan Wang et.al.|[2402.15235](http://arxiv.org/abs/2402.15235)|**[link](https://github.com/wzf2000/macrec)**|

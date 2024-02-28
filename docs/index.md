@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**Multi-Agent Deep Reinforcement Learning for Distributed Satellite Routing**|Federico Lozano-Cuadra et.al.|[2402.17666](http://arxiv.org/abs/2402.17666)|null|
+|**2024-02-27**|**A Multi-Agent Model for Opinion Evolution under Cognitive Biases**|Mário S. Alvim et.al.|[2402.17615](http://arxiv.org/abs/2402.17615)|null|
+|**2024-02-27**|**Corridor MPC for Multi-Agent Inspection of Orbiting Structures**|Gregorio Marchesini et.al.|[2402.17596](http://arxiv.org/abs/2402.17596)|null|
+|**2024-02-27**|**Communication-Constrained STL Task Decomposition through Convex Optimization**|Gregorio Marchesini et.al.|[2402.17585](http://arxiv.org/abs/2402.17585)|null|
+|**2024-02-27**|**Nissist: An Incident Mitigation Copilot based on Troubleshooting Guides**|Kaikai An et.al.|[2402.17531](http://arxiv.org/abs/2402.17531)|null|
+|**2024-02-27**|**Multi-Agent, Human-Agent and Beyond: A Survey on Cooperation in Social Dilemmas**|Hao Guo et.al.|[2402.17270](http://arxiv.org/abs/2402.17270)|null|
+|**2024-02-27**|**Reinforcement Learning Based Robust Volt/Var Control in Active Distribution Networks With Imprecisely Known Delay**|Hong Cheng et.al.|[2402.17268](http://arxiv.org/abs/2402.17268)|null|
+|**2024-02-27**|**Inverse Optimal Control for Linear Quadratic Tracking with Unknown Target States**|Yao Li et.al.|[2402.17247](http://arxiv.org/abs/2402.17247)|null|
+|**2024-02-27**|**Large Language Model for Participatory Urban Planning**|Zhilun Zhou et.al.|[2402.17161](http://arxiv.org/abs/2402.17161)|null|
+|**2024-02-26**|**Navigating Complexity: Orchestrated Problem Solving with Multi-Agent LLMs**|Sumedh Rasal et.al.|[2402.16713](http://arxiv.org/abs/2402.16713)|null|
 |**2024-02-26**|**LLMArena: Assessing Capabilities of Large Language Models in Dynamic Multi-Agent Environments**|Junzhe Chen et.al.|[2402.16499](http://arxiv.org/abs/2402.16499)|null|
 |**2024-02-26**|**Distributed Finite-time Differentiator for Multi-agent Systems Under Directed Graph**|Weile Chen et.al.|[2402.16260](http://arxiv.org/abs/2402.16260)|null|
 |**2024-02-26**|**Scaling Robust Optimization for Multi-Agent Robotic Systems: A Distributed Perspective**|Arshiya Taj Abdul et.al.|[2402.16227](http://arxiv.org/abs/2402.16227)|null|

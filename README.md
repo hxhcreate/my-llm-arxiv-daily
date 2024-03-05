@@ -17,6 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-02**|**A Communication-Efficient Stochastic Gradient Descent Algorithm for Distributed Nonconvex Optimization**|Antai Xie et.al.|[2403.01322](http://arxiv.org/abs/2403.01322)|null|
+|**2024-03-02**|**Efficient Episodic Memory Utilization of Cooperative Multi-Agent Reinforcement Learning**|Hyungho Na et.al.|[2403.01112](http://arxiv.org/abs/2403.01112)|null|
+|**2024-03-01**|**Composite Distributed Learning and Synchronization of Nonlinear Multi-Agent Systems with Complete Uncertain Dynamics**|Emadodin Jandaghi et.al.|[2403.00987](http://arxiv.org/abs/2403.00987)|null|
+|**2024-02-29**|**Offline Fictitious Self-Play for Competitive Games**|Jingxiao Chen et.al.|[2403.00841](http://arxiv.org/abs/2403.00841)|null|
+|**2024-03-01**|**Event-Triggered Robust Cooperative Output Regulation for a Class of Linear Multi-Agent Systems with an Unknown Exosystem**|Yangyang Qian et.al.|[2403.00645](http://arxiv.org/abs/2403.00645)|null|
+|**2024-03-01**|**Imitation Learning Datasets: A Toolkit For Creating Datasets, Training Agents and Benchmarking**|Nathan Gavenski et.al.|[2403.00550](http://arxiv.org/abs/2403.00550)|**[link](https://github.com/nathangavenski/il-datasets)**|
+|**2024-03-01**|**Robustifying a Policy in Multi-Agent RL with Diverse Cooperative Behavior and Adversarial Style Sampling for Assistive Tasks**|Tayuki Osa et.al.|[2403.00344](http://arxiv.org/abs/2403.00344)|null|
+|**2024-03-01**|**Mode Consensus Algorithms With Finite Convergence Time**|Chao Huang et.al.|[2403.00221](http://arxiv.org/abs/2403.00221)|null|
+|**2024-02-29**|**Causal Graph ODE: Continuous Treatment Effect Modeling in Multi-agent Dynamical Systems**|Zijie Huang et.al.|[2403.00178](http://arxiv.org/abs/2403.00178)|null|
 |**2024-02-29**|**Understanding Iterative Combinatorial Auction Designs via Multi-Agent Reinforcement Learning**|Greg d'Eon et.al.|[2402.19420](http://arxiv.org/abs/2402.19420)|null|
 |**2024-02-29**|**Energy-Efficient UAV Swarm Assisted MEC with Dynamic Clustering and Scheduling**|Jialiuyuan Li et.al.|[2402.18936](http://arxiv.org/abs/2402.18936)|null|
 |**2024-02-28**|**Timer-Based Coverage Control for Mobile Sensors**|Federico M. Zegers et.al.|[2402.18744](http://arxiv.org/abs/2402.18744)|null|

@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-05**|**Reaching Consensus in Cooperative Multi-Agent Reinforcement Learning with Goal Imagination**|Liangzhou Wang et.al.|[2403.03172](http://arxiv.org/abs/2403.03172)|null|
+|**2024-03-05**|**Equilibria in Two-Stage Facility Location with Atomic Clients**|Simon Krogmann et.al.|[2403.03114](http://arxiv.org/abs/2403.03114)|null|
+|**2024-03-05**|**Distributed Policy Gradient for Linear Quadratic Networked Control with Limited Communication Range**|Yuzi Yan et.al.|[2403.03055](http://arxiv.org/abs/2403.03055)|null|
+|**2024-03-05**|**OPEx: A Component-Wise Analysis of LLM-Centric Agents in Embodied Instruction Following**|Haochen Shi et.al.|[2403.03017](http://arxiv.org/abs/2403.03017)|null|
+|**2024-03-05**|**SimuCourt: Building Judicial Decision-Making Agents with Real-world Judgement Documents**|Zhitao He et.al.|[2403.02959](http://arxiv.org/abs/2403.02959)|**[link](https://github.com/zhitao-he/simucourt)**|
+|**2024-03-05**|**PPS-QMIX: Periodically Parameter Sharing for Accelerating Convergence of Multi-Agent Reinforcement Learning**|Ke Zhang et.al.|[2403.02635](http://arxiv.org/abs/2403.02635)|null|
+|**2024-03-05**|**Privacy in Multi-agent Systems**|Yongqiang Wang et.al.|[2403.02631](http://arxiv.org/abs/2403.02631)|null|
+|**2024-03-04**|**A Multi-agent Reinforcement Learning Study of Evolution of Communication and Teaching under Libertarian and Utilitarian Governing Systems**|Aslan S. Dizaji et.al.|[2403.02369](http://arxiv.org/abs/2403.02369)|null|
+|**2024-03-04**|**VITAMIN: A Compositional Framework for Model Checking of Multi-Agent Systems**|Angelo Ferrando et.al.|[2403.02170](http://arxiv.org/abs/2403.02170)|null|
+|**2024-03-04**|**SMAUG: A Sliding Multidimensional Task Window-Based MARL Framework for Adaptive Real-Time Subtask Recognition**|Wenjing Zhang et.al.|[2403.01816](http://arxiv.org/abs/2403.01816)|null|
 |**2024-03-02**|**A Communication-Efficient Stochastic Gradient Descent Algorithm for Distributed Nonconvex Optimization**|Antai Xie et.al.|[2403.01322](http://arxiv.org/abs/2403.01322)|null|
 |**2024-03-02**|**Efficient Episodic Memory Utilization of Cooperative Multi-Agent Reinforcement Learning**|Hyungho Na et.al.|[2403.01112](http://arxiv.org/abs/2403.01112)|null|
 |**2024-03-01**|**Composite Distributed Learning and Synchronization of Nonlinear Multi-Agent Systems with Complete Uncertain Dynamics**|Emadodin Jandaghi et.al.|[2403.00987](http://arxiv.org/abs/2403.00987)|null|

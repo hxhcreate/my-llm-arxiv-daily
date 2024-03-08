@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.07
+## Updated on 2024.03.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2024-03-05**|**Distributed Policy Gradient for Linear Quadratic Networked Control with Limited Communication Range**|Yuzi Yan et.al.|[2403.03055](http://arxiv.org/abs/2403.03055)|null|
 |**2024-03-05**|**OPEx: A Component-Wise Analysis of LLM-Centric Agents in Embodied Instruction Following**|Haochen Shi et.al.|[2403.03017](http://arxiv.org/abs/2403.03017)|null|
 |**2024-03-05**|**SimuCourt: Building Judicial Decision-Making Agents with Real-world Judgement Documents**|Zhitao He et.al.|[2403.02959](http://arxiv.org/abs/2403.02959)|**[link](https://github.com/zhitao-he/simucourt)**|
-|**2024-03-05**|**PPS-QMIX: Periodically Parameter Sharing for Accelerating Convergence of Multi-Agent Reinforcement Learning**|Ke Zhang et.al.|[2403.02635](http://arxiv.org/abs/2403.02635)|null|
+|**2024-03-05**|**PPS-QMIX: Periodically Parameter Sharing for Accelerating Convergence of Multi-Agent Reinforcement Learning**|Ke Zhang et.al.|[2403.02635](http://arxiv.org/abs/2403.02635)|**[link](https://github.com/colazhang22/pps-qmix)**|
 |**2024-03-05**|**Privacy in Multi-agent Systems**|Yongqiang Wang et.al.|[2403.02631](http://arxiv.org/abs/2403.02631)|null|
 |**2024-03-04**|**A Multi-agent Reinforcement Learning Study of Evolution of Communication and Teaching under Libertarian and Utilitarian Governing Systems**|Aslan S. Dizaji et.al.|[2403.02369](http://arxiv.org/abs/2403.02369)|null|
 |**2024-03-04**|**VITAMIN: A Compositional Framework for Model Checking of Multi-Agent Systems**|Angelo Ferrando et.al.|[2403.02170](http://arxiv.org/abs/2403.02170)|null|
@@ -270,7 +270,7 @@
 |**2023-12-30**|**Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning**|Xin Yu et.al.|[2401.00167](http://arxiv.org/abs/2401.00167)|null|
 |**2023-12-30**|**Contrastive learning-based agent modeling for deep reinforcement learning**|Wenhao Ma et.al.|[2401.00132](http://arxiv.org/abs/2401.00132)|null|
 
-<p align=right>(<a href=#updated-on-20240307>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240308>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

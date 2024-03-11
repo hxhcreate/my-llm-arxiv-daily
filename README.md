@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-08**|**Tapilot-Crossing: Benchmarking and Evolving LLMs Towards Interactive Data Analysis Agents**|Jinyang Li et.al.|[2403.05307](http://arxiv.org/abs/2403.05307)|null|
+|**2024-03-08**|**Engineering consensus in static networks with unknown disruptors**|Agathe Bouis et.al.|[2403.05272](http://arxiv.org/abs/2403.05272)|null|
+|**2024-03-08**|**ActFormer: Scalable Collaborative Perception via Active Queries**|Suozhi Huang et.al.|[2403.04968](http://arxiv.org/abs/2403.04968)|null|
 |**2024-03-07**|**iTRPL: An Intelligent and Trusted RPL Protocol based on Multi-Agent Reinforcement Learning**|Debasmita Dey et.al.|[2403.04416](http://arxiv.org/abs/2403.04416)|null|
 |**2024-03-07**|**Cooperative Task Execution in Multi-Agent Systems**|Karishma et.al.|[2403.04370](http://arxiv.org/abs/2403.04370)|null|
 |**2024-03-07**|**LitSim: Conflict-aware Policy for Long-term Interactive Traffic Simulation**|Haojie Xin et.al.|[2403.04299](http://arxiv.org/abs/2403.04299)|null|

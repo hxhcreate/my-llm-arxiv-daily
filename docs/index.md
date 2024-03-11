@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.10
+## Updated on 2024.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AGENT
@@ -17,9 +17,9 @@ layout: default
 |**2024-03-07**|**iTRPL: An Intelligent and Trusted RPL Protocol based on Multi-Agent Reinforcement Learning**|Debasmita Dey et.al.|[2403.04416](http://arxiv.org/abs/2403.04416)|null|
 |**2024-03-07**|**Cooperative Task Execution in Multi-Agent Systems**|Karishma et.al.|[2403.04370](http://arxiv.org/abs/2403.04370)|null|
 |**2024-03-07**|**LitSim: Conflict-aware Policy for Long-term Interactive Traffic Simulation**|Haojie Xin et.al.|[2403.04299](http://arxiv.org/abs/2403.04299)|null|
-|**2024-03-07**|**Dynamics of Moral Behavior in Heterogeneous Populations of Learning Agents**|Elizaveta Tennant et.al.|[2403.04202](http://arxiv.org/abs/2403.04202)|null|
+|**2024-03-08**|**Dynamics of Moral Behavior in Heterogeneous Populations of Learning Agents**|Elizaveta Tennant et.al.|[2403.04202](http://arxiv.org/abs/2403.04202)|null|
 |**2024-03-06**|**Population-aware Online Mirror Descent for Mean-Field Games by Deep Reinforcement Learning**|Zida Wu et.al.|[2403.03552](http://arxiv.org/abs/2403.03552)|null|
-|**2024-03-06**|**Discrete Consensus-Based Optimization**|Junhyeok Byeon et.al.|[2403.03430](http://arxiv.org/abs/2403.03430)|null|
+|**2024-03-08**|**Discrete Consensus-Based Optimization**|Junhyeok Byeon et.al.|[2403.03430](http://arxiv.org/abs/2403.03430)|null|
 |**2024-03-05**|**Collision Avoidance Verification of Multiagent Systems with Learned Policies**|Zihao Dong et.al.|[2403.03314](http://arxiv.org/abs/2403.03314)|null|
 |**2024-03-05**|**Reaching Consensus in Cooperative Multi-Agent Reinforcement Learning with Goal Imagination**|Liangzhou Wang et.al.|[2403.03172](http://arxiv.org/abs/2403.03172)|null|
 |**2024-03-05**|**Equilibria in Two-Stage Facility Location with Atomic Clients**|Simon Krogmann et.al.|[2403.03114](http://arxiv.org/abs/2403.03114)|null|

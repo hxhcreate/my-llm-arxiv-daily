@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**Transforming Competition into Collaboration: The Revolutionary Role of Multi-Agent Systems and Language Models in Modern Organizations**|Carlos Jose Xavier Cruz et.al.|[2403.07769](http://arxiv.org/abs/2403.07769)|**[link](https://github.com/carlosxcruzcode/compet_colab_sma_llm)**|
+|**2024-03-12**|**Asynchronous Approximate Byzantine Consensus: A Multi-hop Relay Method and Tight Graph Conditions**|Liwei Yuan et.al.|[2403.07640](http://arxiv.org/abs/2403.07640)|null|
+|**2024-03-12**|**Ensembling Prioritized Hybrid Policies for Multi-agent Pathfinding**|Huijie Tang et.al.|[2403.07559](http://arxiv.org/abs/2403.07559)|null|
+|**2024-03-11**|**RaceMOP: Mapless Online Path Planning for Multi-Agent Autonomous Racing using Residual Policy Learning**|Raphael Trumpp et.al.|[2403.07129](http://arxiv.org/abs/2403.07129)|null|
 |**2024-03-11**|**Generalising Multi-Agent Cooperation through Task-Agnostic Communication**|Dulhan Jayalath et.al.|[2403.06750](http://arxiv.org/abs/2403.06750)|**[link](https://github.com/proroklab/task-agnostic-comms)**|
 |**2024-03-11**|**Decentralized and Lifelong-Adaptive Multi-Agent Collaborative Learning**|Shuo Tang et.al.|[2403.06535](http://arxiv.org/abs/2403.06535)|null|
 |**2024-03-12**|**DeepSafeMPC: Deep Learning-Based Model Predictive Control for Safe Multi-Agent Reinforcement Learning**|Xuefeng Wang et.al.|[2403.06397](http://arxiv.org/abs/2403.06397)|null|

@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-14**|**Uncertainty Estimation in Multi-Agent Distributed Learning for AI-Enabled Edge Devices**|Gleb Radchenko et.al.|[2403.09141](http://arxiv.org/abs/2403.09141)|null|
+|**2024-03-13**|**Beyond Joint Demonstrations: Personalized Expert Guidance for Efficient Multi-Agent Reinforcement Learning**|Peihong Yu et.al.|[2403.08936](http://arxiv.org/abs/2403.08936)|null|
+|**2024-03-13**|**Cultural evolution in populations of Large Language Models**|Jérémy Perez et.al.|[2403.08882](http://arxiv.org/abs/2403.08882)|**[link](https://github.com/jeremyperez2/llm-culture)**|
+|**2024-03-13**|**Multi-Objective Optimization Using Adaptive Distributed Reinforcement Learning**|Jing Tan et.al.|[2403.08879](http://arxiv.org/abs/2403.08879)|null|
 |**2024-03-13**|**Hierarchical Auto-Organizing System for Open-Ended Multi-Agent Navigation**|Zhonghan Zhao et.al.|[2403.08282](http://arxiv.org/abs/2403.08282)|null|
 |**2024-03-13**|**Emergence of Social Norms in Large Language Model-based Agent Societies**|Siyue Ren et.al.|[2403.08251](http://arxiv.org/abs/2403.08251)|null|
 |**2024-03-13**|**Object Permanence Filter for Robust Tracking with Interactive Robots**|Shaoting Peng et.al.|[2403.08231](http://arxiv.org/abs/2403.08231)|null|

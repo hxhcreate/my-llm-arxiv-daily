@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-15**|**Single- and Multi-Agent Private Active Sensing: A Deep Neuroevolution Approach**|George Stamatelis et.al.|[2403.10112](http://arxiv.org/abs/2403.10112)|null|
+|**2024-03-15**|**What Makes Good Collaborative Views? Contrastive Mutual Information Maximization for Multi-Agent Perception**|Wanfang Su et.al.|[2403.10068](http://arxiv.org/abs/2403.10068)|**[link](https://github.com/77swf/cmimc)**|
 |**2024-03-14**|**Uncertainty Estimation in Multi-Agent Distributed Learning for AI-Enabled Edge Devices**|Gleb Radchenko et.al.|[2403.09141](http://arxiv.org/abs/2403.09141)|null|
 |**2024-03-13**|**Beyond Joint Demonstrations: Personalized Expert Guidance for Efficient Multi-Agent Reinforcement Learning**|Peihong Yu et.al.|[2403.08936](http://arxiv.org/abs/2403.08936)|null|
 |**2024-03-13**|**Cultural evolution in populations of Large Language Models**|Jérémy Perez et.al.|[2403.08882](http://arxiv.org/abs/2403.08882)|**[link](https://github.com/jeremyperez2/llm-culture)**|

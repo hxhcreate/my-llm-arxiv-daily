@@ -113,7 +113,7 @@
 |**2024-02-19**|**Easy as ABCs: Unifying Boltzmann Q-Learning and Counterfactual Regret Minimization**|Luca D'Amico-Wong et.al.|[2402.11835](http://arxiv.org/abs/2402.11835)|null|
 |**2024-02-19**|**Stochastic Approximation with Delayed Updates: Finite-Time Rates under Markovian Sampling**|Arman Adibi et.al.|[2402.11800](http://arxiv.org/abs/2402.11800)|null|
 |**2024-02-19**|**Targeted Parallelization of Conflict-Based Search for Multi-Robot Path Planning**|Teng Guo et.al.|[2402.11768](http://arxiv.org/abs/2402.11768)|null|
-|**2024-02-18**|**LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration**|Jun Zhao et.al.|[2402.11550](http://arxiv.org/abs/2402.11550)|null|
+|**2024-02-18**|**LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration**|Jun Zhao et.al.|[2402.11550](http://arxiv.org/abs/2402.11550)|**[link](https://github.com/zuucan/needleinahaystack-plus)**|
 |**2024-02-18**|**Benchmark Self-Evolving: A Multi-Agent Framework for Dynamic LLM Evaluation**|Siyuan Wang et.al.|[2402.11443](http://arxiv.org/abs/2402.11443)|**[link](https://github.com/nanshineloong/self-evolving-benchmark)**|
 |**2024-02-16**|**Modelling crypto markets by multi-agent reinforcement learning**|Johann Lussange et.al.|[2402.10803](http://arxiv.org/abs/2402.10803)|**[link](https://github.com/johannlussange/symba_crypto)**|
 |**2024-02-14**|**Middleware-based multi-agent development environment for building and testing distributed intelligent systems**|Francisco José Aguayo-Canela et.al.|[2402.10385](http://arxiv.org/abs/2402.10385)|null|

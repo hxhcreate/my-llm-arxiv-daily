@@ -17,6 +17,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-19**|**NN-ETM: Enabling safe neural network-based event-triggering mechanisms for consensus problems**|Irene Perez-Salesa et.al.|[2403.12567](http://arxiv.org/abs/2403.12567)|null|
+|**2024-03-19**|**Embodied LLM Agents Learn to Cooperate in Organized Teams**|Xudong Guo et.al.|[2403.12482](http://arxiv.org/abs/2403.12482)|null|
+|**2024-03-19**|**Online Multi-Agent Pickup and Delivery with Task Deadlines**|Hiroya Makino et.al.|[2403.12377](http://arxiv.org/abs/2403.12377)|null|
+|**2024-03-19**|**MARPF: Multi-Agent and Multi-Rack Path Finding**|Hiroya Makino et.al.|[2403.12376](http://arxiv.org/abs/2403.12376)|null|
+|**2024-03-18**|**Routing and Scheduling in Answer Set Programming applied to Multi-Agent Path Finding: Preliminary Report**|Roland Kaminski et.al.|[2403.12153](http://arxiv.org/abs/2403.12153)|null|
+|**2024-03-18**|**How Far Are We on the Decision-Making of LLMs? Evaluating LLMs' Gaming Ability in Multi-Agent Environments**|Jen-tse Huang et.al.|[2403.11807](http://arxiv.org/abs/2403.11807)|null|
 |**2024-03-18**|**Diffusion-Based Environment-Aware Trajectory Prediction**|Theodor Westny et.al.|[2403.11643](http://arxiv.org/abs/2403.11643)|null|
 |**2024-03-18**|**Can LLM-Augmented autonomous agents cooperate?, An evaluation of their cooperative capabilities through Melting Pot**|Manuel Mosquera et.al.|[2403.11381](http://arxiv.org/abs/2403.11381)|null|
 |**2024-03-17**|**V2X-DGW: Domain Generalization for Multi-agent Perception under Adverse Weather Conditions**|Baolu Li et.al.|[2403.11371](http://arxiv.org/abs/2403.11371)|null|

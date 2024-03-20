@@ -7,13 +7,22 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.19
+## Updated on 2024.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AGENT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**Diffusion-Based Environment-Aware Trajectory Prediction**|Theodor Westny et.al.|[2403.11643](http://arxiv.org/abs/2403.11643)|null|
+|**2024-03-18**|**Can LLM-Augmented autonomous agents cooperate?, An evaluation of their cooperative capabilities through Melting Pot**|Manuel Mosquera et.al.|[2403.11381](http://arxiv.org/abs/2403.11381)|null|
+|**2024-03-17**|**V2X-DGW: Domain Generalization for Multi-agent Perception under Adverse Weather Conditions**|Baolu Li et.al.|[2403.11371](http://arxiv.org/abs/2403.11371)|null|
+|**2024-03-17**|**Independent RL for Cooperative-Competitive Agents: A Mean-Field Perspective**|Muhammad Aneeq uz Zaman et.al.|[2403.11345](http://arxiv.org/abs/2403.11345)|null|
+|**2024-03-17**|**Bridging the Gap between Discrete Agent Strategies in Game Theory and Continuous Motion Planning in Dynamic Environments**|Hongrui Zheng et.al.|[2403.11334](http://arxiv.org/abs/2403.11334)|null|
+|**2024-03-16**|**A Scalable and Parallelizable Digital Twin Framework for Sustainable Sim2Real Transition of Multi-Agent Reinforcement Learning Systems**|Chinmay Vilas Samak et.al.|[2403.10996](http://arxiv.org/abs/2403.10996)|null|
+|**2024-03-16**|**Diffusion-Reinforcement Learning Hierarchical Motion Planning in Adversarial Multi-agent Games**|Zixuan Wu et.al.|[2403.10794](http://arxiv.org/abs/2403.10794)|**[link](https://github.com/core-robotics-lab/opponent-modeling)**|
+|**2024-03-16**|**Fully Distributed Cooperative Multi-agent Underwater Obstacle Avoidance Under Dog Walking Paradigm**|Kanzhong Yao et.al.|[2403.10759](http://arxiv.org/abs/2403.10759)|null|
+|**2024-03-15**|**Virtual Elastic Tether: a New Approach for Multi-agent Navigation in Confined Aquatic Environments**|Kanzhong Yao et.al.|[2403.10629](http://arxiv.org/abs/2403.10629)|null|
 |**2024-03-15**|**Single- and Multi-Agent Private Active Sensing: A Deep Neuroevolution Approach**|George Stamatelis et.al.|[2403.10112](http://arxiv.org/abs/2403.10112)|null|
 |**2024-03-15**|**What Makes Good Collaborative Views? Contrastive Mutual Information Maximization for Multi-Agent Perception**|Wanfang Su et.al.|[2403.10068](http://arxiv.org/abs/2403.10068)|**[link](https://github.com/77swf/cmimc)**|
 |**2024-03-14**|**Uncertainty Estimation in Multi-Agent Distributed Learning for AI-Enabled Edge Devices**|Gleb Radchenko et.al.|[2403.09141](http://arxiv.org/abs/2403.09141)|null|

@@ -14,6 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**Hyper Strategy Logic**|Raven Beutner et.al.|[2403.13741](http://arxiv.org/abs/2403.13741)|null|
+|**2024-03-20**|**Large Language Models meet Network Slicing Management and Orchestration**|Abdulhalim Dandoush et.al.|[2403.13721](http://arxiv.org/abs/2403.13721)|null|
+|**2024-03-20**|**Multi-agent Reinforcement Traffic Signal Control based on Interpretable Influence Mechanism and Biased ReLU Approximation**|Zhiyue Luo et.al.|[2403.13639](http://arxiv.org/abs/2403.13639)|null|
+|**2024-03-20**|**Distributed Cooperative Formation Control of Nonlinear Multi-Agent System (UGV) Using Neural Network**|Si Kheang Moeurn et.al.|[2403.13473](http://arxiv.org/abs/2403.13473)|null|
+|**2024-03-20**|**Agent Group Chat: An Interactive Group Chat Simulacra For Better Eliciting Collective Emergent Behavior**|Zhouhong Gu et.al.|[2403.13433](http://arxiv.org/abs/2403.13433)|null|
+|**2024-03-20**|**Caching-Augmented Lifelong Multi-Agent Path Finding**|Yimin Tang et.al.|[2403.13421](http://arxiv.org/abs/2403.13421)|null|
+|**2024-03-20**|**Robotics meets Fluid Dynamics: A Characterization of the Induced Airflow around a Quadrotor**|Leonard Bauersfeld et.al.|[2403.13321](http://arxiv.org/abs/2403.13321)|null|
+|**2024-03-20**|**Mora: Enabling Generalist Video Generation via A Multi-Agent Framework**|Zhengqing Yuan et.al.|[2403.13248](http://arxiv.org/abs/2403.13248)|**[link](https://github.com/lichao-sun/mora)**|
+|**2024-03-19**|**Graph Neural Network-based Multi-agent Reinforcement Learning for Resilient Distributed Coordination of Multi-Robot Systems**|Anthony Goeckner et.al.|[2403.13093](http://arxiv.org/abs/2403.13093)|null|
 |**2024-03-19**|**NN-ETM: Enabling safe neural network-based event-triggering mechanisms for consensus problems**|Irene Perez-Salesa et.al.|[2403.12567](http://arxiv.org/abs/2403.12567)|null|
 |**2024-03-19**|**Embodied LLM Agents Learn to Cooperate in Organized Teams**|Xudong Guo et.al.|[2403.12482](http://arxiv.org/abs/2403.12482)|null|
 |**2024-03-19**|**Online Multi-Agent Pickup and Delivery with Task Deadlines**|Hiroya Makino et.al.|[2403.12377](http://arxiv.org/abs/2403.12377)|null|

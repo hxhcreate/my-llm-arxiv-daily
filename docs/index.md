@@ -14,6 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-21**|**Co-Optimization of Environment and Policies for Decentralized Multi-Agent Navigation**|Zhan Gao et.al.|[2403.14583](http://arxiv.org/abs/2403.14583)|null|
+|**2024-03-21**|**Emergent communication and learning pressures in language models: a language evolution perspective**|Lukas Galke et.al.|[2403.14427](http://arxiv.org/abs/2403.14427)|null|
+|**2024-03-21**|**Exploiting Over-The-Air Consensus for Collision Avoidance and Formation Control in Multi-Agent Systems**|Michael Epp et.al.|[2403.14386](http://arxiv.org/abs/2403.14386)|null|
+|**2024-03-21**|**A Control Barrier Function Composition Approach for Multi-Agent Systems in Marine Applications**|Yujia Yang et.al.|[2403.14369](http://arxiv.org/abs/2403.14369)|null|
+|**2024-03-21**|**Adversary-Augmented Simulation to evaluate client-fairness on HyperLedger Fabric**|Erwan Mahe et.al.|[2403.14342](http://arxiv.org/abs/2403.14342)|null|
+|**2024-03-21**|**ERD: A Framework for Improving LLM Reasoning for Cognitive Distortion Classification**|Sehee Lim et.al.|[2403.14255](http://arxiv.org/abs/2403.14255)|null|
+|**2024-03-21**|**Carbon Footprint Reduction for Sustainable Data Centers in Real-Time**|Soumyendu Sarkar et.al.|[2403.14092](http://arxiv.org/abs/2403.14092)|null|
+|**2024-03-20**|**Performance-Guaranteed Solutions for Multi-Agent Optimal Coverage Problems using Submodularity, Curvature, and Greedy Algorithms**|Shirantha Welikala et.al.|[2403.14028](http://arxiv.org/abs/2403.14028)|null|
+|**2024-03-20**|**Motion Prediction of Multi-agent systems with Multi-view clustering**|Anegi James et.al.|[2403.13905](http://arxiv.org/abs/2403.13905)|null|
 |**2024-03-20**|**Hyper Strategy Logic**|Raven Beutner et.al.|[2403.13741](http://arxiv.org/abs/2403.13741)|null|
 |**2024-03-20**|**Large Language Models meet Network Slicing Management and Orchestration**|Abdulhalim Dandoush et.al.|[2403.13721](http://arxiv.org/abs/2403.13721)|null|
 |**2024-03-20**|**Multi-agent Reinforcement Traffic Signal Control based on Interpretable Influence Mechanism and Biased ReLU Approximation**|Zhiyue Luo et.al.|[2403.13639](http://arxiv.org/abs/2403.13639)|null|

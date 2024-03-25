@@ -17,7 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-22**|**Collaborative AI Teaming in Unknown Environments via Active Goal Deduction**|Zuyuan Zhang et.al.|[2403.15341](http://arxiv.org/abs/2403.15341)|null|
+|**2024-03-22**|**Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse**|Jiawen Kang et.al.|[2403.15285](http://arxiv.org/abs/2403.15285)|null|
+|**2024-03-22**|**An Agent-Centric Perspective on Norm Enforcement and Sanctions**|Elena Yan et.al.|[2403.15128](http://arxiv.org/abs/2403.15128)|null|
+|**2024-03-22**|**A Picture Is Worth a Graph: Blueprint Debate on Graph for Multimodal Reasoning**|Changmeng Zheng et.al.|[2403.14972](http://arxiv.org/abs/2403.14972)|null|
+|**2024-03-21**|**Multi-Agent VQA: Exploring Multi-Agent Foundation Models in Zero-Shot Visual Question Answering**|Bowen Jiang et.al.|[2403.14783](http://arxiv.org/abs/2403.14783)|**[link](https://github.com/bowen-upenn/Multi-Agent-VQA)**|
+|**2024-03-21**|**Multi-agent Task-Driven Exploration via Intelligent Map Compression and Sharing**|Evangelos Psomiadis et.al.|[2403.14780](http://arxiv.org/abs/2403.14780)|null|
 |**2024-03-21**|**Co-Optimization of Environment and Policies for Decentralized Multi-Agent Navigation**|Zhan Gao et.al.|[2403.14583](http://arxiv.org/abs/2403.14583)|null|
+|**2024-03-22**|**Learning Hierarchical Control For Multi-Agent Capacity-Constrained Systems**|Charlott Vallon et.al.|[2403.14545](http://arxiv.org/abs/2403.14545)|null|
 |**2024-03-21**|**Emergent communication and learning pressures in language models: a language evolution perspective**|Lukas Galke et.al.|[2403.14427](http://arxiv.org/abs/2403.14427)|null|
 |**2024-03-21**|**Exploiting Over-The-Air Consensus for Collision Avoidance and Formation Control in Multi-Agent Systems**|Michael Epp et.al.|[2403.14386](http://arxiv.org/abs/2403.14386)|null|
 |**2024-03-21**|**A Control Barrier Function Composition Approach for Multi-Agent Systems in Marine Applications**|Yujia Yang et.al.|[2403.14369](http://arxiv.org/abs/2403.14369)|null|

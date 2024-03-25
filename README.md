@@ -30,17 +30,17 @@
 |**2024-03-20**|**Large Language Models meet Network Slicing Management and Orchestration**|Abdulhalim Dandoush et.al.|[2403.13721](http://arxiv.org/abs/2403.13721)|null|
 |**2024-03-20**|**Multi-agent Reinforcement Traffic Signal Control based on Interpretable Influence Mechanism and Biased ReLU Approximation**|Zhiyue Luo et.al.|[2403.13639](http://arxiv.org/abs/2403.13639)|null|
 |**2024-03-20**|**Distributed Cooperative Formation Control of Nonlinear Multi-Agent System (UGV) Using Neural Network**|Si Kheang Moeurn et.al.|[2403.13473](http://arxiv.org/abs/2403.13473)|null|
-|**2024-03-20**|**Agent Group Chat: An Interactive Group Chat Simulacra For Better Eliciting Collective Emergent Behavior**|Zhouhong Gu et.al.|[2403.13433](http://arxiv.org/abs/2403.13433)|null|
+|**2024-03-20**|**Agent Group Chat: An Interactive Group Chat Simulacra For Better Eliciting Collective Emergent Behavior**|Zhouhong Gu et.al.|[2403.13433](http://arxiv.org/abs/2403.13433)|**[link](https://github.com/mikegu721/agentgroup)**|
 |**2024-03-20**|**Caching-Augmented Lifelong Multi-Agent Path Finding**|Yimin Tang et.al.|[2403.13421](http://arxiv.org/abs/2403.13421)|null|
 |**2024-03-20**|**Robotics meets Fluid Dynamics: A Characterization of the Induced Airflow around a Quadrotor**|Leonard Bauersfeld et.al.|[2403.13321](http://arxiv.org/abs/2403.13321)|null|
 |**2024-03-20**|**Mora: Enabling Generalist Video Generation via A Multi-Agent Framework**|Zhengqing Yuan et.al.|[2403.13248](http://arxiv.org/abs/2403.13248)|**[link](https://github.com/lichao-sun/mora)**|
-|**2024-03-19**|**Graph Neural Network-based Multi-agent Reinforcement Learning for Resilient Distributed Coordination of Multi-Robot Systems**|Anthony Goeckner et.al.|[2403.13093](http://arxiv.org/abs/2403.13093)|null|
-|**2024-03-19**|**NN-ETM: Enabling safe neural network-based event-triggering mechanisms for consensus problems**|Irene Perez-Salesa et.al.|[2403.12567](http://arxiv.org/abs/2403.12567)|null|
+|**2024-03-19**|**Graph Neural Network-based Multi-agent Reinforcement Learning for Resilient Distributed Coordination of Multi-Robot Systems**|Anthony Goeckner et.al.|[2403.13093](http://arxiv.org/abs/2403.13093)|**[link](https://github.com/nu-ideas-lab/patrolling_zoo)**|
+|**2024-03-19**|**NN-ETM: Enabling safe neural network-based event-triggering mechanisms for consensus problems**|Irene Perez-Salesa et.al.|[2403.12567](http://arxiv.org/abs/2403.12567)|**[link](https://github.com/ireneperezsalesa/nn-etm)**|
 |**2024-03-19**|**Embodied LLM Agents Learn to Cooperate in Organized Teams**|Xudong Guo et.al.|[2403.12482](http://arxiv.org/abs/2403.12482)|null|
 |**2024-03-19**|**Online Multi-Agent Pickup and Delivery with Task Deadlines**|Hiroya Makino et.al.|[2403.12377](http://arxiv.org/abs/2403.12377)|null|
 |**2024-03-19**|**MARPF: Multi-Agent and Multi-Rack Path Finding**|Hiroya Makino et.al.|[2403.12376](http://arxiv.org/abs/2403.12376)|null|
 |**2024-03-18**|**Routing and Scheduling in Answer Set Programming applied to Multi-Agent Path Finding: Preliminary Report**|Roland Kaminski et.al.|[2403.12153](http://arxiv.org/abs/2403.12153)|null|
-|**2024-03-18**|**How Far Are We on the Decision-Making of LLMs? Evaluating LLMs' Gaming Ability in Multi-Agent Environments**|Jen-tse Huang et.al.|[2403.11807](http://arxiv.org/abs/2403.11807)|null|
+|**2024-03-18**|**How Far Are We on the Decision-Making of LLMs? Evaluating LLMs' Gaming Ability in Multi-Agent Environments**|Jen-tse Huang et.al.|[2403.11807](http://arxiv.org/abs/2403.11807)|**[link](https://github.com/cuhk-arise/gamabench)**|
 |**2024-03-18**|**Diffusion-Based Environment-Aware Trajectory Prediction**|Theodor Westny et.al.|[2403.11643](http://arxiv.org/abs/2403.11643)|null|
 |**2024-03-18**|**Can LLM-Augmented autonomous agents cooperate?, An evaluation of their cooperative capabilities through Melting Pot**|Manuel Mosquera et.al.|[2403.11381](http://arxiv.org/abs/2403.11381)|null|
 |**2024-03-19**|**V2X-DGW: Domain Generalization for Multi-agent Perception under Adverse Weather Conditions**|Baolu Li et.al.|[2403.11371](http://arxiv.org/abs/2403.11371)|null|

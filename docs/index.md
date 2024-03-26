@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-25**|**Harnessing the power of LLMs for normative reasoning in MASs**|Bastin Tony Roy Savarimuthu et.al.|[2403.16524](http://arxiv.org/abs/2403.16524)|null|
+|**2024-03-25**|**Norm Violation Detection in Multi-Agent Systems using Large Language Models: A Pilot Study**|Shawn He et.al.|[2403.16517](http://arxiv.org/abs/2403.16517)|null|
+|**2024-03-25**|**Towards Automatic Evaluation for LLMs' Clinical Capabilities: Metric, Data, and Algorithm**|Lei Liu et.al.|[2403.16446](http://arxiv.org/abs/2403.16446)|null|
+|**2024-03-25**|**AgentFL: Scaling LLM-based Fault Localization to Project-Level Context**|Yihao Qin et.al.|[2403.16362](http://arxiv.org/abs/2403.16362)|null|
+|**2024-03-24**|**Social Deliberation vs. Social Contracts in Self-Governing Voluntary Organisations**|Matthew Scott et.al.|[2403.16329](http://arxiv.org/abs/2403.16329)|null|
+|**2024-03-24**|**Q-adaptive: A Multi-Agent Reinforcement Learning Based Routing on Dragonfly Network**|Yao Kang et.al.|[2403.16301](http://arxiv.org/abs/2403.16301)|null|
+|**2024-03-24**|**Ultra Low-Cost Two-Stage Multimodal System for Non-Normative Behavior Detection**|Albert Lu et.al.|[2403.16151](http://arxiv.org/abs/2403.16151)|null|
+|**2024-03-24**|**Specifying Agent Ethics (Blue Sky Ideas)**|Louise A. Dennis et.al.|[2403.16100](http://arxiv.org/abs/2403.16100)|null|
+|**2024-03-24**|**V2X-Real: a Largs-Scale Dataset for Vehicle-to-Everything Cooperative Perception**|Hao Xiang et.al.|[2403.16034](http://arxiv.org/abs/2403.16034)|null|
+|**2024-03-24**|**MQE: Unleashing the Power of Interaction with Multi-agent Quadruped Environment**|Ziyan Xiong et.al.|[2403.16015](http://arxiv.org/abs/2403.16015)|null|
 |**2024-03-22**|**Collaborative AI Teaming in Unknown Environments via Active Goal Deduction**|Zuyuan Zhang et.al.|[2403.15341](http://arxiv.org/abs/2403.15341)|null|
 |**2024-03-22**|**Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse**|Jiawen Kang et.al.|[2403.15285](http://arxiv.org/abs/2403.15285)|null|
 |**2024-03-22**|**An Agent-Centric Perspective on Norm Enforcement and Sanctions**|Elena Yan et.al.|[2403.15128](http://arxiv.org/abs/2403.15128)|null|

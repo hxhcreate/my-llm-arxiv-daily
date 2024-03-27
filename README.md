@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-26**|**MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution**|Wei Tao et.al.|[2403.17927](http://arxiv.org/abs/2403.17927)|null|
+|**2024-03-26**|**Multi-Agent Clarity-Aware Dynamic Coverage with Gaussian Processes**|Devansh R. Agrawal et.al.|[2403.17917](http://arxiv.org/abs/2403.17917)|null|
+|**2024-03-26**|**CMP: Cooperative Motion Prediction with Multi-Agent Communication**|Zhuoyuan Wu et.al.|[2403.17916](http://arxiv.org/abs/2403.17916)|null|
+|**2024-03-26**|**Multi-Agent Resilient Consensus under Intermittent Faulty and Malicious Transmissions (Extended Version)**|Sarper Aydın et.al.|[2403.17907](http://arxiv.org/abs/2403.17907)|null|
+|**2024-03-26**|**Multi Agent Pathfinding for Noise Restricted Hybrid Fuel Unmanned Aerial Vehicles**|Drew Scott et.al.|[2403.17849](http://arxiv.org/abs/2403.17849)|null|
+|**2024-03-26**|**Scenario-Based Curriculum Generation for Multi-Agent Autonomous Driving**|Axel Brunnbauer et.al.|[2403.17805](http://arxiv.org/abs/2403.17805)|**[link](https://github.com/autonomousdrivingexaminer/mats-gym)**|
+|**2024-03-26**|**Prioritize Team Actions: Multi-Agent Temporal Logic Task Planning with Ordering Constraints**|Bowen Ye et.al.|[2403.17704](http://arxiv.org/abs/2403.17704)|null|
+|**2024-03-26**|**PeersimGym: An Environment for Solving the Task Offloading Problem with Reinforcement Learning**|Frederico Metelo et.al.|[2403.17637](http://arxiv.org/abs/2403.17637)|null|
+|**2024-03-26**|**LASIL: Learner-Aware Supervised Imitation Learning For Long-term Microscopic Traffic Simulation**|Ke Guo et.al.|[2403.17601](http://arxiv.org/abs/2403.17601)|**[link](https://github.com/kguo-cs/lsail)**|
+|**2024-03-26**|**Sharing the Cost of Success: A Game for Evaluating and Learning Collaborative Multi-Agent Instruction Giving and Following Policies**|Philipp Sadler et.al.|[2403.17497](http://arxiv.org/abs/2403.17497)|**[link](https://github.com/clp-research/cost-sharing-reference-game)**|
 |**2024-03-25**|**Harnessing the power of LLMs for normative reasoning in MASs**|Bastin Tony Roy Savarimuthu et.al.|[2403.16524](http://arxiv.org/abs/2403.16524)|null|
 |**2024-03-25**|**Norm Violation Detection in Multi-Agent Systems using Large Language Models: A Pilot Study**|Shawn He et.al.|[2403.16517](http://arxiv.org/abs/2403.16517)|null|
 |**2024-03-25**|**Towards Automatic Evaluation for LLMs' Clinical Capabilities: Metric, Data, and Algorithm**|Lei Liu et.al.|[2403.16446](http://arxiv.org/abs/2403.16446)|null|

@@ -17,6 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-27**|**Distributed Maximum Consensus over Noisy Links**|Ehsan Lari et.al.|[2403.18509](http://arxiv.org/abs/2403.18509)|null|
+|**2024-03-27**|**Distributed Feedback Optimization of Linear Multi-agent Systems**|Amir Mehrnoosh et.al.|[2403.18386](http://arxiv.org/abs/2403.18386)|null|
+|**2024-03-27**|**Fault-tolerant properties of scale-free linear protocols for synchronization of homogeneous multi-agent systems**|Anton A. Stoorvogel et.al.|[2403.18200](http://arxiv.org/abs/2403.18200)|null|
+|**2024-03-26**|**A Real-Time Rescheduling Algorithm for Multi-robot Plan Execution**|Ying Feng et.al.|[2403.18145](http://arxiv.org/abs/2403.18145)|null|
+|**2024-03-26**|**Generalizing Better Response Paths and Weakly Acyclic Games**|Bora Yongacoglu et.al.|[2403.18086](http://arxiv.org/abs/2403.18086)|null|
+|**2024-03-26**|**Paths to Equilibrium in Normal-Form Games**|Bora Yongacoglu et.al.|[2403.18079](http://arxiv.org/abs/2403.18079)|null|
+|**2024-03-26**|**Self-Clustering Hierarchical Multi-Agent Reinforcement Learning with Extensible Cooperation Graph**|Qingxu Fu et.al.|[2403.18056](http://arxiv.org/abs/2403.18056)|null|
 |**2024-03-26**|**MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution**|Wei Tao et.al.|[2403.17927](http://arxiv.org/abs/2403.17927)|null|
 |**2024-03-26**|**Multi-Agent Clarity-Aware Dynamic Coverage with Gaussian Processes**|Devansh R. Agrawal et.al.|[2403.17917](http://arxiv.org/abs/2403.17917)|null|
 |**2024-03-26**|**CMP: Cooperative Motion Prediction with Multi-Agent Communication**|Zhuoyuan Wu et.al.|[2403.17916](http://arxiv.org/abs/2403.17916)|null|

@@ -17,6 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**Human-compatible driving partners through data-regularized self-play reinforcement learning**|Daphne Cornelisse et.al.|[2403.19648](http://arxiv.org/abs/2403.19648)|**[link](https://github.com/emerge-lab/nocturne_lab)**|
+|**2024-03-28**|**Energy-Optimal Multi-Agent Navigation as a Strategic-Form Game**|Logan Beaver et.al.|[2403.19641](http://arxiv.org/abs/2403.19641)|null|
+|**2024-03-28**|**Base-extension Semantics for S5 Modal Logic**|Timo Eckhardt et.al.|[2403.19431](http://arxiv.org/abs/2403.19431)|null|
+|**2024-03-28**|**Multi-Agent Team Access Monitoring: Environments that Benefit from Target Information Sharing**|Andrew Dudash et.al.|[2403.19375](http://arxiv.org/abs/2403.19375)|null|
+|**2024-03-28**|**MATEval: A Multi-Agent Discussion Framework for Advancing Open-Ended Text Evaluation**|Yu Li et.al.|[2403.19305](http://arxiv.org/abs/2403.19305)|null|
+|**2024-03-28**|**MineLand: Simulating Large-Scale Multi-Agent Interactions with Limited Multimodal Senses and Physical Needs**|Xianhao Yu et.al.|[2403.19267](http://arxiv.org/abs/2403.19267)|**[link](https://github.com/cocacola-lab/mineland)**|
+|**2024-03-28**|**Inferring Latent Temporal Sparse Coordination Graph for Multi-Agent Reinforcement Learning**|Wei Duan et.al.|[2403.19253](http://arxiv.org/abs/2403.19253)|null|
 |**2024-03-27**|**Distributed Maximum Consensus over Noisy Links**|Ehsan Lari et.al.|[2403.18509](http://arxiv.org/abs/2403.18509)|null|
 |**2024-03-27**|**Distributed Feedback Optimization of Linear Multi-agent Systems**|Amir Mehrnoosh et.al.|[2403.18386](http://arxiv.org/abs/2403.18386)|null|
 |**2024-03-27**|**Fault-tolerant properties of scale-free linear protocols for synchronization of homogeneous multi-agent systems**|Anton A. Stoorvogel et.al.|[2403.18200](http://arxiv.org/abs/2403.18200)|null|

@@ -50,10 +50,10 @@
 |**2024-03-24**|**Ultra Low-Cost Two-Stage Multimodal System for Non-Normative Behavior Detection**|Albert Lu et.al.|[2403.16151](http://arxiv.org/abs/2403.16151)|null|
 |**2024-03-24**|**Specifying Agent Ethics (Blue Sky Ideas)**|Louise A. Dennis et.al.|[2403.16100](http://arxiv.org/abs/2403.16100)|null|
 |**2024-03-24**|**V2X-Real: a Largs-Scale Dataset for Vehicle-to-Everything Cooperative Perception**|Hao Xiang et.al.|[2403.16034](http://arxiv.org/abs/2403.16034)|null|
-|**2024-03-24**|**MQE: Unleashing the Power of Interaction with Multi-agent Quadruped Environment**|Ziyan Xiong et.al.|[2403.16015](http://arxiv.org/abs/2403.16015)|null|
+|**2024-03-24**|**MQE: Unleashing the Power of Interaction with Multi-agent Quadruped Environment**|Ziyan Xiong et.al.|[2403.16015](http://arxiv.org/abs/2403.16015)|**[link](https://github.com/ziyanx02/multiagent-quadruped-environment)**|
 |**2024-03-22**|**Collaborative AI Teaming in Unknown Environments via Active Goal Deduction**|Zuyuan Zhang et.al.|[2403.15341](http://arxiv.org/abs/2403.15341)|null|
 |**2024-03-22**|**Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse**|Jiawen Kang et.al.|[2403.15285](http://arxiv.org/abs/2403.15285)|null|
-|**2024-03-22**|**An Agent-Centric Perspective on Norm Enforcement and Sanctions**|Elena Yan et.al.|[2403.15128](http://arxiv.org/abs/2403.15128)|null|
+|**2024-03-22**|**An Agent-Centric Perspective on Norm Enforcement and Sanctions**|Elena Yan et.al.|[2403.15128](http://arxiv.org/abs/2403.15128)|**[link](https://github.com/yan-elena/myjoghurt-case-study)**|
 |**2024-03-22**|**A Picture Is Worth a Graph: Blueprint Debate on Graph for Multimodal Reasoning**|Changmeng Zheng et.al.|[2403.14972](http://arxiv.org/abs/2403.14972)|null|
 |**2024-03-21**|**Multi-Agent VQA: Exploring Multi-Agent Foundation Models in Zero-Shot Visual Question Answering**|Bowen Jiang et.al.|[2403.14783](http://arxiv.org/abs/2403.14783)|**[link](https://github.com/bowen-upenn/Multi-Agent-VQA)**|
 |**2024-03-21**|**Multi-agent Task-Driven Exploration via Intelligent Map Compression and Sharing**|Evangelos Psomiadis et.al.|[2403.14780](http://arxiv.org/abs/2403.14780)|null|
@@ -257,7 +257,7 @@
 |**2024-02-02**|**A Multi-Agent Conversational Recommender System**|Jiabao Fang et.al.|[2402.01135](http://arxiv.org/abs/2402.01135)|null|
 |**2024-02-02**|**Near-Optimal Reinforcement Learning with Self-Play under Adaptivity Constraints**|Dan Qiao et.al.|[2402.01111](http://arxiv.org/abs/2402.01111)|null|
 |**2024-02-02**|**Reasoning Capacity in Multi-Agent Systems: Limitations, Challenges and Human-Centered Solutions**|Pouya Pezeshkpour et.al.|[2402.01108](http://arxiv.org/abs/2402.01108)|null|
-|**2024-02-02**|**The Danger Of Arrogance: Welfare Equilibra As A Solution To Stackelberg Self-Play In Non-Coincidental Games**|Jake Levi et.al.|[2402.01088](http://arxiv.org/abs/2402.01088)|null|
+|**2024-02-02**|**The Danger Of Arrogance: Welfare Equilibra As A Solution To Stackelberg Self-Play In Non-Coincidental Games**|Jake Levi et.al.|[2402.01088](http://arxiv.org/abs/2402.01088)|**[link](https://github.com/jakelevi1996/welfare_equilibria_public)**|
 |**2024-02-01**|**Closure Discovery for Coarse-Grained Partial Differential Equations using Multi-Agent Reinforcement Learning**|Jan-Philipp von Bassewitz et.al.|[2402.00972](http://arxiv.org/abs/2402.00972)|null|
 |**2024-02-01**|**Learning and Calibrating Heterogeneous Bounded Rational Market Behaviour with Multi-Agent Reinforcement Learning**|Benjamin Patrick Evans et.al.|[2402.00787](http://arxiv.org/abs/2402.00787)|null|
 |**2024-02-01**|**FM3Q: Factorized Multi-Agent MiniMax Q-Learning for Two-Team Zero-Sum Markov Game**|Guangzheng Hu et.al.|[2402.00738](http://arxiv.org/abs/2402.00738)|null|

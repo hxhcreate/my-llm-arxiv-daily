@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-29**|**Improving Learnt Local MAPF Policies with Heuristic Search**|Rishi Veerapaneni et.al.|[2403.20300](http://arxiv.org/abs/2403.20300)|null|
+|**2024-03-29**|**Decentralized Multimedia Data Sharing in IoV: A Learning-based Equilibrium of Supply and Demand**|Jiani Fan et.al.|[2403.20218](http://arxiv.org/abs/2403.20218)|null|
+|**2024-03-29**|**A Learning-based Incentive Mechanism for Mobile AIGC Service in Decentralized Internet of Vehicles**|Jiani Fan et.al.|[2403.20151](http://arxiv.org/abs/2403.20151)|null|
+|**2024-03-29**|**CtRL-Sim: Reactive and Controllable Driving Agents with Offline Reinforcement Learning**|Luke Rowe et.al.|[2403.19918](http://arxiv.org/abs/2403.19918)|null|
+|**2024-03-28**|**Enhancing Anomaly Detection in Financial Markets with an LLM-based Multi-Agent Framework**|Taejin Park et.al.|[2403.19735](http://arxiv.org/abs/2403.19735)|null|
 |**2024-03-28**|**Human-compatible driving partners through data-regularized self-play reinforcement learning**|Daphne Cornelisse et.al.|[2403.19648](http://arxiv.org/abs/2403.19648)|**[link](https://github.com/emerge-lab/nocturne_lab)**|
 |**2024-03-28**|**Energy-Optimal Multi-Agent Navigation as a Strategic-Form Game**|Logan Beaver et.al.|[2403.19641](http://arxiv.org/abs/2403.19641)|null|
 |**2024-03-28**|**Base-extension Semantics for S5 Modal Logic**|Timo Eckhardt et.al.|[2403.19431](http://arxiv.org/abs/2403.19431)|null|

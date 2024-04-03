@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-02**|**Risk-Aware Real-Time Task Allocation for Stochastic Multi-Agent Systems under STL Specifications**|Maico H. W. Engelaar et.al.|[2404.02111](http://arxiv.org/abs/2404.02111)|null|
+|**2024-04-02**|**Emergence of Chemotactic Strategies with Multi-Agent Reinforcement Learning**|Samuel Tovey et.al.|[2404.01999](http://arxiv.org/abs/2404.01999)|null|
+|**2024-04-02**|**Learning-Based Joint Beamforming and Antenna Movement Design for Movable Antenna Systems**|Caihao Weng et.al.|[2404.01784](http://arxiv.org/abs/2404.01784)|null|
+|**2024-04-02**|**CMAT: A Multi-Agent Collaboration Tuning Framework for Enhancing Small Language Models**|Xuechen Liang et.al.|[2404.01663](http://arxiv.org/abs/2404.01663)|null|
+|**2024-04-02**|**InsightLens: Discovering and Exploring Insights from Conversational Contexts in Large-Language-Model-Powered Data Analysis**|Luoxuan Weng et.al.|[2404.01644](http://arxiv.org/abs/2404.01644)|null|
+|**2024-04-02**|**Collaborative Optimization of Wireless Communication and Computing Resource Allocation based on Multi-Agent Federated Weighting Deep Reinforcement Learning**|Junjie Wu et.al.|[2404.01638](http://arxiv.org/abs/2404.01638)|null|
+|**2024-04-02**|**Helmsman of the Masses? Evaluate the Opinion Leadership of Large Language Models in the Werewolf Game**|Silin Du et.al.|[2404.01602](http://arxiv.org/abs/2404.01602)|null|
+|**2024-04-02**|**Distributed Autonomous Swarm Formation for Dynamic Network Bridging**|Raffaele Galliera et.al.|[2404.01557](http://arxiv.org/abs/2404.01557)|null|
+|**2024-04-02**|**Multi-Agent Reinforcement Learning with Control-Theoretic Safety Guarantees for Dynamic Network Bridging**|Raffaele Galliera et.al.|[2404.01551](http://arxiv.org/abs/2404.01551)|null|
+|**2024-04-01**|**LLM as a Mastermind: A Survey of Strategic Reasoning with Large Language Models**|Yadong Zhang et.al.|[2404.01230](http://arxiv.org/abs/2404.01230)|null|
 |**2024-03-29**|**Improving Learnt Local MAPF Policies with Heuristic Search**|Rishi Veerapaneni et.al.|[2403.20300](http://arxiv.org/abs/2403.20300)|null|
 |**2024-03-29**|**Decentralized Multimedia Data Sharing in IoV: A Learning-based Equilibrium of Supply and Demand**|Jiani Fan et.al.|[2403.20218](http://arxiv.org/abs/2403.20218)|null|
 |**2024-03-29**|**A Learning-based Incentive Mechanism for Mobile AIGC Service in Decentralized Internet of Vehicles**|Jiani Fan et.al.|[2403.20151](http://arxiv.org/abs/2403.20151)|null|

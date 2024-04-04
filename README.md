@@ -17,6 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**Learn to Disguise: Avoid Refusal Responses in LLM's Defense via a Multi-agent Attacker-Disguiser Game**|Qianqiao Xu et.al.|[2404.02532](http://arxiv.org/abs/2404.02532)|null|
+|**2024-04-03**|**Versatile Scene-Consistent Traffic Scenario Generation as Optimization with Diffusion**|Zhiyu Huang et.al.|[2404.02524](http://arxiv.org/abs/2404.02524)|null|
+|**2024-04-03**|**Measuring Social Norms of Large Language Models**|Ye Yuan et.al.|[2404.02491](http://arxiv.org/abs/2404.02491)|null|
+|**2024-04-02**|**Task-priority Intermediated Hierarchical Distributed Policies: Reinforcement Learning of Adaptive Multi-robot Cooperative Transport**|Yusei Naito et.al.|[2404.02362](http://arxiv.org/abs/2404.02362)|null|
+|**2024-04-02**|**EnergAIze: Multi Agent Deep Deterministic Policy Gradient for Vehicle to Grid Energy Management**|Tiago Fonseca et.al.|[2404.02361](http://arxiv.org/abs/2404.02361)|null|
+|**2024-04-02**|**Federated Multi-Agent Mapping for Planetary Exploration**|Tiberiu-Ioan Szatmari et.al.|[2404.02289](http://arxiv.org/abs/2404.02289)|null|
+|**2024-04-02**|**Self-Organized Agents: A LLM Multi-Agent Framework toward Ultra Large-Scale Code Generation and Optimization**|Yoichi Ishibashi et.al.|[2404.02183](http://arxiv.org/abs/2404.02183)|null|
 |**2024-04-02**|**Risk-Aware Real-Time Task Allocation for Stochastic Multi-Agent Systems under STL Specifications**|Maico H. W. Engelaar et.al.|[2404.02111](http://arxiv.org/abs/2404.02111)|null|
 |**2024-04-02**|**Emergence of Chemotactic Strategies with Multi-Agent Reinforcement Learning**|Samuel Tovey et.al.|[2404.01999](http://arxiv.org/abs/2404.01999)|null|
 |**2024-04-02**|**Learning-Based Joint Beamforming and Antenna Movement Design for Movable Antenna Systems**|Caihao Weng et.al.|[2404.01784](http://arxiv.org/abs/2404.01784)|null|

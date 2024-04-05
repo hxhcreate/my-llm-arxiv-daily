@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**Laser Learning Environment: A new environment for coordination-critical multi-agent tasks**|Yannick Molinghen et.al.|[2404.03596](http://arxiv.org/abs/2404.03596)|**[link](https://github.com/yamoling/lle)**|
+|**2024-04-04**|**No Panacea in Planning: Algorithm Selection for Suboptimal Multi-Agent Path Finding**|Weizhe Chen et.al.|[2404.03554](http://arxiv.org/abs/2404.03554)|null|
+|**2024-04-04**|**Design of Stickbug: a Six-Armed Precision Pollination Robot**|Trevor Smith et.al.|[2404.03489](http://arxiv.org/abs/2404.03489)|null|
+|**2024-04-04**|**MEDIATE: Mutually Endorsed Distributed Incentive Acknowledgment Token Exchange**|Philipp Altmann et.al.|[2404.03431](http://arxiv.org/abs/2404.03431)|null|
+|**2024-04-04**|**Decentralized Learning Strategies for Estimation Error Minimization with Graph Neural Networks**|Xingran Chen et.al.|[2404.03227](http://arxiv.org/abs/2404.03227)|null|
+|**2024-04-03**|**MARL-LNS: Cooperative Multi-agent Reinforcement Learning via Large Neighborhoods Search**|Weizhe Chen et.al.|[2404.03101](http://arxiv.org/abs/2404.03101)|null|
 |**2024-04-03**|**Learn to Disguise: Avoid Refusal Responses in LLM's Defense via a Multi-agent Attacker-Disguiser Game**|Qianqiao Xu et.al.|[2404.02532](http://arxiv.org/abs/2404.02532)|null|
 |**2024-04-03**|**Versatile Scene-Consistent Traffic Scenario Generation as Optimization with Diffusion**|Zhiyu Huang et.al.|[2404.02524](http://arxiv.org/abs/2404.02524)|null|
 |**2024-04-03**|**Measuring Social Norms of Large Language Models**|Ye Yuan et.al.|[2404.02491](http://arxiv.org/abs/2404.02491)|null|

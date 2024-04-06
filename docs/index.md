@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.05
+## Updated on 2024.04.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AGENT
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-04**|**Laser Learning Environment: A new environment for coordination-critical multi-agent tasks**|Yannick Molinghen et.al.|[2404.03596](http://arxiv.org/abs/2404.03596)|**[link](https://github.com/yamoling/lle)**|
 |**2024-04-04**|**No Panacea in Planning: Algorithm Selection for Suboptimal Multi-Agent Path Finding**|Weizhe Chen et.al.|[2404.03554](http://arxiv.org/abs/2404.03554)|null|
-|**2024-04-04**|**Design of Stickbug: a Six-Armed Precision Pollination Robot**|Trevor Smith et.al.|[2404.03489](http://arxiv.org/abs/2404.03489)|null|
+|**2024-04-04**|**Design of Stickbug: a Six-Armed Precision Pollination Robot**|Trevor Smith et.al.|[2404.03489](http://arxiv.org/abs/2404.03489)|**[link](https://github.com/wvu-robotics/Stickbug_2024)**|
 |**2024-04-04**|**MEDIATE: Mutually Endorsed Distributed Incentive Acknowledgment Token Exchange**|Philipp Altmann et.al.|[2404.03431](http://arxiv.org/abs/2404.03431)|null|
 |**2024-04-04**|**Decentralized Learning Strategies for Estimation Error Minimization with Graph Neural Networks**|Xingran Chen et.al.|[2404.03227](http://arxiv.org/abs/2404.03227)|null|
 |**2024-04-03**|**MARL-LNS: Cooperative Multi-agent Reinforcement Learning via Large Neighborhoods Search**|Weizhe Chen et.al.|[2404.03101](http://arxiv.org/abs/2404.03101)|null|

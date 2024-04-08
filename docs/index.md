@@ -30,7 +30,7 @@ layout: default
 |**2024-04-02**|**Risk-Aware Real-Time Task Allocation for Stochastic Multi-Agent Systems under STL Specifications**|Maico H. W. Engelaar et.al.|[2404.02111](http://arxiv.org/abs/2404.02111)|null|
 |**2024-04-02**|**Emergence of Chemotactic Strategies with Multi-Agent Reinforcement Learning**|Samuel Tovey et.al.|[2404.01999](http://arxiv.org/abs/2404.01999)|null|
 |**2024-04-02**|**Learning-Based Joint Beamforming and Antenna Movement Design for Movable Antenna Systems**|Caihao Weng et.al.|[2404.01784](http://arxiv.org/abs/2404.01784)|null|
-|**2024-04-02**|**CMAT: A Multi-Agent Collaboration Tuning Framework for Enhancing Small Language Models**|Xuechen Liang et.al.|[2404.01663](http://arxiv.org/abs/2404.01663)|null|
+|**2024-04-02**|**CMAT: A Multi-Agent Collaboration Tuning Framework for Enhancing Small Language Models**|Xuechen Liang et.al.|[2404.01663](http://arxiv.org/abs/2404.01663)|**[link](https://github.com/heimy2000/cmat)**|
 |**2024-04-02**|**InsightLens: Discovering and Exploring Insights from Conversational Contexts in Large-Language-Model-Powered Data Analysis**|Luoxuan Weng et.al.|[2404.01644](http://arxiv.org/abs/2404.01644)|null|
 |**2024-04-02**|**Collaborative Optimization of Wireless Communication and Computing Resource Allocation based on Multi-Agent Federated Weighting Deep Reinforcement Learning**|Junjie Wu et.al.|[2404.01638](http://arxiv.org/abs/2404.01638)|null|
 |**2024-04-02**|**Helmsman of the Masses? Evaluate the Opinion Leadership of Large Language Models in the Werewolf Game**|Silin Du et.al.|[2404.01602](http://arxiv.org/abs/2404.01602)|null|
@@ -52,7 +52,7 @@ layout: default
 |**2024-03-27**|**Distributed Maximum Consensus over Noisy Links**|Ehsan Lari et.al.|[2403.18509](http://arxiv.org/abs/2403.18509)|null|
 |**2024-03-27**|**Distributed Feedback Optimization of Linear Multi-agent Systems**|Amir Mehrnoosh et.al.|[2403.18386](http://arxiv.org/abs/2403.18386)|null|
 |**2024-03-27**|**Fault-tolerant properties of scale-free linear protocols for synchronization of homogeneous multi-agent systems**|Anton A. Stoorvogel et.al.|[2403.18200](http://arxiv.org/abs/2403.18200)|null|
-|**2024-03-26**|**A Real-Time Rescheduling Algorithm for Multi-robot Plan Execution**|Ying Feng et.al.|[2403.18145](http://arxiv.org/abs/2403.18145)|null|
+|**2024-03-26**|**A Real-Time Rescheduling Algorithm for Multi-robot Plan Execution**|Ying Feng et.al.|[2403.18145](http://arxiv.org/abs/2403.18145)|**[link](https://github.com/YinggggFeng/Switchable-Edge-Search)**|
 |**2024-03-26**|**Generalizing Better Response Paths and Weakly Acyclic Games**|Bora Yongacoglu et.al.|[2403.18086](http://arxiv.org/abs/2403.18086)|null|
 |**2024-03-26**|**Paths to Equilibrium in Normal-Form Games**|Bora Yongacoglu et.al.|[2403.18079](http://arxiv.org/abs/2403.18079)|null|
 |**2024-03-26**|**Self-Clustering Hierarchical Multi-Agent Reinforcement Learning with Extensible Cooperation Graph**|Qingxu Fu et.al.|[2403.18056](http://arxiv.org/abs/2403.18056)|null|
@@ -391,7 +391,7 @@ layout: default
 |**2024-01-02**|**Joint Offloading and Resource Allocation for Hybrid Cloud and Edge Computing in SAGINs: A Decision Assisted Hybrid Action Space Deep Reinforcement Learning Approach**|Chong Huang et.al.|[2401.01140](http://arxiv.org/abs/2401.01140)|null|
 |**2024-01-01**|**Edge Computing based Human-Robot Cognitive Fusion: A Medical Case Study in the Autism Spectrum Disorder Therapy**|Qin Yang et.al.|[2401.00776](http://arxiv.org/abs/2401.00776)|null|
 |**2024-01-01**|**Plug-and-Play regularized 3D seismic inversion with 2D pre-trained denoisers**|Nick Luiken et.al.|[2401.00753](http://arxiv.org/abs/2401.00753)|null|
-|**2024-01-01**|**Polynomial-time Approximation Scheme for Equilibriums of Games**|Hongbo Sun et.al.|[2401.00747](http://arxiv.org/abs/2401.00747)|null|
+|**2024-01-01**|**Polynomial-time Approximation Scheme for Equilibriums of Games**|Hongbo Sun et.al.|[2401.00747](http://arxiv.org/abs/2401.00747)|**[link](https://github.com/shb20tsinghua/ptas_game)**|
 |**2023-12-30**|**Bidirectional Temporal Plan Graph: Enabling Switchable Passing Orders for More Efficient Multi-Agent Path Finding Plan Execution**|Yifan Su et.al.|[2401.00315](http://arxiv.org/abs/2401.00315)|null|
 |**2023-12-30**|**Physics-Informed Multi-Agent Reinforcement Learning for Distributed Multi-Robot Problems**|Eduardo Sebastian et.al.|[2401.00212](http://arxiv.org/abs/2401.00212)|**[link](https://github.com/eduardosebastianrodriguez/phmarl)**|
 |**2023-12-30**|**Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning**|Xin Yu et.al.|[2401.00167](http://arxiv.org/abs/2401.00167)|null|

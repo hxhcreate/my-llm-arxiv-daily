@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**ROMA-iQSS: An Objective Alignment Approach via State-Based Value Learning and ROund-Robin Multi-Agent Scheduling**|Chi-Hui Lin et.al.|[2404.03984](http://arxiv.org/abs/2404.03984)|null|
+|**2024-04-05**|**Heterogeneous Multi-Agent Reinforcement Learning for Zero-Shot Scalable Collaboration**|Xudong Guo et.al.|[2404.03869](http://arxiv.org/abs/2404.03869)|null|
+|**2024-04-04**|**SLS-BRD: A system-level approach to seeking generalised feedback Nash equilibria**|Otacilio B. L. Neto et.al.|[2404.03809](http://arxiv.org/abs/2404.03809)|null|
+|**2024-04-04**|**Legible and Proactive Robot Planning for Prosocial Human-Robot Interactions**|Jasper Geldenbott et.al.|[2404.03734](http://arxiv.org/abs/2404.03734)|null|
 |**2024-04-04**|**Laser Learning Environment: A new environment for coordination-critical multi-agent tasks**|Yannick Molinghen et.al.|[2404.03596](http://arxiv.org/abs/2404.03596)|**[link](https://github.com/yamoling/lle)**|
 |**2024-04-04**|**No Panacea in Planning: Algorithm Selection for Suboptimal Multi-Agent Path Finding**|Weizhe Chen et.al.|[2404.03554](http://arxiv.org/abs/2404.03554)|null|
 |**2024-04-04**|**Design of Stickbug: a Six-Armed Precision Pollination Robot**|Trevor Smith et.al.|[2404.03489](http://arxiv.org/abs/2404.03489)|**[link](https://github.com/wvu-robotics/Stickbug_2024)**|

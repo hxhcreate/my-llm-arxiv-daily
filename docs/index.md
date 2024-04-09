@@ -14,6 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**360°REA: Towards A Reusable Experience Accumulation with 360° Assessment for Multi-Agent System**|Shen Gao et.al.|[2404.05569](http://arxiv.org/abs/2404.05569)|null|
+|**2024-04-08**|**Towards Objectively Benchmarking Social Intelligence for Language Agents at Action Level**|Chenxu Wang et.al.|[2404.05337](http://arxiv.org/abs/2404.05337)|null|
+|**2024-04-08**|**ITA-ECBS: A Bounded-Suboptimal Algorithm for Combined Target-Assignment and Path-Finding Problem**|Yimin Tang et.al.|[2404.05223](http://arxiv.org/abs/2404.05223)|**[link](https://github.com/whoenig/libMultiRobotPlanning)**|
+|**2024-04-08**|**Multi-agent Long-term 3D Human Pose Forecasting via Interaction-aware Trajectory Conditioning**|Jaewoo Jeong et.al.|[2404.05218](http://arxiv.org/abs/2404.05218)|**[link](https://github.com/jaewoo97/t2p)**|
+|**2024-04-07**|**Graph Neural Network Meets Multi-Agent Reinforcement Learning: Fundamentals, Applications, and Future Directions**|Ziheng Liu et.al.|[2404.04898](http://arxiv.org/abs/2404.04898)|null|
+|**2024-04-07**|**LLM-Based Multi-Agent Systems for Software Engineering: Vision and the Road Ahead**|Junda He et.al.|[2404.04834](http://arxiv.org/abs/2404.04834)|null|
+|**2024-04-06**|**Challenges Faced by Large Language Models in Solving Multi-Agent Flocking**|Peihan Li et.al.|[2404.04752](http://arxiv.org/abs/2404.04752)|null|
+|**2024-04-06**|**MACM: Utilizing a Multi-Agent System for Condition Mining in Solving Complex Mathematical Problems**|Bin Lei et.al.|[2404.04735](http://arxiv.org/abs/2404.04735)|**[link](https://github.com/bin123apple/macm)**|
+|**2024-04-06**|**The Case for Developing a Foundation Model for Planning-like Tasks from Scratch**|Biplav Srivastava et.al.|[2404.04540](http://arxiv.org/abs/2404.04540)|null|
 |**2024-04-05**|**ROMA-iQSS: An Objective Alignment Approach via State-Based Value Learning and ROund-Robin Multi-Agent Scheduling**|Chi-Hui Lin et.al.|[2404.03984](http://arxiv.org/abs/2404.03984)|null|
 |**2024-04-05**|**Heterogeneous Multi-Agent Reinforcement Learning for Zero-Shot Scalable Collaboration**|Xudong Guo et.al.|[2404.03869](http://arxiv.org/abs/2404.03869)|null|
 |**2024-04-04**|**SLS-BRD: A system-level approach to seeking generalised feedback Nash equilibria**|Otacilio B. L. Neto et.al.|[2404.03809](http://arxiv.org/abs/2404.03809)|null|

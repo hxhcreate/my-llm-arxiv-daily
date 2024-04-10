@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-09**|**Large Language Models to the Rescue: Deadlock Resolution in Multi-Robot Systems**|Kunal Garg et.al.|[2404.06413](http://arxiv.org/abs/2404.06413)|null|
+|**2024-04-09**|**The Power in Communication: Power Regularization of Communication for Autonomy in Cooperative Multi-Agent Reinforcement Learning**|Nancirose Piazza et.al.|[2404.06387](http://arxiv.org/abs/2404.06387)|null|
+|**2024-04-09**|**The turnpike property for high-dimensional interacting agent systems in discrete time**|Martin Gugat et.al.|[2404.06134](http://arxiv.org/abs/2404.06134)|null|
+|**2024-04-09**|**Multi-Agent Coverage Control with Transient Behavior Consideration**|Runyu Zhang et.al.|[2404.05995](http://arxiv.org/abs/2404.05995)|null|
+|**2024-04-08**|**Attention-Driven Multi-Agent Reinforcement Learning: Enhancing Decisions with Expertise-Informed Tasks**|Andre R Kuroswiski et.al.|[2404.05840](http://arxiv.org/abs/2404.05840)|null|
 |**2024-04-08**|**360°REA: Towards A Reusable Experience Accumulation with 360° Assessment for Multi-Agent System**|Shen Gao et.al.|[2404.05569](http://arxiv.org/abs/2404.05569)|null|
 |**2024-04-08**|**Towards Objectively Benchmarking Social Intelligence for Language Agents at Action Level**|Chenxu Wang et.al.|[2404.05337](http://arxiv.org/abs/2404.05337)|null|
 |**2024-04-08**|**ITA-ECBS: A Bounded-Suboptimal Algorithm for Combined Target-Assignment and Path-Finding Problem**|Yimin Tang et.al.|[2404.05223](http://arxiv.org/abs/2404.05223)|**[link](https://github.com/whoenig/libMultiRobotPlanning)**|

@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-10**|**Multi-Agent Soft Actor-Critic with Global Loss for Autonomous Mobility-on-Demand Fleet Control**|Zeno Woywood et.al.|[2404.06975](http://arxiv.org/abs/2404.06975)|**[link](https://github.com/tumbais/hybridmadrl-amod-relocation)**|
 |**2024-04-09**|**Large Language Models to the Rescue: Deadlock Resolution in Multi-Robot Systems**|Kunal Garg et.al.|[2404.06413](http://arxiv.org/abs/2404.06413)|null|
 |**2024-04-09**|**The Power in Communication: Power Regularization of Communication for Autonomy in Cooperative Multi-Agent Reinforcement Learning**|Nancirose Piazza et.al.|[2404.06387](http://arxiv.org/abs/2404.06387)|null|
 |**2024-04-09**|**The turnpike property for high-dimensional interacting agent systems in discrete time**|Martin Gugat et.al.|[2404.06134](http://arxiv.org/abs/2404.06134)|null|

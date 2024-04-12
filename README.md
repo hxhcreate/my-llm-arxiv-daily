@@ -17,6 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**Multi-Robot Target Tracking with Sensing and Communication Danger Zones**|Jiazhen Li et.al.|[2404.07880](http://arxiv.org/abs/2404.07880)|null|
+|**2024-04-11**|**The Role of Confidence for Trust-based Resilient Consensus (Extended Version)**|Luca Ballotta. Michal Yemini et.al.|[2404.07838](http://arxiv.org/abs/2404.07838)|null|
+|**2024-04-11**|**Achieving violation-free distributed optimization under coupling constraints**|Changxin Liu et.al.|[2404.07609](http://arxiv.org/abs/2404.07609)|null|
+|**2024-04-11**|**A continuous-time violation-free multi-agent optimization algorithm and its applications to safe distributed control**|Xiao Tan et.al.|[2404.07571](http://arxiv.org/abs/2404.07571)|null|
+|**2024-04-11**|**Differentially Private Reinforcement Learning with Self-Play**|Dan Qiao et.al.|[2404.07559](http://arxiv.org/abs/2404.07559)|null|
+|**2024-04-11**|**Security Modelling for Cyber-Physical Systems: A Systematic Literature Review**|Shaofei Huang et.al.|[2404.07527](http://arxiv.org/abs/2404.07527)|null|
+|**2024-04-11**|**UAV-enabled Collaborative Beamforming via Multi-Agent Deep Reinforcement Learning**|Saichao Liu et.al.|[2404.07453](http://arxiv.org/abs/2404.07453)|null|
 |**2024-04-10**|**Multi-Agent Soft Actor-Critic with Global Loss for Autonomous Mobility-on-Demand Fleet Control**|Zeno Woywood et.al.|[2404.06975](http://arxiv.org/abs/2404.06975)|**[link](https://github.com/tumbais/hybridmadrl-amod-relocation)**|
 |**2024-04-09**|**Large Language Models to the Rescue: Deadlock Resolution in Multi-Robot Systems**|Kunal Garg et.al.|[2404.06413](http://arxiv.org/abs/2404.06413)|null|
 |**2024-04-09**|**The Power in Communication: Power Regularization of Communication for Autonomy in Cooperative Multi-Agent Reinforcement Learning**|Nancirose Piazza et.al.|[2404.06387](http://arxiv.org/abs/2404.06387)|null|

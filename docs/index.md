@@ -54,7 +54,7 @@ layout: default
 |**2024-04-02**|**Task-priority Intermediated Hierarchical Distributed Policies: Reinforcement Learning of Adaptive Multi-robot Cooperative Transport**|Yusei Naito et.al.|[2404.02362](http://arxiv.org/abs/2404.02362)|null|
 |**2024-04-02**|**EnergAIze: Multi Agent Deep Deterministic Policy Gradient for Vehicle to Grid Energy Management**|Tiago Fonseca et.al.|[2404.02361](http://arxiv.org/abs/2404.02361)|null|
 |**2024-04-02**|**Federated Multi-Agent Mapping for Planetary Exploration**|Tiberiu-Ioan Szatmari et.al.|[2404.02289](http://arxiv.org/abs/2404.02289)|null|
-|**2024-04-02**|**Self-Organized Agents: A LLM Multi-Agent Framework toward Ultra Large-Scale Code Generation and Optimization**|Yoichi Ishibashi et.al.|[2404.02183](http://arxiv.org/abs/2404.02183)|null|
+|**2024-04-02**|**Self-Organized Agents: A LLM Multi-Agent Framework toward Ultra Large-Scale Code Generation and Optimization**|Yoichi Ishibashi et.al.|[2404.02183](http://arxiv.org/abs/2404.02183)|**[link](https://github.com/tsukushiai/self-organized-agent)**|
 |**2024-04-02**|**Risk-Aware Real-Time Task Allocation for Stochastic Multi-Agent Systems under STL Specifications**|Maico H. W. Engelaar et.al.|[2404.02111](http://arxiv.org/abs/2404.02111)|null|
 |**2024-04-02**|**Emergence of Chemotactic Strategies with Multi-Agent Reinforcement Learning**|Samuel Tovey et.al.|[2404.01999](http://arxiv.org/abs/2404.01999)|null|
 |**2024-04-02**|**Learning-Based Joint Beamforming and Antenna Movement Design for Movable Antenna Systems**|Caihao Weng et.al.|[2404.01784](http://arxiv.org/abs/2404.01784)|null|
@@ -125,7 +125,7 @@ layout: default
 |**2024-03-20**|**Multi-agent Reinforcement Traffic Signal Control based on Interpretable Influence Mechanism and Biased ReLU Approximation**|Zhiyue Luo et.al.|[2403.13639](http://arxiv.org/abs/2403.13639)|null|
 |**2024-03-20**|**Distributed Cooperative Formation Control of Nonlinear Multi-Agent System (UGV) Using Neural Network**|Si Kheang Moeurn et.al.|[2403.13473](http://arxiv.org/abs/2403.13473)|null|
 |**2024-03-20**|**Agent Group Chat: An Interactive Group Chat Simulacra For Better Eliciting Collective Emergent Behavior**|Zhouhong Gu et.al.|[2403.13433](http://arxiv.org/abs/2403.13433)|**[link](https://github.com/mikegu721/agentgroup)**|
-|**2024-03-20**|**Caching-Augmented Lifelong Multi-Agent Path Finding**|Yimin Tang et.al.|[2403.13421](http://arxiv.org/abs/2403.13421)|null|
+|**2024-03-20**|**Caching-Augmented Lifelong Multi-Agent Path Finding**|Yimin Tang et.al.|[2403.13421](http://arxiv.org/abs/2403.13421)|**[link](https://github.com/harukimoriarty/cal-mapf)**|
 |**2024-03-20**|**Robotics meets Fluid Dynamics: A Characterization of the Induced Airflow around a Quadrotor**|Leonard Bauersfeld et.al.|[2403.13321](http://arxiv.org/abs/2403.13321)|null|
 |**2024-03-20**|**Mora: Enabling Generalist Video Generation via A Multi-Agent Framework**|Zhengqing Yuan et.al.|[2403.13248](http://arxiv.org/abs/2403.13248)|**[link](https://github.com/lichao-sun/mora)**|
 |**2024-03-19**|**Graph Neural Network-based Multi-agent Reinforcement Learning for Resilient Distributed Coordination of Multi-Robot Systems**|Anthony Goeckner et.al.|[2403.13093](http://arxiv.org/abs/2403.13093)|**[link](https://github.com/nu-ideas-lab/patrolling_zoo)**|

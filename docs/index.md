@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-16**|**COMBO: Compositional World Models for Embodied Multi-Agent Cooperation**|Hongxin Zhang et.al.|[2404.10775](http://arxiv.org/abs/2404.10775)|null|
+|**2024-04-16**|**N-Agent Ad Hoc Teamwork**|Caroline Wang et.al.|[2404.10740](http://arxiv.org/abs/2404.10740)|null|
+|**2024-04-16**|**Randomized Exploration in Cooperative Multi-Agent Reinforcement Learning**|Hao-Lun Hsu et.al.|[2404.10728](http://arxiv.org/abs/2404.10728)|null|
+|**2024-04-16**|**On the external concurrency of current BDI frameworks for MAS**|Martina Baiardi et.al.|[2404.10397](http://arxiv.org/abs/2404.10397)|null|
+|**2024-04-16**|**Demonstration of DB-GPT: Next Generation Data Interaction System Empowered by Large Language Models**|Siqiao Xue et.al.|[2404.10209](http://arxiv.org/abs/2404.10209)|**[link](https://github.com/eosphoros-ai/db-gpt)**|
+|**2024-04-15**|**EgoPet: Egomotion and Interaction Data from an Animal's Perspective**|Amir Bar et.al.|[2404.09991](http://arxiv.org/abs/2404.09991)|null|
+|**2024-04-15**|**Memory Sharing for Large Language Model based Agents**|Hang Gao et.al.|[2404.09982](http://arxiv.org/abs/2404.09982)|null|
+|**2024-04-15**|**Quality of Experience Oriented Cross-layer Optimization for Real-time XR Video Transmission**|Guangjin Pan et.al.|[2404.09905](http://arxiv.org/abs/2404.09905)|null|
 |**2024-04-15**|**Effective Reinforcement Learning Based on Structural Information Principles**|Xianghua Zeng et.al.|[2404.09760](http://arxiv.org/abs/2404.09760)|**[link](https://github.com/selgroup/sidm)**|
 |**2024-04-15**|**Higher Replay Ratio Empowers Sample-Efficient Multi-Agent Reinforcement Learning**|Linjie Xu et.al.|[2404.09715](http://arxiv.org/abs/2404.09715)|null|
 |**2024-04-15**|**Kernel-based learning with guarantees for multi-agent applications**|Krzysztof Kowalczyk et.al.|[2404.09708](http://arxiv.org/abs/2404.09708)|null|

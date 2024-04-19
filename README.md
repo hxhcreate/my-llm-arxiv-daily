@@ -17,6 +17,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**Stability Certificates for Receding Horizon Games**|Sophie Hall et.al.|[2404.12165](http://arxiv.org/abs/2404.12165)|null|
+|**2024-04-18**|**mABC: multi-Agent Blockchain-Inspired Collaboration for root cause analysis in micro-services architecture**|Wei Zhang et.al.|[2404.12135](http://arxiv.org/abs/2404.12135)|**[link](https://github.com/knediny/mABC)**|
+|**2024-04-18**|**X-Light: Cross-City Traffic Signal Control Using Transformer on Transformer as Meta Multi-Agent Reinforcement Learner**|Haoyuan Jiang et.al.|[2404.12090](http://arxiv.org/abs/2404.12090)|**[link](https://github.com/anonymousid-submission/x-light)**|
+|**2024-04-18**|**Multi-Agent Relative Investment Games in a Jump Diffusion Market with Deep Reinforcement Learning Algorithm**|Liwei Lu et.al.|[2404.11967](http://arxiv.org/abs/2404.11967)|null|
+|**2024-04-18**|**AgentCoord: Visually Exploring Coordination Strategy for LLM-based Multi-Agent Collaboration**|Bo Pan et.al.|[2404.11943](http://arxiv.org/abs/2404.11943)|null|
+|**2024-04-18**|**JointPPO: Diving Deeper into the Effectiveness of PPO in Multi-Agent Reinforcement Learning**|Chenxing Liu et.al.|[2404.11831](http://arxiv.org/abs/2404.11831)|null|
 |**2024-04-17**|**The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling: A Survey**|Tula Masterman et.al.|[2404.11584](http://arxiv.org/abs/2404.11584)|null|
 |**2024-04-17**|**Open-Ended Wargames with Large Language Models**|Daniel P. Hogan et.al.|[2404.11446](http://arxiv.org/abs/2404.11446)|**[link](https://github.com/iqtlabs/snowglobe)**|
 |**2024-04-17**|**Towards Multi-agent Reinforcement Learning based Traffic Signal Control through Spatio-temporal Hypergraphs**|Kang Wang et.al.|[2404.11014](http://arxiv.org/abs/2404.11014)|null|

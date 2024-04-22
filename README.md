@@ -27,7 +27,7 @@
 |**2024-04-17**|**Open-Ended Wargames with Large Language Models**|Daniel P. Hogan et.al.|[2404.11446](http://arxiv.org/abs/2404.11446)|**[link](https://github.com/iqtlabs/snowglobe)**|
 |**2024-04-17**|**Towards Multi-agent Reinforcement Learning based Traffic Signal Control through Spatio-temporal Hypergraphs**|Kang Wang et.al.|[2404.11014](http://arxiv.org/abs/2404.11014)|null|
 |**2024-04-17**|**Function Approximation for Reinforcement Learning Controller for Energy from Spread Waves**|Soumyendu Sarkar et.al.|[2404.10991](http://arxiv.org/abs/2404.10991)|null|
-|**2024-04-17**|**Group-Aware Coordination Graph for Multi-Agent Reinforcement Learning**|Wei Duan et.al.|[2404.10976](http://arxiv.org/abs/2404.10976)|null|
+|**2024-04-17**|**Group-Aware Coordination Graph for Multi-Agent Reinforcement Learning**|Wei Duan et.al.|[2404.10976](http://arxiv.org/abs/2404.10976)|**[link](https://github.com/Wei9711/GACG)**|
 |**2024-04-16**|**Sustainability of Data Center Digital Twins with Reinforcement Learning**|Soumyendu Sarkar et.al.|[2404.10786](http://arxiv.org/abs/2404.10786)|**[link](https://github.com/hewlettpackard/dc-rl)**|
 |**2024-04-16**|**COMBO: Compositional World Models for Embodied Multi-Agent Cooperation**|Hongxin Zhang et.al.|[2404.10775](http://arxiv.org/abs/2404.10775)|null|
 |**2024-04-16**|**N-Agent Ad Hoc Teamwork**|Caroline Wang et.al.|[2404.10740](http://arxiv.org/abs/2404.10740)|null|
@@ -35,7 +35,7 @@
 |**2024-04-16**|**On the external concurrency of current BDI frameworks for MAS**|Martina Baiardi et.al.|[2404.10397](http://arxiv.org/abs/2404.10397)|null|
 |**2024-04-16**|**Demonstration of DB-GPT: Next Generation Data Interaction System Empowered by Large Language Models**|Siqiao Xue et.al.|[2404.10209](http://arxiv.org/abs/2404.10209)|**[link](https://github.com/eosphoros-ai/db-gpt)**|
 |**2024-04-15**|**EgoPet: Egomotion and Interaction Data from an Animal's Perspective**|Amir Bar et.al.|[2404.09991](http://arxiv.org/abs/2404.09991)|null|
-|**2024-04-15**|**Memory Sharing for Large Language Model based Agents**|Hang Gao et.al.|[2404.09982](http://arxiv.org/abs/2404.09982)|null|
+|**2024-04-15**|**Memory Sharing for Large Language Model based Agents**|Hang Gao et.al.|[2404.09982](http://arxiv.org/abs/2404.09982)|**[link](https://github.com/ghupppp/memorysharingllm)**|
 |**2024-04-15**|**Quality of Experience Oriented Cross-layer Optimization for Real-time XR Video Transmission**|Guangjin Pan et.al.|[2404.09905](http://arxiv.org/abs/2404.09905)|null|
 |**2024-04-15**|**Effective Reinforcement Learning Based on Structural Information Principles**|Xianghua Zeng et.al.|[2404.09760](http://arxiv.org/abs/2404.09760)|**[link](https://github.com/selgroup/sidm)**|
 |**2024-04-15**|**Higher Replay Ratio Empowers Sample-Efficient Multi-Agent Reinforcement Learning**|Linjie Xu et.al.|[2404.09715](http://arxiv.org/abs/2404.09715)|null|
@@ -103,9 +103,9 @@
 |**2024-03-28**|**Energy-Optimal Multi-Agent Navigation as a Strategic-Form Game**|Logan Beaver et.al.|[2403.19641](http://arxiv.org/abs/2403.19641)|null|
 |**2024-03-28**|**Base-extension Semantics for S5 Modal Logic**|Timo Eckhardt et.al.|[2403.19431](http://arxiv.org/abs/2403.19431)|null|
 |**2024-03-28**|**Multi-Agent Team Access Monitoring: Environments that Benefit from Target Information Sharing**|Andrew Dudash et.al.|[2403.19375](http://arxiv.org/abs/2403.19375)|null|
-|**2024-03-28**|**MATEval: A Multi-Agent Discussion Framework for Advancing Open-Ended Text Evaluation**|Yu Li et.al.|[2403.19305](http://arxiv.org/abs/2403.19305)|null|
+|**2024-03-28**|**MATEval: A Multi-Agent Discussion Framework for Advancing Open-Ended Text Evaluation**|Yu Li et.al.|[2403.19305](http://arxiv.org/abs/2403.19305)|**[link](https://github.com/kse-eleven/mateval)**|
 |**2024-03-28**|**MineLand: Simulating Large-Scale Multi-Agent Interactions with Limited Multimodal Senses and Physical Needs**|Xianhao Yu et.al.|[2403.19267](http://arxiv.org/abs/2403.19267)|**[link](https://github.com/cocacola-lab/mineland)**|
-|**2024-03-28**|**Inferring Latent Temporal Sparse Coordination Graph for Multi-Agent Reinforcement Learning**|Wei Duan et.al.|[2403.19253](http://arxiv.org/abs/2403.19253)|null|
+|**2024-03-28**|**Inferring Latent Temporal Sparse Coordination Graph for Multi-Agent Reinforcement Learning**|Wei Duan et.al.|[2403.19253](http://arxiv.org/abs/2403.19253)|**[link](https://github.com/Wei9711/LTSCG)**|
 |**2024-03-27**|**Distributed Maximum Consensus over Noisy Links**|Ehsan Lari et.al.|[2403.18509](http://arxiv.org/abs/2403.18509)|null|
 |**2024-03-27**|**Distributed Feedback Optimization of Linear Multi-agent Systems**|Amir Mehrnoosh et.al.|[2403.18386](http://arxiv.org/abs/2403.18386)|null|
 |**2024-03-27**|**Fault-tolerant properties of scale-free linear protocols for synchronization of homogeneous multi-agent systems**|Anton A. Stoorvogel et.al.|[2403.18200](http://arxiv.org/abs/2403.18200)|null|

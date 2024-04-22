@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-19**|**Private Agent-Based Modeling**|Ayush Chopra et.al.|[2404.12983](http://arxiv.org/abs/2404.12983)|null|
+|**2024-04-19**|**MAexp: A Generic Platform for RL-based Multi-Agent Exploration**|Shaohao Zhu et.al.|[2404.12824](http://arxiv.org/abs/2404.12824)|**[link](https://github.com/duangzhu/maexp)**|
+|**2024-04-19**|**LayeredMAPF: a decomposition of MAPF instance without compromising solvability**|Zhuo Yao et.al.|[2404.12773](http://arxiv.org/abs/2404.12773)|null|
+|**2024-04-19**|**Grasper: A Generalist Pursuer for Pursuit-Evasion Problems**|Pengdeng Li et.al.|[2404.12626](http://arxiv.org/abs/2404.12626)|**[link](https://github.com/ipadli/grasper)**|
+|**2024-04-19**|**Stackelberg Game-Theoretic Learning for Collaborative Assembly Task Planning**|Yuhan Zhao et.al.|[2404.12570](http://arxiv.org/abs/2404.12570)|null|
+|**2024-04-18**|**HalluciBot: Is There No Such Thing as a Bad Question?**|William Watson et.al.|[2404.12535](http://arxiv.org/abs/2404.12535)|null|
+|**2024-04-18**|**Centralized vs. Decentralized Multi-Agent Reinforcement Learning for Enhanced Control of Electric Vehicle Charging Networks**|Amin Shojaeighadikolaei et.al.|[2404.12520](http://arxiv.org/abs/2404.12520)|null|
 |**2024-04-18**|**Stability Certificates for Receding Horizon Games**|Sophie Hall et.al.|[2404.12165](http://arxiv.org/abs/2404.12165)|null|
 |**2024-04-18**|**mABC: multi-Agent Blockchain-Inspired Collaboration for root cause analysis in micro-services architecture**|Wei Zhang et.al.|[2404.12135](http://arxiv.org/abs/2404.12135)|null|
 |**2024-04-18**|**X-Light: Cross-City Traffic Signal Control Using Transformer on Transformer as Meta Multi-Agent Reinforcement Learner**|Haoyuan Jiang et.al.|[2404.12090](http://arxiv.org/abs/2404.12090)|**[link](https://github.com/anonymousid-submission/x-light)**|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.23
+## Updated on 2024.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AGENT
@@ -19,7 +19,7 @@ layout: default
 |**2024-04-22**|**Liquid-Graph Time-Constant Network for Multi-Agent Systems Control**|Antonio Marino et.al.|[2404.13982](http://arxiv.org/abs/2404.13982)|null|
 |**2024-04-22**|**A survey of air combat behavior modeling using machine learning**|Patrick Ribu Gorton et.al.|[2404.13954](http://arxiv.org/abs/2404.13954)|null|
 |**2024-04-22**|**Distributional Black-Box Model Inversion Attack with Multi-Agent Reinforcement Learning**|Huan Bao et.al.|[2404.13860](http://arxiv.org/abs/2404.13860)|null|
-|**2024-04-21**|**Multi-AUV Cooperative Underwater Multi-Target Tracking Based on Dynamic-Switching-enabled Multi-Agent Reinforcement Learning**|Shengbo Wang et.al.|[2404.13654](http://arxiv.org/abs/2404.13654)|null|
+|**2024-04-23**|**Multi-AUV Cooperative Underwater Multi-Target Tracking Based on Dynamic-Switching-enabled Multi-Agent Reinforcement Learning**|Shengbo Wang et.al.|[2404.13654](http://arxiv.org/abs/2404.13654)|null|
 |**2024-04-20**|**Large Language Models as Test Case Generators: Performance Evaluation and Enhancement**|Kefan Li et.al.|[2404.13340](http://arxiv.org/abs/2404.13340)|null|
 |**2024-04-19**|**Resource Slicing with Cross-Cell Coordination in Satellite-Terrestrial Integrated Networks**|Mingcheng He et.al.|[2404.13158](http://arxiv.org/abs/2404.13158)|null|
 |**2024-04-19**|**Private Agent-Based Modeling**|Ayush Chopra et.al.|[2404.12983](http://arxiv.org/abs/2404.12983)|null|

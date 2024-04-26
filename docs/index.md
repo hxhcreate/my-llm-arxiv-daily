@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**Neural Interaction Energy for Multi-Agent Trajectory Prediction**|Kaixin Shen et.al.|[2404.16579](http://arxiv.org/abs/2404.16579)|null|
+|**2024-04-25**|**Distributed Matrix Pencil Formulations for Prescribed-Time Leader-Following Consensus of MASs with Unknown Sensor Sensitivity**|Hefu Ye et.al.|[2404.16412](http://arxiv.org/abs/2404.16412)|null|
+|**2024-04-25**|**Optimal and Bounded Suboptimal Any-Angle Multi-agent Pathfinding**|Konstantin Yakovlev et.al.|[2404.16379](http://arxiv.org/abs/2404.16379)|null|
+|**2024-04-24**|**Scaling Lifelong Multi-Agent Path Finding to More Realistic Settings: Research Challenges and Opportunities**|He Jiang et.al.|[2404.16162](http://arxiv.org/abs/2404.16162)|null|
+|**2024-04-24**|**Delay-Aware Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control with Model-based Stability Enhancement**|Jiaqi Liu et.al.|[2404.15696](http://arxiv.org/abs/2404.15696)|null|
 |**2024-04-24**|**Decentralized Multi-Agent Trajectory Planning in Dynamic Environments with Spatiotemporal Occupancy Grid Maps**|Siyuan Wu et.al.|[2404.15602](http://arxiv.org/abs/2404.15602)|null|
 |**2024-04-24**|**GRSN: Gated Recurrent Spiking Neurons for POMDPs and MARL**|Lang Qin et.al.|[2404.15597](http://arxiv.org/abs/2404.15597)|null|
 |**2024-04-24**|**Multi-Agent Reinforcement Learning for Energy Networks: Computational Challenges, Progress and Open Problems**|Sarah Keren et.al.|[2404.15583](http://arxiv.org/abs/2404.15583)|null|

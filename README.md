@@ -25,7 +25,7 @@
 |**2024-04-24**|**Decentralized Multi-Agent Trajectory Planning in Dynamic Environments with Spatiotemporal Occupancy Grid Maps**|Siyuan Wu et.al.|[2404.15602](http://arxiv.org/abs/2404.15602)|null|
 |**2024-04-24**|**GRSN: Gated Recurrent Spiking Neurons for POMDPs and MARL**|Lang Qin et.al.|[2404.15597](http://arxiv.org/abs/2404.15597)|null|
 |**2024-04-24**|**Multi-Agent Reinforcement Learning for Energy Networks: Computational Challenges, Progress and Open Problems**|Sarah Keren et.al.|[2404.15583](http://arxiv.org/abs/2404.15583)|null|
-|**2024-04-23**|**BattleAgent: Multi-modal Dynamic Emulation on Historical Battles to Complement Historical Analysis**|Shuhang Lin et.al.|[2404.15532](http://arxiv.org/abs/2404.15532)|null|
+|**2024-04-23**|**BattleAgent: Multi-modal Dynamic Emulation on Historical Battles to Complement Historical Analysis**|Shuhang Lin et.al.|[2404.15532](http://arxiv.org/abs/2404.15532)|**[link](https://github.com/agiresearch/battleagent)**|
 |**2024-04-23**|**Adaptive Mechanism Design using Multi-Agent Revealed Preferences**|Luke Snow et.al.|[2404.15391](http://arxiv.org/abs/2404.15391)|null|
 |**2024-04-23**|**From Space-Time to Space-Order: Directly Planning a Temporal Planning Graph by Redefining CBS**|Yu Wu et.al.|[2404.15137](http://arxiv.org/abs/2404.15137)|null|
 |**2024-04-23**|**CT-Agent: Clinical Trial Multi-Agent with Large Language Model-based Reasoning**|Ling Yue et.al.|[2404.14777](http://arxiv.org/abs/2404.14777)|null|

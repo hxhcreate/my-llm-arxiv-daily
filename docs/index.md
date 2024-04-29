@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-26**|**Quantum Multi-Agent Reinforcement Learning for Aerial Ad-hoc Networks**|Theodora-Augustina Drăgan et.al.|[2404.17499](http://arxiv.org/abs/2404.17499)|null|
+|**2024-04-26**|**A multi-agent model of hierarchical decision dynamics**|Paul Kinsler et.al.|[2404.17477](http://arxiv.org/abs/2404.17477)|null|
+|**2024-04-26**|**A Unified Debugging Approach via LLM-Based Multi-Agent Synergy**|Cheryl Lee et.al.|[2404.17153](http://arxiv.org/abs/2404.17153)|null|
+|**2024-04-25**|**Evaluating Collaborative Autonomy in Opposed Environments using Maritime Capture-the-Flag Competitions**|Jordan Beason et.al.|[2404.17038](http://arxiv.org/abs/2404.17038)|null|
+|**2024-04-25**|**AutoGenesisAgent: Self-Generating Multi-Agent Systems for Complex Tasks**|Jeremy Harper et.al.|[2404.17017](http://arxiv.org/abs/2404.17017)|null|
 |**2024-04-25**|**Neural Interaction Energy for Multi-Agent Trajectory Prediction**|Kaixin Shen et.al.|[2404.16579](http://arxiv.org/abs/2404.16579)|null|
 |**2024-04-25**|**Distributed Matrix Pencil Formulations for Prescribed-Time Leader-Following Consensus of MASs with Unknown Sensor Sensitivity**|Hefu Ye et.al.|[2404.16412](http://arxiv.org/abs/2404.16412)|null|
 |**2024-04-25**|**Optimal and Bounded Suboptimal Any-Angle Multi-agent Pathfinding**|Konstantin Yakovlev et.al.|[2404.16379](http://arxiv.org/abs/2404.16379)|null|

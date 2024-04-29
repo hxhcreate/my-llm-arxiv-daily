@@ -40,9 +40,9 @@
 |**2024-04-19**|**Resource Slicing with Cross-Cell Coordination in Satellite-Terrestrial Integrated Networks**|Mingcheng He et.al.|[2404.13158](http://arxiv.org/abs/2404.13158)|null|
 |**2024-04-19**|**Private Agent-Based Modeling**|Ayush Chopra et.al.|[2404.12983](http://arxiv.org/abs/2404.12983)|null|
 |**2024-04-19**|**MAexp: A Generic Platform for RL-based Multi-Agent Exploration**|Shaohao Zhu et.al.|[2404.12824](http://arxiv.org/abs/2404.12824)|**[link](https://github.com/duangzhu/maexp)**|
-|**2024-04-19**|**LayeredMAPF: a decomposition of MAPF instance without compromising solvability**|Zhuo Yao et.al.|[2404.12773](http://arxiv.org/abs/2404.12773)|null|
+|**2024-04-19**|**LayeredMAPF: a decomposition of MAPF instance without compromising solvability**|Zhuo Yao et.al.|[2404.12773](http://arxiv.org/abs/2404.12773)|**[link](https://github.com/joeyao-bit/layeredmapf)**|
 |**2024-04-19**|**Grasper: A Generalist Pursuer for Pursuit-Evasion Problems**|Pengdeng Li et.al.|[2404.12626](http://arxiv.org/abs/2404.12626)|**[link](https://github.com/ipadli/grasper)**|
-|**2024-04-19**|**Stackelberg Game-Theoretic Learning for Collaborative Assembly Task Planning**|Yuhan Zhao et.al.|[2404.12570](http://arxiv.org/abs/2404.12570)|null|
+|**2024-04-19**|**Stackelberg Game-Theoretic Learning for Collaborative Assembly Task Planning**|Yuhan Zhao et.al.|[2404.12570](http://arxiv.org/abs/2404.12570)|**[link](https://github.com/yuhan16/Stackelberg-Collaborative-Assembly)**|
 |**2024-04-18**|**HalluciBot: Is There No Such Thing as a Bad Question?**|William Watson et.al.|[2404.12535](http://arxiv.org/abs/2404.12535)|null|
 |**2024-04-18**|**Centralized vs. Decentralized Multi-Agent Reinforcement Learning for Enhanced Control of Electric Vehicle Charging Networks**|Amin Shojaeighadikolaei et.al.|[2404.12520](http://arxiv.org/abs/2404.12520)|null|
 |**2024-04-18**|**Stability Certificates for Receding Horizon Games**|Sophie Hall et.al.|[2404.12165](http://arxiv.org/abs/2404.12165)|null|
@@ -187,7 +187,7 @@
 |**2024-03-20**|**Mora: Enabling Generalist Video Generation via A Multi-Agent Framework**|Zhengqing Yuan et.al.|[2403.13248](http://arxiv.org/abs/2403.13248)|**[link](https://github.com/lichao-sun/mora)**|
 |**2024-03-19**|**Graph Neural Network-based Multi-agent Reinforcement Learning for Resilient Distributed Coordination of Multi-Robot Systems**|Anthony Goeckner et.al.|[2403.13093](http://arxiv.org/abs/2403.13093)|**[link](https://github.com/nu-ideas-lab/patrolling_zoo)**|
 |**2024-03-19**|**NN-ETM: Enabling safe neural network-based event-triggering mechanisms for consensus problems**|Irene Perez-Salesa et.al.|[2403.12567](http://arxiv.org/abs/2403.12567)|**[link](https://github.com/ireneperezsalesa/nn-etm)**|
-|**2024-03-19**|**Embodied LLM Agents Learn to Cooperate in Organized Teams**|Xudong Guo et.al.|[2403.12482](http://arxiv.org/abs/2403.12482)|null|
+|**2024-03-19**|**Embodied LLM Agents Learn to Cooperate in Organized Teams**|Xudong Guo et.al.|[2403.12482](http://arxiv.org/abs/2403.12482)|**[link](https://github.com/tobeatraceur/Organized-LLM-Agents)**|
 |**2024-03-19**|**Online Multi-Agent Pickup and Delivery with Task Deadlines**|Hiroya Makino et.al.|[2403.12377](http://arxiv.org/abs/2403.12377)|null|
 |**2024-03-19**|**MARPF: Multi-Agent and Multi-Rack Path Finding**|Hiroya Makino et.al.|[2403.12376](http://arxiv.org/abs/2403.12376)|null|
 |**2024-03-18**|**Routing and Scheduling in Answer Set Programming applied to Multi-Agent Path Finding: Preliminary Report**|Roland Kaminski et.al.|[2403.12153](http://arxiv.org/abs/2403.12153)|null|
@@ -231,7 +231,7 @@
 |**2024-03-08**|**Dynamics of Moral Behavior in Heterogeneous Populations of Learning Agents**|Elizaveta Tennant et.al.|[2403.04202](http://arxiv.org/abs/2403.04202)|null|
 |**2024-03-06**|**Population-aware Online Mirror Descent for Mean-Field Games by Deep Reinforcement Learning**|Zida Wu et.al.|[2403.03552](http://arxiv.org/abs/2403.03552)|null|
 |**2024-03-08**|**Discrete Consensus-Based Optimization**|Junhyeok Byeon et.al.|[2403.03430](http://arxiv.org/abs/2403.03430)|null|
-|**2024-03-05**|**Collision Avoidance Verification of Multiagent Systems with Learned Policies**|Zihao Dong et.al.|[2403.03314](http://arxiv.org/abs/2403.03314)|null|
+|**2024-03-05**|**Collision Avoidance Verification of Multiagent Systems with Learned Policies**|Zihao Dong et.al.|[2403.03314](http://arxiv.org/abs/2403.03314)|**[link](https://github.com/neu-autonomy/rebar)**|
 |**2024-03-05**|**Reaching Consensus in Cooperative Multi-Agent Reinforcement Learning with Goal Imagination**|Liangzhou Wang et.al.|[2403.03172](http://arxiv.org/abs/2403.03172)|null|
 |**2024-03-05**|**Equilibria in Two-Stage Facility Location with Atomic Clients**|Simon Krogmann et.al.|[2403.03114](http://arxiv.org/abs/2403.03114)|null|
 |**2024-03-05**|**Distributed Policy Gradient for Linear Quadratic Networked Control with Limited Communication Range**|Yuzi Yan et.al.|[2403.03055](http://arxiv.org/abs/2403.03055)|null|
@@ -279,7 +279,7 @@
 |**2024-02-24**|**Cooperation and Control in Delegation Games**|Oliver Sourbut et.al.|[2402.15821](http://arxiv.org/abs/2402.15821)|null|
 |**2024-02-23**|**HiMAP: Learning Heuristics-Informed Policies for Large-Scale Multi-Agent Pathfinding**|Huijie Tang et.al.|[2402.15546](http://arxiv.org/abs/2402.15546)|**[link](https://github.com/kaist-silab/himap)**|
 |**2024-02-23**|**Shapley Value Based Multi-Agent Reinforcement Learning: Theory, Method and Its Application to Energy Network**|Jianhong Wang et.al.|[2402.15324](http://arxiv.org/abs/2402.15324)|null|
-|**2024-02-23**|**DEEM: Dynamic Experienced Expert Modeling for Stance Detection**|Xiaolong Wang et.al.|[2402.15264](http://arxiv.org/abs/2402.15264)|null|
+|**2024-02-23**|**DEEM: Dynamic Experienced Expert Modeling for Stance Detection**|Xiaolong Wang et.al.|[2402.15264](http://arxiv.org/abs/2402.15264)|**[link](https://github.com/thunlp-mt/deem)**|
 |**2024-02-23**|**Multi-Agent Collaboration Framework for Recommender Systems**|Zhefan Wang et.al.|[2402.15235](http://arxiv.org/abs/2402.15235)|**[link](https://github.com/wzf2000/macrec)**|
 |**2024-02-23**|**Optimal mesh generation for a non-iterative grid-converged solution of flow through a blade passage using deep reinforcement learning**|Innyoung Kim et.al.|[2402.15079](http://arxiv.org/abs/2402.15079)|null|
 |**2024-02-23**|**Analyzing Games in Maker Protocol Part One: A Multi-Agent Influence Diagram Approach Towards Coordination**|Abhimanyu Nag et.al.|[2402.15037](http://arxiv.org/abs/2402.15037)|null|

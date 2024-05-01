@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.30
+## Updated on 2024.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@
 |**2024-04-29**|**Anywhere: A Multi-Agent Framework for Reliable and Diverse Foreground-Conditioned Image Inpainting**|Tianyidan Xie et.al.|[2404.18598](http://arxiv.org/abs/2404.18598)|null|
 |**2024-04-28**|**Using Deep Q-Learning to Dynamically Toggle between Push/Pull Actions in Computational Trust Mechanisms**|Zoi Lygizou et.al.|[2404.18296](http://arxiv.org/abs/2404.18296)|null|
 |**2024-04-28**|**ATR-Mapping: Asymmetric Topological Representation based Mapping Framework for Multi-Robot Environment Exploration**|Hao Zhang et.al.|[2404.18089](http://arxiv.org/abs/2404.18089)|null|
-|**2024-04-28**|**ComposerX: Multi-Agent Symbolic Music Composition with LLMs**|Qixin Deng et.al.|[2404.18081](http://arxiv.org/abs/2404.18081)|**[link](https://github.com/lllindsey0615/composerx)**|
+|**2024-04-30**|**ComposerX: Multi-Agent Symbolic Music Composition with LLMs**|Qixin Deng et.al.|[2404.18081](http://arxiv.org/abs/2404.18081)|**[link](https://github.com/lllindsey0615/composerx)**|
 |**2024-04-27**|**Advancing Healthcare Automation: Multi-Agent Systems for Medical Necessity Justification**|Himanshu Pandey et.al.|[2404.17977](http://arxiv.org/abs/2404.17977)|null|
 |**2024-04-27**|**Verco: Learning Coordinated Verbal Communication for Multi-agent Reinforcement Learning**|Dapeng Li et.al.|[2404.17780](http://arxiv.org/abs/2404.17780)|null|
 |**2024-04-27**|**UMass-BioNLP at MEDIQA-M3G 2024: DermPrompt -- A Systematic Exploration of Prompt Engineering with GPT-4V for Dermatological Diagnosis**|Parth Vashisht et.al.|[2404.17749](http://arxiv.org/abs/2404.17749)|null|
@@ -497,7 +497,7 @@
 |**2023-12-30**|**Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning**|Xin Yu et.al.|[2401.00167](http://arxiv.org/abs/2401.00167)|null|
 |**2023-12-30**|**Contrastive learning-based agent modeling for deep reinforcement learning**|Wenhao Ma et.al.|[2401.00132](http://arxiv.org/abs/2401.00132)|null|
 
-<p align=right>(<a href=#updated-on-20240430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240501>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

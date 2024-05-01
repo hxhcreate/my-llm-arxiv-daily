@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-30**|**MGCBS: An Optimal and Efficient Algorithm for Solving Multi-Goal Multi-Agent Path Finding Problem**|Mingkai Tang et.al.|[2404.19518](http://arxiv.org/abs/2404.19518)|**[link](https://github.com/tangmingkai/mgcbs)**|
+|**2024-04-30**|**Quasi-determinant and right eigenvalues of dual quaternion matrices**|Chen Ling et.al.|[2404.19348](http://arxiv.org/abs/2404.19348)|null|
+|**2024-04-30**|**Provably Efficient Information-Directed Sampling Algorithms for Multi-Agent Reinforcement Learning**|Qiaosheng Zhang et.al.|[2404.19292](http://arxiv.org/abs/2404.19292)|null|
+|**2024-04-30**|**MAP-Former: Multi-Agent-Pair Gaussian Joint Prediction**|Marlon Steiner et.al.|[2404.19283](http://arxiv.org/abs/2404.19283)|null|
 |**2024-04-29**|**Sample-Efficient Robust Multi-Agent Reinforcement Learning in the Face of Environmental Uncertainty**|Laixi Shi et.al.|[2404.18909](http://arxiv.org/abs/2404.18909)|null|
 |**2024-04-29**|**Multi-Agent Synchronization Tasks**|Rolando Fernandez et.al.|[2404.18798](http://arxiv.org/abs/2404.18798)|null|
 |**2024-04-29**|**A geometric approach for stability analysis of delay systems: Applications to network dynamics**|Shijie Zhou et.al.|[2404.18704](http://arxiv.org/abs/2404.18704)|null|

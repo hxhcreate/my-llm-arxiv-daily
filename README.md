@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-01**|**A Distributed Model Identification Algorithm for Multi-Agent Systems**|Vivek Khatana et.al.|[2405.00637](http://arxiv.org/abs/2405.00637)|null|
+|**2024-05-01**|**MF-OML: Online Mean-Field Reinforcement Learning with Occupation Measures for Large Population Games**|Anran Hu et.al.|[2405.00282](http://arxiv.org/abs/2405.00282)|null|
 |**2024-04-30**|**MGCBS: An Optimal and Efficient Algorithm for Solving Multi-Goal Multi-Agent Path Finding Problem**|Mingkai Tang et.al.|[2404.19518](http://arxiv.org/abs/2404.19518)|**[link](https://github.com/tangmingkai/mgcbs)**|
 |**2024-04-30**|**Quasi-determinant and right eigenvalues of dual quaternion matrices**|Chen Ling et.al.|[2404.19348](http://arxiv.org/abs/2404.19348)|null|
 |**2024-04-30**|**Provably Efficient Information-Directed Sampling Algorithms for Multi-Agent Reinforcement Learning**|Qiaosheng Zhang et.al.|[2404.19292](http://arxiv.org/abs/2404.19292)|null|

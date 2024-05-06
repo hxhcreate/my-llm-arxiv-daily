@@ -38,7 +38,7 @@
 |**2024-04-30**|**ComposerX: Multi-Agent Symbolic Music Composition with LLMs**|Qixin Deng et.al.|[2404.18081](http://arxiv.org/abs/2404.18081)|**[link](https://github.com/lllindsey0615/composerx)**|
 |**2024-04-27**|**Advancing Healthcare Automation: Multi-Agent Systems for Medical Necessity Justification**|Himanshu Pandey et.al.|[2404.17977](http://arxiv.org/abs/2404.17977)|null|
 |**2024-04-27**|**Verco: Learning Coordinated Verbal Communication for Multi-agent Reinforcement Learning**|Dapeng Li et.al.|[2404.17780](http://arxiv.org/abs/2404.17780)|null|
-|**2024-04-27**|**UMass-BioNLP at MEDIQA-M3G 2024: DermPrompt -- A Systematic Exploration of Prompt Engineering with GPT-4V for Dermatological Diagnosis**|Parth Vashisht et.al.|[2404.17749](http://arxiv.org/abs/2404.17749)|null|
+|**2024-04-27**|**UMass-BioNLP at MEDIQA-M3G 2024: DermPrompt -- A Systematic Exploration of Prompt Engineering with GPT-4V for Dermatological Diagnosis**|Parth Vashisht et.al.|[2404.17749](http://arxiv.org/abs/2404.17749)|**[link](https://github.com/parth166/m3g-clinicaldermatology)**|
 |**2024-04-26**|**Quantum Multi-Agent Reinforcement Learning for Aerial Ad-hoc Networks**|Theodora-Augustina Drăgan et.al.|[2404.17499](http://arxiv.org/abs/2404.17499)|null|
 |**2024-04-26**|**A multi-agent model of hierarchical decision dynamics**|Paul Kinsler et.al.|[2404.17477](http://arxiv.org/abs/2404.17477)|null|
 |**2024-04-26**|**A Unified Debugging Approach via LLM-Based Multi-Agent Synergy**|Cheryl Lee et.al.|[2404.17153](http://arxiv.org/abs/2404.17153)|null|
@@ -241,7 +241,7 @@
 |**2024-03-15**|**Transforming Competition into Collaboration: The Revolutionary Role of Multi-Agent Systems and Language Models in Modern Organizations**|Carlos Jose Xavier Cruz et.al.|[2403.07769](http://arxiv.org/abs/2403.07769)|**[link](https://github.com/carlosxcruzcode/compet_colab_sma_llm)**|
 |**2024-03-12**|**Asynchronous Approximate Byzantine Consensus: A Multi-hop Relay Method and Tight Graph Conditions**|Liwei Yuan et.al.|[2403.07640](http://arxiv.org/abs/2403.07640)|null|
 |**2024-03-12**|**Ensembling Prioritized Hybrid Policies for Multi-agent Pathfinding**|Huijie Tang et.al.|[2403.07559](http://arxiv.org/abs/2403.07559)|**[link](https://github.com/ai4co/eph-mapf)**|
-|**2024-03-11**|**RaceMOP: Mapless Online Path Planning for Multi-Agent Autonomous Racing using Residual Policy Learning**|Raphael Trumpp et.al.|[2403.07129](http://arxiv.org/abs/2403.07129)|null|
+|**2024-03-11**|**RaceMOP: Mapless Online Path Planning for Multi-Agent Autonomous Racing using Residual Policy Learning**|Raphael Trumpp et.al.|[2403.07129](http://arxiv.org/abs/2403.07129)|**[link](https://github.com/raphajaner/racemop)**|
 |**2024-03-11**|**Generalising Multi-Agent Cooperation through Task-Agnostic Communication**|Dulhan Jayalath et.al.|[2403.06750](http://arxiv.org/abs/2403.06750)|**[link](https://github.com/proroklab/task-agnostic-comms)**|
 |**2024-03-11**|**Decentralized and Lifelong-Adaptive Multi-Agent Collaborative Learning**|Shuo Tang et.al.|[2403.06535](http://arxiv.org/abs/2403.06535)|null|
 |**2024-03-12**|**DeepSafeMPC: Deep Learning-Based Model Predictive Control for Safe Multi-Agent Reinforcement Learning**|Xuefeng Wang et.al.|[2403.06397](http://arxiv.org/abs/2403.06397)|null|

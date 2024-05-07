@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**MARE: Multi-Agents Collaboration Framework for Requirements Engineering**|Dongming Jin et.al.|[2405.03256](http://arxiv.org/abs/2405.03256)|null|
+|**2024-05-06**|**A Multi-Agent Rollout Approach for Highway Bottleneck Decongenston in Mixed Autonomy**|Lu Liu et.al.|[2405.03132](http://arxiv.org/abs/2405.03132)|null|
+|**2024-05-06**|**Compression-based Privacy Preservation for Distributed Nash Equilibrium Seeking in Aggregative Games**|Wei Huo et.al.|[2405.03106](http://arxiv.org/abs/2405.03106)|null|
+|**2024-05-06**|**FairMonitor: A Dual-framework for Detecting Stereotypes and Biases in Large Language Models**|Yanhong Bai et.al.|[2405.03098](http://arxiv.org/abs/2405.03098)|null|
+|**2024-05-05**|**Traffic Performance GPT (TP-GPT): Real-Time Data Informed Intelligent ChatBot for Transportation Surveillance and Management**|Bingzhang Wang et.al.|[2405.03076](http://arxiv.org/abs/2405.03076)|null|
+|**2024-05-05**|**A Long-Short-Term Mixed-Integer Formulation for Highway Lane Change Planning**|Rudolf Reiter et.al.|[2405.02979](http://arxiv.org/abs/2405.02979)|null|
+|**2024-05-05**|**Multi-Agent RL-Based Industrial AIGC Service Offloading over Wireless Edge Networks**|Siyuan Li et.al.|[2405.02972](http://arxiv.org/abs/2405.02972)|null|
+|**2024-05-05**|**Language Evolution for Evading Social Media Regulation via LLM-based Multi-agent Simulation**|Jinyu Cai et.al.|[2405.02858](http://arxiv.org/abs/2405.02858)|null|
+|**2024-05-05**|**Modelling Opaque Bilateral Market Dynamics in Financial Trading: Insights from a Multi-Agent Simulation Study**|Alicia Vidler et.al.|[2405.02849](http://arxiv.org/abs/2405.02849)|null|
+|**2024-05-05**|**Probabilistic tube-based control synthesis of stochastic multi-agent systems under signal temporal logic**|Eleftherios E. Vlahakis et.al.|[2405.02827](http://arxiv.org/abs/2405.02827)|null|
 |**2024-05-03**|**The Cambridge RoboMaster: An Agile Multi-Robot Research Platform**|Jan Blumenkamp et.al.|[2405.02198](http://arxiv.org/abs/2405.02198)|null|
 |**2024-05-03**|**Simulating the economic impact of rationality through reinforcement learning and agent-based modelling**|Simone Brusatin et.al.|[2405.02161](http://arxiv.org/abs/2405.02161)|null|
 |**2024-05-03**|**Zero-Sum Positional Differential Games as a Framework for Robust Reinforcement Learning: Deep Q-Learning Approach**|Anton Plaksin et.al.|[2405.02044](http://arxiv.org/abs/2405.02044)|null|

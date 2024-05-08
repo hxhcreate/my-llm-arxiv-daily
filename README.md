@@ -17,6 +17,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**Parallelized Multi-Agent Bayesian Optimization in Lava**|Shay Snyder et.al.|[2405.04387](http://arxiv.org/abs/2405.04387)|null|
+|**2024-05-07**|**Enhancing the Efficiency and Accuracy of Underlying Asset Reviews in Structured Finance: The Application of Multi-agent Framework**|Xiangpeng Wan et.al.|[2405.04294](http://arxiv.org/abs/2405.04294)|**[link](https://github.com/elricwan/audit)**|
+|**2024-05-07**|**Certified Policy Verification and Synthesis for MDPs under Distributional Reach-avoidance Properties**|S. Akshay et.al.|[2405.04015](http://arxiv.org/abs/2405.04015)|null|
+|**2024-05-07**|**Latency and Energy Minimization in NOMA-Assisted MEC Network: A Federated Deep Reinforcement Learning Approach**|Arian Ahmadi et.al.|[2405.04012](http://arxiv.org/abs/2405.04012)|null|
+|**2024-05-06**|**Conformity, Confabulation, and Impersonation: Persona Inconstancy in Multi-Agent LLM Collaboration**|Razan Baltaji et.al.|[2405.03862](http://arxiv.org/abs/2405.03862)|null|
+|**2024-05-06**|**Select to Perfect: Imitating desired behavior from large multi-agent data**|Tim Franzmeyer et.al.|[2405.03735](http://arxiv.org/abs/2405.03735)|null|
 |**2024-05-06**|**MARE: Multi-Agents Collaboration Framework for Requirements Engineering**|Dongming Jin et.al.|[2405.03256](http://arxiv.org/abs/2405.03256)|null|
 |**2024-05-06**|**A Multi-Agent Rollout Approach for Highway Bottleneck Decongenston in Mixed Autonomy**|Lu Liu et.al.|[2405.03132](http://arxiv.org/abs/2405.03132)|null|
 |**2024-05-06**|**Compression-based Privacy Preservation for Distributed Nash Equilibrium Seeking in Aggregative Games**|Wei Huo et.al.|[2405.03106](http://arxiv.org/abs/2405.03106)|null|

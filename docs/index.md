@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-07**|**Mitigating Negative Side Effects in Multi-Agent Systems Using Blame Assignment**|Pulkit Rustagi et.al.|[2405.04702](http://arxiv.org/abs/2405.04702)|null|
+|**2024-05-07**|**Visually Guided Swarm Motion Coordination via Insect-inspired Small Target Motion Reactions**|Md Arif Billah et.al.|[2405.04591](http://arxiv.org/abs/2405.04591)|null|
 |**2024-05-07**|**Parallelized Multi-Agent Bayesian Optimization in Lava**|Shay Snyder et.al.|[2405.04387](http://arxiv.org/abs/2405.04387)|null|
 |**2024-05-07**|**Enhancing the Efficiency and Accuracy of Underlying Asset Reviews in Structured Finance: The Application of Multi-agent Framework**|Xiangpeng Wan et.al.|[2405.04294](http://arxiv.org/abs/2405.04294)|**[link](https://github.com/elricwan/audit)**|
 |**2024-05-07**|**Certified Policy Verification and Synthesis for MDPs under Distributional Reach-avoidance Properties**|S. Akshay et.al.|[2405.04015](http://arxiv.org/abs/2405.04015)|null|

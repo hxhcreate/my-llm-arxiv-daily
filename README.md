@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-09**|**Smurfs: Leveraging Multiple Proficiency Agents with Context-Efficiency for Tool Planning**|Junzhi Chen et.al.|[2405.05955](http://arxiv.org/abs/2405.05955)|null|
+|**2024-05-09**|**Federated Combinatorial Multi-Agent Multi-Armed Bandits**|Fares Fourati et.al.|[2405.05950](http://arxiv.org/abs/2405.05950)|null|
+|**2024-05-09**|**Approximate Dec-POMDP Solving Using Multi-Agent A***|Wietze Koops et.al.|[2405.05662](http://arxiv.org/abs/2405.05662)|null|
+|**2024-05-09**|**Dynamic Deep Factor Graph for Multi-Agent Reinforcement Learning**|Yuchen Shi et.al.|[2405.05542](http://arxiv.org/abs/2405.05542)|null|
+|**2024-05-08**|**Learning to Play Pursuit-Evasion with Dynamic and Sensor Constraints**|Burak M. Gonultas et.al.|[2405.05372](http://arxiv.org/abs/2405.05372)|null|
 |**2024-05-07**|**Mitigating Negative Side Effects in Multi-Agent Systems Using Blame Assignment**|Pulkit Rustagi et.al.|[2405.04702](http://arxiv.org/abs/2405.04702)|null|
 |**2024-05-07**|**Visually Guided Swarm Motion Coordination via Insect-inspired Small Target Motion Reactions**|Md Arif Billah et.al.|[2405.04591](http://arxiv.org/abs/2405.04591)|null|
 |**2024-05-07**|**Parallelized Multi-Agent Bayesian Optimization in Lava**|Shay Snyder et.al.|[2405.04387](http://arxiv.org/abs/2405.04387)|null|

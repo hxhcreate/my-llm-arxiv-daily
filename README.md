@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.12
+## Updated on 2024.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 |**2024-05-09**|**Smurfs: Leveraging Multiple Proficiency Agents with Context-Efficiency for Tool Planning**|Junzhi Chen et.al.|[2405.05955](http://arxiv.org/abs/2405.05955)|null|
 |**2024-05-09**|**Federated Combinatorial Multi-Agent Multi-Armed Bandits**|Fares Fourati et.al.|[2405.05950](http://arxiv.org/abs/2405.05950)|null|
 |**2024-05-09**|**Approximate Dec-POMDP Solving Using Multi-Agent A***|Wietze Koops et.al.|[2405.05662](http://arxiv.org/abs/2405.05662)|null|
-|**2024-05-09**|**Dynamic Deep Factor Graph for Multi-Agent Reinforcement Learning**|Yuchen Shi et.al.|[2405.05542](http://arxiv.org/abs/2405.05542)|null|
+|**2024-05-09**|**Dynamic Deep Factor Graph for Multi-Agent Reinforcement Learning**|Yuchen Shi et.al.|[2405.05542](http://arxiv.org/abs/2405.05542)|**[link](https://github.com/sicc-group/ddfg)**|
 |**2024-05-08**|**Learning to Play Pursuit-Evasion with Dynamic and Sensor Constraints**|Burak M. Gonultas et.al.|[2405.05372](http://arxiv.org/abs/2405.05372)|null|
 |**2024-05-07**|**Mitigating Negative Side Effects in Multi-Agent Systems Using Blame Assignment**|Pulkit Rustagi et.al.|[2405.04702](http://arxiv.org/abs/2405.04702)|null|
 |**2024-05-07**|**Visually Guided Swarm Motion Coordination via Insect-inspired Small Target Motion Reactions**|Md Arif Billah et.al.|[2405.04591](http://arxiv.org/abs/2405.04591)|null|
@@ -539,7 +539,7 @@
 |**2023-12-30**|**Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning**|Xin Yu et.al.|[2401.00167](http://arxiv.org/abs/2401.00167)|null|
 |**2023-12-30**|**Contrastive learning-based agent modeling for deep reinforcement learning**|Wenhao Ma et.al.|[2401.00132](http://arxiv.org/abs/2401.00132)|null|
 
-<p align=right>(<a href=#updated-on-20240512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240513>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

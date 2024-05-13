@@ -37,7 +37,7 @@
 |**2024-05-05**|**Traffic Performance GPT (TP-GPT): Real-Time Data Informed Intelligent ChatBot for Transportation Surveillance and Management**|Bingzhang Wang et.al.|[2405.03076](http://arxiv.org/abs/2405.03076)|null|
 |**2024-05-05**|**A Long-Short-Term Mixed-Integer Formulation for Highway Lane Change Planning**|Rudolf Reiter et.al.|[2405.02979](http://arxiv.org/abs/2405.02979)|null|
 |**2024-05-05**|**Multi-Agent RL-Based Industrial AIGC Service Offloading over Wireless Edge Networks**|Siyuan Li et.al.|[2405.02972](http://arxiv.org/abs/2405.02972)|null|
-|**2024-05-05**|**Language Evolution for Evading Social Media Regulation via LLM-based Multi-agent Simulation**|Jinyu Cai et.al.|[2405.02858](http://arxiv.org/abs/2405.02858)|null|
+|**2024-05-05**|**Language Evolution for Evading Social Media Regulation via LLM-based Multi-agent Simulation**|Jinyu Cai et.al.|[2405.02858](http://arxiv.org/abs/2405.02858)|**[link](https://github.com/BlueLinkX/GA-MAS)**|
 |**2024-05-05**|**Modelling Opaque Bilateral Market Dynamics in Financial Trading: Insights from a Multi-Agent Simulation Study**|Alicia Vidler et.al.|[2405.02849](http://arxiv.org/abs/2405.02849)|null|
 |**2024-05-05**|**Probabilistic tube-based control synthesis of stochastic multi-agent systems under signal temporal logic**|Eleftherios E. Vlahakis et.al.|[2405.02827](http://arxiv.org/abs/2405.02827)|null|
 |**2024-05-03**|**The Cambridge RoboMaster: An Agile Multi-Robot Research Platform**|Jan Blumenkamp et.al.|[2405.02198](http://arxiv.org/abs/2405.02198)|null|
@@ -51,8 +51,8 @@
 |**2024-05-02**|**LOQA: Learning with Opponent Q-Learning Awareness**|Milad Aghajohari et.al.|[2405.01035](http://arxiv.org/abs/2405.01035)|null|
 |**2024-05-02**|**Rare Collision Risk Estimation of Autonomous Vehicles with Multi-Agent Situation Awareness**|Mahdieh Zaker et.al.|[2405.01011](http://arxiv.org/abs/2405.01011)|null|
 |**2024-05-01**|**MESA: Cooperative Meta-Exploration in Multi-Agent Learning through Exploiting State-Action Space Structure**|Zhicheng Zhang et.al.|[2405.00902](http://arxiv.org/abs/2405.00902)|null|
-|**2024-05-01**|**Communication-Efficient Training Workload Balancing for Decentralized Multi-Agent Learning**|Seyed Mahmoud Sajjadi Mohammadabadi et.al.|[2405.00839](http://arxiv.org/abs/2405.00839)|null|
-|**2024-05-01**|**ADM: Accelerated Diffusion Model via Estimated Priors for Robust Motion Prediction under Uncertainties**|Jiahui Li et.al.|[2405.00797](http://arxiv.org/abs/2405.00797)|null|
+|**2024-05-01**|**Communication-Efficient Training Workload Balancing for Decentralized Multi-Agent Learning**|Seyed Mahmoud Sajjadi Mohammadabadi et.al.|[2405.00839](http://arxiv.org/abs/2405.00839)|**[link](https://github.com/mahmoudsajjadi/comdml)**|
+|**2024-05-01**|**ADM: Accelerated Diffusion Model via Estimated Priors for Robust Motion Prediction under Uncertainties**|Jiahui Li et.al.|[2405.00797](http://arxiv.org/abs/2405.00797)|**[link](https://github.com/skygoo2000/adm)**|
 |**2024-05-01**|**A Distributed Model Identification Algorithm for Multi-Agent Systems**|Vivek Khatana et.al.|[2405.00637](http://arxiv.org/abs/2405.00637)|null|
 |**2024-05-01**|**MF-OML: Online Mean-Field Reinforcement Learning with Occupation Measures for Large Population Games**|Anran Hu et.al.|[2405.00282](http://arxiv.org/abs/2405.00282)|null|
 |**2024-04-30**|**MGCBS: An Optimal and Efficient Algorithm for Solving Multi-Goal Multi-Agent Path Finding Problem**|Mingkai Tang et.al.|[2404.19518](http://arxiv.org/abs/2404.19518)|**[link](https://github.com/tangmingkai/mgcbs)**|
@@ -126,7 +126,7 @@
 |**2024-04-15**|**Higher Replay Ratio Empowers Sample-Efficient Multi-Agent Reinforcement Learning**|Linjie Xu et.al.|[2404.09715](http://arxiv.org/abs/2404.09715)|null|
 |**2024-04-15**|**Kernel-based learning with guarantees for multi-agent applications**|Krzysztof Kowalczyk et.al.|[2404.09708](http://arxiv.org/abs/2404.09708)|null|
 |**2024-04-14**|**Correlated Mean Field Imitation Learning**|Zhiyu Zhao et.al.|[2404.09324](http://arxiv.org/abs/2404.09324)|null|
-|**2024-04-16**|**Confidence Calibration and Rationalization for LLMs via Multi-Agent Deliberation**|Ruixin Yang et.al.|[2404.09127](http://arxiv.org/abs/2404.09127)|null|
+|**2024-04-16**|**Confidence Calibration and Rationalization for LLMs via Multi-Agent Deliberation**|Ruixin Yang et.al.|[2404.09127](http://arxiv.org/abs/2404.09127)|**[link](https://github.com/minnesotanlp/collaborative-calibration)**|
 |**2024-04-13**|**Developing An Attention-Based Ensemble Learning Framework for Financial Portfolio Optimisation**|Zhenglong Li et.al.|[2404.08935](http://arxiv.org/abs/2404.08935)|null|
 |**2024-04-12**|**Leveraging Multi-AI Agents for Cross-Domain Knowledge Discovery**|Shiva Aryal et.al.|[2404.08511](http://arxiv.org/abs/2404.08511)|null|
 |**2024-04-12**|**Multi-Agent eXperimenter (MAX)**|Önder Gürcan et.al.|[2404.08398](http://arxiv.org/abs/2404.08398)|null|
@@ -175,7 +175,7 @@
 |**2024-04-02**|**CMAT: A Multi-Agent Collaboration Tuning Framework for Enhancing Small Language Models**|Xuechen Liang et.al.|[2404.01663](http://arxiv.org/abs/2404.01663)|**[link](https://github.com/heimy2000/cmat)**|
 |**2024-04-02**|**InsightLens: Discovering and Exploring Insights from Conversational Contexts in Large-Language-Model-Powered Data Analysis**|Luoxuan Weng et.al.|[2404.01644](http://arxiv.org/abs/2404.01644)|null|
 |**2024-04-02**|**Collaborative Optimization of Wireless Communication and Computing Resource Allocation based on Multi-Agent Federated Weighting Deep Reinforcement Learning**|Junjie Wu et.al.|[2404.01638](http://arxiv.org/abs/2404.01638)|null|
-|**2024-04-02**|**Helmsman of the Masses? Evaluate the Opinion Leadership of Large Language Models in the Werewolf Game**|Silin Du et.al.|[2404.01602](http://arxiv.org/abs/2404.01602)|null|
+|**2024-04-02**|**Helmsman of the Masses? Evaluate the Opinion Leadership of Large Language Models in the Werewolf Game**|Silin Du et.al.|[2404.01602](http://arxiv.org/abs/2404.01602)|**[link](https://github.com/doslim/evaluate-the-opinion-leadership-of-llms)**|
 |**2024-04-02**|**Distributed Autonomous Swarm Formation for Dynamic Network Bridging**|Raffaele Galliera et.al.|[2404.01557](http://arxiv.org/abs/2404.01557)|null|
 |**2024-04-02**|**Multi-Agent Reinforcement Learning with Control-Theoretic Safety Guarantees for Dynamic Network Bridging**|Raffaele Galliera et.al.|[2404.01551](http://arxiv.org/abs/2404.01551)|null|
 |**2024-04-01**|**LLM as a Mastermind: A Survey of Strategic Reasoning with Large Language Models**|Yadong Zhang et.al.|[2404.01230](http://arxiv.org/abs/2404.01230)|null|
@@ -417,7 +417,7 @@
 |**2024-02-04**|**SIMPL: A Simple and Efficient Multi-agent Motion Prediction Baseline for Autonomous Driving**|Lu Zhang et.al.|[2402.02519](http://arxiv.org/abs/2402.02519)|**[link](https://github.com/hkust-aerial-robotics/simpl)**|
 |**2024-02-04**|**Fast Peer Adaptation with Context-aware Exploration**|Long Ma et.al.|[2402.02468](http://arxiv.org/abs/2402.02468)|null|
 |**2024-02-02**|**MAGDi: Structured Distillation of Multi-Agent Interaction Graphs Improves Reasoning in Smaller Language Models**|Justin Chih-Yao Chen et.al.|[2402.01620](http://arxiv.org/abs/2402.01620)|**[link](https://github.com/dinobby/magdi)**|
-|**2024-02-02**|**Guidance Graph Optimization for Lifelong Multi-Agent Path Finding**|Yulun Zhang et.al.|[2402.01446](http://arxiv.org/abs/2402.01446)|null|
+|**2024-02-02**|**Guidance Graph Optimization for Lifelong Multi-Agent Path Finding**|Yulun Zhang et.al.|[2402.01446](http://arxiv.org/abs/2402.01446)|**[link](https://github.com/lunjohnzhang/ggo_public)**|
 |**2024-02-02**|**CodePori: Large Scale Model for Autonomous Software Development by Using Multi-Agents**|Zeeshan Rasheed et.al.|[2402.01411](http://arxiv.org/abs/2402.01411)|null|
 |**2024-02-02**|**Can Large Language Models Serve as Data Analysts? A Multi-Agent Assisted Approach for Qualitative Data Analysis**|Zeeshan Rasheed et.al.|[2402.01386](http://arxiv.org/abs/2402.01386)|null|
 |**2024-02-02**|**Neural Trajectory Model: Implicit Neural Trajectory Representation for Trajectories Generation**|Zihan Yu et.al.|[2402.01254](http://arxiv.org/abs/2402.01254)|**[link](https://github.com/laser2099/neural-trajectory-model)**|
@@ -438,7 +438,7 @@
 |**2024-01-31**|**Multi-Agent Phase-Balancing around Polar Curves with Bounded Trajectories: An Experimental Study using Crazyflies and MoCap System**|Gaurav Singh Bhati et.al.|[2401.17591](http://arxiv.org/abs/2401.17591)|null|
 |**2024-01-30**|**AdvGPS: Adversarial GPS for Multi-Agent Perception Attack**|Jinlong Li et.al.|[2401.17499](http://arxiv.org/abs/2401.17499)|null|
 |**2024-01-30**|**Camouflage Adversarial Attacks on Multiple Agent Systems**|Ziqing Lu et.al.|[2401.17405](http://arxiv.org/abs/2401.17405)|null|
-|**2024-01-30**|**Scalable Mechanism Design for Multi-Agent Path Finding**|Paul Friedrich et.al.|[2401.17044](http://arxiv.org/abs/2401.17044)|null|
+|**2024-01-30**|**Scalable Mechanism Design for Multi-Agent Path Finding**|Paul Friedrich et.al.|[2401.17044](http://arxiv.org/abs/2401.17044)|**[link](https://github.com/lunjohnzhang/mapf-mechanism)**|
 |**2024-01-29**|**Collaborative Manipulation of Deformable Objects with Predictive Obstacle Avoidance**|Burak Aksoy et.al.|[2401.16560](http://arxiv.org/abs/2401.16560)|**[link](https://github.com/burakaksoy/deformable_manipulations)**|
 |**2024-01-29**|**A mechanism for discovering semantic relationships among agent communication protocols**|Idoia Berges et.al.|[2401.16216](http://arxiv.org/abs/2401.16216)|null|
 |**2024-01-29**|**FIMP: Future Interaction Modeling for Multi-Agent Motion Prediction**|Sungmin Woo et.al.|[2401.16189](http://arxiv.org/abs/2401.16189)|null|

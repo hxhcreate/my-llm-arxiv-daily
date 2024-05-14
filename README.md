@@ -17,6 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**MADRL-Based Rate Adaptation for 360 $\degree$ Video Streaming with Multi-Viewpoint Prediction**|Haopeng Wang et.al.|[2405.07759](http://arxiv.org/abs/2405.07759)|null|
+|**2024-05-13**|**Non-Rigid Designators in Modal and Temporal Free Description Logics (Extended Version)**|Alessandro Artale et.al.|[2405.07656](http://arxiv.org/abs/2405.07656)|null|
+|**2024-05-13**|**Towards Adaptive IMFs -- Generalization of utility functions in Multi-Agent Frameworks**|Kaushik Dey et.al.|[2405.07621](http://arxiv.org/abs/2405.07621)|null|
+|**2024-05-12**|**AdaptNet: Rethinking Sensing and Communication for a Seamless Internet of Drones Experience**|Ananya Hazarika et.al.|[2405.07318](http://arxiv.org/abs/2405.07318)|null|
+|**2024-05-12**|**MAxPrototyper: A Multi-Agent Generation System for Interactive User Interface Prototyping**|Mingyue Yuan et.al.|[2405.07131](http://arxiv.org/abs/2405.07131)|null|
+|**2024-05-11**|**Optimal Multilayered Motion Planning for Multiple Differential Drive Mobile Robots with Hierarchical Prioritization (OM-MP)**|Zong Chen et.al.|[2405.07043](http://arxiv.org/abs/2405.07043)|null|
+|**2024-05-11**|**Multi-agent Traffic Prediction via Denoised Endpoint Distribution**|Yao Liu et.al.|[2405.07041](http://arxiv.org/abs/2405.07041)|null|
+|**2024-05-11**|**Fairness in Reinforcement Learning: A Survey**|Anka Reuel et.al.|[2405.06909](http://arxiv.org/abs/2405.06909)|null|
+|**2024-05-11**|**Event GDR: Event-Centric Generative Document Retrieval**|Yong Guan et.al.|[2405.06886](http://arxiv.org/abs/2405.06886)|null|
 |**2024-05-10**|**Sensing-Assisted Adaptive Channel Contention for Mobile Delay-Sensitive Communications**|Bojie Lv et.al.|[2405.06186](http://arxiv.org/abs/2405.06186)|null|
 |**2024-05-10**|**(A Partial Survey of) Decentralized, Cooperative Multi-Agent Reinforcement Learning**|Christopher Amato et.al.|[2405.06161](http://arxiv.org/abs/2405.06161)|null|
 |**2024-05-09**|**Smurfs: Leveraging Multiple Proficiency Agents with Context-Efficiency for Tool Planning**|Junzhi Chen et.al.|[2405.05955](http://arxiv.org/abs/2405.05955)|null|

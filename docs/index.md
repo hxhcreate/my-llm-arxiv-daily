@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.20
+## Updated on 2024.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AGENT
@@ -23,7 +23,7 @@ layout: default
 |**2024-05-14**|**Safety Constrained Multi-Agent Reinforcement Learning for Active Voltage Control**|Yang Qu et.al.|[2405.08443](http://arxiv.org/abs/2405.08443)|null|
 |**2024-05-14**|**Multi-Agent Combinatorial Contracts**|Paul Duetting et.al.|[2405.08260](http://arxiv.org/abs/2405.08260)|null|
 |**2024-05-15**|**POWQMIX: Weighted Value Factorization with Potentially Optimal Joint Actions Recognition for Cooperative Multi-Agent Reinforcement Learning**|Chang Huang et.al.|[2405.08036](http://arxiv.org/abs/2405.08036)|null|
-|**2024-05-13**|**MADRL-Based Rate Adaptation for 360 $\degree$ Video Streaming with Multi-Viewpoint Prediction**|Haopeng Wang et.al.|[2405.07759](http://arxiv.org/abs/2405.07759)|null|
+|**2024-05-17**|**MADRL-Based Rate Adaptation for 360° Video Streaming with Multi-Viewpoint Prediction**|Haopeng Wang et.al.|[2405.07759](http://arxiv.org/abs/2405.07759)|null|
 |**2024-05-13**|**Non-Rigid Designators in Modal and Temporal Free Description Logics (Extended Version)**|Alessandro Artale et.al.|[2405.07656](http://arxiv.org/abs/2405.07656)|null|
 |**2024-05-14**|**Towards Adaptive IMFs -- Generalization of utility functions in Multi-Agent Frameworks**|Kaushik Dey et.al.|[2405.07621](http://arxiv.org/abs/2405.07621)|null|
 |**2024-05-12**|**AdaptNet: Rethinking Sensing and Communication for a Seamless Internet of Drones Experience**|Ananya Hazarika et.al.|[2405.07318](http://arxiv.org/abs/2405.07318)|null|

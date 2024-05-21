@@ -14,6 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-20**|**Multi-Agent Optimization and Learning: A Non-Expansive Operators Perspective**|Nicola Bastianello et.al.|[2405.11999](http://arxiv.org/abs/2405.11999)|null|
+|**2024-05-20**|**PET: Multi-agent Independent PPO-based Automatic ECN Tuning for High-Speed Data Center Networks**|Kai Cheng et.al.|[2405.11956](http://arxiv.org/abs/2405.11956)|null|
+|**2024-05-20**|**(Perhaps) Beyond Human Translation: Harnessing Multi-Agent Collaboration for Translating Ultra-Long Literary Texts**|Minghao Wu et.al.|[2405.11804](http://arxiv.org/abs/2405.11804)|null|
+|**2024-05-20**|**Efficient Multi-agent Reinforcement Learning by Planning**|Qihan Liu et.al.|[2405.11778](http://arxiv.org/abs/2405.11778)|**[link](https://github.com/liuqh16/mazero)**|
+|**2024-05-20**|**Configurable Mirror Descent: Towards a Unification of Decision Making**|Pengdeng Li et.al.|[2405.11746](http://arxiv.org/abs/2405.11746)|**[link](https://github.com/ipadli/cmd)**|
+|**2024-05-19**|**The Logical Art of Keeping a True Secret**|Alessandro Aldini et.al.|[2405.11654](http://arxiv.org/abs/2405.11654)|null|
+|**2024-05-18**|**MapCoder: Multi-Agent Code Generation for Competitive Problem Solving**|Md. Ashraful Islam et.al.|[2405.11403](http://arxiv.org/abs/2405.11403)|**[link](https://github.com/md-ashraful-pramanik/mapcoder)**|
+|**2024-05-18**|**Cooperative Multi-agent Approach for Automated Computer Game Testing**|Samira Shirzadeh-hajimahmood et.al.|[2405.11347](http://arxiv.org/abs/2405.11347)|null|
+|**2024-05-17**|**LLM-based Multi-Agent Reinforcement Learning: Current and Future Directions**|Chuanneng Sun et.al.|[2405.11106](http://arxiv.org/abs/2405.11106)|null|
 |**2024-05-17**|**Pragmatic Communication for Remote Control of Finite-State Markov Processes**|Pietro Talli et.al.|[2405.10672](http://arxiv.org/abs/2405.10672)|null|
 |**2024-05-17**|**Guidelines for evaluation of complex multi agent test scenarios**|Ana Isabel Garcia Guerra et.al.|[2405.10526](http://arxiv.org/abs/2405.10526)|null|
 |**2024-05-17**|**Rethinking ChatGPT's Success: Usability and Cognitive Behaviors Enabled by Auto-regressive LLMs' Prompting**|Xinzhe Li et.al.|[2405.10474](http://arxiv.org/abs/2405.10474)|null|

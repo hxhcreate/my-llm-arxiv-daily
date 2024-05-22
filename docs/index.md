@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**Reinforcement Learning Enabled Peer-to-Peer Energy Trading for Dairy Farms**|Mian Ibad Ali Shah et.al.|[2405.12716](http://arxiv.org/abs/2405.12716)|null|
+|**2024-05-21**|**Fight Fire with Fire: How Much Can We Trust ChatGPT on Source Code-Related Tasks?**|Xiao Yu et.al.|[2405.12641](http://arxiv.org/abs/2405.12641)|null|
+|**2024-05-21**|**Tiny Refinements Elicit Resilience: Toward Efficient Prefix-Model Against LLM Red-Teaming**|Jiaxu Liu et.al.|[2405.12604](http://arxiv.org/abs/2405.12604)|null|
+|**2024-05-21**|**Optimizing Generative AI Networking: A Dual Perspective with Multi-Agent Systems and Mixture of Experts**|Ruichen Zhang et.al.|[2405.12472](http://arxiv.org/abs/2405.12472)|null|
+|**2024-05-20**|**Continual Deep Reinforcement Learning for Decentralized Satellite Routing**|Federico Lozano-Cuadra et.al.|[2405.12308](http://arxiv.org/abs/2405.12308)|null|
 |**2024-05-20**|**Multi-Agent Optimization and Learning: A Non-Expansive Operators Perspective**|Nicola Bastianello et.al.|[2405.11999](http://arxiv.org/abs/2405.11999)|null|
 |**2024-05-20**|**PET: Multi-agent Independent PPO-based Automatic ECN Tuning for High-Speed Data Center Networks**|Kai Cheng et.al.|[2405.11956](http://arxiv.org/abs/2405.11956)|null|
 |**2024-05-20**|**(Perhaps) Beyond Human Translation: Harnessing Multi-Agent Collaboration for Translating Ultra-Long Literary Texts**|Minghao Wu et.al.|[2405.11804](http://arxiv.org/abs/2405.11804)|null|

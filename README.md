@@ -17,6 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-23**|**CityGPT: Towards Urban IoT Learning, Analysis and Interaction with Multi-Agent System**|Qinghua Guan et.al.|[2405.14691](http://arxiv.org/abs/2405.14691)|null|
+|**2024-05-23**|**AI-Olympics: Exploring the Generalization of Agents through Open Competitions**|Chen Wang et.al.|[2405.14358](http://arxiv.org/abs/2405.14358)|null|
+|**2024-05-23**|**Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration**|Yang Zhang et.al.|[2405.14314](http://arxiv.org/abs/2405.14314)|null|
+|**2024-05-23**|**A finite time analysis of distributed Q-learning**|Han-Dong Lim et.al.|[2405.14078](http://arxiv.org/abs/2405.14078)|null|
+|**2024-05-22**|**Distributed and Decentralized Control and Task Allocation for Flexible Swarms**|Yigal Koifman et.al.|[2405.13941](http://arxiv.org/abs/2405.13941)|null|
+|**2024-05-22**|**GameVLM: A Decision-making Framework for Robotic Task Planning Based on Visual Language Models and Zero-sum Games**|Aoran Mei et.al.|[2405.13751](http://arxiv.org/abs/2405.13751)|null|
+|**2024-05-22**|**Towards a Distributed Platform for Normative Reasoning and Value Alignment in Multi-Agent Systems**|Miguel Garcia-Bohigues et.al.|[2405.13543](http://arxiv.org/abs/2405.13543)|null|
+|**2024-05-22**|**Non-Deterministic Planning for Hyperproperty Verification**|Raven Beutner et.al.|[2405.13488](http://arxiv.org/abs/2405.13488)|null|
+|**2024-05-21**|**Multi-Agent Reinforcement Learning with Hierarchical Coordination for Emergency Responder Stationing**|Amutheezan Sivagnanam et.al.|[2405.13205](http://arxiv.org/abs/2405.13205)|null|
 |**2024-05-21**|**Reinforcement Learning Enabled Peer-to-Peer Energy Trading for Dairy Farms**|Mian Ibad Ali Shah et.al.|[2405.12716](http://arxiv.org/abs/2405.12716)|null|
 |**2024-05-21**|**Fight Fire with Fire: How Much Can We Trust ChatGPT on Source Code-Related Tasks?**|Xiao Yu et.al.|[2405.12641](http://arxiv.org/abs/2405.12641)|null|
 |**2024-05-21**|**Tiny Refinements Elicit Resilience: Toward Efficient Prefix-Model Against LLM Red-Teaming**|Jiaxu Liu et.al.|[2405.12604](http://arxiv.org/abs/2405.12604)|null|

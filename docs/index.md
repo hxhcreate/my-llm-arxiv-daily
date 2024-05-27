@@ -117,7 +117,7 @@ layout: default
 |**2024-04-25**|**Neural Interaction Energy for Multi-Agent Trajectory Prediction**|Kaixin Shen et.al.|[2404.16579](http://arxiv.org/abs/2404.16579)|null|
 |**2024-04-25**|**Distributed Matrix Pencil Formulations for Prescribed-Time Leader-Following Consensus of MASs with Unknown Sensor Sensitivity**|Hefu Ye et.al.|[2404.16412](http://arxiv.org/abs/2404.16412)|null|
 |**2024-04-25**|**Optimal and Bounded Suboptimal Any-Angle Multi-agent Pathfinding**|Konstantin Yakovlev et.al.|[2404.16379](http://arxiv.org/abs/2404.16379)|null|
-|**2024-04-24**|**Scaling Lifelong Multi-Agent Path Finding to More Realistic Settings: Research Challenges and Opportunities**|He Jiang et.al.|[2404.16162](http://arxiv.org/abs/2404.16162)|null|
+|**2024-04-24**|**Scaling Lifelong Multi-Agent Path Finding to More Realistic Settings: Research Challenges and Opportunities**|He Jiang et.al.|[2404.16162](http://arxiv.org/abs/2404.16162)|**[link](https://github.com/diligentpanda/mapf-lrr2023)**|
 |**2024-04-24**|**Delay-Aware Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control with Model-based Stability Enhancement**|Jiaqi Liu et.al.|[2404.15696](http://arxiv.org/abs/2404.15696)|null|
 |**2024-04-24**|**Decentralized Multi-Agent Trajectory Planning in Dynamic Environments with Spatiotemporal Occupancy Grid Maps**|Siyuan Wu et.al.|[2404.15602](http://arxiv.org/abs/2404.15602)|null|
 |**2024-04-24**|**GRSN: Gated Recurrent Spiking Neurons for POMDPs and MARL**|Lang Qin et.al.|[2404.15597](http://arxiv.org/abs/2404.15597)|null|
@@ -305,7 +305,7 @@ layout: default
 |**2024-03-13**|**Cultural evolution in populations of Large Language Models**|Jérémy Perez et.al.|[2403.08882](http://arxiv.org/abs/2403.08882)|**[link](https://github.com/jeremyperez2/llm-culture)**|
 |**2024-03-13**|**Multi-Objective Optimization Using Adaptive Distributed Reinforcement Learning**|Jing Tan et.al.|[2403.08879](http://arxiv.org/abs/2403.08879)|null|
 |**2024-03-13**|**Hierarchical Auto-Organizing System for Open-Ended Multi-Agent Navigation**|Zhonghan Zhao et.al.|[2403.08282](http://arxiv.org/abs/2403.08282)|null|
-|**2024-03-13**|**Emergence of Social Norms in Large Language Model-based Agent Societies**|Siyue Ren et.al.|[2403.08251](http://arxiv.org/abs/2403.08251)|null|
+|**2024-03-13**|**Emergence of Social Norms in Large Language Model-based Agent Societies**|Siyue Ren et.al.|[2403.08251](http://arxiv.org/abs/2403.08251)|**[link](https://github.com/sxswz213/crsec)**|
 |**2024-03-13**|**Object Permanence Filter for Robust Tracking with Interactive Robots**|Shaoting Peng et.al.|[2403.08231](http://arxiv.org/abs/2403.08231)|null|
 |**2024-03-13**|**SpaceOctopus: An Octopus-inspired Motion Planning Framework for Multi-arm Space Robot**|Wenbo Zhao et.al.|[2403.08219](http://arxiv.org/abs/2403.08219)|null|
 |**2024-03-15**|**Transforming Competition into Collaboration: The Revolutionary Role of Multi-Agent Systems and Language Models in Modern Organizations**|Carlos Jose Xavier Cruz et.al.|[2403.07769](http://arxiv.org/abs/2403.07769)|**[link](https://github.com/carlosxcruzcode/compet_colab_sma_llm)**|

@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-27**|**BehaviorGPT: Smart Agent Simulation for Autonomous Driving with Next-Patch Prediction**|Zikang Zhou et.al.|[2405.17372](http://arxiv.org/abs/2405.17372)|null|
+|**2024-05-27**|**Suppressing defection by increasing temptation: the impact of smart cooperators on a social dilemma situation**|Hsuan-Wei Lee et.al.|[2405.17268](http://arxiv.org/abs/2405.17268)|null|
+|**2024-05-27**|**Flow control of three-dimensional cylinders transitioning to turbulence via multi-agent reinforcement learning**|P. Suárez et.al.|[2405.17210](http://arxiv.org/abs/2405.17210)|null|
+|**2024-05-27**|**Distributed Riemannian Stochastic Gradient Tracking Algorithm on the Stiefel Manifold**|Jishu Zhao et.al.|[2405.16900](http://arxiv.org/abs/2405.16900)|null|
+|**2024-05-27**|**A Large Language Model-based multi-agent manufacturing system for intelligent shopfloor**|Zhen Zhao et.al.|[2405.16887](http://arxiv.org/abs/2405.16887)|null|
+|**2024-05-27**|**Knowing What Not to Do: Leverage Language Model Insights for Action Space Pruning in Multi-agent Reinforcement Learning**|Zhihao Liu et.al.|[2405.16854](http://arxiv.org/abs/2405.16854)|null|
+|**2024-05-27**|**Advancing Behavior Generation in Mobile Robotics through High-Fidelity Procedural Simulations**|Victor A. Kich et.al.|[2405.16818](http://arxiv.org/abs/2405.16818)|null|
+|**2024-05-27**|**LLM-Based Cooperative Agents using Information Relevance and Plan Validation**|SeungWon Seo et.al.|[2405.16751](http://arxiv.org/abs/2405.16751)|null|
+|**2024-05-26**|**Mimicry and the Emergence of Cooperative Communication**|Dylan Cope et.al.|[2405.16622](http://arxiv.org/abs/2405.16622)|null|
+|**2024-05-26**|**Meta-Task Planning for Language Agents**|Cong Zhang et.al.|[2405.16510](http://arxiv.org/abs/2405.16510)|null|
 |**2024-05-24**|**SMART: Scalable Multi-agent Real-time Simulation via Next-token Prediction**|Wei Wu et.al.|[2405.15677](http://arxiv.org/abs/2405.15677)|null|
 |**2024-05-24**|**Human-in-the-loop Reinforcement Learning for Data Quality Monitoring in Particle Physics Experiments**|Olivia Jullian Parra et.al.|[2405.15508](http://arxiv.org/abs/2405.15508)|null|
 |**2024-05-24**|**Distributed Adaptive Control of Disturbed Interconnected Systems with High-Order Tuners**|Moh. Kamalul Wafi et.al.|[2405.15178](http://arxiv.org/abs/2405.15178)|null|

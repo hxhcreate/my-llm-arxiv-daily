@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.27
+## Updated on 2024.05.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 |**2024-05-23**|**Controlling Behavioral Diversity in Multi-Agent Reinforcement Learning**|Matteo Bettini et.al.|[2405.15054](http://arxiv.org/abs/2405.15054)|**[link](https://github.com/proroklab/controllingbehavioraldiversity)**|
 |**2024-05-23**|**CityGPT: Towards Urban IoT Learning, Analysis and Interaction with Multi-Agent System**|Qinghua Guan et.al.|[2405.14691](http://arxiv.org/abs/2405.14691)|null|
 |**2024-05-23**|**AI-Olympics: Exploring the Generalization of Agents through Open Competitions**|Chen Wang et.al.|[2405.14358](http://arxiv.org/abs/2405.14358)|null|
-|**2024-05-23**|**Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration**|Yang Zhang et.al.|[2405.14314](http://arxiv.org/abs/2405.14314)|null|
+|**2024-05-26**|**Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration**|Yang Zhang et.al.|[2405.14314](http://arxiv.org/abs/2405.14314)|null|
 |**2024-05-23**|**A finite time analysis of distributed Q-learning**|Han-Dong Lim et.al.|[2405.14078](http://arxiv.org/abs/2405.14078)|null|
 |**2024-05-22**|**Distributed and Decentralized Control and Task Allocation for Flexible Swarms**|Yigal Koifman et.al.|[2405.13941](http://arxiv.org/abs/2405.13941)|null|
 |**2024-05-22**|**GameVLM: A Decision-making Framework for Robotic Task Planning Based on Visual Language Models and Zero-sum Games**|Aoran Mei et.al.|[2405.13751](http://arxiv.org/abs/2405.13751)|null|
@@ -587,7 +587,7 @@
 |**2023-12-30**|**Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning**|Xin Yu et.al.|[2401.00167](http://arxiv.org/abs/2401.00167)|null|
 |**2023-12-30**|**Contrastive learning-based agent modeling for deep reinforcement learning**|Wenhao Ma et.al.|[2401.00132](http://arxiv.org/abs/2401.00132)|null|
 
-<p align=right>(<a href=#updated-on-20240527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240528>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

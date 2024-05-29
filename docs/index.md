@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.28
+## Updated on 2024.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AGENT
@@ -23,7 +23,7 @@ layout: default
 |**2024-05-27**|**Advancing Behavior Generation in Mobile Robotics through High-Fidelity Procedural Simulations**|Victor A. Kich et.al.|[2405.16818](http://arxiv.org/abs/2405.16818)|null|
 |**2024-05-27**|**LLM-Based Cooperative Agents using Information Relevance and Plan Validation**|SeungWon Seo et.al.|[2405.16751](http://arxiv.org/abs/2405.16751)|null|
 |**2024-05-26**|**Mimicry and the Emergence of Cooperative Communication**|Dylan Cope et.al.|[2405.16622](http://arxiv.org/abs/2405.16622)|null|
-|**2024-05-26**|**Meta-Task Planning for Language Agents**|Cong Zhang et.al.|[2405.16510](http://arxiv.org/abs/2405.16510)|null|
+|**2024-05-28**|**Meta-Task Planning for Language Agents**|Cong Zhang et.al.|[2405.16510](http://arxiv.org/abs/2405.16510)|null|
 |**2024-05-24**|**SMART: Scalable Multi-agent Real-time Simulation via Next-token Prediction**|Wei Wu et.al.|[2405.15677](http://arxiv.org/abs/2405.15677)|null|
 |**2024-05-24**|**Human-in-the-loop Reinforcement Learning for Data Quality Monitoring in Particle Physics Experiments**|Olivia Jullian Parra et.al.|[2405.15508](http://arxiv.org/abs/2405.15508)|null|
 |**2024-05-24**|**Distributed Adaptive Control of Disturbed Interconnected Systems with High-Order Tuners**|Moh. Kamalul Wafi et.al.|[2405.15178](http://arxiv.org/abs/2405.15178)|null|

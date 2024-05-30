@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-29**|**Normative Modules: A Generative Agent Architecture for Learning Norms that Supports Multi-Agent Cooperation**|Atrisha Sarkar et.al.|[2405.19328](http://arxiv.org/abs/2405.19328)|null|
+|**2024-05-29**|**Conditional Latent ODEs for Motion Prediction in Autonomous Driving**|Khang Truong Giang et.al.|[2405.19183](http://arxiv.org/abs/2405.19183)|null|
+|**2024-05-29**|**Cephalo: Multi-Modal Vision-Language Models for Bio-Inspired Materials Analysis and Design**|Markus J. Buehler et.al.|[2405.19076](http://arxiv.org/abs/2405.19076)|null|
+|**2024-05-29**|**Resilient Average Consensus with Adversaries via Distributed Detection and Recovery**|Liwei Yuan et.al.|[2405.18752](http://arxiv.org/abs/2405.18752)|null|
+|**2024-05-29**|**Efficient Learning in Chinese Checkers: Comparing Parameter Sharing in Multi-Agent Reinforcement Learning**|Noah Adhikari et.al.|[2405.18733](http://arxiv.org/abs/2405.18733)|**[link](https://github.com/noahadhikari/pettingzoo-chinese-checkers)**|
+|**2024-05-29**|**Identifying the Most Influential Driver Nodes for Pinning Control of Multi-Agent Systems with Time-Varying Topology**|Guangrui Zhang et.al.|[2405.18712](http://arxiv.org/abs/2405.18712)|null|
+|**2024-05-29**|**Bridging the Gap between Partially Observable Stochastic Games and Sparse POMDP Methods**|Tyler Becker et.al.|[2405.18703](http://arxiv.org/abs/2405.18703)|null|
 |**2024-05-28**|**Synchronization on circles and spheres with nonlinear interactions**|Christopher Criscitiello et.al.|[2405.18273](http://arxiv.org/abs/2405.18273)|null|
 |**2024-05-28**|**Safe Multi-Agent Reinforcement Learning with Bilevel Optimization in Autonomous Driving**|Zhi Zheng et.al.|[2405.18209](http://arxiv.org/abs/2405.18209)|**[link](https://github.com/saferl-lab/safe-marl-in-autonomous-driving)**|
 |**2024-05-28**|**Mutation-Bias Learning in Games**|Johann Bauer et.al.|[2405.18190](http://arxiv.org/abs/2405.18190)|null|

@@ -28,7 +28,7 @@
 |**2024-05-29**|**Adaptive In-conversation Team Building for Language Model Agents**|Linxin Song et.al.|[2405.19425](http://arxiv.org/abs/2405.19425)|null|
 |**2024-05-29**|**Normative Modules: A Generative Agent Architecture for Learning Norms that Supports Multi-Agent Cooperation**|Atrisha Sarkar et.al.|[2405.19328](http://arxiv.org/abs/2405.19328)|null|
 |**2024-05-29**|**Conditional Latent ODEs for Motion Prediction in Autonomous Driving**|Khang Truong Giang et.al.|[2405.19183](http://arxiv.org/abs/2405.19183)|null|
-|**2024-05-29**|**Cephalo: Multi-Modal Vision-Language Models for Bio-Inspired Materials Analysis and Design**|Markus J. Buehler et.al.|[2405.19076](http://arxiv.org/abs/2405.19076)|null|
+|**2024-05-29**|**Cephalo: Multi-Modal Vision-Language Models for Bio-Inspired Materials Analysis and Design**|Markus J. Buehler et.al.|[2405.19076](http://arxiv.org/abs/2405.19076)|**[link](https://github.com/lamm-mit/Cephalo)**|
 |**2024-05-29**|**Resilient Average Consensus with Adversaries via Distributed Detection and Recovery**|Liwei Yuan et.al.|[2405.18752](http://arxiv.org/abs/2405.18752)|null|
 |**2024-05-29**|**Efficient Learning in Chinese Checkers: Comparing Parameter Sharing in Multi-Agent Reinforcement Learning**|Noah Adhikari et.al.|[2405.18733](http://arxiv.org/abs/2405.18733)|**[link](https://github.com/noahadhikari/pettingzoo-chinese-checkers)**|
 |**2024-05-29**|**Identifying the Most Influential Driver Nodes for Pinning Control of Multi-Agent Systems with Time-Varying Topology**|Guangrui Zhang et.al.|[2405.18712](http://arxiv.org/abs/2405.18712)|null|
@@ -42,7 +42,7 @@
 |**2024-05-28**|**LLM experiments with simulation: Large Language Model Multi-Agent System for Process Simulation Parametrization in Digital Twins**|Yuchen Xia et.al.|[2405.18092](http://arxiv.org/abs/2405.18092)|**[link](https://github.com/yuchenxia/llmdrivensimulation)**|
 |**2024-05-28**|**Cognitive Insights and Stable Coalition Matching for Fostering Multi-Agent Cooperation**|Jiaqi Shao et.al.|[2405.18044](http://arxiv.org/abs/2405.18044)|null|
 |**2024-05-28**|**LNS2+RL: Combining Multi-agent Reinforcement Learning with Large Neighborhood Search in Multi-agent Path Finding**|Yutong Wang et.al.|[2405.17794](http://arxiv.org/abs/2405.17794)|null|
-|**2024-05-28**|**ORLM: Training Large Language Models for Optimization Modeling**|Zhengyang Tang et.al.|[2405.17743](http://arxiv.org/abs/2405.17743)|null|
+|**2024-05-28**|**ORLM: Training Large Language Models for Optimization Modeling**|Zhengyang Tang et.al.|[2405.17743](http://arxiv.org/abs/2405.17743)|**[link](https://github.com/cardinal-operations/orlm)**|
 |**2024-05-27**|**BehaviorGPT: Smart Agent Simulation for Autonomous Driving with Next-Patch Prediction**|Zikang Zhou et.al.|[2405.17372](http://arxiv.org/abs/2405.17372)|null|
 |**2024-05-27**|**Suppressing defection by increasing temptation: the impact of smart cooperators on a social dilemma situation**|Hsuan-Wei Lee et.al.|[2405.17268](http://arxiv.org/abs/2405.17268)|null|
 |**2024-05-27**|**Flow control of three-dimensional cylinders transitioning to turbulence via multi-agent reinforcement learning**|P. Suárez et.al.|[2405.17210](http://arxiv.org/abs/2405.17210)|null|
@@ -101,7 +101,7 @@
 |**2024-05-11**|**Event GDR: Event-Centric Generative Document Retrieval**|Yong Guan et.al.|[2405.06886](http://arxiv.org/abs/2405.06886)|null|
 |**2024-05-10**|**Sensing-Assisted Adaptive Channel Contention for Mobile Delay-Sensitive Communications**|Bojie Lv et.al.|[2405.06186](http://arxiv.org/abs/2405.06186)|null|
 |**2024-05-10**|**(A Partial Survey of) Decentralized, Cooperative Multi-Agent Reinforcement Learning**|Christopher Amato et.al.|[2405.06161](http://arxiv.org/abs/2405.06161)|null|
-|**2024-05-09**|**Smurfs: Leveraging Multiple Proficiency Agents with Context-Efficiency for Tool Planning**|Junzhi Chen et.al.|[2405.05955](http://arxiv.org/abs/2405.05955)|null|
+|**2024-05-09**|**Smurfs: Leveraging Multiple Proficiency Agents with Context-Efficiency for Tool Planning**|Junzhi Chen et.al.|[2405.05955](http://arxiv.org/abs/2405.05955)|**[link](https://github.com/freedomintelligence/smurfs)**|
 |**2024-05-09**|**Federated Combinatorial Multi-Agent Multi-Armed Bandits**|Fares Fourati et.al.|[2405.05950](http://arxiv.org/abs/2405.05950)|null|
 |**2024-05-09**|**Approximate Dec-POMDP Solving Using Multi-Agent A***|Wietze Koops et.al.|[2405.05662](http://arxiv.org/abs/2405.05662)|null|
 |**2024-05-09**|**Dynamic Deep Factor Graph for Multi-Agent Reinforcement Learning**|Yuchen Shi et.al.|[2405.05542](http://arxiv.org/abs/2405.05542)|**[link](https://github.com/sicc-group/ddfg)**|

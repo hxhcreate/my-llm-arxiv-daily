@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-04**|**FightLadder: A Benchmark for Competitive Multi-Agent Reinforcement Learning**|Wenzhe Li et.al.|[2406.02081](http://arxiv.org/abs/2406.02081)|null|
+|**2024-06-04**|**Large Language Model-Enabled Multi-Agent Manufacturing Systems**|Jonghan Lim et.al.|[2406.01893](http://arxiv.org/abs/2406.01893)|null|
+|**2024-06-03**|**Multi-Agent Reinforcement Learning Meets Leaf Sequencing in Radiotherapy**|Riqiang Gao et.al.|[2406.01853](http://arxiv.org/abs/2406.01853)|null|
+|**2024-06-03**|**ZAPP! Zonotope Agreement of Prediction and Planning for Continuous-Time Collision Avoidance with Discrete-Time Dynamics**|Luca Paparusso et.al.|[2406.01814](http://arxiv.org/abs/2406.01814)|null|
+|**2024-06-03**|**Leader-Follower Density Control of Spatial Dynamics in Large-Scale Multi-Agent Systems**|Gian Carlo Maffettone et.al.|[2406.01804](http://arxiv.org/abs/2406.01804)|null|
+|**2024-06-03**|**Multi-agent assignment via state augmented reinforcement learning**|Leopoldo Agorio et.al.|[2406.01782](http://arxiv.org/abs/2406.01782)|null|
+|**2024-06-03**|**AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation**|Junhao Cheng et.al.|[2406.01388](http://arxiv.org/abs/2406.01388)|null|
+|**2024-06-03**|**Multi-Agent Transfer Learning via Temporal Contrastive Learning**|Weihao Zeng et.al.|[2406.01377](http://arxiv.org/abs/2406.01377)|null|
+|**2024-06-03**|**BELLS: A Framework Towards Future Proof Benchmarks for the Evaluation of LLM Safeguards**|Diego Dorn et.al.|[2406.01364](http://arxiv.org/abs/2406.01364)|null|
+|**2024-06-03**|**CodeR: Issue Resolving with Multi-Agent and Task Graphs**|Dong Chen et.al.|[2406.01304](http://arxiv.org/abs/2406.01304)|**[link](https://github.com/nl2code/coder)**|
 |**2024-06-03**|**Fusion-PSRO: Nash Policy Fusion for Policy Space Response Oracles**|Jiesong Lian et.al.|[2405.21027](http://arxiv.org/abs/2405.21027)|null|
 |**2024-05-31**|**Scalable Distance-based Multi-Agent Relative State Estimation via Block Multiconvex Optimization**|Tianyue Wu et.al.|[2405.20883](http://arxiv.org/abs/2405.20883)|null|
 |**2024-05-31**|**CSDO: Enhancing Efficiency and Success in Large-Scale Multi-Vehicle Trajectory Planning**|Yibin Yang et.al.|[2405.20858](http://arxiv.org/abs/2405.20858)|**[link](https://github.com/YangSVM/CSDOTrajectoryPlanning)**|

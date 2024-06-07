@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**Multi-Agent Imitation Learning: Value is Easy, Regret is Hard**|Jingwu Tang et.al.|[2406.04219](http://arxiv.org/abs/2406.04219)|null|
+|**2024-06-06**|**MARLander: A Local Path Planning for Drone Swarms using Multiagent Deep Reinforcement Learning**|Demetros Aschu et.al.|[2406.04159](http://arxiv.org/abs/2406.04159)|null|
+|**2024-06-06**|**Online Learning in Betting Markets: Profit versus Prediction**|Haiqing Zhu et.al.|[2406.04062](http://arxiv.org/abs/2406.04062)|null|
+|**2024-06-06**|**Mini Honor of Kings: A Lightweight Environment for Multi-Agent Reinforcement Learning**|Lin Liu et.al.|[2406.03978](http://arxiv.org/abs/2406.03978)|null|
 |**2024-06-05**|**AD-H: Autonomous Driving with Hierarchical Agents**|Zaibin Zhang et.al.|[2406.03474](http://arxiv.org/abs/2406.03474)|null|
 |**2024-06-05**|**CommonPower: Supercharging Machine Learning for Smart Grids**|Michael Eichelbeck et.al.|[2406.03231](http://arxiv.org/abs/2406.03231)|**[link](https://github.com/tumcps/commonpower)**|
 |**2024-06-05**|**Towards Detecting LLMs Hallucination via Markov Chain-based Multi-agent Debate Framework**|Xiaoxi Sun et.al.|[2406.03075](http://arxiv.org/abs/2406.03075)|null|

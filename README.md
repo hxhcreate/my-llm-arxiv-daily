@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**LLM-Vectorizer: LLM-based Verified Loop Vectorizer**|Jubi Taneja et.al.|[2406.04693](http://arxiv.org/abs/2406.04693)|null|
+|**2024-06-07**|**Mean-field limit of non-exchangeable multi-agent systems over hypergraphs with unbounded rank**|Nathalie Ayi et.al.|[2406.04691](http://arxiv.org/abs/2406.04691)|null|
+|**2024-06-07**|**meSch: Multi-Agent Energy-Aware Scheduling for Task Persistence**|Kaleb Ben Naveed et.al.|[2406.04560](http://arxiv.org/abs/2406.04560)|null|
+|**2024-06-06**|**Online Joint Fine-tuning of Multi-Agent Flows**|Paul Mineiro et.al.|[2406.04516](http://arxiv.org/abs/2406.04516)|null|
+|**2024-06-06**|**Optimizing Autonomous Driving for Safety: A Human-Centric Approach with LLM-Enhanced RLHF**|Yuan Sun et.al.|[2406.04481](http://arxiv.org/abs/2406.04481)|null|
 |**2024-06-06**|**Multi-Agent Imitation Learning: Value is Easy, Regret is Hard**|Jingwu Tang et.al.|[2406.04219](http://arxiv.org/abs/2406.04219)|null|
 |**2024-06-06**|**MARLander: A Local Path Planning for Drone Swarms using Multiagent Deep Reinforcement Learning**|Demetros Aschu et.al.|[2406.04159](http://arxiv.org/abs/2406.04159)|null|
 |**2024-06-06**|**Online Learning in Betting Markets: Profit versus Prediction**|Haiqing Zhu et.al.|[2406.04062](http://arxiv.org/abs/2406.04062)|null|

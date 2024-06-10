@@ -32,7 +32,7 @@
 |**2024-06-03**|**ZAPP! Zonotope Agreement of Prediction and Planning for Continuous-Time Collision Avoidance with Discrete-Time Dynamics**|Luca Paparusso et.al.|[2406.01814](http://arxiv.org/abs/2406.01814)|null|
 |**2024-06-03**|**Leader-Follower Density Control of Spatial Dynamics in Large-Scale Multi-Agent Systems**|Gian Carlo Maffettone et.al.|[2406.01804](http://arxiv.org/abs/2406.01804)|null|
 |**2024-06-03**|**Multi-agent assignment via state augmented reinforcement learning**|Leopoldo Agorio et.al.|[2406.01782](http://arxiv.org/abs/2406.01782)|null|
-|**2024-06-03**|**AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation**|Junhao Cheng et.al.|[2406.01388](http://arxiv.org/abs/2406.01388)|null|
+|**2024-06-03**|**AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation**|Junhao Cheng et.al.|[2406.01388](http://arxiv.org/abs/2406.01388)|**[link](https://github.com/donahowe/AutoStudio)**|
 |**2024-06-03**|**Multi-Agent Transfer Learning via Temporal Contrastive Learning**|Weihao Zeng et.al.|[2406.01377](http://arxiv.org/abs/2406.01377)|null|
 |**2024-06-03**|**BELLS: A Framework Towards Future Proof Benchmarks for the Evaluation of LLM Safeguards**|Diego Dorn et.al.|[2406.01364](http://arxiv.org/abs/2406.01364)|null|
 |**2024-06-03**|**CodeR: Issue Resolving with Multi-Agent and Task Graphs**|Dong Chen et.al.|[2406.01304](http://arxiv.org/abs/2406.01304)|**[link](https://github.com/nl2code/coder)**|
@@ -44,15 +44,15 @@
 |**2024-05-30**|**Quality of Non-Convergent Best Response Processes in Multi-Agent Systems through Sink Equilibrium**|Rohit Konda et.al.|[2405.20426](http://arxiv.org/abs/2405.20426)|null|
 |**2024-05-30**|**Towards Hierarchical Multi-Agent Workflows for Zero-Shot Prompt Optimization**|Yuchi Liu et.al.|[2405.20252](http://arxiv.org/abs/2405.20252)|**[link](https://github.com/liuyvchi/HMAW)**|
 |**2024-05-30**|**Safe Multi-agent Reinforcement Learning with Natural Language Constraints**|Ziyan Wang et.al.|[2405.20018](http://arxiv.org/abs/2405.20018)|null|
-|**2024-05-30**|**LAGMA: LAtent Goal-guided Multi-Agent Reinforcement Learning**|Hyungho Na et.al.|[2405.19998](http://arxiv.org/abs/2405.19998)|null|
+|**2024-05-30**|**LAGMA: LAtent Goal-guided Multi-Agent Reinforcement Learning**|Hyungho Na et.al.|[2405.19998](http://arxiv.org/abs/2405.19998)|**[link](https://github.com/aailabkaist/LAGMA)**|
 |**2024-05-30**|**A Deep Reinforcement Learning Approach for Trading Optimization in the Forex Market with Multi-Agent Asynchronous Distribution**|Davoud Sarani et.al.|[2405.19982](http://arxiv.org/abs/2405.19982)|null|
 |**2024-05-30**|**From Words to Actions: Unveiling the Theoretical Underpinnings of LLM-Driven Autonomous Systems**|Jianliang He et.al.|[2405.19883](http://arxiv.org/abs/2405.19883)|null|
 |**2024-05-30**|**Approximate Global Convergence of Independent Learning in Multi-Agent Systems**|Ruiyang Jin et.al.|[2405.19811](http://arxiv.org/abs/2405.19811)|null|
-|**2024-05-29**|**Distributed Online Planning for Min-Max Problems in Networked Markov Games**|Alexandros E. Tzikas et.al.|[2405.19570](http://arxiv.org/abs/2405.19570)|null|
+|**2024-05-29**|**Distributed Online Planning for Min-Max Problems in Networked Markov Games**|Alexandros E. Tzikas et.al.|[2405.19570](http://arxiv.org/abs/2405.19570)|**[link](https://github.com/alextzik/distr_online_maxmin_markov_game)**|
 |**2024-05-29**|**Decentralized Optimization in Time-Varying Networks with Arbitrary Delays**|Tomas Ortega et.al.|[2405.19513](http://arxiv.org/abs/2405.19513)|null|
 |**2024-05-29**|**Adaptive In-conversation Team Building for Language Model Agents**|Linxin Song et.al.|[2405.19425](http://arxiv.org/abs/2405.19425)|null|
 |**2024-05-29**|**Normative Modules: A Generative Agent Architecture for Learning Norms that Supports Multi-Agent Cooperation**|Atrisha Sarkar et.al.|[2405.19328](http://arxiv.org/abs/2405.19328)|null|
-|**2024-05-29**|**Conditional Latent ODEs for Motion Prediction in Autonomous Driving**|Khang Truong Giang et.al.|[2405.19183](http://arxiv.org/abs/2405.19183)|null|
+|**2024-05-29**|**Conditional Latent ODEs for Motion Prediction in Autonomous Driving**|Khang Truong Giang et.al.|[2405.19183](http://arxiv.org/abs/2405.19183)|**[link](https://github.com/truongkhang/clode)**|
 |**2024-05-29**|**Cephalo: Multi-Modal Vision-Language Models for Bio-Inspired Materials Analysis and Design**|Markus J. Buehler et.al.|[2405.19076](http://arxiv.org/abs/2405.19076)|**[link](https://github.com/lamm-mit/Cephalo)**|
 |**2024-05-29**|**Resilient Average Consensus with Adversaries via Distributed Detection and Recovery**|Liwei Yuan et.al.|[2405.18752](http://arxiv.org/abs/2405.18752)|null|
 |**2024-05-29**|**Efficient Learning in Chinese Checkers: Comparing Parameter Sharing in Multi-Agent Reinforcement Learning**|Noah Adhikari et.al.|[2405.18733](http://arxiv.org/abs/2405.18733)|**[link](https://github.com/noahadhikari/pettingzoo-chinese-checkers)**|
@@ -66,19 +66,19 @@
 |**2024-05-28**|**Individual Contributions as Intrinsic Exploration Scaffolds for Multi-agent Reinforcement Learning**|Xinran Li et.al.|[2405.18110](http://arxiv.org/abs/2405.18110)|**[link](https://github.com/lxxxxr/ices)**|
 |**2024-05-28**|**LLM experiments with simulation: Large Language Model Multi-Agent System for Process Simulation Parametrization in Digital Twins**|Yuchen Xia et.al.|[2405.18092](http://arxiv.org/abs/2405.18092)|**[link](https://github.com/yuchenxia/llmdrivensimulation)**|
 |**2024-05-28**|**Cognitive Insights and Stable Coalition Matching for Fostering Multi-Agent Cooperation**|Jiaqi Shao et.al.|[2405.18044](http://arxiv.org/abs/2405.18044)|null|
-|**2024-05-28**|**LNS2+RL: Combining Multi-agent Reinforcement Learning with Large Neighborhood Search in Multi-agent Path Finding**|Yutong Wang et.al.|[2405.17794](http://arxiv.org/abs/2405.17794)|null|
+|**2024-05-28**|**LNS2+RL: Combining Multi-agent Reinforcement Learning with Large Neighborhood Search in Multi-agent Path Finding**|Yutong Wang et.al.|[2405.17794](http://arxiv.org/abs/2405.17794)|**[link](https://github.com/marmotlab/LNS2-RL)**|
 |**2024-05-28**|**ORLM: Training Large Language Models for Optimization Modeling**|Zhengyang Tang et.al.|[2405.17743](http://arxiv.org/abs/2405.17743)|**[link](https://github.com/cardinal-operations/orlm)**|
 |**2024-05-27**|**BehaviorGPT: Smart Agent Simulation for Autonomous Driving with Next-Patch Prediction**|Zikang Zhou et.al.|[2405.17372](http://arxiv.org/abs/2405.17372)|null|
 |**2024-05-27**|**Suppressing defection by increasing temptation: the impact of smart cooperators on a social dilemma situation**|Hsuan-Wei Lee et.al.|[2405.17268](http://arxiv.org/abs/2405.17268)|null|
 |**2024-05-27**|**Flow control of three-dimensional cylinders transitioning to turbulence via multi-agent reinforcement learning**|P. Suárez et.al.|[2405.17210](http://arxiv.org/abs/2405.17210)|null|
 |**2024-05-27**|**Distributed Riemannian Stochastic Gradient Tracking Algorithm on the Stiefel Manifold**|Jishu Zhao et.al.|[2405.16900](http://arxiv.org/abs/2405.16900)|null|
 |**2024-05-27**|**A Large Language Model-based multi-agent manufacturing system for intelligent shopfloor**|Zhen Zhao et.al.|[2405.16887](http://arxiv.org/abs/2405.16887)|null|
-|**2024-05-27**|**Knowing What Not to Do: Leverage Language Model Insights for Action Space Pruning in Multi-agent Reinforcement Learning**|Zhihao Liu et.al.|[2405.16854](http://arxiv.org/abs/2405.16854)|null|
+|**2024-05-27**|**Knowing What Not to Do: Leverage Language Model Insights for Action Space Pruning in Multi-agent Reinforcement Learning**|Zhihao Liu et.al.|[2405.16854](http://arxiv.org/abs/2405.16854)|**[link](https://github.com/liuzhihao2022/espark)**|
 |**2024-05-27**|**Advancing Behavior Generation in Mobile Robotics through High-Fidelity Procedural Simulations**|Victor A. Kich et.al.|[2405.16818](http://arxiv.org/abs/2405.16818)|null|
 |**2024-05-27**|**LLM-Based Cooperative Agents using Information Relevance and Plan Validation**|SeungWon Seo et.al.|[2405.16751](http://arxiv.org/abs/2405.16751)|null|
 |**2024-05-26**|**Mimicry and the Emergence of Cooperative Communication**|Dylan Cope et.al.|[2405.16622](http://arxiv.org/abs/2405.16622)|null|
 |**2024-05-28**|**Meta-Task Planning for Language Agents**|Cong Zhang et.al.|[2405.16510](http://arxiv.org/abs/2405.16510)|null|
-|**2024-05-24**|**SMART: Scalable Multi-agent Real-time Simulation via Next-token Prediction**|Wei Wu et.al.|[2405.15677](http://arxiv.org/abs/2405.15677)|null|
+|**2024-05-24**|**SMART: Scalable Multi-agent Real-time Simulation via Next-token Prediction**|Wei Wu et.al.|[2405.15677](http://arxiv.org/abs/2405.15677)|**[link](https://github.com/regenmacher22/SMART)**|
 |**2024-05-24**|**Human-in-the-loop Reinforcement Learning for Data Quality Monitoring in Particle Physics Experiments**|Olivia Jullian Parra et.al.|[2405.15508](http://arxiv.org/abs/2405.15508)|null|
 |**2024-05-24**|**Distributed Adaptive Control of Disturbed Interconnected Systems with High-Order Tuners**|Moh. Kamalul Wafi et.al.|[2405.15178](http://arxiv.org/abs/2405.15178)|null|
 |**2024-05-24**|**CulturePark: Boosting Cross-cultural Understanding in Large Language Models**|Cheng Li et.al.|[2405.15145](http://arxiv.org/abs/2405.15145)|null|
@@ -436,7 +436,7 @@
 |**2024-02-27**|**Inverse Optimal Control for Linear Quadratic Tracking with Unknown Target States**|Yao Li et.al.|[2402.17247](http://arxiv.org/abs/2402.17247)|null|
 |**2024-02-27**|**Large Language Model for Participatory Urban Planning**|Zhilun Zhou et.al.|[2402.17161](http://arxiv.org/abs/2402.17161)|null|
 |**2024-02-26**|**Navigating Complexity: Orchestrated Problem Solving with Multi-Agent LLMs**|Sumedh Rasal et.al.|[2402.16713](http://arxiv.org/abs/2402.16713)|null|
-|**2024-02-26**|**LLMArena: Assessing Capabilities of Large Language Models in Dynamic Multi-Agent Environments**|Junzhe Chen et.al.|[2402.16499](http://arxiv.org/abs/2402.16499)|null|
+|**2024-02-26**|**LLMArena: Assessing Capabilities of Large Language Models in Dynamic Multi-Agent Environments**|Junzhe Chen et.al.|[2402.16499](http://arxiv.org/abs/2402.16499)|**[link](https://github.com/THU-BPM/LLMArena)**|
 |**2024-02-26**|**Distributed Finite-time Differentiator for Multi-agent Systems Under Directed Graph**|Weile Chen et.al.|[2402.16260](http://arxiv.org/abs/2402.16260)|null|
 |**2024-02-26**|**Scaling Robust Optimization for Multi-Agent Robotic Systems: A Distributed Perspective**|Arshiya Taj Abdul et.al.|[2402.16227](http://arxiv.org/abs/2402.16227)|null|
 |**2024-02-24**|**Optimality of weighted contracts for multi-agent contract design with a budget**|Sumit Goel et.al.|[2402.15890](http://arxiv.org/abs/2402.15890)|null|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.11
+## Updated on 2024.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,12 +18,12 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-10**|**Adaptive Opponent Policy Detection in Multi-Agent MDPs: Real-Time Strategy Switch Identification Using Running Error Estimation**|Mohidul Haque Mridul et.al.|[2406.06500](http://arxiv.org/abs/2406.06500)|null|
-|**2024-06-10**|**Reasoning in Token Economies: Budget-Aware Evaluation of LLM Reasoning Strategies**|Junlin Wang et.al.|[2406.06461](http://arxiv.org/abs/2406.06461)|null|
-|**2024-06-10**|**iMotion-LLM: Motion Prediction Instruction Tuning**|Abdulwahab Felemban et.al.|[2406.06211](http://arxiv.org/abs/2406.06211)|null|
+|**2024-06-11**|**Reasoning in Token Economies: Budget-Aware Evaluation of LLM Reasoning Strategies**|Junlin Wang et.al.|[2406.06461](http://arxiv.org/abs/2406.06461)|null|
+|**2024-06-11**|**iMotion-LLM: Motion Prediction Instruction Tuning**|Abdulwahab Felemban et.al.|[2406.06211](http://arxiv.org/abs/2406.06211)|null|
 |**2024-06-10**|**Deep Multi-Objective Reinforcement Learning for Utility-Based Infrastructural Maintenance Optimization**|Jesse van Remmerden et.al.|[2406.06184](http://arxiv.org/abs/2406.06184)|null|
 |**2024-06-10**|**Risk Sensitivity in Markov Games and Multi-Agent Reinforcement Learning: A Systematic Review**|Hafez Ghaemi et.al.|[2406.06041](http://arxiv.org/abs/2406.06041)|null|
 |**2024-06-09**|**Multi-UAV Trajectory Design for Fair and Secure Communication**|Hongjiang Lei et.al.|[2406.05936](http://arxiv.org/abs/2406.05936)|null|
-|**2024-06-09**|**Deception Analysis with Artificial Intelligence: An Interdisciplinary Perspective**|Stefan Sarkadi et.al.|[2406.05724](http://arxiv.org/abs/2406.05724)|null|
+|**2024-06-11**|**Deception Analysis with Artificial Intelligence: An Interdisciplinary Perspective**|Stefan Sarkadi et.al.|[2406.05724](http://arxiv.org/abs/2406.05724)|null|
 |**2024-06-09**|**VillagerAgent: A Graph-Based Multi-Agent Framework for Coordinating Complex Task Dependencies in Minecraft**|Yubo Dong et.al.|[2406.05720](http://arxiv.org/abs/2406.05720)|**[link](https://github.com/cnsdqd-dyb/villageragent)**|
 |**2024-06-09**|**A Superalignment Framework in Autonomous Driving with Large Language Models**|Xiangrui Kong et.al.|[2406.05651](http://arxiv.org/abs/2406.05651)|null|
 |**2024-06-09**|**Cross Language Soccer Framework: An Open Source Framework for the RoboCup 2D Soccer Simulation**|Nader Zare et.al.|[2406.05621](http://arxiv.org/abs/2406.05621)|null|
@@ -663,7 +663,7 @@
 |**2023-12-30**|**Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning**|Xin Yu et.al.|[2401.00167](http://arxiv.org/abs/2401.00167)|null|
 |**2023-12-30**|**Contrastive learning-based agent modeling for deep reinforcement learning**|Wenhao Ma et.al.|[2401.00132](http://arxiv.org/abs/2401.00132)|null|
 
-<p align=right>(<a href=#updated-on-20240611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240612>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

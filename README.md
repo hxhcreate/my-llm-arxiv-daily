@@ -17,6 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-11**|**Choreographing the Rhythms of Observation: Dynamics for Ranged Observer Bipartite-Unipartite SpatioTemporal (ROBUST) Networks**|Ted Edward Holmberg et.al.|[2406.07473](http://arxiv.org/abs/2406.07473)|null|
+|**2024-06-11**|**Federated Multi-Agent DRL for Radio Resource Management in Industrial 6G in-X subnetworks**|Bjarke Madsen et.al.|[2406.07383](http://arxiv.org/abs/2406.07383)|null|
+|**2024-06-11**|**EdgeTimer: Adaptive Multi-Timescale Scheduling in Mobile Edge Computing with Deep Reinforcement Learning**|Yijun Hao et.al.|[2406.07342](http://arxiv.org/abs/2406.07342)|null|
+|**2024-06-11**|**Scaling Large-Language-Model-based Multi-Agent Collaboration**|Chen Qian et.al.|[2406.07155](http://arxiv.org/abs/2406.07155)|**[link](https://github.com/openbmb/chatdev)**|
+|**2024-06-11**|**CoEvol: Constructing Better Responses for Instruction Finetuning through Multi-Agent Cooperation**|Renhao Li et.al.|[2406.07054](http://arxiv.org/abs/2406.07054)|**[link](https://github.com/lirenhao1997/coevol)**|
+|**2024-06-11**|**Arbitrary-Order Distributed Finite-Time Differentiator for Multi-Agent Systems**|Weile Chen et.al.|[2406.07031](http://arxiv.org/abs/2406.07031)|null|
+|**2024-06-11**|**DNN Partitioning, Task Offloading, and Resource Allocation in Dynamic Vehicular Networks: A Lyapunov-Guided Diffusion-Based Reinforcement Learning Approach**|Zhang Liu et.al.|[2406.06986](http://arxiv.org/abs/2406.06986)|null|
+|**2024-06-10**|**Locally Interdependent Multi-Agent MDP: Theoretical Framework for Decentralized Agents with Dynamic Dependencies**|Alex DeWeese et.al.|[2406.06823](http://arxiv.org/abs/2406.06823)|null|
 |**2024-06-10**|**Adaptive Opponent Policy Detection in Multi-Agent MDPs: Real-Time Strategy Switch Identification Using Running Error Estimation**|Mohidul Haque Mridul et.al.|[2406.06500](http://arxiv.org/abs/2406.06500)|null|
 |**2024-06-11**|**Reasoning in Token Economies: Budget-Aware Evaluation of LLM Reasoning Strategies**|Junlin Wang et.al.|[2406.06461](http://arxiv.org/abs/2406.06461)|null|
 |**2024-06-11**|**iMotion-LLM: Motion Prediction Instruction Tuning**|Abdulwahab Felemban et.al.|[2406.06211](http://arxiv.org/abs/2406.06211)|null|

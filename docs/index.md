@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**CrowdEgress: A Multi-Agent Simulation Platform for Pedestrian Crowd**|Peng Wang et.al.|[2406.08190](http://arxiv.org/abs/2406.08190)|null|
+|**2024-06-12**|**Efficient Adaptation in Mixed-Motive Environments via Hierarchical Opponent Modeling and Planning**|Yizhe Huang et.al.|[2406.08002](http://arxiv.org/abs/2406.08002)|null|
+|**2024-06-12**|**A Federated Online Restless Bandit Framework for Cooperative Resource Allocation**|Jingwen Tong et.al.|[2406.07992](http://arxiv.org/abs/2406.07992)|null|
+|**2024-06-12**|**Carbon Market Simulation with Adaptive Mechanism Design**|Han Wang et.al.|[2406.07875](http://arxiv.org/abs/2406.07875)|**[link](https://github.com/xwanghan/carbon-simulator)**|
+|**2024-06-12**|**Multi-agent Reinforcement Learning with Deep Networks for Diverse Q-Vectors**|Zhenglong Luo et.al.|[2406.07848](http://arxiv.org/abs/2406.07848)|null|
+|**2024-06-11**|**Multi-objective optimization for multi-agent injection strategies in subsurface CO $_2$ storage**|Per Pettersson et.al.|[2406.07711](http://arxiv.org/abs/2406.07711)|null|
+|**2024-06-11**|**Scalable Optimal Motion Planning for Multi-Agent Systems by Cosserat Theory of Rods**|Amirreza Fahim Golestaneh et.al.|[2406.07684](http://arxiv.org/abs/2406.07684)|null|
 |**2024-06-11**|**Choreographing the Rhythms of Observation: Dynamics for Ranged Observer Bipartite-Unipartite SpatioTemporal (ROBUST) Networks**|Ted Edward Holmberg et.al.|[2406.07473](http://arxiv.org/abs/2406.07473)|null|
 |**2024-06-11**|**Federated Multi-Agent DRL for Radio Resource Management in Industrial 6G in-X subnetworks**|Bjarke Madsen et.al.|[2406.07383](http://arxiv.org/abs/2406.07383)|null|
 |**2024-06-11**|**EdgeTimer: Adaptive Multi-Timescale Scheduling in Mobile Edge Computing with Deep Reinforcement Learning**|Yijun Hao et.al.|[2406.07342](http://arxiv.org/abs/2406.07342)|null|

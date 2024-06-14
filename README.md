@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.13
+## Updated on 2024.06.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 |**2024-06-12**|**CrowdEgress: A Multi-Agent Simulation Platform for Pedestrian Crowd**|Peng Wang et.al.|[2406.08190](http://arxiv.org/abs/2406.08190)|null|
 |**2024-06-12**|**Efficient Adaptation in Mixed-Motive Environments via Hierarchical Opponent Modeling and Planning**|Yizhe Huang et.al.|[2406.08002](http://arxiv.org/abs/2406.08002)|null|
 |**2024-06-12**|**A Federated Online Restless Bandit Framework for Cooperative Resource Allocation**|Jingwen Tong et.al.|[2406.07992](http://arxiv.org/abs/2406.07992)|null|
-|**2024-06-12**|**Carbon Market Simulation with Adaptive Mechanism Design**|Han Wang et.al.|[2406.07875](http://arxiv.org/abs/2406.07875)|**[link](https://github.com/xwanghan/carbon-simulator)**|
+|**2024-06-13**|**Carbon Market Simulation with Adaptive Mechanism Design**|Han Wang et.al.|[2406.07875](http://arxiv.org/abs/2406.07875)|**[link](https://github.com/xwanghan/carbon-simulator)**|
 |**2024-06-12**|**Multi-agent Reinforcement Learning with Deep Networks for Diverse Q-Vectors**|Zhenglong Luo et.al.|[2406.07848](http://arxiv.org/abs/2406.07848)|null|
 |**2024-06-11**|**Multi-objective optimization for multi-agent injection strategies in subsurface CO $_2$ storage**|Per Pettersson et.al.|[2406.07711](http://arxiv.org/abs/2406.07711)|null|
 |**2024-06-11**|**Scalable Optimal Motion Planning for Multi-Agent Systems by Cosserat Theory of Rods**|Amirreza Fahim Golestaneh et.al.|[2406.07684](http://arxiv.org/abs/2406.07684)|null|
@@ -678,7 +678,7 @@
 |**2023-12-30**|**Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning**|Xin Yu et.al.|[2401.00167](http://arxiv.org/abs/2401.00167)|null|
 |**2023-12-30**|**Contrastive learning-based agent modeling for deep reinforcement learning**|Wenhao Ma et.al.|[2401.00132](http://arxiv.org/abs/2401.00132)|null|
 
-<p align=right>(<a href=#updated-on-20240613>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240614>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

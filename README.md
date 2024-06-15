@@ -17,6 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-13**|**Characterising Interventions in Causal Games**|Manuj Mishra et.al.|[2406.09318](http://arxiv.org/abs/2406.09318)|null|
+|**2024-06-13**|**Applying Multi-Agent Negotiation to Solve the Production Routing Problem With Privacy Preserving**|Luiza Pellin Biasoto et.al.|[2406.09214](http://arxiv.org/abs/2406.09214)|null|
+|**2024-06-13**|**Dispelling the Mirage of Progress in Offline MARL through Standardised Baselines and Evaluation**|Claude Formanek et.al.|[2406.09068](http://arxiv.org/abs/2406.09068)|null|
+|**2024-06-13**|**Multi-Agent Software Development through Cross-Team Collaboration**|Zhuoyun Du et.al.|[2406.08979](http://arxiv.org/abs/2406.08979)|**[link](https://github.com/openbmb/chatdev)**|
+|**2024-06-13**|**Equilibrium Selection for Multi-agent Reinforcement Learning: A Unified Framework**|Runyu Zhang et.al.|[2406.08844](http://arxiv.org/abs/2406.08844)|null|
+|**2024-06-13**|**Batch-Instructed Gradient for Prompt Evolution:Systematic Prompt Optimization for Enhanced Text-to-Image Synthesis**|Xinrui Yang et.al.|[2406.08713](http://arxiv.org/abs/2406.08713)|null|
+|**2024-06-12**|**AlphaZeroES: Direct score maximization outperforms planning loss minimization**|Carlos Martin et.al.|[2406.08687](http://arxiv.org/abs/2406.08687)|null|
 |**2024-06-12**|**CrowdEgress: A Multi-Agent Simulation Platform for Pedestrian Crowd**|Peng Wang et.al.|[2406.08190](http://arxiv.org/abs/2406.08190)|null|
 |**2024-06-12**|**Efficient Adaptation in Mixed-Motive Environments via Hierarchical Opponent Modeling and Planning**|Yizhe Huang et.al.|[2406.08002](http://arxiv.org/abs/2406.08002)|null|
 |**2024-06-12**|**A Federated Online Restless Bandit Framework for Cooperative Resource Allocation**|Jingwen Tong et.al.|[2406.07992](http://arxiv.org/abs/2406.07992)|null|

@@ -49,7 +49,7 @@ layout: default
 |**2024-06-07**|**LLM-Vectorizer: LLM-based Verified Loop Vectorizer**|Jubi Taneja et.al.|[2406.04693](http://arxiv.org/abs/2406.04693)|null|
 |**2024-06-07**|**Mean-field limit of non-exchangeable multi-agent systems over hypergraphs with unbounded rank**|Nathalie Ayi et.al.|[2406.04691](http://arxiv.org/abs/2406.04691)|null|
 |**2024-06-07**|**meSch: Multi-Agent Energy-Aware Scheduling for Task Persistence**|Kaleb Ben Naveed et.al.|[2406.04560](http://arxiv.org/abs/2406.04560)|null|
-|**2024-06-06**|**Online Joint Fine-tuning of Multi-Agent Flows**|Paul Mineiro et.al.|[2406.04516](http://arxiv.org/abs/2406.04516)|null|
+|**2024-06-06**|**Online Joint Fine-tuning of Multi-Agent Flows**|Paul Mineiro et.al.|[2406.04516](http://arxiv.org/abs/2406.04516)|**[link](https://github.com/pmineiro/musique-off)**|
 |**2024-06-06**|**Optimizing Autonomous Driving for Safety: A Human-Centric Approach with LLM-Enhanced RLHF**|Yuan Sun et.al.|[2406.04481](http://arxiv.org/abs/2406.04481)|null|
 |**2024-06-06**|**Multi-Agent Imitation Learning: Value is Easy, Regret is Hard**|Jingwu Tang et.al.|[2406.04219](http://arxiv.org/abs/2406.04219)|null|
 |**2024-06-06**|**MARLander: A Local Path Planning for Drone Swarms using Multiagent Deep Reinforcement Learning**|Demetros Aschu et.al.|[2406.04159](http://arxiv.org/abs/2406.04159)|null|
@@ -298,7 +298,7 @@ layout: default
 |**2024-04-05**|**ROMA-iQSS: An Objective Alignment Approach via State-Based Value Learning and ROund-Robin Multi-Agent Scheduling**|Chi-Hui Lin et.al.|[2404.03984](http://arxiv.org/abs/2404.03984)|null|
 |**2024-04-05**|**Heterogeneous Multi-Agent Reinforcement Learning for Zero-Shot Scalable Collaboration**|Xudong Guo et.al.|[2404.03869](http://arxiv.org/abs/2404.03869)|null|
 |**2024-04-04**|**SLS-BRD: A system-level approach to seeking generalised feedback Nash equilibria**|Otacilio B. L. Neto et.al.|[2404.03809](http://arxiv.org/abs/2404.03809)|null|
-|**2024-04-04**|**Legible and Proactive Robot Planning for Prosocial Human-Robot Interactions**|Jasper Geldenbott et.al.|[2404.03734](http://arxiv.org/abs/2404.03734)|null|
+|**2024-04-04**|**Legible and Proactive Robot Planning for Prosocial Human-Robot Interactions**|Jasper Geldenbott et.al.|[2404.03734](http://arxiv.org/abs/2404.03734)|**[link](https://github.com/UW-CTRL/PHRI.jl)**|
 |**2024-04-04**|**Laser Learning Environment: A new environment for coordination-critical multi-agent tasks**|Yannick Molinghen et.al.|[2404.03596](http://arxiv.org/abs/2404.03596)|**[link](https://github.com/yamoling/lle)**|
 |**2024-04-04**|**No Panacea in Planning: Algorithm Selection for Suboptimal Multi-Agent Path Finding**|Weizhe Chen et.al.|[2404.03554](http://arxiv.org/abs/2404.03554)|null|
 |**2024-04-04**|**Design of Stickbug: a Six-Armed Precision Pollination Robot**|Trevor Smith et.al.|[2404.03489](http://arxiv.org/abs/2404.03489)|**[link](https://github.com/wvu-robotics/Stickbug_2024)**|
@@ -457,7 +457,7 @@ layout: default
 |**2024-02-28**|**Beyond Natural Language: LLMs Leveraging Alternative Formats for Enhanced Reasoning and Communication**|Weize Chen et.al.|[2402.18439](http://arxiv.org/abs/2402.18439)|**[link](https://github.com/thunlp/autoform)**|
 |**2024-02-28**|**Solving Multi-Entity Robotic Problems Using Permutation Invariant Neural Networks**|Tianxu An et.al.|[2402.18345](http://arxiv.org/abs/2402.18345)|null|
 |**2024-02-28**|**Rethinking the Bounds of LLM Reasoning: Are Multi-Agent Discussions the Key?**|Qineng Wang et.al.|[2402.18272](http://arxiv.org/abs/2402.18272)|null|
-|**2024-02-28**|**Human Simulacra: A Step toward the Personification of Large Language Models**|Qiuejie Xie et.al.|[2402.18180](http://arxiv.org/abs/2402.18180)|null|
+|**2024-02-28**|**Human Simulacra: A Step toward the Personification of Large Language Models**|Qiuejie Xie et.al.|[2402.18180](http://arxiv.org/abs/2402.18180)|**[link](https://github.com/hasakiXie123/Human-Simulacra)**|
 |**2024-03-01**|**Imagine, Initialize, and Explore: An Effective Exploration Method in Multi-Agent Reinforcement Learning**|Zeyang Liu et.al.|[2402.17978](http://arxiv.org/abs/2402.17978)|null|
 |**2024-02-27**|**Independent Learning in Constrained Markov Potential Games**|Philip Jordan et.al.|[2402.17885](http://arxiv.org/abs/2402.17885)|**[link](https://github.com/philip-jordan/iprox-cmpg)**|
 |**2024-02-27**|**Multi-Agent Deep Reinforcement Learning for Distributed Satellite Routing**|Federico Lozano-Cuadra et.al.|[2402.17666](http://arxiv.org/abs/2402.17666)|null|

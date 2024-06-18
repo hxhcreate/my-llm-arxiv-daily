@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-17**|**Improving Multi-Agent Debate with Sparse Communication Topology**|Yunxuan Li et.al.|[2406.11776](http://arxiv.org/abs/2406.11776)|null|
+|**2024-06-17**|**Communication-Efficient MARL for Platoon Stability and Energy-efficiency Co-optimization in Cooperative Adaptive Cruise Control of CAVs**|Min Hua et.al.|[2406.11653](http://arxiv.org/abs/2406.11653)|null|
+|**2024-06-17**|**Counterfactual Debating with Preset Stances for Hallucination Elimination of LLMs**|Yi Fang et.al.|[2406.11514](http://arxiv.org/abs/2406.11514)|null|
+|**2024-06-17**|**Decentralized Collaborative Pricing and Shunting for Multiple EV Charging Stations Based on Multi-Agent Reinforcement Learning**|Tianhao Bu et.al.|[2406.11496](http://arxiv.org/abs/2406.11496)|null|
+|**2024-06-17**|**Can AI with High Reasoning Ability Replicate Human-like Decision Making in Economic Experiments?**|Ayato Kitadai et.al.|[2406.11426](http://arxiv.org/abs/2406.11426)|null|
+|**2024-06-17**|**KAOS: Large Model Multi-Agent Operating System**|Zhao Zhuo et.al.|[2406.11342](http://arxiv.org/abs/2406.11342)|null|
+|**2024-06-17**|**Reconfigurable Intelligent Surface Assisted VEC Based on Multi-Agent Reinforcement Learning**|Kangwei Qi et.al.|[2406.11318](http://arxiv.org/abs/2406.11318)|**[link](https://github.com/qiongwu86/ris-vec-marl)**|
+|**2024-06-17**|**Balancing Performance and Cost for Two-Hop Cooperative Communications: Stackelberg Game and Distributed Multi-Agent Reinforcement Learning**|Yuanzhe Geng et.al.|[2406.11265](http://arxiv.org/abs/2406.11265)|null|
+|**2024-06-17**|**STEVE Series: Step-by-Step Construction of Agent Systems in Minecraft**|Zhonghan Zhao et.al.|[2406.11247](http://arxiv.org/abs/2406.11247)|null|
+|**2024-06-17**|**The Benefits of Power Regularization in Cooperative Reinforcement Learning**|Michelle Li et.al.|[2406.11240](http://arxiv.org/abs/2406.11240)|null|
 |**2024-06-14**|**Gradient-based Learning in State-based Potential Games for Self-Learning Production Systems**|Steve Yuwono et.al.|[2406.10015](http://arxiv.org/abs/2406.10015)|null|
 |**2024-06-14**|**Consistent Update Synthesis via Privatized Beliefs**|Thomas Schlögl et.al.|[2406.10010](http://arxiv.org/abs/2406.10010)|null|
 |**2024-06-14**|**Think Deep and Fast: Learning Neural Nonlinear Opinion Dynamics from Inverse Dynamic Games for Split-Second Interactions**|Haimin Hu et.al.|[2406.09810](http://arxiv.org/abs/2406.09810)|null|

@@ -7,13 +7,17 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.17
+## Updated on 2024.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AGENT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-14**|**Gradient-based Learning in State-based Potential Games for Self-Learning Production Systems**|Steve Yuwono et.al.|[2406.10015](http://arxiv.org/abs/2406.10015)|null|
+|**2024-06-14**|**Consistent Update Synthesis via Privatized Beliefs**|Thomas Schlögl et.al.|[2406.10010](http://arxiv.org/abs/2406.10010)|null|
+|**2024-06-14**|**Think Deep and Fast: Learning Neural Nonlinear Opinion Dynamics from Inverse Dynamic Games for Split-Second Interactions**|Haimin Hu et.al.|[2406.09810](http://arxiv.org/abs/2406.09810)|null|
+|**2024-06-14**|**Mix Q-learning for Lane Changing: A Collaborative Decision-Making Method in Multi-Agent Deep Reinforcement Learning**|Xiaojun Bi et.al.|[2406.09755](http://arxiv.org/abs/2406.09755)|null|
 |**2024-06-13**|**Characterising Interventions in Causal Games**|Manuj Mishra et.al.|[2406.09318](http://arxiv.org/abs/2406.09318)|null|
 |**2024-06-13**|**Applying Multi-Agent Negotiation to Solve the Production Routing Problem With Privacy Preserving**|Luiza Pellin Biasoto et.al.|[2406.09214](http://arxiv.org/abs/2406.09214)|null|
 |**2024-06-13**|**Dispelling the Mirage of Progress in Offline MARL through Standardised Baselines and Evaluation**|Claude Formanek et.al.|[2406.09068](http://arxiv.org/abs/2406.09068)|null|

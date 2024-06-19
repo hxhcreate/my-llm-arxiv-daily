@@ -17,6 +17,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**MAGIC: Generating Self-Correction Guideline for In-Context Text-to-SQL**|Arian Askari et.al.|[2406.12692](http://arxiv.org/abs/2406.12692)|null|
+|**2024-06-18**|**Ask-before-Plan: Proactive Language Agents for Real-World Planning**|Xuan Zhang et.al.|[2406.12639](http://arxiv.org/abs/2406.12639)|**[link](https://github.com/magicgh/ask-before-plan)**|
+|**2024-06-18**|**Large Language Models based Multi-Agent Framework for Objective Oriented Control Design in Power Electronics**|Chenggang Cui et.al.|[2406.12628](http://arxiv.org/abs/2406.12628)|null|
+|**2024-06-18**|**Problem-Solving in Language Model Networks**|Ciaran Regan et.al.|[2406.12374](http://arxiv.org/abs/2406.12374)|**[link](https://github.com/tsukuba-websci/psilmn)**|
+|**2024-06-18**|**Leveraging Large Language Model for Heterogeneous Ad Hoc Teamwork Collaboration**|Xinzhu Liu et.al.|[2406.12224](http://arxiv.org/abs/2406.12224)|null|
+|**2024-06-18**|**Debate as Optimization: Adaptive Conformal Prediction and Diverse Retrieval for Event Extraction**|Sijia Wang et.al.|[2406.12197](http://arxiv.org/abs/2406.12197)|null|
 |**2024-06-17**|**Improving Multi-Agent Debate with Sparse Communication Topology**|Yunxuan Li et.al.|[2406.11776](http://arxiv.org/abs/2406.11776)|null|
 |**2024-06-17**|**Communication-Efficient MARL for Platoon Stability and Energy-efficiency Co-optimization in Cooperative Adaptive Cruise Control of CAVs**|Min Hua et.al.|[2406.11653](http://arxiv.org/abs/2406.11653)|null|
 |**2024-06-17**|**Counterfactual Debating with Preset Stances for Hallucination Elimination of LLMs**|Yi Fang et.al.|[2406.11514](http://arxiv.org/abs/2406.11514)|null|

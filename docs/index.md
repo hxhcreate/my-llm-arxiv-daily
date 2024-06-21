@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-20**|**CooHOI: Learning Cooperative Human-Object Interaction with Manipulated Object Dynamics**|Jiawei Gao et.al.|[2406.14558](http://arxiv.org/abs/2406.14558)|null|
+|**2024-06-20**|**Vectorized Representation Dreamer (VRD): Dreaming-Assisted Multi-Agent Motion-Forecasting**|Hunter Schofield et.al.|[2406.14415](http://arxiv.org/abs/2406.14415)|null|
+|**2024-06-20**|**Artificial Leviathan: Exploring Social Evolution of LLM Agents Through the Lens of Hobbesian Social Contract Theory**|Gordon Dai et.al.|[2406.14373](http://arxiv.org/abs/2406.14373)|null|
+|**2024-06-20**|**EvoAgent: Towards Automatic Multi-Agent Generation via Evolutionary Algorithms**|Siyu Yuan et.al.|[2406.14228](http://arxiv.org/abs/2406.14228)|null|
+|**2024-06-20**|**Tractable Equilibrium Computation in Markov Games through Risk Aversion**|Eric Mazumdar et.al.|[2406.14156](http://arxiv.org/abs/2406.14156)|null|
+|**2024-06-20**|**Primal-Dual Strategy (PDS) for Composite Optimization Over Directed graphs**|Sajad Zandi et.al.|[2406.14011](http://arxiv.org/abs/2406.14011)|null|
+|**2024-06-20**|**Robust Cooperative Multi-Agent Reinforcement Learning:A Mean-Field Type Game Perspective**|Muhammad Aneeq uz Zaman et.al.|[2406.13992](http://arxiv.org/abs/2406.13992)|null|
+|**2024-06-20**|**Soft-QMIX: Integrating Maximum Entropy For Monotonic Value Function Factorization**|Wentse Chen et.al.|[2406.13930](http://arxiv.org/abs/2406.13930)|null|
+|**2024-06-19**|**CLAMP: Majorized Plug-and-Play for Coherent 3D LIDAR Imaging**|Tony G. Allen et.al.|[2406.13651](http://arxiv.org/abs/2406.13651)|null|
+|**2024-06-19**|**CoDreamer: Communication-Based Decentralised World Models**|Edan Toledo et.al.|[2406.13600](http://arxiv.org/abs/2406.13600)|null|
 |**2024-06-18**|**MAGIC: Generating Self-Correction Guideline for In-Context Text-to-SQL**|Arian Askari et.al.|[2406.12692](http://arxiv.org/abs/2406.12692)|null|
 |**2024-06-18**|**Ask-before-Plan: Proactive Language Agents for Real-World Planning**|Xuan Zhang et.al.|[2406.12639](http://arxiv.org/abs/2406.12639)|**[link](https://github.com/magicgh/ask-before-plan)**|
 |**2024-06-18**|**Large Language Models based Multi-Agent Framework for Objective Oriented Control Design in Power Electronics**|Chenggang Cui et.al.|[2406.12628](http://arxiv.org/abs/2406.12628)|null|

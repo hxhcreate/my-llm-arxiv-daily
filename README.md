@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.21
+## Updated on 2024.06.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 |**2024-06-20**|**Tractable Equilibrium Computation in Markov Games through Risk Aversion**|Eric Mazumdar et.al.|[2406.14156](http://arxiv.org/abs/2406.14156)|null|
 |**2024-06-20**|**Primal-Dual Strategy (PDS) for Composite Optimization Over Directed graphs**|Sajad Zandi et.al.|[2406.14011](http://arxiv.org/abs/2406.14011)|null|
 |**2024-06-20**|**Robust Cooperative Multi-Agent Reinforcement Learning:A Mean-Field Type Game Perspective**|Muhammad Aneeq uz Zaman et.al.|[2406.13992](http://arxiv.org/abs/2406.13992)|null|
-|**2024-06-20**|**Soft-QMIX: Integrating Maximum Entropy For Monotonic Value Function Factorization**|Wentse Chen et.al.|[2406.13930](http://arxiv.org/abs/2406.13930)|null|
+|**2024-06-20**|**Soft-QMIX: Integrating Maximum Entropy For Monotonic Value Function Factorization**|Wentse Chen et.al.|[2406.13930](http://arxiv.org/abs/2406.13930)|**[link](https://github.com/WentseChen/Soft-QMIX)**|
 |**2024-06-19**|**CLAMP: Majorized Plug-and-Play for Coherent 3D LIDAR Imaging**|Tony G. Allen et.al.|[2406.13651](http://arxiv.org/abs/2406.13651)|null|
 |**2024-06-19**|**CoDreamer: Communication-Based Decentralised World Models**|Edan Toledo et.al.|[2406.13600](http://arxiv.org/abs/2406.13600)|null|
 |**2024-06-18**|**MAGIC: Generating Self-Correction Guideline for In-Context Text-to-SQL**|Arian Askari et.al.|[2406.12692](http://arxiv.org/abs/2406.12692)|null|
@@ -715,7 +715,7 @@
 |**2023-12-30**|**Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning**|Xin Yu et.al.|[2401.00167](http://arxiv.org/abs/2401.00167)|null|
 |**2023-12-30**|**Contrastive learning-based agent modeling for deep reinforcement learning**|Wenhao Ma et.al.|[2401.00132](http://arxiv.org/abs/2401.00132)|null|
 
-<p align=right>(<a href=#updated-on-20240621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240622>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

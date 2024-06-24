@@ -49,7 +49,7 @@ layout: default
 |**2024-06-13**|**Dispelling the Mirage of Progress in Offline MARL through Standardised Baselines and Evaluation**|Claude Formanek et.al.|[2406.09068](http://arxiv.org/abs/2406.09068)|null|
 |**2024-06-13**|**Multi-Agent Software Development through Cross-Team Collaboration**|Zhuoyun Du et.al.|[2406.08979](http://arxiv.org/abs/2406.08979)|**[link](https://github.com/openbmb/chatdev)**|
 |**2024-06-13**|**Equilibrium Selection for Multi-agent Reinforcement Learning: A Unified Framework**|Runyu Zhang et.al.|[2406.08844](http://arxiv.org/abs/2406.08844)|null|
-|**2024-06-13**|**Batch-Instructed Gradient for Prompt Evolution:Systematic Prompt Optimization for Enhanced Text-to-Image Synthesis**|Xinrui Yang et.al.|[2406.08713](http://arxiv.org/abs/2406.08713)|null|
+|**2024-06-13**|**Batch-Instructed Gradient for Prompt Evolution:Systematic Prompt Optimization for Enhanced Text-to-Image Synthesis**|Xinrui Yang et.al.|[2406.08713](http://arxiv.org/abs/2406.08713)|**[link](https://github.com/slark-prime/maai_optimizer)**|
 |**2024-06-12**|**AlphaZeroES: Direct score maximization outperforms planning loss minimization**|Carlos Martin et.al.|[2406.08687](http://arxiv.org/abs/2406.08687)|null|
 |**2024-06-12**|**CrowdEgress: A Multi-Agent Simulation Platform for Pedestrian Crowd**|Peng Wang et.al.|[2406.08190](http://arxiv.org/abs/2406.08190)|null|
 |**2024-06-12**|**Efficient Adaptation in Mixed-Motive Environments via Hierarchical Opponent Modeling and Planning**|Yizhe Huang et.al.|[2406.08002](http://arxiv.org/abs/2406.08002)|null|
@@ -214,7 +214,7 @@ layout: default
 |**2024-05-05**|**Modelling Opaque Bilateral Market Dynamics in Financial Trading: Insights from a Multi-Agent Simulation Study**|Alicia Vidler et.al.|[2405.02849](http://arxiv.org/abs/2405.02849)|null|
 |**2024-05-05**|**Probabilistic tube-based control synthesis of stochastic multi-agent systems under signal temporal logic**|Eleftherios E. Vlahakis et.al.|[2405.02827](http://arxiv.org/abs/2405.02827)|null|
 |**2024-05-03**|**The Cambridge RoboMaster: An Agile Multi-Robot Research Platform**|Jan Blumenkamp et.al.|[2405.02198](http://arxiv.org/abs/2405.02198)|null|
-|**2024-05-03**|**Simulating the economic impact of rationality through reinforcement learning and agent-based modelling**|Simone Brusatin et.al.|[2405.02161](http://arxiv.org/abs/2405.02161)|null|
+|**2024-05-03**|**Simulating the economic impact of rationality through reinforcement learning and agent-based modelling**|Simone Brusatin et.al.|[2405.02161](http://arxiv.org/abs/2405.02161)|**[link](https://github.com/bancaditalia/ABCredit.jl)**|
 |**2024-05-03**|**Zero-Sum Positional Differential Games as a Framework for Robust Reinforcement Learning: Deep Q-Learning Approach**|Anton Plaksin et.al.|[2405.02044](http://arxiv.org/abs/2405.02044)|null|
 |**2024-05-03**|**Multi-Agent Coverage Control on Surfaces Using Conformal Mapping**|Chao Zhai et.al.|[2405.02034](http://arxiv.org/abs/2405.02034)|null|
 |**2024-05-03**|**A Model-based Multi-Agent Personalized Short-Video Recommender System**|Peilun Zhou et.al.|[2405.01847](http://arxiv.org/abs/2405.01847)|null|
@@ -423,7 +423,7 @@ layout: default
 |**2024-03-18**|**Routing and Scheduling in Answer Set Programming applied to Multi-Agent Path Finding: Preliminary Report**|Roland Kaminski et.al.|[2403.12153](http://arxiv.org/abs/2403.12153)|null|
 |**2024-03-18**|**How Far Are We on the Decision-Making of LLMs? Evaluating LLMs' Gaming Ability in Multi-Agent Environments**|Jen-tse Huang et.al.|[2403.11807](http://arxiv.org/abs/2403.11807)|**[link](https://github.com/cuhk-arise/gamabench)**|
 |**2024-03-18**|**Diffusion-Based Environment-Aware Trajectory Prediction**|Theodor Westny et.al.|[2403.11643](http://arxiv.org/abs/2403.11643)|null|
-|**2024-03-18**|**Can LLM-Augmented autonomous agents cooperate?, An evaluation of their cooperative capabilities through Melting Pot**|Manuel Mosquera et.al.|[2403.11381](http://arxiv.org/abs/2403.11381)|null|
+|**2024-03-18**|**Can LLM-Augmented autonomous agents cooperate?, An evaluation of their cooperative capabilities through Melting Pot**|Manuel Mosquera et.al.|[2403.11381](http://arxiv.org/abs/2403.11381)|**[link](https://github.com/cooperative-ia/cooperativegpt)**|
 |**2024-03-19**|**V2X-DGW: Domain Generalization for Multi-agent Perception under Adverse Weather Conditions**|Baolu Li et.al.|[2403.11371](http://arxiv.org/abs/2403.11371)|null|
 |**2024-03-17**|**Independent RL for Cooperative-Competitive Agents: A Mean-Field Perspective**|Muhammad Aneeq uz Zaman et.al.|[2403.11345](http://arxiv.org/abs/2403.11345)|null|
 |**2024-03-17**|**Bridging the Gap between Discrete Agent Strategies in Game Theory and Continuous Motion Planning in Dynamic Environments**|Hongrui Zheng et.al.|[2403.11334](http://arxiv.org/abs/2403.11334)|null|

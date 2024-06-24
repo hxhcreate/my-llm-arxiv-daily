@@ -14,10 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-21**|**Effects of non-uniform number of actions by Hawkes process on spatial cooperation**|Daiki Miyagawa et.al.|[2406.15036](http://arxiv.org/abs/2406.15036)|null|
+|**2024-06-21**|**Autonomous Agents for Collaborative Task under Information Asymmetry**|Wei Liu et.al.|[2406.14928](http://arxiv.org/abs/2406.14928)|null|
+|**2024-06-21**|**Decentralized Concurrent Learning with Coordinated Momentum and Restart**|Daniel E. Ochoa et.al.|[2406.14802](http://arxiv.org/abs/2406.14802)|null|
+|**2024-06-20**|**Multi-Task Lane-Free Driving Strategy for Connected and Automated Vehicles: A Multi-Agent Deep Reinforcement Learning Approach**|Mehran Berahman et.al.|[2406.14766](http://arxiv.org/abs/2406.14766)|null|
+|**2024-06-20**|**Singular knee identification to support emergence recognition in physical swarm and cellular automata trajectories**|Imraan A. Faruque et.al.|[2406.14652](http://arxiv.org/abs/2406.14652)|null|
 |**2024-06-20**|**CooHOI: Learning Cooperative Human-Object Interaction with Manipulated Object Dynamics**|Jiawei Gao et.al.|[2406.14558](http://arxiv.org/abs/2406.14558)|null|
 |**2024-06-20**|**Vectorized Representation Dreamer (VRD): Dreaming-Assisted Multi-Agent Motion-Forecasting**|Hunter Schofield et.al.|[2406.14415](http://arxiv.org/abs/2406.14415)|null|
 |**2024-06-20**|**Artificial Leviathan: Exploring Social Evolution of LLM Agents Through the Lens of Hobbesian Social Contract Theory**|Gordon Dai et.al.|[2406.14373](http://arxiv.org/abs/2406.14373)|null|
-|**2024-06-20**|**EvoAgent: Towards Automatic Multi-Agent Generation via Evolutionary Algorithms**|Siyu Yuan et.al.|[2406.14228](http://arxiv.org/abs/2406.14228)|null|
+|**2024-06-20**|**EvoAgent: Towards Automatic Multi-Agent Generation via Evolutionary Algorithms**|Siyu Yuan et.al.|[2406.14228](http://arxiv.org/abs/2406.14228)|**[link](https://github.com/siyuyuan/evoagent)**|
 |**2024-06-20**|**Tractable Equilibrium Computation in Markov Games through Risk Aversion**|Eric Mazumdar et.al.|[2406.14156](http://arxiv.org/abs/2406.14156)|null|
 |**2024-06-20**|**Primal-Dual Strategy (PDS) for Composite Optimization Over Directed graphs**|Sajad Zandi et.al.|[2406.14011](http://arxiv.org/abs/2406.14011)|null|
 |**2024-06-20**|**Robust Cooperative Multi-Agent Reinforcement Learning:A Mean-Field Type Game Perspective**|Muhammad Aneeq uz Zaman et.al.|[2406.13992](http://arxiv.org/abs/2406.13992)|null|

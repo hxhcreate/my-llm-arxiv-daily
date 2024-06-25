@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**An Active Search Strategy with Multiple Unmanned Aerial Systems for Multiple Targets**|Chuanxiang Gao et.al.|[2406.16370](http://arxiv.org/abs/2406.16370)|null|
+|**2024-06-24**|**YouDream: Generating Anatomically Controllable Consistent Text-to-3D Animals**|Sandeep Mishra et.al.|[2406.16273](http://arxiv.org/abs/2406.16273)|null|
+|**2024-06-22**|**Decentralized Transformers with Centralized Aggregation are Sample-Efficient Multi-Agent World Models**|Yang Zhang et.al.|[2406.15836](http://arxiv.org/abs/2406.15836)|null|
+|**2024-06-22**|**Fault-tolerant control of random switching topology multi-agent system based on event triggering**|Ouyang Lingcong et.al.|[2406.15770](http://arxiv.org/abs/2406.15770)|null|
+|**2024-06-21**|**Contextual Sprint Classification in Soccer Based on Deep Learning**|Hyunsung Kim et.al.|[2406.15659](http://arxiv.org/abs/2406.15659)|null|
 |**2024-06-21**|**Effects of non-uniform number of actions by Hawkes process on spatial cooperation**|Daiki Miyagawa et.al.|[2406.15036](http://arxiv.org/abs/2406.15036)|null|
 |**2024-06-21**|**Autonomous Agents for Collaborative Task under Information Asymmetry**|Wei Liu et.al.|[2406.14928](http://arxiv.org/abs/2406.14928)|null|
 |**2024-06-21**|**Decentralized Concurrent Learning with Coordinated Momentum and Restart**|Daniel E. Ochoa et.al.|[2406.14802](http://arxiv.org/abs/2406.14802)|null|

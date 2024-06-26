@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**CuDA2: An approach for Incorporating Traitor Agents into Cooperative Multi-Agent Systems**|Zhen Chen et.al.|[2406.17425](http://arxiv.org/abs/2406.17425)|null|
+|**2024-06-25**|**Hierarchical Framework for Optimizing Wildfire Surveillance and Suppression using Human-Autonomous Teaming**|Mahdi Al-Husseini et.al.|[2406.17189](http://arxiv.org/abs/2406.17189)|null|
+|**2024-06-24**|**Quantum Multi-Agent Reinforcement Learning for Cooperative Mobile Access in Space-Air-Ground Integrated Networks**|Gyu Seon Kim et.al.|[2406.16994](http://arxiv.org/abs/2406.16994)|null|
 |**2024-06-24**|**An Active Search Strategy with Multiple Unmanned Aerial Systems for Multiple Targets**|Chuanxiang Gao et.al.|[2406.16370](http://arxiv.org/abs/2406.16370)|null|
 |**2024-06-24**|**YouDream: Generating Anatomically Controllable Consistent Text-to-3D Animals**|Sandeep Mishra et.al.|[2406.16273](http://arxiv.org/abs/2406.16273)|null|
 |**2024-06-22**|**Decentralized Transformers with Centralized Aggregation are Sample-Efficient Multi-Agent World Models**|Yang Zhang et.al.|[2406.15836](http://arxiv.org/abs/2406.15836)|null|

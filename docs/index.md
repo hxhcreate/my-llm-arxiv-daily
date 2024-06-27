@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-26**|**Algebraic Connectivity Control and Maintenance in Multi-Agent Networks under Attack**|Wenjie Zhao et.al.|[2406.18467](http://arxiv.org/abs/2406.18467)|null|
+|**2024-06-26**|**Intrinsic Action Tendency Consistency for Cooperative Multi-Agent Reinforcement Learning**|Junkai Zhang et.al.|[2406.18152](http://arxiv.org/abs/2406.18152)|null|
+|**2024-06-25**|**The Overcooked Generalisation Challenge**|Constantin Ruhdorfer et.al.|[2406.17949](http://arxiv.org/abs/2406.17949)|null|
+|**2024-06-25**|**Pixel-weighted Multi-pose Fusion for Metal Artifact Reduction in X-ray Computed Tomography**|Diyu Yang et.al.|[2406.17897](http://arxiv.org/abs/2406.17897)|null|
+|**2024-06-25**|**Temporal Prototype-Aware Learning for Active Voltage Control on Power Distribution Networks**|Feiyang Xu et.al.|[2406.17818](http://arxiv.org/abs/2406.17818)|**[link](https://github.com/canyizl/tpa-for-avc)**|
 |**2024-06-25**|**CuDA2: An approach for Incorporating Traitor Agents into Cooperative Multi-Agent Systems**|Zhen Chen et.al.|[2406.17425](http://arxiv.org/abs/2406.17425)|null|
 |**2024-06-25**|**Hierarchical Framework for Optimizing Wildfire Surveillance and Suppression using Human-Autonomous Teaming**|Mahdi Al-Husseini et.al.|[2406.17189](http://arxiv.org/abs/2406.17189)|null|
 |**2024-06-24**|**Quantum Multi-Agent Reinforcement Learning for Cooperative Mobile Access in Space-Air-Ground Integrated Networks**|Gyu Seon Kim et.al.|[2406.16994](http://arxiv.org/abs/2406.16994)|null|

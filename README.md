@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-27**|**Simulating Classroom Education with LLM-Empowered Agents**|Zheyuan Zhang et.al.|[2406.19226](http://arxiv.org/abs/2406.19226)|null|
+|**2024-06-27**|**Formation Under Communication Constraints: Control Performance Meets Channel Capacity**|Yaru Chen et.al.|[2406.18961](http://arxiv.org/abs/2406.18961)|null|
+|**2024-06-27**|**LayoutCopilot: An LLM-powered Multi-agent Collaborative Framework for Interactive Analog Layout Design**|Bingyang Liu et.al.|[2406.18873](http://arxiv.org/abs/2406.18873)|null|
 |**2024-06-26**|**Algebraic Connectivity Control and Maintenance in Multi-Agent Networks under Attack**|Wenjie Zhao et.al.|[2406.18467](http://arxiv.org/abs/2406.18467)|null|
 |**2024-06-26**|**Intrinsic Action Tendency Consistency for Cooperative Multi-Agent Reinforcement Learning**|Junkai Zhang et.al.|[2406.18152](http://arxiv.org/abs/2406.18152)|null|
 |**2024-06-25**|**The Overcooked Generalisation Challenge**|Constantin Ruhdorfer et.al.|[2406.17949](http://arxiv.org/abs/2406.17949)|null|

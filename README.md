@@ -30,11 +30,11 @@
 |**2024-06-24**|**Quantum Multi-Agent Reinforcement Learning for Cooperative Mobile Access in Space-Air-Ground Integrated Networks**|Gyu Seon Kim et.al.|[2406.16994](http://arxiv.org/abs/2406.16994)|null|
 |**2024-06-24**|**An Active Search Strategy with Multiple Unmanned Aerial Systems for Multiple Targets**|Chuanxiang Gao et.al.|[2406.16370](http://arxiv.org/abs/2406.16370)|null|
 |**2024-06-24**|**YouDream: Generating Anatomically Controllable Consistent Text-to-3D Animals**|Sandeep Mishra et.al.|[2406.16273](http://arxiv.org/abs/2406.16273)|null|
-|**2024-06-22**|**Decentralized Transformers with Centralized Aggregation are Sample-Efficient Multi-Agent World Models**|Yang Zhang et.al.|[2406.15836](http://arxiv.org/abs/2406.15836)|null|
+|**2024-06-22**|**Decentralized Transformers with Centralized Aggregation are Sample-Efficient Multi-Agent World Models**|Yang Zhang et.al.|[2406.15836](http://arxiv.org/abs/2406.15836)|**[link](https://github.com/lucidrains/perceiver-pytorch)**|
 |**2024-06-22**|**Fault-tolerant control of random switching topology multi-agent system based on event triggering**|Ouyang Lingcong et.al.|[2406.15770](http://arxiv.org/abs/2406.15770)|null|
 |**2024-06-21**|**Contextual Sprint Classification in Soccer Based on Deep Learning**|Hyunsung Kim et.al.|[2406.15659](http://arxiv.org/abs/2406.15659)|null|
 |**2024-06-21**|**Effects of non-uniform number of actions by Hawkes process on spatial cooperation**|Daiki Miyagawa et.al.|[2406.15036](http://arxiv.org/abs/2406.15036)|null|
-|**2024-06-21**|**Autonomous Agents for Collaborative Task under Information Asymmetry**|Wei Liu et.al.|[2406.14928](http://arxiv.org/abs/2406.14928)|null|
+|**2024-06-21**|**Autonomous Agents for Collaborative Task under Information Asymmetry**|Wei Liu et.al.|[2406.14928](http://arxiv.org/abs/2406.14928)|**[link](https://github.com/thinkwee/iAgents)**|
 |**2024-06-21**|**Decentralized Concurrent Learning with Coordinated Momentum and Restart**|Daniel E. Ochoa et.al.|[2406.14802](http://arxiv.org/abs/2406.14802)|null|
 |**2024-06-20**|**Multi-Task Lane-Free Driving Strategy for Connected and Automated Vehicles: A Multi-Agent Deep Reinforcement Learning Approach**|Mehran Berahman et.al.|[2406.14766](http://arxiv.org/abs/2406.14766)|null|
 |**2024-06-20**|**Singular knee identification to support emergence recognition in physical swarm and cellular automata trajectories**|Imraan A. Faruque et.al.|[2406.14652](http://arxiv.org/abs/2406.14652)|null|
@@ -61,7 +61,7 @@
 |**2024-06-17**|**Can AI with High Reasoning Ability Replicate Human-like Decision Making in Economic Experiments?**|Ayato Kitadai et.al.|[2406.11426](http://arxiv.org/abs/2406.11426)|null|
 |**2024-06-17**|**KAOS: Large Model Multi-Agent Operating System**|Zhao Zhuo et.al.|[2406.11342](http://arxiv.org/abs/2406.11342)|null|
 |**2024-06-17**|**Reconfigurable Intelligent Surface Assisted VEC Based on Multi-Agent Reinforcement Learning**|Kangwei Qi et.al.|[2406.11318](http://arxiv.org/abs/2406.11318)|**[link](https://github.com/qiongwu86/ris-vec-marl)**|
-|**2024-06-17**|**Balancing Performance and Cost for Two-Hop Cooperative Communications: Stackelberg Game and Distributed Multi-Agent Reinforcement Learning**|Yuanzhe Geng et.al.|[2406.11265](http://arxiv.org/abs/2406.11265)|null|
+|**2024-06-17**|**Balancing Performance and Cost for Two-Hop Cooperative Communications: Stackelberg Game and Distributed Multi-Agent Reinforcement Learning**|Yuanzhe Geng et.al.|[2406.11265](http://arxiv.org/abs/2406.11265)|**[link](https://github.com/gyz1997/MARL-for-Stackelberg-game)**|
 |**2024-06-17**|**STEVE Series: Step-by-Step Construction of Agent Systems in Minecraft**|Zhonghan Zhao et.al.|[2406.11247](http://arxiv.org/abs/2406.11247)|null|
 |**2024-06-17**|**The Benefits of Power Regularization in Cooperative Reinforcement Learning**|Michelle Li et.al.|[2406.11240](http://arxiv.org/abs/2406.11240)|null|
 |**2024-06-14**|**Gradient-based Learning in State-based Potential Games for Self-Learning Production Systems**|Steve Yuwono et.al.|[2406.10015](http://arxiv.org/abs/2406.10015)|null|
@@ -99,7 +99,7 @@
 |**2024-06-11**|**Deception Analysis with Artificial Intelligence: An Interdisciplinary Perspective**|Stefan Sarkadi et.al.|[2406.05724](http://arxiv.org/abs/2406.05724)|null|
 |**2024-06-09**|**VillagerAgent: A Graph-Based Multi-Agent Framework for Coordinating Complex Task Dependencies in Minecraft**|Yubo Dong et.al.|[2406.05720](http://arxiv.org/abs/2406.05720)|**[link](https://github.com/cnsdqd-dyb/villageragent)**|
 |**2024-06-09**|**A Superalignment Framework in Autonomous Driving with Large Language Models**|Xiangrui Kong et.al.|[2406.05651](http://arxiv.org/abs/2406.05651)|null|
-|**2024-06-09**|**Cross Language Soccer Framework: An Open Source Framework for the RoboCup 2D Soccer Simulation**|Nader Zare et.al.|[2406.05621](http://arxiv.org/abs/2406.05621)|null|
+|**2024-06-09**|**Cross Language Soccer Framework: An Open Source Framework for the RoboCup 2D Soccer Simulation**|Nader Zare et.al.|[2406.05621](http://arxiv.org/abs/2406.05621)|**[link](https://github.com/clsframework/cross-language-soccer-framework)**|
 |**2024-06-07**|**LLM-Vectorizer: LLM-based Verified Loop Vectorizer**|Jubi Taneja et.al.|[2406.04693](http://arxiv.org/abs/2406.04693)|null|
 |**2024-06-07**|**Mean-field limit of non-exchangeable multi-agent systems over hypergraphs with unbounded rank**|Nathalie Ayi et.al.|[2406.04691](http://arxiv.org/abs/2406.04691)|null|
 |**2024-06-07**|**meSch: Multi-Agent Energy-Aware Scheduling for Task Persistence**|Kaleb Ben Naveed et.al.|[2406.04560](http://arxiv.org/abs/2406.04560)|null|
@@ -108,7 +108,7 @@
 |**2024-06-06**|**Multi-Agent Imitation Learning: Value is Easy, Regret is Hard**|Jingwu Tang et.al.|[2406.04219](http://arxiv.org/abs/2406.04219)|null|
 |**2024-06-06**|**MARLander: A Local Path Planning for Drone Swarms using Multiagent Deep Reinforcement Learning**|Demetros Aschu et.al.|[2406.04159](http://arxiv.org/abs/2406.04159)|null|
 |**2024-06-06**|**Online Learning in Betting Markets: Profit versus Prediction**|Haiqing Zhu et.al.|[2406.04062](http://arxiv.org/abs/2406.04062)|null|
-|**2024-06-06**|**Mini Honor of Kings: A Lightweight Environment for Multi-Agent Reinforcement Learning**|Lin Liu et.al.|[2406.03978](http://arxiv.org/abs/2406.03978)|null|
+|**2024-06-06**|**Mini Honor of Kings: A Lightweight Environment for Multi-Agent Reinforcement Learning**|Lin Liu et.al.|[2406.03978](http://arxiv.org/abs/2406.03978)|**[link](https://github.com/tencent-ailab/mini-hok)**|
 |**2024-06-05**|**AD-H: Autonomous Driving with Hierarchical Agents**|Zaibin Zhang et.al.|[2406.03474](http://arxiv.org/abs/2406.03474)|null|
 |**2024-06-05**|**CommonPower: Supercharging Machine Learning for Smart Grids**|Michael Eichelbeck et.al.|[2406.03231](http://arxiv.org/abs/2406.03231)|**[link](https://github.com/tumcps/commonpower)**|
 |**2024-06-05**|**Towards Detecting LLMs Hallucination via Markov Chain-based Multi-agent Debate Framework**|Xiaoxi Sun et.al.|[2406.03075](http://arxiv.org/abs/2406.03075)|null|
@@ -597,7 +597,7 @@
 |**2024-02-06**|**Interpersonal trust: Asymptotic analysis of a stochastic coordination game with multi-agent learning**|Benedikt V. Meylahn et.al.|[2402.03894](http://arxiv.org/abs/2402.03894)|null|
 |**2024-02-06**|**The Emergence of Cooperation in the well-mixed Prisoner's Dilemma: Memory Couples Individual and Group Strategies**|Changyan Di et.al.|[2402.03890](http://arxiv.org/abs/2402.03890)|null|
 |**2024-02-06**|**Beyond Lines and Circles: Unveiling the Geometric Reasoning Gap in Large Language Models**|Spyridon Mouselinos et.al.|[2402.03877](http://arxiv.org/abs/2402.03877)|null|
-|**2024-02-06**|**SUB-PLAY: Adversarial Policies against Partially Observed Multi-Agent Reinforcement Learning Systems**|Oubo Ma et.al.|[2402.03741](http://arxiv.org/abs/2402.03741)|null|
+|**2024-02-06**|**SUB-PLAY: Adversarial Policies against Partially Observed Multi-Agent Reinforcement Learning Systems**|Oubo Ma et.al.|[2402.03741](http://arxiv.org/abs/2402.03741)|**[link](https://github.com/maoubo/sub-play)**|
 |**2024-02-06**|**Hierarchical Large Language Models in Cloud Edge End Architecture for Heterogeneous Robot Cluster Control**|Zhirong Luan et.al.|[2402.03703](http://arxiv.org/abs/2402.03703)|null|
 |**2024-02-05**|**Assessing the Impact of Distribution Shift on Reinforcement Learning Performance**|Ted Fujimoto et.al.|[2402.03590](http://arxiv.org/abs/2402.03590)|null|
 |**2024-02-05**|**A Reinforcement Learning Approach for Dynamic Rebalancing in Bike-Sharing System**|Jiaqi Liang et.al.|[2402.03589](http://arxiv.org/abs/2402.03589)|null|

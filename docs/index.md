@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.03
+## Updated on 2024.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AGENT
@@ -22,7 +22,7 @@ layout: default
 |**2024-07-01**|**HGNET: A Hierarchical Feature Guided Network for Occupancy Flow Field Prediction**|Zhan Chen et.al.|[2407.01097](http://arxiv.org/abs/2407.01097)|null|
 |**2024-07-01**|**Data on the Move: Traffic-Oriented Data Trading Platform Powered by AI Agent with Common Sense**|Yi Yu et.al.|[2407.00995](http://arxiv.org/abs/2407.00995)|null|
 |**2024-06-30**|**Guarding a Target Area from a Heterogeneous Group of Cooperative Attackers**|Yoonjae Lee et.al.|[2407.00762](http://arxiv.org/abs/2407.00762)|null|
-|**2024-06-30**|**Diffusion Models for Offline Multi-agent Reinforcement Learning with Safety Constraints**|Jianuo Huang et.al.|[2407.00741](http://arxiv.org/abs/2407.00741)|null|
+|**2024-07-03**|**Diffusion Models for Offline Multi-agent Reinforcement Learning with Safety Constraints**|Jianuo Huang et.al.|[2407.00741](http://arxiv.org/abs/2407.00741)|null|
 |**2024-06-30**|**Multi-Agent Training for Pommerman: Curriculum Learning and Population-based Self-Play Approach**|Nhat-Minh Huynh et.al.|[2407.00662](http://arxiv.org/abs/2407.00662)|null|
 |**2024-07-02**|**BMW Agents -- A Framework For Task Automation Through Multi-Agent Collaboration**|Noel Crawford et.al.|[2406.20041](http://arxiv.org/abs/2406.20041)|null|
 |**2024-06-28**|**Learning Branching-Time Properties in CTL and ATL via Constraint Solving**|Benjamin Bordais et.al.|[2406.19890](http://arxiv.org/abs/2406.19890)|null|

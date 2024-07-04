@@ -17,6 +17,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-03**|**A Review of the Applications of Deep Learning-Based Emergent Communication**|Brendon Boldt et.al.|[2407.03302](http://arxiv.org/abs/2407.03302)|null|
+|**2024-07-03**|**Cooperative Multi-Agent Deep Reinforcement Learning Methods for UAV-aided Mobile Edge Computing Networks**|Mintae Kim et.al.|[2407.03280](http://arxiv.org/abs/2407.03280)|null|
+|**2024-07-03**|**Hierarchical Large Scale Multirobot Path (Re)Planning**|Lishuo Pan et.al.|[2407.02777](http://arxiv.org/abs/2407.02777)|null|
+|**2024-07-03**|**Multi-Scenario Combination Based on Multi-Agent Reinforcement Learning to Optimize the Advertising Recommendation System**|Yang Zhao et.al.|[2407.02759](http://arxiv.org/abs/2407.02759)|null|
+|**2024-07-03**|**MentalAgora: A Gateway to Advanced Personalized Care in Mental Health through Multi-Agent Debating and Attribute Control**|Yeonji Lee et.al.|[2407.02736](http://arxiv.org/abs/2407.02736)|null|
+|**2024-07-02**|**Wildfire Autonomous Response and Prediction Using Cellular Automata (WARP-CA)**|Abdelrahman Ramadan et.al.|[2407.02613](http://arxiv.org/abs/2407.02613)|null|
 |**2024-07-01**|**Optimizing Age of Information in Vehicular Edge Computing with Federated Graph Neural Network Multi-Agent Reinforcement Learning**|Wenhua Wang et.al.|[2407.02342](http://arxiv.org/abs/2407.02342)|**[link](https://github.com/qiongwu86/optimizing-aoi-in-vec-with-federated-graph-neural-network-multi-agent-reinforcement-learning)**|
 |**2024-07-01**|**A Deep Reinforcement Learning Approach to Battery Management in Dairy Farming via Proximal Policy Optimization**|Nawazish Ali et.al.|[2407.01653](http://arxiv.org/abs/2407.01653)|null|
 |**2024-07-01**|**CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents**|Tianqi Xu et.al.|[2407.01511](http://arxiv.org/abs/2407.01511)|**[link](https://github.com/camel-ai/crab)**|

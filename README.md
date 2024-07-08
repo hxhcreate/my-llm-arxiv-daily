@@ -38,7 +38,7 @@
 |**2024-06-28**|**MetaDesigner: Advancing Artistic Typography through AI-Driven, User-Centric, and Multilingual WordArt Synthesis**|Jun-Yan He et.al.|[2406.19859](http://arxiv.org/abs/2406.19859)|null|
 |**2024-06-28**|**Unlocking Varied Perspectives: A Persona-Based Multi-Agent Framework with Debate-Driven Text Planning for Argument Generation**|Zhe Hu et.al.|[2406.19643](http://arxiv.org/abs/2406.19643)|null|
 |**2024-06-27**|**Multi-Agent Search-Type Problems on Polygons**|Konstantinos Georgiou et.al.|[2406.19495](http://arxiv.org/abs/2406.19495)|null|
-|**2024-06-27**|**Multi-agent Cooperative Games Using Belief Map Assisted Training**|Qinwei Huang et.al.|[2406.19477](http://arxiv.org/abs/2406.19477)|null|
+|**2024-06-27**|**Multi-agent Cooperative Games Using Belief Map Assisted Training**|Qinwei Huang et.al.|[2406.19477](http://arxiv.org/abs/2406.19477)|**[link](https://github.com/qhuang18-97/BAMS)**|
 |**2024-06-27**|**Simulating Classroom Education with LLM-Empowered Agents**|Zheyuan Zhang et.al.|[2406.19226](http://arxiv.org/abs/2406.19226)|null|
 |**2024-06-27**|**Formation Under Communication Constraints: Control Performance Meets Channel Capacity**|Yaru Chen et.al.|[2406.18961](http://arxiv.org/abs/2406.18961)|null|
 |**2024-06-27**|**LayoutCopilot: An LLM-powered Multi-agent Collaborative Framework for Interactive Analog Layout Design**|Bingyang Liu et.al.|[2406.18873](http://arxiv.org/abs/2406.18873)|null|
@@ -247,7 +247,7 @@
 |**2024-05-07**|**Enhancing the Efficiency and Accuracy of Underlying Asset Reviews in Structured Finance: The Application of Multi-agent Framework**|Xiangpeng Wan et.al.|[2405.04294](http://arxiv.org/abs/2405.04294)|**[link](https://github.com/elricwan/audit)**|
 |**2024-05-07**|**Certified Policy Verification and Synthesis for MDPs under Distributional Reach-avoidance Properties**|S. Akshay et.al.|[2405.04015](http://arxiv.org/abs/2405.04015)|null|
 |**2024-05-07**|**Latency and Energy Minimization in NOMA-Assisted MEC Network: A Federated Deep Reinforcement Learning Approach**|Arian Ahmadi et.al.|[2405.04012](http://arxiv.org/abs/2405.04012)|null|
-|**2024-05-06**|**Conformity, Confabulation, and Impersonation: Persona Inconstancy in Multi-Agent LLM Collaboration**|Razan Baltaji et.al.|[2405.03862](http://arxiv.org/abs/2405.03862)|null|
+|**2024-05-06**|**Conformity, Confabulation, and Impersonation: Persona Inconstancy in Multi-Agent LLM Collaboration**|Razan Baltaji et.al.|[2405.03862](http://arxiv.org/abs/2405.03862)|**[link](https://github.com/baltaci-r/CulturedAgents)**|
 |**2024-05-06**|**Select to Perfect: Imitating desired behavior from large multi-agent data**|Tim Franzmeyer et.al.|[2405.03735](http://arxiv.org/abs/2405.03735)|null|
 |**2024-05-06**|**MARE: Multi-Agents Collaboration Framework for Requirements Engineering**|Dongming Jin et.al.|[2405.03256](http://arxiv.org/abs/2405.03256)|null|
 |**2024-05-06**|**A Multi-Agent Rollout Approach for Highway Bottleneck Decongenston in Mixed Autonomy**|Lu Liu et.al.|[2405.03132](http://arxiv.org/abs/2405.03132)|null|

@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-05**|**Simple method for efficiently solving dynamic models with continuous actions using policy gradient**|Takeshi Fukasawa et.al.|[2407.04227](http://arxiv.org/abs/2407.04227)|null|
+|**2024-07-04**|**Solving Zebra Puzzles Using Constraint-Guided Multi-Agent Systems**|Shmuel Berman et.al.|[2407.03956](http://arxiv.org/abs/2407.03956)|null|
+|**2024-07-04**|**MobileExperts: A Dynamic Tool-Enabled Agent Team in Mobile Devices**|Jiayi Zhang et.al.|[2407.03913](http://arxiv.org/abs/2407.03913)|null|
+|**2024-07-04**|**VDMA: Video Question Answering with Dynamically Generated Multi-Agents**|Noriyuki Kugo et.al.|[2407.03610](http://arxiv.org/abs/2407.03610)|null|
+|**2024-07-03**|**Algorithmic Collusion And The Minimum Price Markov Game**|Igor Sadoune et.al.|[2407.03521](http://arxiv.org/abs/2407.03521)|null|
 |**2024-07-03**|**A Review of the Applications of Deep Learning-Based Emergent Communication**|Brendon Boldt et.al.|[2407.03302](http://arxiv.org/abs/2407.03302)|null|
 |**2024-07-03**|**Cooperative Multi-Agent Deep Reinforcement Learning Methods for UAV-aided Mobile Edge Computing Networks**|Mintae Kim et.al.|[2407.03280](http://arxiv.org/abs/2407.03280)|null|
 |**2024-07-03**|**Hierarchical Large Scale Multirobot Path (Re)Planning**|Lishuo Pan et.al.|[2407.02777](http://arxiv.org/abs/2407.02777)|null|

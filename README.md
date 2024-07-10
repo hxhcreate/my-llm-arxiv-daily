@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.09
+## Updated on 2024.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,7 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-08**|**Cyber Physical Games**|Warisa Sritriratanarak et.al.|[2407.05817](http://arxiv.org/abs/2407.05817)|null|
+|**2024-07-08**|**Cyber Physical Games**|Warisa Sritriratanarak et.al.|[2407.05817](http://arxiv.org/abs/2407.05817)|**[link](https://github.com/paulo-chula/support-code-for-cyber-physical-games)**|
 |**2024-07-08**|**FedMRL: Data Heterogeneity Aware Federated Multi-agent Deep Reinforcement Learning for Medical Imaging**|Pranab Sahoo et.al.|[2407.05800](http://arxiv.org/abs/2407.05800)|**[link](https://github.com/pranabiitp/fedmrl)**|
 |**2024-07-08**|**Multi-agent Reinforcement Learning-based Network Intrusion Detection System**|Amine Tellache et.al.|[2407.05766](http://arxiv.org/abs/2407.05766)|null|
 |**2024-07-06**|**Deception in Nash Equilibrium Seeking**|Michael Tang et.al.|[2407.05168](http://arxiv.org/abs/2407.05168)|null|
@@ -25,7 +25,7 @@
 |**2024-07-05**|**Maximizing utility in multi-agent environments by anticipating the behavior of other learners**|Angelos Assos et.al.|[2407.04889](http://arxiv.org/abs/2407.04889)|null|
 |**2024-07-05**|**A Defeasible Deontic Calculus for Resolving Norm Conflicts**|Taylor Olson et.al.|[2407.04869](http://arxiv.org/abs/2407.04869)|null|
 |**2024-07-05**|**Simple method for efficiently solving dynamic models with continuous actions using policy gradient**|Takeshi Fukasawa et.al.|[2407.04227](http://arxiv.org/abs/2407.04227)|null|
-|**2024-07-04**|**Solving Zebra Puzzles Using Constraint-Guided Multi-Agent Systems**|Shmuel Berman et.al.|[2407.03956](http://arxiv.org/abs/2407.03956)|null|
+|**2024-07-09**|**Solving Zebra Puzzles Using Constraint-Guided Multi-Agent Systems**|Shmuel Berman et.al.|[2407.03956](http://arxiv.org/abs/2407.03956)|null|
 |**2024-07-04**|**MobileExperts: A Dynamic Tool-Enabled Agent Team in Mobile Devices**|Jiayi Zhang et.al.|[2407.03913](http://arxiv.org/abs/2407.03913)|null|
 |**2024-07-04**|**VDMA: Video Question Answering with Dynamically Generated Multi-Agents**|Noriyuki Kugo et.al.|[2407.03610](http://arxiv.org/abs/2407.03610)|null|
 |**2024-07-03**|**Algorithmic Collusion And The Minimum Price Markov Game**|Igor Sadoune et.al.|[2407.03521](http://arxiv.org/abs/2407.03521)|null|
@@ -770,7 +770,7 @@
 |**2023-12-30**|**Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning**|Xin Yu et.al.|[2401.00167](http://arxiv.org/abs/2401.00167)|null|
 |**2023-12-30**|**Contrastive learning-based agent modeling for deep reinforcement learning**|Wenhao Ma et.al.|[2401.00132](http://arxiv.org/abs/2401.00132)|null|
 
-<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

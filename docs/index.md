@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.12
+## Updated on 2024.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AGENT
@@ -18,12 +18,12 @@ layout: default
 |**2024-07-11**|**ARCO:Adaptive Multi-Agent Reinforcement Learning-Based Hardware/Software Co-Optimization Compiler for Improved Performance in DNN Accelerator Design**|Arya Fayyazi et.al.|[2407.08192](http://arxiv.org/abs/2407.08192)|null|
 |**2024-07-11**|**Hierarchical Consensus-Based Multi-Agent Reinforcement Learning for Multi-Robot Cooperation Tasks**|Pu Feng et.al.|[2407.08164](http://arxiv.org/abs/2407.08164)|null|
 |**2024-07-10**|**Field Deployment of Multi-Agent Reinforcement Learning Based Variable Speed Limit Controllers**|Yuhang Zhang et.al.|[2407.08021](http://arxiv.org/abs/2407.08021)|null|
-|**2024-07-10**|**Flooding Spread of Manipulated Knowledge in LLM-Based Multi-Agent Communities**|Tianjie Ju et.al.|[2407.07791](http://arxiv.org/abs/2407.07791)|null|
+|**2024-07-10**|**Flooding Spread of Manipulated Knowledge in LLM-Based Multi-Agent Communities**|Tianjie Ju et.al.|[2407.07791](http://arxiv.org/abs/2407.07791)|**[link](https://github.com/Jometeorie/KnowledgeSpread)**|
 |**2024-07-10**|**Resource Allocation for Twin Maintenance and Computing Task Processing in Digital Twin Vehicular Edge Computing Network**|Yu Xie et.al.|[2407.07575](http://arxiv.org/abs/2407.07575)|**[link](https://github.com/qiongwu86/resource-allocation-for-twin-maintenance-and-computing-tasks-in-digital-twin-mobile-edge-network)**|
-|**2024-07-10**|**Long-Term Fairness in Sequential Multi-Agent Selection with Positive Reinforcement**|Bhagyashree Puranik et.al.|[2407.07350](http://arxiv.org/abs/2407.07350)|null|
+|**2024-07-10**|**Long-Term Fairness in Sequential Multi-Agent Selection with Positive Reinforcement**|Bhagyashree Puranik et.al.|[2407.07350](http://arxiv.org/abs/2407.07350)|**[link](https://github.com/guldoganozgur/long_term_fairness_pos_reinf)**|
 |**2024-07-09**|**Hypothetical Minds: Scaffolding Theory of Mind for Multi-Agent Tasks with Large Language Models**|Logan Cross et.al.|[2407.07086](http://arxiv.org/abs/2407.07086)|**[link](https://github.com/locross93/hypothetical-minds)**|
 |**2024-07-10**|**Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence**|Weize Chen et.al.|[2407.07061](http://arxiv.org/abs/2407.07061)|**[link](https://github.com/openbmb/ioa)**|
-|**2024-07-10**|**PEER: Expertizing Domain-Specific Tasks with a Multi-Agent Framework and Tuning Methods**|Yiying Wang et.al.|[2407.06985](http://arxiv.org/abs/2407.06985)|null|
+|**2024-07-10**|**PEER: Expertizing Domain-Specific Tasks with a Multi-Agent Framework and Tuning Methods**|Yiying Wang et.al.|[2407.06985](http://arxiv.org/abs/2407.06985)|**[link](https://github.com/alipay/agentuniverse)**|
 |**2024-07-09**|**Richelieu: Self-Evolving LLM-Based Agents for AI Diplomacy**|Zhenyu Guan et.al.|[2407.06813](http://arxiv.org/abs/2407.06813)|null|
 |**2024-07-10**|**FinCon: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making**|Yangyang Yu et.al.|[2407.06567](http://arxiv.org/abs/2407.06567)|null|
 |**2024-07-09**|**Fast Distributed Optimization over Directed Graphs under Malicious Attacks using Trust**|Arif Kerem Dayı et.al.|[2407.06541](http://arxiv.org/abs/2407.06541)|null|

@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**Sibyl: Simple yet Effective Agent Framework for Complex Real-world Reasoning**|Yulong Wang et.al.|[2407.10718](http://arxiv.org/abs/2407.10718)|**[link](https://github.com/ag2s1/sibyl-system)**|
+|**2024-07-15**|**Back to Newton's Laws: Learning Vision-based Agile Flight via Differentiable Physics**|Yuang Zhang et.al.|[2407.10648](http://arxiv.org/abs/2407.10648)|null|
+|**2024-07-15**|**Cooperative Reward Shaping for Multi-Agent Pathfinding**|Zhenyu Song et.al.|[2407.10403](http://arxiv.org/abs/2407.10403)|null|
+|**2024-07-14**|**Ontology-driven Reinforcement Learning for Personalized Student Support**|Ryan Hare et.al.|[2407.10332](http://arxiv.org/abs/2407.10332)|null|
+|**2024-07-14**|**Consensus and Flocking under Communication Failure**|Fabio Ancona et.al.|[2407.10306](http://arxiv.org/abs/2407.10306)|null|
+|**2024-07-14**|**Learning to Steer Markovian Agents under Model Uncertainty**|Jiawei Huang et.al.|[2407.10207](http://arxiv.org/abs/2407.10207)|**[link](https://github.com/jiaweihhuang/steering_markovian_agents)**|
+|**2024-07-14**|**Long-Horizon Planning for Multi-Agent Robots in Partially Observable Environments**|Siddharth Nayak et.al.|[2407.10031](http://arxiv.org/abs/2407.10031)|null|
+|**2024-07-13**|**AtomAgents: Alloy design and discovery through physics-aware multi-modal multi-agent artificial intelligence**|Alireza Ghafarollahi et.al.|[2407.10022](http://arxiv.org/abs/2407.10022)|null|
+|**2024-07-13**|**Cohesive Conversations: Enhancing Authenticity in Multi-Agent Simulated Dialogues**|KuanChao Chu et.al.|[2407.09897](http://arxiv.org/abs/2407.09897)|null|
+|**2024-07-13**|**Synergistic Multi-Agent Framework with Trajectory Learning for Knowledge-Intensive Tasks**|Shengbin Yue et.al.|[2407.09893](http://arxiv.org/abs/2407.09893)|null|
 |**2024-07-12**|**Benchmarking Large Neighborhood Search for Multi-Agent Path Finding**|Jiaqi Tan et.al.|[2407.09451](http://arxiv.org/abs/2407.09451)|null|
 |**2024-07-12**|**Security Matrix for Multimodal Agents on Mobile Devices: A Systematic and Proof of Concept Study**|Yulong Yang et.al.|[2407.09295](http://arxiv.org/abs/2407.09295)|null|
 |**2024-07-12**|**GNN with Model-based RL for Multi-agent Systems**|Hanxiao Chen et.al.|[2407.09249](http://arxiv.org/abs/2407.09249)|null|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.18
+## Updated on 2024.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,12 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-18**|**Geometric Data Fusion for Collaborative Attitude Estimation**|Yixiao Ge et.al.|[2407.13176](http://arxiv.org/abs/2407.13176)|null|
+|**2024-07-18**|**Reconfigurable Intelligent Surface Aided Vehicular Edge Computing: Joint Phase-shift Optimization and Multi-User Power Allocation**|Kangwei Qi et.al.|[2407.13123](http://arxiv.org/abs/2407.13123)|null|
+|**2024-07-17**|**Agent-E: From Autonomous Web Navigation to Foundational Design Principles in Agentic Systems**|Tamer Abuelsaad et.al.|[2407.13032](http://arxiv.org/abs/2407.13032)|null|
 |**2024-07-17**|**Multiple Access Integrated Adaptive Finite Blocklength for Ultra-Low Delay in 6G Wireless Networks**|Yixin Zhang et.al.|[2407.12706](http://arxiv.org/abs/2407.12706)|null|
 |**2024-07-17**|**Mechanism Design via the Interim Relaxation**|Kshipra Bhawalkar et.al.|[2407.12699](http://arxiv.org/abs/2407.12699)|null|
 |**2024-07-17**|**IICPilot: An Intelligent Integrated Circuit Backend Design Framework Using Open EDA**|Zesong Jiang et.al.|[2407.12576](http://arxiv.org/abs/2407.12576)|null|
 |**2024-07-17**|**Navigating the Smog: A Cooperative Multi-Agent RL for Accurate Air Pollution Mapping through Data Assimilation**|Ichrak Mokhtari et.al.|[2407.12539](http://arxiv.org/abs/2407.12539)|null|
 |**2024-07-17**|**Towards Collaborative Intelligence: Propagating Intentions and Reasoning for Multi-Agent Coordination with Large Language Models**|Xihe Qiu et.al.|[2407.12532](http://arxiv.org/abs/2407.12532)|null|
-|**2024-07-17**|**PersLLM: A Personified Training Approach for Large Language Models**|Zheni Zeng et.al.|[2407.12393](http://arxiv.org/abs/2407.12393)|**[link](https://github.com/ellenzzn/persllm)**|
+|**2024-07-18**|**PersLLM: A Personified Training Approach for Large Language Models**|Zheni Zeng et.al.|[2407.12393](http://arxiv.org/abs/2407.12393)|**[link](https://github.com/ellenzzn/persllm)**|
 |**2024-07-16**|**Learning to Imitate Spatial Organization in Multi-robot Systems**|Ayomide O. Agunloye et.al.|[2407.11592](http://arxiv.org/abs/2407.11592)|null|
 |**2024-07-16**|**Distributed Prescribed-Time Convex Optimization: Cascade Design and Time-Varying Gain Approach**|Gewei Zuo et.al.|[2407.11413](http://arxiv.org/abs/2407.11413)|null|
 |**2024-07-16**|**Prescribed-time Cooperative Output Regulation of Linear Heterogeneous Multi-agent Systems**|Gewei Zuo et.al.|[2407.11408](http://arxiv.org/abs/2407.11408)|null|
@@ -812,7 +815,7 @@
 |**2023-12-30**|**Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning**|Xin Yu et.al.|[2401.00167](http://arxiv.org/abs/2401.00167)|null|
 |**2023-12-30**|**Contrastive learning-based agent modeling for deep reinforcement learning**|Wenhao Ma et.al.|[2401.00132](http://arxiv.org/abs/2401.00132)|null|
 
-<p align=right>(<a href=#updated-on-20240718>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240719>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

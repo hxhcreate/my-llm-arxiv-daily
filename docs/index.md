@@ -15,8 +15,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-18**|**Geometric Data Fusion for Collaborative Attitude Estimation**|Yixiao Ge et.al.|[2407.13176](http://arxiv.org/abs/2407.13176)|null|
-|**2024-07-18**|**Reconfigurable Intelligent Surface Aided Vehicular Edge Computing: Joint Phase-shift Optimization and Multi-User Power Allocation**|Kangwei Qi et.al.|[2407.13123](http://arxiv.org/abs/2407.13123)|null|
-|**2024-07-17**|**Agent-E: From Autonomous Web Navigation to Foundational Design Principles in Agentic Systems**|Tamer Abuelsaad et.al.|[2407.13032](http://arxiv.org/abs/2407.13032)|null|
+|**2024-07-18**|**Reconfigurable Intelligent Surface Aided Vehicular Edge Computing: Joint Phase-shift Optimization and Multi-User Power Allocation**|Kangwei Qi et.al.|[2407.13123](http://arxiv.org/abs/2407.13123)|**[link](https://github.com/qiongwu86/DDPG-RIS-MADDPG-POWER)**|
+|**2024-07-17**|**Agent-E: From Autonomous Web Navigation to Foundational Design Principles in Agentic Systems**|Tamer Abuelsaad et.al.|[2407.13032](http://arxiv.org/abs/2407.13032)|**[link](https://github.com/EmergenceAI/Agent-E)**|
 |**2024-07-17**|**Multiple Access Integrated Adaptive Finite Blocklength for Ultra-Low Delay in 6G Wireless Networks**|Yixin Zhang et.al.|[2407.12706](http://arxiv.org/abs/2407.12706)|null|
 |**2024-07-17**|**Mechanism Design via the Interim Relaxation**|Kshipra Bhawalkar et.al.|[2407.12699](http://arxiv.org/abs/2407.12699)|null|
 |**2024-07-17**|**IICPilot: An Intelligent Integrated Circuit Backend Design Framework Using Open EDA**|Zesong Jiang et.al.|[2407.12576](http://arxiv.org/abs/2407.12576)|null|
@@ -26,7 +26,7 @@ layout: default
 |**2024-07-16**|**Learning to Imitate Spatial Organization in Multi-robot Systems**|Ayomide O. Agunloye et.al.|[2407.11592](http://arxiv.org/abs/2407.11592)|null|
 |**2024-07-16**|**Distributed Prescribed-Time Convex Optimization: Cascade Design and Time-Varying Gain Approach**|Gewei Zuo et.al.|[2407.11413](http://arxiv.org/abs/2407.11413)|null|
 |**2024-07-16**|**Prescribed-time Cooperative Output Regulation of Linear Heterogeneous Multi-agent Systems**|Gewei Zuo et.al.|[2407.11408](http://arxiv.org/abs/2407.11408)|null|
-|**2024-07-16**|**InvAgent: A Large Language Model based Multi-Agent System for Inventory Management in Supply Chains**|Yinzhu Quan et.al.|[2407.11384](http://arxiv.org/abs/2407.11384)|null|
+|**2024-07-16**|**InvAgent: A Large Language Model based Multi-Agent System for Inventory Management in Supply Chains**|Yinzhu Quan et.al.|[2407.11384](http://arxiv.org/abs/2407.11384)|**[link](https://github.com/zefang-liu/InvAgent)**|
 |**2024-07-16**|**Digital Twin Vehicular Edge Computing Network: Task Offloading and Resource Allocation**|Yu Xie et.al.|[2407.11310](http://arxiv.org/abs/2407.11310)|null|
 |**2024-07-16**|**Sibyl: Simple yet Effective Agent Framework for Complex Real-world Reasoning**|Yulong Wang et.al.|[2407.10718](http://arxiv.org/abs/2407.10718)|**[link](https://github.com/ag2s1/sibyl-system)**|
 |**2024-07-16**|**Back to Newton's Laws: Learning Vision-based Agile Flight via Differentiable Physics**|Yuang Zhang et.al.|[2407.10648](http://arxiv.org/abs/2407.10648)|null|
@@ -37,14 +37,14 @@ layout: default
 |**2024-07-14**|**Long-Horizon Planning for Multi-Agent Robots in Partially Observable Environments**|Siddharth Nayak et.al.|[2407.10031](http://arxiv.org/abs/2407.10031)|null|
 |**2024-07-13**|**AtomAgents: Alloy design and discovery through physics-aware multi-modal multi-agent artificial intelligence**|Alireza Ghafarollahi et.al.|[2407.10022](http://arxiv.org/abs/2407.10022)|null|
 |**2024-07-13**|**Cohesive Conversations: Enhancing Authenticity in Multi-Agent Simulated Dialogues**|KuanChao Chu et.al.|[2407.09897](http://arxiv.org/abs/2407.09897)|null|
-|**2024-07-13**|**Synergistic Multi-Agent Framework with Trajectory Learning for Knowledge-Intensive Tasks**|Shengbin Yue et.al.|[2407.09893](http://arxiv.org/abs/2407.09893)|null|
-|**2024-07-12**|**Benchmarking Large Neighborhood Search for Multi-Agent Path Finding**|Jiaqi Tan et.al.|[2407.09451](http://arxiv.org/abs/2407.09451)|null|
+|**2024-07-13**|**Synergistic Multi-Agent Framework with Trajectory Learning for Knowledge-Intensive Tasks**|Shengbin Yue et.al.|[2407.09893](http://arxiv.org/abs/2407.09893)|**[link](https://github.com/yueshengbin/SMART)**|
+|**2024-07-12**|**Benchmarking Large Neighborhood Search for Multi-Agent Path Finding**|Jiaqi Tan et.al.|[2407.09451](http://arxiv.org/abs/2407.09451)|**[link](https://github.com/christinatan0704/mapf-lns-benchmark)**|
 |**2024-07-12**|**Security Matrix for Multimodal Agents on Mobile Devices: A Systematic and Proof of Concept Study**|Yulong Yang et.al.|[2407.09295](http://arxiv.org/abs/2407.09295)|null|
 |**2024-07-12**|**GNN with Model-based RL for Multi-agent Systems**|Hanxiao Chen et.al.|[2407.09249](http://arxiv.org/abs/2407.09249)|null|
 |**2024-07-12**|**Decentralized multi-agent reinforcement learning algorithm using a cluster-synchronized laser network**|Shun Kotoku et.al.|[2407.09124](http://arxiv.org/abs/2407.09124)|null|
 |**2024-07-12**|**Fast and Accurate Multi-Agent Trajectory Prediction For Crowded Unknown Scenes**|Xiuye Tao et.al.|[2407.09068](http://arxiv.org/abs/2407.09068)|null|
 |**2024-07-12**|**Communication-Aware Reinforcement Learning for Cooperative Adaptive Cruise Control**|Sicong Jiang et.al.|[2407.08964](http://arxiv.org/abs/2407.08964)|null|
-|**2024-07-15**|**Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation**|Biqing Qi et.al.|[2407.08940](http://arxiv.org/abs/2407.08940)|null|
+|**2024-07-15**|**Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation**|Biqing Qi et.al.|[2407.08940](http://arxiv.org/abs/2407.08940)|**[link](https://github.com/tsinghuac3i/llm4biohypogen)**|
 |**2024-07-11**|**United We Stand: Decentralized Multi-Agent Planning With Attrition**|Nhat Nguyen et.al.|[2407.08254](http://arxiv.org/abs/2407.08254)|null|
 |**2024-07-11**|**ARCO:Adaptive Multi-Agent Reinforcement Learning-Based Hardware/Software Co-Optimization Compiler for Improved Performance in DNN Accelerator Design**|Arya Fayyazi et.al.|[2407.08192](http://arxiv.org/abs/2407.08192)|null|
 |**2024-07-11**|**Hierarchical Consensus-Based Multi-Agent Reinforcement Learning for Multi-Robot Cooperation Tasks**|Pu Feng et.al.|[2407.08164](http://arxiv.org/abs/2407.08164)|null|

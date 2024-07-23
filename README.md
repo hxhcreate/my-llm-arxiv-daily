@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-21**|**B2MAPO: A Batch-by-Batch Multi-Agent Policy Optimization to Balance Performance and Efficiency**|Wenjing Zhang et.al.|[2407.15077](http://arxiv.org/abs/2407.15077)|null|
+|**2024-07-21**|**Multi-Agent Causal Discovery Using Large Language Models**|Hao Duong Le et.al.|[2407.15073](http://arxiv.org/abs/2407.15073)|null|
+|**2024-07-20**|**POGEMA: A Benchmark Platform for Cooperative Multi-Agent Navigation**|Alexey Skrynnik et.al.|[2407.14931](http://arxiv.org/abs/2407.14931)|null|
+|**2024-07-19**|**Value Internalization: Learning and Generalizing from Social Reward**|Frieda Rong et.al.|[2407.14681](http://arxiv.org/abs/2407.14681)|null|
 |**2024-07-19**|**The Vision of Autonomic Computing: Can LLMs Make It a Reality?**|Zhiyang Zhang et.al.|[2407.14402](http://arxiv.org/abs/2407.14402)|null|
 |**2024-07-19**|**KoMA: Knowledge-driven Multi-agent Framework for Autonomous Driving with Large Language Models**|Kemou Jiang et.al.|[2407.14239](http://arxiv.org/abs/2407.14239)|null|
 |**2024-07-18**|**Multi-agent Coverage Control: From Discrete Assignments to Continuous Multi-agent Distribution Matching**|Solmaz Kia et.al.|[2407.13890](http://arxiv.org/abs/2407.13890)|null|

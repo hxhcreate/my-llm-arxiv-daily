@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.22
+## Updated on 2024.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AGENT
@@ -17,7 +17,7 @@ layout: default
 |**2024-07-19**|**The Vision of Autonomic Computing: Can LLMs Make It a Reality?**|Zhiyang Zhang et.al.|[2407.14402](http://arxiv.org/abs/2407.14402)|null|
 |**2024-07-19**|**KoMA: Knowledge-driven Multi-agent Framework for Autonomous Driving with Large Language Models**|Kemou Jiang et.al.|[2407.14239](http://arxiv.org/abs/2407.14239)|null|
 |**2024-07-18**|**Multi-agent Coverage Control: From Discrete Assignments to Continuous Multi-agent Distribution Matching**|Solmaz Kia et.al.|[2407.13890](http://arxiv.org/abs/2407.13890)|null|
-|**2024-07-18**|**Geometric Data Fusion for Collaborative Attitude Estimation**|Yixiao Ge et.al.|[2407.13176](http://arxiv.org/abs/2407.13176)|null|
+|**2024-07-22**|**Geometric Data Fusion for Collaborative Attitude Estimation**|Yixiao Ge et.al.|[2407.13176](http://arxiv.org/abs/2407.13176)|null|
 |**2024-07-18**|**Reconfigurable Intelligent Surface Aided Vehicular Edge Computing: Joint Phase-shift Optimization and Multi-User Power Allocation**|Kangwei Qi et.al.|[2407.13123](http://arxiv.org/abs/2407.13123)|**[link](https://github.com/qiongwu86/DDPG-RIS-MADDPG-POWER)**|
 |**2024-07-17**|**Agent-E: From Autonomous Web Navigation to Foundational Design Principles in Agentic Systems**|Tamer Abuelsaad et.al.|[2407.13032](http://arxiv.org/abs/2407.13032)|**[link](https://github.com/EmergenceAI/Agent-E)**|
 |**2024-07-17**|**Multiple Access Integrated Adaptive Finite Blocklength for Ultra-Low Delay in 6G Wireless Networks**|Yixin Zhang et.al.|[2407.12706](http://arxiv.org/abs/2407.12706)|null|

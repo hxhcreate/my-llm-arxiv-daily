@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.24
+## Updated on 2024.07.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AGENT
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-23**|**RedAgent: Red Teaming Large Language Models with Context-aware Autonomous Language Agent**|Huiyu Xu et.al.|[2407.16667](http://arxiv.org/abs/2407.16667)|null|
-|**2024-07-23**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[2407.16636](http://arxiv.org/abs/2407.16636)|null|
+|**2024-07-24**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[2407.16636](http://arxiv.org/abs/2407.16636)|null|
 |**2024-07-23**|**Evaluating Uncertainties in Electricity Markets via Machine Learning and Quantum Computing**|Shuyang Zhu et.al.|[2407.16404](http://arxiv.org/abs/2407.16404)|null|
 |**2024-07-23**|**MOMAland: A Set of Benchmarks for Multi-Objective Multi-Agent Reinforcement Learning**|Florian Felten et.al.|[2407.16312](http://arxiv.org/abs/2407.16312)|**[link](https://github.com/farama-foundation/momaland)**|
 |**2024-07-22**|**Faster Optimal Coalition Structure Generation via Offline Coalition Selection and Graph-Based Search**|Redha Taguelmimt et.al.|[2407.16092](http://arxiv.org/abs/2407.16092)|null|

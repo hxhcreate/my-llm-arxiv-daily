@@ -34,8 +34,8 @@ layout: default
 |**2024-07-22**|**Efficient Replay Memory Architectures in Multi-Agent Reinforcement Learning for Traffic Congestion Control**|Mukul Chodhary et.al.|[2407.16034](http://arxiv.org/abs/2407.16034)|null|
 |**2024-07-21**|**B2MAPO: A Batch-by-Batch Multi-Agent Policy Optimization to Balance Performance and Efficiency**|Wenjing Zhang et.al.|[2407.15077](http://arxiv.org/abs/2407.15077)|null|
 |**2024-07-21**|**Multi-Agent Causal Discovery Using Large Language Models**|Hao Duong Le et.al.|[2407.15073](http://arxiv.org/abs/2407.15073)|null|
-|**2024-07-20**|**POGEMA: A Benchmark Platform for Cooperative Multi-Agent Navigation**|Alexey Skrynnik et.al.|[2407.14931](http://arxiv.org/abs/2407.14931)|null|
-|**2024-07-19**|**Value Internalization: Learning and Generalizing from Social Reward**|Frieda Rong et.al.|[2407.14681](http://arxiv.org/abs/2407.14681)|null|
+|**2024-07-20**|**POGEMA: A Benchmark Platform for Cooperative Multi-Agent Navigation**|Alexey Skrynnik et.al.|[2407.14931](http://arxiv.org/abs/2407.14931)|**[link](https://github.com/airi-institute/pogema)**|
+|**2024-07-19**|**Value Internalization: Learning and Generalizing from Social Reward**|Frieda Rong et.al.|[2407.14681](http://arxiv.org/abs/2407.14681)|**[link](https://github.com/friedeggs/social-play)**|
 |**2024-07-19**|**The Vision of Autonomic Computing: Can LLMs Make It a Reality?**|Zhiyang Zhang et.al.|[2407.14402](http://arxiv.org/abs/2407.14402)|null|
 |**2024-07-19**|**KoMA: Knowledge-driven Multi-agent Framework for Autonomous Driving with Large Language Models**|Kemou Jiang et.al.|[2407.14239](http://arxiv.org/abs/2407.14239)|null|
 |**2024-07-18**|**Multi-agent Coverage Control: From Discrete Assignments to Continuous Multi-agent Distribution Matching**|Solmaz Kia et.al.|[2407.13890](http://arxiv.org/abs/2407.13890)|null|
@@ -442,7 +442,7 @@ layout: default
 |**2024-04-09**|**Multi-Agent Coverage Control with Transient Behavior Consideration**|Runyu Zhang et.al.|[2404.05995](http://arxiv.org/abs/2404.05995)|null|
 |**2024-04-08**|**Attention-Driven Multi-Agent Reinforcement Learning: Enhancing Decisions with Expertise-Informed Tasks**|Andre R Kuroswiski et.al.|[2404.05840](http://arxiv.org/abs/2404.05840)|null|
 |**2024-04-08**|**360°REA: Towards A Reusable Experience Accumulation with 360° Assessment for Multi-Agent System**|Shen Gao et.al.|[2404.05569](http://arxiv.org/abs/2404.05569)|null|
-|**2024-04-08**|**Towards Objectively Benchmarking Social Intelligence for Language Agents at Action Level**|Chenxu Wang et.al.|[2404.05337](http://arxiv.org/abs/2404.05337)|null|
+|**2024-04-08**|**Towards Objectively Benchmarking Social Intelligence for Language Agents at Action Level**|Chenxu Wang et.al.|[2404.05337](http://arxiv.org/abs/2404.05337)|**[link](https://github.com/wcx21/Social-Tasks-in-Sandbox-Simulation)**|
 |**2024-04-08**|**ITA-ECBS: A Bounded-Suboptimal Algorithm for Combined Target-Assignment and Path-Finding Problem**|Yimin Tang et.al.|[2404.05223](http://arxiv.org/abs/2404.05223)|**[link](https://github.com/whoenig/libMultiRobotPlanning)**|
 |**2024-04-08**|**Multi-agent Long-term 3D Human Pose Forecasting via Interaction-aware Trajectory Conditioning**|Jaewoo Jeong et.al.|[2404.05218](http://arxiv.org/abs/2404.05218)|**[link](https://github.com/jaewoo97/t2p)**|
 |**2024-04-07**|**Graph Neural Network Meets Multi-Agent Reinforcement Learning: Fundamentals, Applications, and Future Directions**|Ziheng Liu et.al.|[2404.04898](http://arxiv.org/abs/2404.04898)|null|
@@ -606,7 +606,7 @@ layout: default
 |**2024-03-01**|**Robustifying a Policy in Multi-Agent RL with Diverse Cooperative Behavior and Adversarial Style Sampling for Assistive Tasks**|Tayuki Osa et.al.|[2403.00344](http://arxiv.org/abs/2403.00344)|null|
 |**2024-03-01**|**Mode Consensus Algorithms With Finite Convergence Time**|Chao Huang et.al.|[2403.00221](http://arxiv.org/abs/2403.00221)|null|
 |**2024-02-29**|**Causal Graph ODE: Continuous Treatment Effect Modeling in Multi-agent Dynamical Systems**|Zijie Huang et.al.|[2403.00178](http://arxiv.org/abs/2403.00178)|null|
-|**2024-02-29**|**Understanding Iterative Combinatorial Auction Designs via Multi-Agent Reinforcement Learning**|Greg d'Eon et.al.|[2402.19420](http://arxiv.org/abs/2402.19420)|null|
+|**2024-02-29**|**Understanding Iterative Combinatorial Auction Designs via Multi-Agent Reinforcement Learning**|Greg d'Eon et.al.|[2402.19420](http://arxiv.org/abs/2402.19420)|**[link](https://github.com/newmanne/open_spiel)**|
 |**2024-02-29**|**Energy-Efficient UAV Swarm Assisted MEC with Dynamic Clustering and Scheduling**|Jialiuyuan Li et.al.|[2402.18936](http://arxiv.org/abs/2402.18936)|null|
 |**2024-02-28**|**Timer-Based Coverage Control for Mobile Sensors**|Federico M. Zegers et.al.|[2402.18744](http://arxiv.org/abs/2402.18744)|null|
 |**2024-02-28**|**Beyond Natural Language: LLMs Leveraging Alternative Formats for Enhanced Reasoning and Communication**|Weize Chen et.al.|[2402.18439](http://arxiv.org/abs/2402.18439)|**[link](https://github.com/thunlp/autoform)**|

@@ -17,6 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**MindSearch: Mimicking Human Minds Elicits Deep AI Searcher**|Zehui Chen et.al.|[2407.20183](http://arxiv.org/abs/2407.20183)|**[link](https://github.com/internlm/mindsearch)**|
+|**2024-07-29**|**Counterfactual rewards promote collective transport using individually controlled swarm microrobots**|Veit-Lorenz Heuthe et.al.|[2407.20041](http://arxiv.org/abs/2407.20041)|null|
+|**2024-07-29**|**Minimum Time Consensus of Multi-agent System under Fuel Constraints**|Akansha Rautela et.al.|[2407.19927](http://arxiv.org/abs/2407.19927)|null|
+|**2024-07-29**|**Sustainable Task Offloading in Secure UAV-assisted Smart Farm Networks: A Multi-Agent DRL with Action Mask Approach**|Tingnan Bao et.al.|[2407.19657](http://arxiv.org/abs/2407.19657)|null|
+|**2024-07-28**|**Conversational AI Multi-Agent Interoperability, Universal Open APIs for Agentic Natural Language Multimodal Communications**|Diego Gosmar et.al.|[2407.19438](http://arxiv.org/abs/2407.19438)|null|
+|**2024-07-27**|**Collaborative Adaptation for Recovery from Unforeseen Malfunctions in Discrete and Continuous MARL Domains**|Yasin Findik et.al.|[2407.19144](http://arxiv.org/abs/2407.19144)|null|
+|**2024-07-27**|**Relational Q-Functionals: Multi-Agent Learning to Recover from Unforeseen Robot Malfunctions in Continuous Action Domains**|Yasin Findik et.al.|[2407.19128](http://arxiv.org/abs/2407.19128)|null|
+|**2024-07-26**|**Solving Robotics Problems in Zero-Shot with Vision-Language Models**|Zidan Wang et.al.|[2407.19094](http://arxiv.org/abs/2407.19094)|null|
 |**2024-07-26**|**Multi-Robot System Architecture design in SysML and BPMN**|Ahmed R. Sadik et.al.|[2407.18749](http://arxiv.org/abs/2407.18749)|null|
 |**2024-07-26**|**Multi-Agent Deep Reinforcement Learning for Energy Efficient Multi-Hop STAR-RIS-Assisted Transmissions**|Pei-Hsiang Liao et.al.|[2407.18627](http://arxiv.org/abs/2407.18627)|null|
 |**2024-07-26**|**Reinforcement Learning for Sustainable Energy: A Survey**|Koen Ponse et.al.|[2407.18597](http://arxiv.org/abs/2407.18597)|null|

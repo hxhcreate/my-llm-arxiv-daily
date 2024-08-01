@@ -17,6 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-31**|**Artificial Intelligence Approaches for Energy Efficiency: A Review**|Alberto Pasqualetto et.al.|[2407.21726](http://arxiv.org/abs/2407.21726)|null|
+|**2024-07-31**|**MART: MultiscAle Relational Transformer Networks for Multi-agent Trajectory Prediction**|Seongju Lee et.al.|[2407.21635](http://arxiv.org/abs/2407.21635)|null|
+|**2024-07-31**|**Multi-agent reinforcement learning for the control of three-dimensional Rayleigh-Bénard convection**|Joel Vasanth et.al.|[2407.21565](http://arxiv.org/abs/2407.21565)|null|
+|**2024-07-31**|**Multi-agent Assessment with QoS Enhancement for HD Map Updates in a Vehicular Network**|Jeffrey Redondo et.al.|[2407.21460](http://arxiv.org/abs/2407.21460)|null|
+|**2024-07-31**|**MetaOpenFOAM: an LLM-based multi-agent framework for CFD**|Yuxuan Chena et.al.|[2407.21320](http://arxiv.org/abs/2407.21320)|null|
+|**2024-07-31**|**MSMA: Multi-agent Trajectory Prediction in Connected and Autonomous Vehicle Environment with Multi-source Data Integration**|Xi Chen et.al.|[2407.21310](http://arxiv.org/abs/2407.21310)|null|
+|**2024-07-30**|**Amelia: A Large Model and Dataset for Airport Surface Movement Forecasting**|Ingrid Navarro et.al.|[2407.21185](http://arxiv.org/abs/2407.21185)|null|
 |**2024-07-30**|**Securing Proof of Stake Blockchains: Leveraging Multi-Agent Reinforcement Learning for Detecting and Mitigating Malicious Nodes**|Faisal Haque Bappy et.al.|[2407.20983](http://arxiv.org/abs/2407.20983)|null|
 |**2024-07-30**|**Distributed Adaptive Time-Varying Optimization with Global Asymptotic Convergence**|Liangze Jiang et.al.|[2407.20897](http://arxiv.org/abs/2407.20897)|null|
 |**2024-07-30**|**Breaking Agents: Compromising Autonomous LLM Agents Through Malfunction Amplification**|Boyang Zhang et.al.|[2407.20859](http://arxiv.org/abs/2407.20859)|null|

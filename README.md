@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**Evaluating and Enhancing LLMs Agent based on Theory of Mind in Guandan: A Multi-Player Cooperative Game under Imperfect Information**|Yauwai Yim et.al.|[2408.02559](http://arxiv.org/abs/2408.02559)|null|
+|**2024-08-05**|**Spatio-Temporal Communication Compression in Distributed Prime-Dual Flows**|Zihao Ren et.al.|[2408.02332](http://arxiv.org/abs/2408.02332)|null|
+|**2024-08-05**|**Data time travel and consistent market making: taming reinforcement learning in multi-agent systems with anonymous data**|Vincent Ragel et.al.|[2408.02322](http://arxiv.org/abs/2408.02322)|null|
+|**2024-08-05**|**ReDel: A Toolkit for LLM-Powered Recursive Multi-Agent Systems**|Andrew Zhu et.al.|[2408.02248](http://arxiv.org/abs/2408.02248)|null|
+|**2024-08-04**|**Environment Complexity and Nash Equilibria in a Sequential Social Dilemma**|Mustafa Yasir et.al.|[2408.02148](http://arxiv.org/abs/2408.02148)|null|
+|**2024-08-04**|**Shaping Rewards, Shaping Routes: On Multi-Agent Deep Q-Networks for Routing in Satellite Constellation Networks**|Manuel M. H. Roth et.al.|[2408.01979](http://arxiv.org/abs/2408.01979)|null|
+|**2024-08-04**|**MAO: A Framework for Process Model Generation with Multi-Agent Orchestration**|Leilei Lin et.al.|[2408.01916](http://arxiv.org/abs/2408.01916)|null|
+|**2024-08-03**|**MALADE: Orchestration of LLM-powered Agents with Retrieval Augmented Generation for Pharmacovigilance**|Jihye Choi et.al.|[2408.01869](http://arxiv.org/abs/2408.01869)|null|
+|**2024-08-03**|**A Robust Compressed Push-Pull Method for Decentralized Nonconvex Optimization**|Yiwei Liao et.al.|[2408.01727](http://arxiv.org/abs/2408.01727)|null|
+|**2024-08-03**|**The Drama Machine: Simulating Character Development with LLM Agents**|Liam Magee et.al.|[2408.01725](http://arxiv.org/abs/2408.01725)|null|
 |**2024-08-02**|**PsybORG+: Cognitive Modeling for Triggering and Detection of Cognitive Biases of Advanced Persistent Threats**|Shuo Huang et.al.|[2408.01310](http://arxiv.org/abs/2408.01310)|null|
 |**2024-08-02**|**Game Theory Based Community-Aware Opinion Dynamics**|Shanfan Zhang et.al.|[2408.01196](http://arxiv.org/abs/2408.01196)|null|
 |**2024-08-02**|**On Game Based Distributed Decision Approach for Multi-agent Optimal Coverage Problem with Application to Constellations Reconfiguration**|Zixin Feng et.al.|[2408.01193](http://arxiv.org/abs/2408.01193)|null|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.05
+## Updated on 2024.08.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 |**2024-08-02**|**PsybORG+: Cognitive Modeling for Triggering and Detection of Cognitive Biases of Advanced Persistent Threats**|Shuo Huang et.al.|[2408.01310](http://arxiv.org/abs/2408.01310)|null|
 |**2024-08-02**|**Game Theory Based Community-Aware Opinion Dynamics**|Shanfan Zhang et.al.|[2408.01196](http://arxiv.org/abs/2408.01196)|null|
 |**2024-08-02**|**On Game Based Distributed Decision Approach for Multi-agent Optimal Coverage Problem with Application to Constellations Reconfiguration**|Zixin Feng et.al.|[2408.01193](http://arxiv.org/abs/2408.01193)|null|
-|**2024-08-02**|**Agentic LLM Workflows for Generating Patient-Friendly Medical Reports**|Malavikha Sudarshan et.al.|[2408.01112](http://arxiv.org/abs/2408.01112)|null|
+|**2024-08-05**|**Agentic LLM Workflows for Generating Patient-Friendly Medical Reports**|Malavikha Sudarshan et.al.|[2408.01112](http://arxiv.org/abs/2408.01112)|null|
 |**2024-08-02**|**A Survey on Self-play Methods in Reinforcement Learning**|Ruize Zhang et.al.|[2408.01072](http://arxiv.org/abs/2408.01072)|null|
 |**2024-08-02**|**Learning with Linear Function Approximations in Mean-Field Control**|Erhan Bayraktar et.al.|[2408.00991](http://arxiv.org/abs/2408.00991)|null|
 |**2024-08-02**|**On the Resilience of Multi-Agent Systems with Malicious Agents**|Jen-tse Huang et.al.|[2408.00989](http://arxiv.org/abs/2408.00989)|null|
@@ -878,7 +878,7 @@
 |**2023-12-30**|**Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning**|Xin Yu et.al.|[2401.00167](http://arxiv.org/abs/2401.00167)|null|
 |**2023-12-30**|**Contrastive learning-based agent modeling for deep reinforcement learning**|Wenhao Ma et.al.|[2401.00132](http://arxiv.org/abs/2401.00132)|null|
 
-<p align=right>(<a href=#updated-on-20240805>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240806>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

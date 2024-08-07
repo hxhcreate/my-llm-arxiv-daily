@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**Social Behavior as a Key to Learning-based Multi-Agent Pathfinding Dilemmas**|Chengyang He et.al.|[2408.03063](http://arxiv.org/abs/2408.03063)|null|
+|**2024-08-06**|**Anytime Multi-Agent Path Finding with an Adaptive Delay-Based Heuristic**|Thomy Phan et.al.|[2408.02960](http://arxiv.org/abs/2408.02960)|null|
+|**2024-08-06**|**Reinforcement Learning based Workflow Scheduling in Cloud and Edge Computing Environments: A Taxonomy, Review and Future Directions**|Amanda Jayanetti et.al.|[2408.02938](http://arxiv.org/abs/2408.02938)|null|
+|**2024-08-05**|**Heterogeneous graph attention network improves cancer multiomics integration**|Sina Tabakhi et.al.|[2408.02845](http://arxiv.org/abs/2408.02845)|null|
 |**2024-08-05**|**Evaluating and Enhancing LLMs Agent based on Theory of Mind in Guandan: A Multi-Player Cooperative Game under Imperfect Information**|Yauwai Yim et.al.|[2408.02559](http://arxiv.org/abs/2408.02559)|null|
 |**2024-08-05**|**Spatio-Temporal Communication Compression in Distributed Prime-Dual Flows**|Zihao Ren et.al.|[2408.02332](http://arxiv.org/abs/2408.02332)|null|
 |**2024-08-05**|**Data time travel and consistent market making: taming reinforcement learning in multi-agent systems with anonymous data**|Vincent Ragel et.al.|[2408.02322](http://arxiv.org/abs/2408.02322)|null|

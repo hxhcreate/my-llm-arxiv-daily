@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**From Data to Story: Towards Automatic Animated Data Video Creation with LLM-based Multi-Agent Systems**|Leixian Shen et.al.|[2408.03876](http://arxiv.org/abs/2408.03876)|null|
+|**2024-08-07**|**Automated Code Fix Suggestions for Accessibility Issues in Mobile Apps**|Forough Mehralian et.al.|[2408.03827](http://arxiv.org/abs/2408.03827)|null|
+|**2024-08-07**|**A time-dependent symplectic network for non-convex path planning problems with linear and nonlinear dynamics**|Zhen Zhang et.al.|[2408.03785](http://arxiv.org/abs/2408.03785)|null|
+|**2024-08-07**|**MS-Mapping: An Uncertainty-Aware Large-Scale Multi-Session LiDAR Mapping System**|Xiangcheng Hu et.al.|[2408.03723](http://arxiv.org/abs/2408.03723)|null|
+|**2024-08-07**|**Asynchronous Credit Assignment Framework for Multi-Agent Reinforcement Learning**|Yongheng Liang et.al.|[2408.03692](http://arxiv.org/abs/2408.03692)|null|
+|**2024-08-07**|**AgentsCoMerge: Large Language Model Empowered Collaborative Decision Making for Ramp Merging**|Senkang Hu et.al.|[2408.03624](http://arxiv.org/abs/2408.03624)|null|
+|**2024-08-06**|**Combining Diverse Information for Coordinated Action: Stochastic Bandit Algorithms for Heterogeneous Agents**|Lucia Gordon et.al.|[2408.03405](http://arxiv.org/abs/2408.03405)|**[link](https://github.com/lgordon99/heterogeneous-stochastic-bandits)**|
 |**2024-08-06**|**Social Behavior as a Key to Learning-based Multi-Agent Pathfinding Dilemmas**|Chengyang He et.al.|[2408.03063](http://arxiv.org/abs/2408.03063)|null|
 |**2024-08-06**|**Anytime Multi-Agent Path Finding with an Adaptive Delay-Based Heuristic**|Thomy Phan et.al.|[2408.02960](http://arxiv.org/abs/2408.02960)|null|
 |**2024-08-06**|**Reinforcement Learning based Workflow Scheduling in Cloud and Edge Computing Environments: A Taxonomy, Review and Future Directions**|Amanda Jayanetti et.al.|[2408.02938](http://arxiv.org/abs/2408.02938)|null|

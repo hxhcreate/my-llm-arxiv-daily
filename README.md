@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**Emergence in Multi-Agent Systems: A Safety Perspective**|Philipp Altmann et.al.|[2408.04514](http://arxiv.org/abs/2408.04514)|null|
+|**2024-08-08**|**Can LLMs Beat Humans in Debating? A Dynamic Multi-agent Framework for Competitive Debate**|Yiqun Zhang et.al.|[2408.04472](http://arxiv.org/abs/2408.04472)|**[link](https://github.com/zhangyiqun018/agent-for-debate)**|
+|**2024-08-08**|**KnowPC: Knowledge-Driven Programmatic Reinforcement Learning for Zero-shot Coordination**|Yin Gu et.al.|[2408.04336](http://arxiv.org/abs/2408.04336)|null|
+|**2024-08-08**|**Assigning Credit with Partial Reward Decoupling in Multi-Agent Proximal Policy Optimization**|Aditya Kapoor et.al.|[2408.04295](http://arxiv.org/abs/2408.04295)|null|
+|**2024-08-08**|**Cooperative Multi-Agent Deep Reinforcement Learning in Content Ranking Optimization**|Zhou Qin et.al.|[2408.04251](http://arxiv.org/abs/2408.04251)|null|
 |**2024-08-07**|**From Data to Story: Towards Automatic Animated Data Video Creation with LLM-based Multi-Agent Systems**|Leixian Shen et.al.|[2408.03876](http://arxiv.org/abs/2408.03876)|null|
 |**2024-08-07**|**Automated Code Fix Suggestions for Accessibility Issues in Mobile Apps**|Forough Mehralian et.al.|[2408.03827](http://arxiv.org/abs/2408.03827)|null|
 |**2024-08-07**|**A time-dependent symplectic network for non-convex path planning problems with linear and nonlinear dynamics**|Zhen Zhang et.al.|[2408.03785](http://arxiv.org/abs/2408.03785)|null|

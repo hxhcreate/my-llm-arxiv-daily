@@ -40,7 +40,7 @@
 |**2024-08-04**|**Environment Complexity and Nash Equilibria in a Sequential Social Dilemma**|Mustafa Yasir et.al.|[2408.02148](http://arxiv.org/abs/2408.02148)|null|
 |**2024-08-04**|**Shaping Rewards, Shaping Routes: On Multi-Agent Deep Q-Networks for Routing in Satellite Constellation Networks**|Manuel M. H. Roth et.al.|[2408.01979](http://arxiv.org/abs/2408.01979)|null|
 |**2024-08-04**|**MAO: A Framework for Process Model Generation with Multi-Agent Orchestration**|Leilei Lin et.al.|[2408.01916](http://arxiv.org/abs/2408.01916)|null|
-|**2024-08-03**|**MALADE: Orchestration of LLM-powered Agents with Retrieval Augmented Generation for Pharmacovigilance**|Jihye Choi et.al.|[2408.01869](http://arxiv.org/abs/2408.01869)|null|
+|**2024-08-03**|**MALADE: Orchestration of LLM-powered Agents with Retrieval Augmented Generation for Pharmacovigilance**|Jihye Choi et.al.|[2408.01869](http://arxiv.org/abs/2408.01869)|**[link](https://github.com/jihyechoi77/malade)**|
 |**2024-08-03**|**A Robust Compressed Push-Pull Method for Decentralized Nonconvex Optimization**|Yiwei Liao et.al.|[2408.01727](http://arxiv.org/abs/2408.01727)|null|
 |**2024-08-03**|**The Drama Machine: Simulating Character Development with LLM Agents**|Liam Magee et.al.|[2408.01725](http://arxiv.org/abs/2408.01725)|null|
 |**2024-08-02**|**PsybORG+: Cognitive Modeling for Triggering and Detection of Cognitive Biases of Advanced Persistent Threats**|Shuo Huang et.al.|[2408.01310](http://arxiv.org/abs/2408.01310)|null|
@@ -49,7 +49,7 @@
 |**2024-08-05**|**Agentic LLM Workflows for Generating Patient-Friendly Medical Reports**|Malavikha Sudarshan et.al.|[2408.01112](http://arxiv.org/abs/2408.01112)|null|
 |**2024-08-02**|**A Survey on Self-play Methods in Reinforcement Learning**|Ruize Zhang et.al.|[2408.01072](http://arxiv.org/abs/2408.01072)|null|
 |**2024-08-02**|**Learning with Linear Function Approximations in Mean-Field Control**|Erhan Bayraktar et.al.|[2408.00991](http://arxiv.org/abs/2408.00991)|null|
-|**2024-08-02**|**On the Resilience of Multi-Agent Systems with Malicious Agents**|Jen-tse Huang et.al.|[2408.00989](http://arxiv.org/abs/2408.00989)|null|
+|**2024-08-02**|**On the Resilience of Multi-Agent Systems with Malicious Agents**|Jen-tse Huang et.al.|[2408.00989](http://arxiv.org/abs/2408.00989)|**[link](https://github.com/cuhk-arise/mas-resilience)**|
 |**2024-08-01**|**A Policy-Gradient Approach to Solving Imperfect-Information Games with Iterate Convergence**|Mingyang Liu et.al.|[2408.00751](http://arxiv.org/abs/2408.00751)|null|
 |**2024-08-01**|**Jailbreaking Text-to-Image Models with LLM-Based Agents**|Yingkai Dong et.al.|[2408.00523](http://arxiv.org/abs/2408.00523)|null|
 |**2024-08-01**|**A Novel Edge Laplacian-based Approach for Adaptive Formation Control of Uncertain Multi-agent Systems with Unified Relative Error Performance**|Kun Li et.al.|[2408.00323](http://arxiv.org/abs/2408.00323)|null|
@@ -586,7 +586,7 @@
 |**2024-03-22**|**Collaborative AI Teaming in Unknown Environments via Active Goal Deduction**|Zuyuan Zhang et.al.|[2403.15341](http://arxiv.org/abs/2403.15341)|null|
 |**2024-03-22**|**Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse**|Jiawen Kang et.al.|[2403.15285](http://arxiv.org/abs/2403.15285)|null|
 |**2024-03-22**|**An Agent-Centric Perspective on Norm Enforcement and Sanctions**|Elena Yan et.al.|[2403.15128](http://arxiv.org/abs/2403.15128)|**[link](https://github.com/yan-elena/myjoghurt-case-study)**|
-|**2024-03-22**|**A Picture Is Worth a Graph: Blueprint Debate on Graph for Multimodal Reasoning**|Changmeng Zheng et.al.|[2403.14972](http://arxiv.org/abs/2403.14972)|null|
+|**2024-03-22**|**A Picture Is Worth a Graph: Blueprint Debate on Graph for Multimodal Reasoning**|Changmeng Zheng et.al.|[2403.14972](http://arxiv.org/abs/2403.14972)|**[link](https://github.com/thecharm/bdog)**|
 |**2024-03-21**|**Multi-Agent VQA: Exploring Multi-Agent Foundation Models in Zero-Shot Visual Question Answering**|Bowen Jiang et.al.|[2403.14783](http://arxiv.org/abs/2403.14783)|**[link](https://github.com/bowen-upenn/Multi-Agent-VQA)**|
 |**2024-03-21**|**Multi-agent Task-Driven Exploration via Intelligent Map Compression and Sharing**|Evangelos Psomiadis et.al.|[2403.14780](http://arxiv.org/abs/2403.14780)|null|
 |**2024-03-21**|**Co-Optimization of Environment and Policies for Decentralized Multi-Agent Navigation**|Zhan Gao et.al.|[2403.14583](http://arxiv.org/abs/2403.14583)|null|
@@ -650,7 +650,7 @@
 |**2024-03-07**|**iTRPL: An Intelligent and Trusted RPL Protocol based on Multi-Agent Reinforcement Learning**|Debasmita Dey et.al.|[2403.04416](http://arxiv.org/abs/2403.04416)|null|
 |**2024-03-07**|**Cooperative Task Execution in Multi-Agent Systems**|Karishma et.al.|[2403.04370](http://arxiv.org/abs/2403.04370)|null|
 |**2024-03-07**|**LitSim: Conflict-aware Policy for Long-term Interactive Traffic Simulation**|Haojie Xin et.al.|[2403.04299](http://arxiv.org/abs/2403.04299)|null|
-|**2024-03-08**|**Dynamics of Moral Behavior in Heterogeneous Populations of Learning Agents**|Elizaveta Tennant et.al.|[2403.04202](http://arxiv.org/abs/2403.04202)|null|
+|**2024-03-08**|**Dynamics of Moral Behavior in Heterogeneous Populations of Learning Agents**|Elizaveta Tennant et.al.|[2403.04202](http://arxiv.org/abs/2403.04202)|**[link](https://github.com/Liza-Tennant/moral_MARL)**|
 |**2024-03-06**|**Population-aware Online Mirror Descent for Mean-Field Games by Deep Reinforcement Learning**|Zida Wu et.al.|[2403.03552](http://arxiv.org/abs/2403.03552)|null|
 |**2024-03-08**|**Discrete Consensus-Based Optimization**|Junhyeok Byeon et.al.|[2403.03430](http://arxiv.org/abs/2403.03430)|null|
 |**2024-03-05**|**Collision Avoidance Verification of Multiagent Systems with Learned Policies**|Zihao Dong et.al.|[2403.03314](http://arxiv.org/abs/2403.03314)|**[link](https://github.com/neu-autonomy/rebar)**|

@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**Learning in Time-Varying Monotone Network Games with Dynamic Populations**|Feras Al Taha et.al.|[2408.06253](http://arxiv.org/abs/2408.06253)|null|
+|**2024-08-12**|**Multi-Agent Deep Reinforcement Learning Framework for Wireless MAC Protocol Design and Optimization**|Navid Keshtiarast et.al.|[2408.05884](http://arxiv.org/abs/2408.05884)|null|
+|**2024-08-11**|**DeepAir: A Multi-Agent Deep Reinforcement Learning Based Scheme for an Unknown User Location Problem**|Baris Yamansavascilar et.al.|[2408.05712](http://arxiv.org/abs/2408.05712)|null|
+|**2024-08-10**|**Multi-agent Planning using Visual Language Models**|Michele Brienza et.al.|[2408.05478](http://arxiv.org/abs/2408.05478)|null|
+|**2024-08-09**|**Expected $1.x$ -Makespan-Optimal MAPF on Grids in Low-Poly Time**|Teng Guo et.al.|[2408.05385](http://arxiv.org/abs/2408.05385)|null|
 |**2024-08-09**|**Modeling Transit in a Fully Integrated Agent-Based Framework: Methodology and Large-Scale Application**|Omer Verbas et.al.|[2408.05176](http://arxiv.org/abs/2408.05176)|null|
 |**2024-08-08**|**A Multi-Scale Cognitive Interaction Model of Instrument Operations at the Linac Coherent Light Source**|Jonathan Segal et.al.|[2408.04734](http://arxiv.org/abs/2408.04734)|null|
 |**2024-08-08**|**Emergence in Multi-Agent Systems: A Safety Perspective**|Philipp Altmann et.al.|[2408.04514](http://arxiv.org/abs/2408.04514)|null|

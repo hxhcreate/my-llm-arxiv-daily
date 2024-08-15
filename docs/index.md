@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-14**|**SigmaRL: A Sample-Efficient and Generalizable Multi-Agent Reinforcement Learning Framework for Motion Planning**|Jianye Xu et.al.|[2408.07644](http://arxiv.org/abs/2408.07644)|**[link](https://github.com/cas-lab-munich/sigmarl)**|
+|**2024-08-14**|**Development of a Multi-Agent Clinical Decision Support System for Korean Triage and Acuity Scale (KTAS)-Based Triage and Treatment Planning in Emergency Departments**|Seungjun Han et.al.|[2408.07531](http://arxiv.org/abs/2408.07531)|null|
+|**2024-08-14**|**Bridging Training and Execution via Dynamic Directed Graph-Based Communication in Cooperative Multi-Agent Systems**|Zhuohui Zhang et.al.|[2408.07397](http://arxiv.org/abs/2408.07397)|null|
+|**2024-08-14**|**Improving Global Parameter-sharing in Physically Heterogeneous Multi-agent Reinforcement Learning with Unified Action Space**|Xiaoyang Yu et.al.|[2408.07395](http://arxiv.org/abs/2408.07395)|null|
+|**2024-08-12**|**QTypeMix: Enhancing Multi-Agent Cooperative Strategies through Heterogeneous and Homogeneous Value Decomposition**|Songchen Fu et.al.|[2408.07098](http://arxiv.org/abs/2408.07098)|null|
 |**2024-08-13**|**Robust Model Predictive Control for Aircraft Intent-Aware Collision Avoidance**|Arash Bahari Kordabad et.al.|[2408.06999](http://arxiv.org/abs/2408.06999)|null|
 |**2024-08-13**|**Multi-Agent Continuous Control with Generative Flow Networks**|Shuang Luo et.al.|[2408.06920](http://arxiv.org/abs/2408.06920)|**[link](https://github.com/isluoshuang/macfn)**|
 |**2024-08-13**|**MAPPO-PIS: A Multi-Agent Proximal Policy Optimization Method with Prior Intent Sharing for CAVs' Cooperative Decision-Making**|Yicheng Guo et.al.|[2408.06656](http://arxiv.org/abs/2408.06656)|null|

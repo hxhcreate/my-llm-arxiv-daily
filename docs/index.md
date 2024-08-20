@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.19
+## Updated on 2024.08.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AGENT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-16**|**The Fellowship of the LLMs: Multi-Agent Workflows for Synthetic Preference Optimization Dataset Generation**|Samee Arif et.al.|[2408.08688](http://arxiv.org/abs/2408.08688)|null|
+|**2024-08-16**|**The Fellowship of the LLMs: Multi-Agent Workflows for Synthetic Preference Optimization Dataset Generation**|Samee Arif et.al.|[2408.08688](http://arxiv.org/abs/2408.08688)|**[link](https://github.com/ulrs0/MA-PO)**|
 |**2024-08-16**|**AgentSimulator: An Agent-based Approach for Data-driven Business Process Simulation**|Lukas Kirchdorfer et.al.|[2408.08571](http://arxiv.org/abs/2408.08571)|**[link](https://github.com/lukaskirchdorfer/agentsimulator)**|
 |**2024-08-15**|**A semi-centralized multi-agent RL framework for efficient irrigation scheduling**|Bernard T. Agyeman et.al.|[2408.08442](http://arxiv.org/abs/2408.08442)|null|
 |**2024-08-15**|**Stochastic Semi-Gradient Descent for Learning Mean Field Games with Population-Aware Function Approximation**|Chenyu Zhang et.al.|[2408.08192](http://arxiv.org/abs/2408.08192)|null|

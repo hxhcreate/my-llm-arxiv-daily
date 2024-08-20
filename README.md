@@ -17,6 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**Synthesis of Reward Machines for Multi-Agent Equilibrium Design (Full Version)**|Muhammad Najib et.al.|[2408.10074](http://arxiv.org/abs/2408.10074)|null|
+|**2024-08-19**|**MegaAgent: A Practical Framework for Autonomous Cooperation in Large-Scale LLM Agent Systems**|Qian Wang et.al.|[2408.09955](http://arxiv.org/abs/2408.09955)|null|
+|**2024-08-19**|**Mitigating the Stability-Plasticity Dilemma in Adaptive Train Scheduling with Curriculum-Driven Continual DQN Expansion**|Achref Jaziri et.al.|[2408.09838](http://arxiv.org/abs/2408.09838)|null|
+|**2024-08-19**|**GoNoGo: An Efficient LLM-based Multi-Agent System for Streamlining Automotive Software Release Decision-Making**|Arsham Gholamzadeh Khoee et.al.|[2408.09785](http://arxiv.org/abs/2408.09785)|null|
+|**2024-08-19**|**Algorithmic Contract Design with Reinforcement Learning Agents**|David Molina Concha et.al.|[2408.09686](http://arxiv.org/abs/2408.09686)|null|
+|**2024-08-19**|**Multi-Agent Reinforcement Learning for Autonomous Driving: A Survey**|Ruiqi Zhang et.al.|[2408.09675](http://arxiv.org/abs/2408.09675)|**[link](https://github.com/huawei-noah/SMARTS)**|
+|**2024-08-18**|**Prescribed-time Convergent Distributed Multiobjective Optimization with Dynamic Event-triggered Communication**|Tengyang Gong et.al.|[2408.09602](http://arxiv.org/abs/2408.09602)|null|
+|**2024-08-18**|**Beyond Local Views: Global State Inference with Diffusion Models for Cooperative Multi-Agent Reinforcement Learning**|Zhiwei Xu et.al.|[2408.09501](http://arxiv.org/abs/2408.09501)|null|
+|**2024-08-16**|**On the Completeness of Conflict-Based Search: Temporally-Relative Duplicate Pruning**|Thayne T Walker et.al.|[2408.09028](http://arxiv.org/abs/2408.09028)|null|
 |**2024-08-16**|**The Fellowship of the LLMs: Multi-Agent Workflows for Synthetic Preference Optimization Dataset Generation**|Samee Arif et.al.|[2408.08688](http://arxiv.org/abs/2408.08688)|**[link](https://github.com/ulrs0/MA-PO)**|
 |**2024-08-16**|**AgentSimulator: An Agent-based Approach for Data-driven Business Process Simulation**|Lukas Kirchdorfer et.al.|[2408.08571](http://arxiv.org/abs/2408.08571)|**[link](https://github.com/lukaskirchdorfer/agentsimulator)**|
 |**2024-08-15**|**A semi-centralized multi-agent RL framework for efficient irrigation scheduling**|Bernard T. Agyeman et.al.|[2408.08442](http://arxiv.org/abs/2408.08442)|null|

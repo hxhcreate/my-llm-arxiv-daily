@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**The Evolution of Reinforcement Learning in Quantitative Finance**|Nikolaos Pippas et.al.|[2408.10932](http://arxiv.org/abs/2408.10932)|null|
+|**2024-08-20**|**DBHP: Trajectory Imputation in Multi-Agent Sports Using Derivative-Based Hybrid Prediction**|Hanjun Choi et.al.|[2408.10878](http://arxiv.org/abs/2408.10878)|null|
+|**2024-08-20**|**Multi-agent Multi-armed Bandits with Stochastic Sharable Arm Capacities**|Hong Xie et.al.|[2408.10865](http://arxiv.org/abs/2408.10865)|null|
+|**2024-08-20**|**Multi-Agent Based Simulation for Decentralized Electric Vehicle Charging Strategies and their Impacts**|Kristoffer Christensen et.al.|[2408.10790](http://arxiv.org/abs/2408.10790)|null|
+|**2024-08-20**|**Multi-agent based modeling for investigating excess heat utilization from electrolyzer production to district heating network**|Kristoffer Christensen et.al.|[2408.10783](http://arxiv.org/abs/2408.10783)|null|
+|**2024-08-20**|**Multi-Agent Based Simulation for Investigating Centralized Charging Strategies and their Impact on Electric Vehicle Home Charging Ecosystem**|Kristoffer Christensen et.al.|[2408.10773](http://arxiv.org/abs/2408.10773)|null|
+|**2024-08-20**|**Strategist: Learning Strategic Skills by LLMs via Bi-Level Tree Search**|Jonathan Light et.al.|[2408.10635](http://arxiv.org/abs/2408.10635)|null|
+|**2024-08-20**|**Synchronization behind Learning in Periodic Zero-Sum Games Triggers Divergence from Nash equilibrium**|Yuma Fujimoto et.al.|[2408.10595](http://arxiv.org/abs/2408.10595)|null|
+|**2024-08-20**|**Hokoff: Real Game Dataset from Honor of Kings and its Offline Reinforcement Learning Benchmarks**|Yun Qu et.al.|[2408.10556](http://arxiv.org/abs/2408.10556)|**[link](https://github.com/tencent-ailab/hokoff)**|
+|**2024-08-19**|**Tax Credits and Household Behavior: The Roles of Myopic Decision-Making and Liquidity in a Simulated Economy**|Jialin Dong et.al.|[2408.10391](http://arxiv.org/abs/2408.10391)|null|
 |**2024-08-19**|**Synthesis of Reward Machines for Multi-Agent Equilibrium Design (Full Version)**|Muhammad Najib et.al.|[2408.10074](http://arxiv.org/abs/2408.10074)|null|
 |**2024-08-20**|**MegaAgent: A Practical Framework for Autonomous Cooperation in Large-Scale LLM Agent Systems**|Qian Wang et.al.|[2408.09955](http://arxiv.org/abs/2408.09955)|null|
 |**2024-08-19**|**Mitigating the Stability-Plasticity Dilemma in Adaptive Train Scheduling with Curriculum-Driven Continual DQN Expansion**|Achref Jaziri et.al.|[2408.09838](http://arxiv.org/abs/2408.09838)|null|

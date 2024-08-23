@@ -17,6 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-22**|**MuMA-ToM: Multi-modal Multi-Agent Theory of Mind**|Haojun Shi et.al.|[2408.12574](http://arxiv.org/abs/2408.12574)|null|
+|**2024-08-22**|**MEDCO: Medical Education Copilots Based on A Multi-Agent Framework**|Hao Wei et.al.|[2408.12496](http://arxiv.org/abs/2408.12496)|null|
+|**2024-08-22**|**Multi Agent Framework for Collective Intelligence Research**|Alexandru Dochian et.al.|[2408.12391](http://arxiv.org/abs/2408.12391)|null|
+|**2024-08-22**|**Recursive Distributed Collaborative Aided Inertial Navigation**|Roland Jung et.al.|[2408.12360](http://arxiv.org/abs/2408.12360)|null|
+|**2024-08-22**|**MDD-5k: A New Diagnostic Conversation Dataset for Mental Disorders Synthesized via Neuro-Symbolic LLM Agents**|Congchi Yin et.al.|[2408.12142](http://arxiv.org/abs/2408.12142)|**[link](https://github.com/lemonsis/mdd-5k)**|
+|**2024-08-22**|**Distributed Noncoherent Joint Transmission Based on Multi-Agent Reinforcement Learning for Dense Small Cell MISO Systems**|Shaozhuang Bai et.al.|[2408.12067](http://arxiv.org/abs/2408.12067)|null|
+|**2024-08-21**|**Empirical Equilibria in Agent-based Economic systems with Learning agents**|Kshama Dwarakanath et.al.|[2408.12038](http://arxiv.org/abs/2408.12038)|null|
 |**2024-08-21**|**Leveraging Chemistry Foundation Models to Facilitate Structure Focused Retrieval Augmented Generation in Multi-Agent Workflows for Catalyst and Materials Design**|Nathaniel H. Park et.al.|[2408.11793](http://arxiv.org/abs/2408.11793)|null|
 |**2024-08-21**|**DreamFactory: Pioneering Multi-Scene Long Video Generation with a Multi-Agent Framework**|Zhifei Xie et.al.|[2408.11788](http://arxiv.org/abs/2408.11788)|null|
 |**2024-08-21**|**Consensus over Clustered Networks using Intermittent and Asynchronous Output Feedback**|Federico M. Zegers et.al.|[2408.11752](http://arxiv.org/abs/2408.11752)|null|

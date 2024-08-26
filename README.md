@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-23**|**Optimally Solving Simultaneous-Move Dec-POMDPs: The Sequential Central Planning Approach**|Johan Peralez et.al.|[2408.13139](http://arxiv.org/abs/2408.13139)|null|
+|**2024-08-23**|**Diffusion-based Episodes Augmentation for Offline Multi-Agent Reinforcement Learning**|Jihwan Oh et.al.|[2408.13092](http://arxiv.org/abs/2408.13092)|null|
+|**2024-08-22**|**Can LLMs Understand Social Norms in Autonomous Driving Games?**|Boxuan Wang et.al.|[2408.12680](http://arxiv.org/abs/2408.12680)|null|
 |**2024-08-22**|**MuMA-ToM: Multi-modal Multi-Agent Theory of Mind**|Haojun Shi et.al.|[2408.12574](http://arxiv.org/abs/2408.12574)|null|
 |**2024-08-22**|**MEDCO: Medical Education Copilots Based on A Multi-Agent Framework**|Hao Wei et.al.|[2408.12496](http://arxiv.org/abs/2408.12496)|null|
 |**2024-08-22**|**Multi Agent Framework for Collective Intelligence Research**|Alexandru Dochian et.al.|[2408.12391](http://arxiv.org/abs/2408.12391)|null|

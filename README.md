@@ -77,7 +77,7 @@
 |**2024-08-09**|**Expected $1.x$ -Makespan-Optimal MAPF on Grids in Low-Poly Time**|Teng Guo et.al.|[2408.05385](http://arxiv.org/abs/2408.05385)|null|
 |**2024-08-09**|**Modeling Transit in a Fully Integrated Agent-Based Framework: Methodology and Large-Scale Application**|Omer Verbas et.al.|[2408.05176](http://arxiv.org/abs/2408.05176)|null|
 |**2024-08-08**|**A Multi-Scale Cognitive Interaction Model of Instrument Operations at the Linac Coherent Light Source**|Jonathan Segal et.al.|[2408.04734](http://arxiv.org/abs/2408.04734)|null|
-|**2024-08-08**|**Emergence in Multi-Agent Systems: A Safety Perspective**|Philipp Altmann et.al.|[2408.04514](http://arxiv.org/abs/2408.04514)|null|
+|**2024-08-08**|**Emergence in Multi-Agent Systems: A Safety Perspective**|Philipp Altmann et.al.|[2408.04514](http://arxiv.org/abs/2408.04514)|**[link](https://github.com/philippaltmann/emas)**|
 |**2024-08-08**|**Can LLMs Beat Humans in Debating? A Dynamic Multi-agent Framework for Competitive Debate**|Yiqun Zhang et.al.|[2408.04472](http://arxiv.org/abs/2408.04472)|**[link](https://github.com/zhangyiqun018/agent-for-debate)**|
 |**2024-08-08**|**KnowPC: Knowledge-Driven Programmatic Reinforcement Learning for Zero-shot Coordination**|Yin Gu et.al.|[2408.04336](http://arxiv.org/abs/2408.04336)|null|
 |**2024-08-08**|**Assigning Credit with Partial Reward Decoupling in Multi-Agent Proximal Policy Optimization**|Aditya Kapoor et.al.|[2408.04295](http://arxiv.org/abs/2408.04295)|**[link](https://github.com/uoe-agents/pressureplate)**|
@@ -116,9 +116,9 @@
 |**2024-07-31**|**CREW: Facilitating Human-AI Teaming Research**|Lingyu Zhang et.al.|[2408.00170](http://arxiv.org/abs/2408.00170)|**[link](https://github.com/generalroboticslab/CREW)**|
 |**2024-07-31**|**Artificial Intelligence Approaches for Energy Efficiency: A Review**|Alberto Pasqualetto et.al.|[2407.21726](http://arxiv.org/abs/2407.21726)|null|
 |**2024-07-31**|**MART: MultiscAle Relational Transformer Networks for Multi-agent Trajectory Prediction**|Seongju Lee et.al.|[2407.21635](http://arxiv.org/abs/2407.21635)|null|
-|**2024-07-31**|**Multi-agent reinforcement learning for the control of three-dimensional Rayleigh-Bénard convection**|Joel Vasanth et.al.|[2407.21565](http://arxiv.org/abs/2407.21565)|null|
+|**2024-07-31**|**Multi-agent reinforcement learning for the control of three-dimensional Rayleigh-Bénard convection**|Joel Vasanth et.al.|[2407.21565](http://arxiv.org/abs/2407.21565)|**[link](https://github.com/kth-flowai/drl_marl_rayleighbenard3d_control)**|
 |**2024-07-31**|**Multi-agent Assessment with QoS Enhancement for HD Map Updates in a Vehicular Network**|Jeffrey Redondo et.al.|[2407.21460](http://arxiv.org/abs/2407.21460)|null|
-|**2024-07-31**|**MetaOpenFOAM: an LLM-based multi-agent framework for CFD**|Yuxuan Chena et.al.|[2407.21320](http://arxiv.org/abs/2407.21320)|null|
+|**2024-07-31**|**MetaOpenFOAM: an LLM-based multi-agent framework for CFD**|Yuxuan Chena et.al.|[2407.21320](http://arxiv.org/abs/2407.21320)|**[link](https://github.com/terry-cyx/metaopenfoam)**|
 |**2024-08-02**|**MSMA: Multi-agent Trajectory Prediction in Connected and Autonomous Vehicle Environment with Multi-source Data Integration**|Xi Chen et.al.|[2407.21310](http://arxiv.org/abs/2407.21310)|**[link](https://github.com/xichennn/msma)**|
 |**2024-07-30**|**Amelia: A Large Model and Dataset for Airport Surface Movement Forecasting**|Ingrid Navarro et.al.|[2407.21185](http://arxiv.org/abs/2407.21185)|null|
 |**2024-07-30**|**Securing Proof of Stake Blockchains: Leveraging Multi-Agent Reinforcement Learning for Detecting and Mitigating Malicious Nodes**|Faisal Haque Bappy et.al.|[2407.20983](http://arxiv.org/abs/2407.20983)|null|
@@ -390,7 +390,7 @@
 |**2024-05-27**|**Distributed Riemannian Stochastic Gradient Tracking Algorithm on the Stiefel Manifold**|Jishu Zhao et.al.|[2405.16900](http://arxiv.org/abs/2405.16900)|null|
 |**2024-05-27**|**A Large Language Model-based multi-agent manufacturing system for intelligent shopfloor**|Zhen Zhao et.al.|[2405.16887](http://arxiv.org/abs/2405.16887)|null|
 |**2024-05-27**|**Knowing What Not to Do: Leverage Language Model Insights for Action Space Pruning in Multi-agent Reinforcement Learning**|Zhihao Liu et.al.|[2405.16854](http://arxiv.org/abs/2405.16854)|**[link](https://github.com/liuzhihao2022/espark)**|
-|**2024-05-27**|**Advancing Behavior Generation in Mobile Robotics through High-Fidelity Procedural Simulations**|Victor A. Kich et.al.|[2405.16818](http://arxiv.org/abs/2405.16818)|null|
+|**2024-05-27**|**Advancing Behavior Generation in Mobile Robotics through High-Fidelity Procedural Simulations**|Victor A. Kich et.al.|[2405.16818](http://arxiv.org/abs/2405.16818)|**[link](https://github.com/victorkich/YamaS)**|
 |**2024-05-27**|**LLM-Based Cooperative Agents using Information Relevance and Plan Validation**|SeungWon Seo et.al.|[2405.16751](http://arxiv.org/abs/2405.16751)|null|
 |**2024-05-26**|**Mimicry and the Emergence of Cooperative Communication**|Dylan Cope et.al.|[2405.16622](http://arxiv.org/abs/2405.16622)|null|
 |**2024-05-28**|**Meta-Task Planning for Language Agents**|Cong Zhang et.al.|[2405.16510](http://arxiv.org/abs/2405.16510)|null|
@@ -568,7 +568,7 @@
 |**2024-04-11**|**The turnpike property for high-dimensional interacting agent systems in discrete time**|Martin Gugat et.al.|[2404.06134](http://arxiv.org/abs/2404.06134)|null|
 |**2024-04-09**|**Multi-Agent Coverage Control with Transient Behavior Consideration**|Runyu Zhang et.al.|[2404.05995](http://arxiv.org/abs/2404.05995)|null|
 |**2024-04-08**|**Attention-Driven Multi-Agent Reinforcement Learning: Enhancing Decisions with Expertise-Informed Tasks**|Andre R Kuroswiski et.al.|[2404.05840](http://arxiv.org/abs/2404.05840)|null|
-|**2024-04-08**|**360°REA: Towards A Reusable Experience Accumulation with 360° Assessment for Multi-Agent System**|Shen Gao et.al.|[2404.05569](http://arxiv.org/abs/2404.05569)|null|
+|**2024-04-08**|**360°REA: Towards A Reusable Experience Accumulation with 360° Assessment for Multi-Agent System**|Shen Gao et.al.|[2404.05569](http://arxiv.org/abs/2404.05569)|**[link](https://github.com/LLLQAQFFF/360REA)**|
 |**2024-04-08**|**Towards Objectively Benchmarking Social Intelligence for Language Agents at Action Level**|Chenxu Wang et.al.|[2404.05337](http://arxiv.org/abs/2404.05337)|**[link](https://github.com/wcx21/Social-Tasks-in-Sandbox-Simulation)**|
 |**2024-04-08**|**ITA-ECBS: A Bounded-Suboptimal Algorithm for Combined Target-Assignment and Path-Finding Problem**|Yimin Tang et.al.|[2404.05223](http://arxiv.org/abs/2404.05223)|**[link](https://github.com/whoenig/libMultiRobotPlanning)**|
 |**2024-04-08**|**Multi-agent Long-term 3D Human Pose Forecasting via Interaction-aware Trajectory Conditioning**|Jaewoo Jeong et.al.|[2404.05218](http://arxiv.org/abs/2404.05218)|**[link](https://github.com/jaewoo97/t2p)**|
@@ -793,7 +793,7 @@
 |**2024-02-13**|**Approximate Sequential Optimization for Informative Path Planning**|Joshua Ott et.al.|[2402.08841](http://arxiv.org/abs/2402.08841)|**[link](https://github.com/sisl/InformativePathPlanning)**|
 |**2024-02-13**|**Optimal Task Assignment and Path Planning using Conflict-Based Search with Precedence and Temporal Constraints**|Yu Quan Chong et.al.|[2402.08772](http://arxiv.org/abs/2402.08772)|null|
 |**2024-02-13**|**Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast**|Xiangming Gu et.al.|[2402.08567](http://arxiv.org/abs/2402.08567)|**[link](https://github.com/sail-sg/agent-smith)**|
-|**2024-02-13**|**Fairness Auditing with Multi-Agent Collaboration**|Martijn de Vos et.al.|[2402.08522](http://arxiv.org/abs/2402.08522)|null|
+|**2024-02-13**|**Fairness Auditing with Multi-Agent Collaboration**|Martijn de Vos et.al.|[2402.08522](http://arxiv.org/abs/2402.08522)|**[link](https://github.com/sacs-epfl/fairness-audits-with-collaboration)**|
 |**2024-02-13**|**Conservative and Risk-Aware Offline Multi-Agent Reinforcement Learning for Digital Twins**|Eslam Eldeeb et.al.|[2402.08421](http://arxiv.org/abs/2402.08421)|null|
 |**2024-02-13**|**Interacting Particle Systems on Networks: joint inference of the network and the interaction kernel**|Quanjun Lang et.al.|[2402.08412](http://arxiv.org/abs/2402.08412)|null|
 |**2024-02-13**|**Simulating Human Strategic Behavior: Comparing Single and Multi-agent LLMs**|Karthik Sreedhar et.al.|[2402.08189](http://arxiv.org/abs/2402.08189)|null|

@@ -17,6 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-25**|**CoT Rerailer: Enhancing the Reliability of Large Language Models in Complex Reasoning Tasks through Error Detection and Correction**|Guangya Wan et.al.|[2408.13940](http://arxiv.org/abs/2408.13940)|null|
+|**2024-08-25**|**Demo: Generative Open xG Network Simulation with Multi-Agent LLM and ns-3 (GenOnet)**|Farhad Rezazadeh et.al.|[2408.13781](http://arxiv.org/abs/2408.13781)|null|
+|**2024-08-25**|**MASQ: Multi-Agent Reinforcement Learning for Single Quadruped Robot Locomotion**|Qi Liu et.al.|[2408.13759](http://arxiv.org/abs/2408.13759)|null|
+|**2024-08-25**|**Multi-Agent Target Assignment and Path Finding for Intelligent Warehouse: A Cooperative Multi-Agent Deep Reinforcement Learning Perspective**|Qi Liu et.al.|[2408.13750](http://arxiv.org/abs/2408.13750)|null|
+|**2024-08-24**|**Reaching New Heights in Multi-Agent Collective Construction**|Martin Rameš et.al.|[2408.13615](http://arxiv.org/abs/2408.13615)|null|
+|**2024-08-24**|**Hybrid Training for Enhanced Multi-task Generalization in Multi-agent Reinforcement Learning**|Mingliang Zhang et.al.|[2408.13567](http://arxiv.org/abs/2408.13567)|null|
+|**2024-08-24**|**Unleashing Collaborative Computing for Adaptive Video Streaming with Multi-objective Optimization in Satellite Terrestrial Networks**|Zhishu Shen et.al.|[2408.13512](http://arxiv.org/abs/2408.13512)|null|
+|**2024-08-23**|**Optimizing Collaboration of LLM based Agents for Finite Element Analysis**|Chuan Tian et.al.|[2408.13406](http://arxiv.org/abs/2408.13406)|null|
+|**2024-08-23**|**DrugAgent: Explainable Drug Repurposing Agent with Large Language Model-based Reasoning**|Yoshitaka Inoue et.al.|[2408.13378](http://arxiv.org/abs/2408.13378)|null|
 |**2024-08-23**|**Optimally Solving Simultaneous-Move Dec-POMDPs: The Sequential Central Planning Approach**|Johan Peralez et.al.|[2408.13139](http://arxiv.org/abs/2408.13139)|null|
 |**2024-08-23**|**Diffusion-based Episodes Augmentation for Offline Multi-Agent Reinforcement Learning**|Jihwan Oh et.al.|[2408.13092](http://arxiv.org/abs/2408.13092)|null|
 |**2024-08-22**|**Can LLMs Understand Social Norms in Autonomous Driving Games?**|Boxuan Wang et.al.|[2408.12680](http://arxiv.org/abs/2408.12680)|null|

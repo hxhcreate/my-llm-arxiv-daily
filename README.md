@@ -17,6 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**Exploiting Approximate Symmetry for Efficient Multi-Agent Reinforcement Learning**|Batuhan Yardim et.al.|[2408.15173](http://arxiv.org/abs/2408.15173)|null|
+|**2024-08-27**|**Applications in CityLearn Gym Environment for Multi-Objective Control Benchmarking in Grid-Interactive Buildings and Districts**|Kingsley Nweye et.al.|[2408.15170](http://arxiv.org/abs/2408.15170)|null|
+|**2024-08-27**|**AgentMonitor: A Plug-and-Play Framework for Predictive and Secure Multi-Agent Systems**|Chi-Min Chan et.al.|[2408.14972](http://arxiv.org/abs/2408.14972)|null|
+|**2024-08-27**|**Decentralized Unlabeled Multi-agent Pathfinding Via Target And Priority Swapping (With Supplementary)**|Stepan Dergachev et.al.|[2408.14948](http://arxiv.org/abs/2408.14948)|**[link](https://github.com/PathPlanning/TP-SWAP)**|
+|**2024-08-26**|**Emergent Language in Open-Ended Environments**|Cornelius Wolff et.al.|[2408.14649](http://arxiv.org/abs/2408.14649)|null|
+|**2024-08-26**|**On Centralized Critics in Multi-Agent Reinforcement Learning**|Xueguang Lyu et.al.|[2408.14597](http://arxiv.org/abs/2408.14597)|**[link](https://github.com/lyu-xg/on-centralized-critics-in-marl)**|
+|**2024-08-26**|**Multi-Agent Path Finding with Real Robot Dynamics and Interdependent Tasks for Automated Warehouses**|Vassilissa Lehoux-Lebacque et.al.|[2408.14527](http://arxiv.org/abs/2408.14527)|null|
 |**2024-08-25**|**CoT Rerailer: Enhancing the Reliability of Large Language Models in Complex Reasoning Tasks through Error Detection and Correction**|Guangya Wan et.al.|[2408.13940](http://arxiv.org/abs/2408.13940)|null|
 |**2024-08-25**|**Demo: Generative Open xG Network Simulation with Multi-Agent LLM and ns-3 (GenOnet)**|Farhad Rezazadeh et.al.|[2408.13781](http://arxiv.org/abs/2408.13781)|null|
 |**2024-08-25**|**MASQ: Multi-Agent Reinforcement Learning for Single Quadruped Robot Locomotion**|Qi Liu et.al.|[2408.13759](http://arxiv.org/abs/2408.13759)|null|

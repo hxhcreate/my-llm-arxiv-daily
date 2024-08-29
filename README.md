@@ -17,6 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**WebPilot: A Versatile and Autonomous Multi-Agent System for Web Task Execution with Strategic Exploration**|Yao Zhang et.al.|[2408.15978](http://arxiv.org/abs/2408.15978)|null|
+|**2024-08-28**|**BattleAgentBench: A Benchmark for Evaluating Cooperation and Competition Capabilities of Language Models in Multi-Agent Systems**|Wei Wang et.al.|[2408.15971](http://arxiv.org/abs/2408.15971)|null|
+|**2024-08-28**|**Persuasion Games using Large Language Models**|Ganesh Prasath Ramani et.al.|[2408.15879](http://arxiv.org/abs/2408.15879)|null|
+|**2024-08-28**|**TrafficGamer: Reliable and Flexible Traffic Simulation for Safety-Critical Scenarios with Game-Theoretic Oracles**|Guanren Qiao et.al.|[2408.15538](http://arxiv.org/abs/2408.15538)|**[link](https://github.com/qiaoguanren/TrafficGamer)**|
+|**2024-08-27**|**Graph Attention Inference of Network Topology in Multi-Agent Systems**|Akshay Kolli et.al.|[2408.15449](http://arxiv.org/abs/2408.15449)|null|
+|**2024-08-27**|**Fast and Modular Autonomy Software for Autonomous Racing Vehicles**|Andrew Saba et.al.|[2408.15425](http://arxiv.org/abs/2408.15425)|null|
+|**2024-08-27**|**On Stateful Value Factorization in Multi-Agent Reinforcement Learning**|Enrico Marchesini et.al.|[2408.15381](http://arxiv.org/abs/2408.15381)|null|
+|**2024-08-27**|**A Multi-Agent Reinforcement Learning Scheme for SFC Placement in Edge Computing Networks**|Congzhou Li et.al.|[2408.15337](http://arxiv.org/abs/2408.15337)|null|
 |**2024-08-27**|**Exploiting Approximate Symmetry for Efficient Multi-Agent Reinforcement Learning**|Batuhan Yardim et.al.|[2408.15173](http://arxiv.org/abs/2408.15173)|null|
 |**2024-08-27**|**Applications in CityLearn Gym Environment for Multi-Objective Control Benchmarking in Grid-Interactive Buildings and Districts**|Kingsley Nweye et.al.|[2408.15170](http://arxiv.org/abs/2408.15170)|null|
 |**2024-08-27**|**AgentMonitor: A Plug-and-Play Framework for Predictive and Secure Multi-Agent Systems**|Chi-Min Chan et.al.|[2408.14972](http://arxiv.org/abs/2408.14972)|null|

@@ -28,7 +28,7 @@ layout: default
 |**2024-08-27**|**A Multi-Agent Reinforcement Learning Scheme for SFC Placement in Edge Computing Networks**|Congzhou Li et.al.|[2408.15337](http://arxiv.org/abs/2408.15337)|null|
 |**2024-08-27**|**Exploiting Approximate Symmetry for Efficient Multi-Agent Reinforcement Learning**|Batuhan Yardim et.al.|[2408.15173](http://arxiv.org/abs/2408.15173)|null|
 |**2024-08-27**|**Applications in CityLearn Gym Environment for Multi-Objective Control Benchmarking in Grid-Interactive Buildings and Districts**|Kingsley Nweye et.al.|[2408.15170](http://arxiv.org/abs/2408.15170)|null|
-|**2024-08-27**|**AgentMonitor: A Plug-and-Play Framework for Predictive and Secure Multi-Agent Systems**|Chi-Min Chan et.al.|[2408.14972](http://arxiv.org/abs/2408.14972)|null|
+|**2024-08-27**|**AgentMonitor: A Plug-and-Play Framework for Predictive and Secure Multi-Agent Systems**|Chi-Min Chan et.al.|[2408.14972](http://arxiv.org/abs/2408.14972)|**[link](https://github.com/chanchimin/agentmonitor)**|
 |**2024-08-27**|**Decentralized Unlabeled Multi-agent Pathfinding Via Target And Priority Swapping (With Supplementary)**|Stepan Dergachev et.al.|[2408.14948](http://arxiv.org/abs/2408.14948)|**[link](https://github.com/PathPlanning/TP-SWAP)**|
 |**2024-08-26**|**Emergent Language in Open-Ended Environments**|Cornelius Wolff et.al.|[2408.14649](http://arxiv.org/abs/2408.14649)|null|
 |**2024-08-26**|**On Centralized Critics in Multi-Agent Reinforcement Learning**|Xueguang Lyu et.al.|[2408.14597](http://arxiv.org/abs/2408.14597)|**[link](https://github.com/lyu-xg/on-centralized-critics-in-marl)**|
@@ -45,10 +45,10 @@ layout: default
 |**2024-08-23**|**Optimally Solving Simultaneous-Move Dec-POMDPs: The Sequential Central Planning Approach**|Johan Peralez et.al.|[2408.13139](http://arxiv.org/abs/2408.13139)|null|
 |**2024-08-23**|**Diffusion-based Episodes Augmentation for Offline Multi-Agent Reinforcement Learning**|Jihwan Oh et.al.|[2408.13092](http://arxiv.org/abs/2408.13092)|null|
 |**2024-08-22**|**Can LLMs Understand Social Norms in Autonomous Driving Games?**|Boxuan Wang et.al.|[2408.12680](http://arxiv.org/abs/2408.12680)|null|
-|**2024-08-25**|**MuMA-ToM: Multi-modal Multi-Agent Theory of Mind**|Haojun Shi et.al.|[2408.12574](http://arxiv.org/abs/2408.12574)|null|
+|**2024-08-25**|**MuMA-ToM: Multi-modal Multi-Agent Theory of Mind**|Haojun Shi et.al.|[2408.12574](http://arxiv.org/abs/2408.12574)|**[link](https://github.com/scai-jhu/muma-tom)**|
 |**2024-08-22**|**MEDCO: Medical Education Copilots Based on A Multi-Agent Framework**|Hao Wei et.al.|[2408.12496](http://arxiv.org/abs/2408.12496)|null|
-|**2024-08-22**|**Multi Agent Framework for Collective Intelligence Research**|Alexandru Dochian et.al.|[2408.12391](http://arxiv.org/abs/2408.12391)|null|
-|**2024-08-22**|**Recursive Distributed Collaborative Aided Inertial Navigation**|Roland Jung et.al.|[2408.12360](http://arxiv.org/abs/2408.12360)|null|
+|**2024-08-22**|**Multi Agent Framework for Collective Intelligence Research**|Alexandru Dochian et.al.|[2408.12391](http://arxiv.org/abs/2408.12391)|**[link](https://github.com/alexandru-dochian/multi_agent_framework)**|
+|**2024-08-22**|**Recursive Distributed Collaborative Aided Inertial Navigation**|Roland Jung et.al.|[2408.12360](http://arxiv.org/abs/2408.12360)|**[link](https://github.com/aau-cns/ikf_lib)**|
 |**2024-08-22**|**MDD-5k: A New Diagnostic Conversation Dataset for Mental Disorders Synthesized via Neuro-Symbolic LLM Agents**|Congchi Yin et.al.|[2408.12142](http://arxiv.org/abs/2408.12142)|**[link](https://github.com/lemonsis/mdd-5k)**|
 |**2024-08-22**|**Distributed Noncoherent Joint Transmission Based on Multi-Agent Reinforcement Learning for Dense Small Cell MISO Systems**|Shaozhuang Bai et.al.|[2408.12067](http://arxiv.org/abs/2408.12067)|null|
 |**2024-08-21**|**Empirical Equilibria in Agent-based Economic systems with Learning agents**|Kshama Dwarakanath et.al.|[2408.12038](http://arxiv.org/abs/2408.12038)|null|
@@ -59,7 +59,7 @@ layout: default
 |**2024-08-21**|**Less is more: AI Decision-Making using Dynamic Deep Neural Networks for Short-Term Stock Index Prediction**|CJ Finnegan et.al.|[2408.11740](http://arxiv.org/abs/2408.11740)|null|
 |**2024-08-21**|**Optimizing QoS in HD Map Updates: Cross-Layer Multi-Agent with Hierarchical and Independent Learning**|Jeffrey Redondo et.al.|[2408.11605](http://arxiv.org/abs/2408.11605)|null|
 |**2024-08-21**|**Drama Engine: A Framework for Narrative Agents**|Martin Pichlmair et.al.|[2408.11574](http://arxiv.org/abs/2408.11574)|null|
-|**2024-08-21**|**Subgoal-based Hierarchical Reinforcement Learning for Multi-Agent Collaboration**|Cheng Xu et.al.|[2408.11416](http://arxiv.org/abs/2408.11416)|null|
+|**2024-08-21**|**Subgoal-based Hierarchical Reinforcement Learning for Multi-Agent Collaboration**|Cheng Xu et.al.|[2408.11416](http://arxiv.org/abs/2408.11416)|**[link](https://github.com/sicc-group/gmah)**|
 |**2024-08-21**|**Swarm Intelligence in Geo-Localization: A Multi-Agent Large Vision-Language Model Collaborative Framework**|Xiao Han et.al.|[2408.11312](http://arxiv.org/abs/2408.11312)|null|
 |**2024-08-20**|**CooPre: Cooperative Pretraining for V2X Cooperative Perception**|Seth Z. Zhao et.al.|[2408.11241](http://arxiv.org/abs/2408.11241)|null|
 |**2024-08-20**|**The Evolution of Reinforcement Learning in Quantitative Finance**|Nikolaos Pippas et.al.|[2408.10932](http://arxiv.org/abs/2408.10932)|null|
@@ -453,7 +453,7 @@ layout: default
 |**2024-05-17**|**Pragmatic Communication for Remote Control of Finite-State Markov Processes**|Pietro Talli et.al.|[2405.10672](http://arxiv.org/abs/2405.10672)|null|
 |**2024-05-17**|**Guidelines for evaluation of complex multi agent test scenarios**|Ana Isabel Garcia Guerra et.al.|[2405.10526](http://arxiv.org/abs/2405.10526)|null|
 |**2024-05-17**|**Rethinking ChatGPT's Success: Usability and Cognitive Behaviors Enabled by Auto-regressive LLMs' Prompting**|Xinzhe Li et.al.|[2405.10474](http://arxiv.org/abs/2405.10474)|null|
-|**2024-05-16**|**DEBATE: Devil's Advocate-Based Assessment and Text Evaluation**|Alex Kim et.al.|[2405.09935](http://arxiv.org/abs/2405.09935)|null|
+|**2024-05-16**|**DEBATE: Devil's Advocate-Based Assessment and Text Evaluation**|Alex Kim et.al.|[2405.09935](http://arxiv.org/abs/2405.09935)|**[link](https://github.com/gunny97/DEBATE)**|
 |**2024-05-14**|**A Distributed Approach to Autonomous Intersection Management via Multi-Agent Reinforcement Learning**|Matteo Cederle et.al.|[2405.08655](http://arxiv.org/abs/2405.08655)|**[link](https://github.com/mcederle99/MAD4QN-PS)**|
 |**2024-05-14**|**Learning Multi-Agent Communication from Graph Modeling Perspective**|Shengchao Hu et.al.|[2405.08550](http://arxiv.org/abs/2405.08550)|**[link](https://github.com/charleshsc/CommFormer)**|
 |**2024-05-14**|**Safety Constrained Multi-Agent Reinforcement Learning for Active Voltage Control**|Yang Qu et.al.|[2405.08443](http://arxiv.org/abs/2405.08443)|null|

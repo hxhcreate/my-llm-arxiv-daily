@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-30**|**All You Need is Group Actions: Advancing Robust Autonomous Planning**|Vincenzo Basco et.al.|[2408.17295](http://arxiv.org/abs/2408.17295)|null|
+|**2024-08-29**|**Learning Multi-agent Multi-machine Tending by Mobile Robots**|Abdalwhab Abdalwhab et.al.|[2408.16875](http://arxiv.org/abs/2408.16875)|null|
 |**2024-08-29**|**3D Topological Modeling and Multi-Agent Movement Simulation for Viral Infection Risk Analysis**|Wassim Jabi et.al.|[2408.16417](http://arxiv.org/abs/2408.16417)|null|
 |**2024-08-29**|**Efficient Multi-agent Navigation with Lightweight DRL Policy**|Xingrong Diao et.al.|[2408.16370](http://arxiv.org/abs/2408.16370)|null|
 |**2024-08-29**|**Guided Reasoning: A Non-Technical Introduction**|Gregor Betz et.al.|[2408.16331](http://arxiv.org/abs/2408.16331)|**[link](https://github.com/logikon-ai/logikon)**|

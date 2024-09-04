@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.03
+## Updated on 2024.09.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AGENT
@@ -22,7 +22,7 @@ layout: default
 |**2024-08-29**|**Action potential dynamics on heterogenous neural networks: from kinetic to macroscopic equations**|Marzia Bisi et.al.|[2408.16214](http://arxiv.org/abs/2408.16214)|null|
 |**2024-08-28**|**WebPilot: A Versatile and Autonomous Multi-Agent System for Web Task Execution with Strategic Exploration**|Yao Zhang et.al.|[2408.15978](http://arxiv.org/abs/2408.15978)|null|
 |**2024-08-28**|**BattleAgentBench: A Benchmark for Evaluating Cooperation and Competition Capabilities of Language Models in Multi-Agent Systems**|Wei Wang et.al.|[2408.15971](http://arxiv.org/abs/2408.15971)|null|
-|**2024-08-28**|**Persuasion Games using Large Language Models**|Ganesh Prasath Ramani et.al.|[2408.15879](http://arxiv.org/abs/2408.15879)|null|
+|**2024-09-02**|**Persuasion Games using Large Language Models**|Ganesh Prasath Ramani et.al.|[2408.15879](http://arxiv.org/abs/2408.15879)|null|
 |**2024-08-28**|**TrafficGamer: Reliable and Flexible Traffic Simulation for Safety-Critical Scenarios with Game-Theoretic Oracles**|Guanren Qiao et.al.|[2408.15538](http://arxiv.org/abs/2408.15538)|**[link](https://github.com/qiaoguanren/TrafficGamer)**|
 |**2024-08-27**|**Graph Attention Inference of Network Topology in Multi-Agent Systems**|Akshay Kolli et.al.|[2408.15449](http://arxiv.org/abs/2408.15449)|null|
 |**2024-08-27**|**Fast and Modular Autonomy Software for Autonomous Racing Vehicles**|Andrew Saba et.al.|[2408.15425](http://arxiv.org/abs/2408.15425)|null|

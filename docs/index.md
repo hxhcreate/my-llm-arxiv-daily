@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**Using Large Language Models to Generate Authentic Multi-agent Knowledge Work Datasets**|Desiree Heim et.al.|[2409.04286](http://arxiv.org/abs/2409.04286)|null|
+|**2024-09-06**|**Advancing Multi-Organ Disease Care: A Hierarchical Multi-Agent Reinforcement Learning Framework**|Daniel J. Tan et.al.|[2409.04224](http://arxiv.org/abs/2409.04224)|null|
+|**2024-09-06**|**Tighter Analysis for Decentralized Stochastic Gradient Method: Impact of Data Homogeneity**|Qiang Li et.al.|[2409.04092](http://arxiv.org/abs/2409.04092)|null|
+|**2024-09-05**|**DRAL: Deep Reinforcement Adaptive Learning for Multi-UAVs Navigation in Unknown Indoor Environment**|Kangtong Mo et.al.|[2409.03930](http://arxiv.org/abs/2409.03930)|null|
+|**2024-09-05**|**On the Convergence Rates of Federated Q-Learning across Heterogeneous Environments**|Muxing Wang et.al.|[2409.03897](http://arxiv.org/abs/2409.03897)|null|
+|**2024-09-05**|**Multi-agent Path Finding for Mixed Autonomy Traffic Coordination**|Han Zheng et.al.|[2409.03881](http://arxiv.org/abs/2409.03881)|null|
+|**2024-09-05**|**PARCO: Learning Parallel Autoregressive Policies for Efficient Multi-Agent Combinatorial Optimization**|Federico Berto et.al.|[2409.03811](http://arxiv.org/abs/2409.03811)|null|
 |**2024-09-06**|**LLM-based multi-agent poetry generation in non-cooperative environments**|Ran Zhang et.al.|[2409.03659](http://arxiv.org/abs/2409.03659)|**[link](https://github.com/zhangr2021/Multiagent_poetry)**|
 |**2024-09-05**|**From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents**|Jifan Yu et.al.|[2409.03512](http://arxiv.org/abs/2409.03512)|null|
 |**2024-09-05**|**Predefined-time distributed non-convex optimization via a time-base generator**|Qinlong Lin et.al.|[2409.03188](http://arxiv.org/abs/2409.03188)|null|

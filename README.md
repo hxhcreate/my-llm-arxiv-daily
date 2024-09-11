@@ -17,6 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**Fixed-budget and Multiple-issue Quadratic Voting**|Laura Georgescu et.al.|[2409.06614](http://arxiv.org/abs/2409.06614)|null|
+|**2024-09-10**|**Think-on-Process: Dynamic Process Generation for Collaborative Development of Multi-Agent System**|Leilei Lin et.al.|[2409.06568](http://arxiv.org/abs/2409.06568)|null|
+|**2024-09-10**|**Coordinated Motion Planning: Multi-Agent Path Finding in a Densely Packed, Bounded Domain**|Sándor P. Fekete et.al.|[2409.06486](http://arxiv.org/abs/2409.06486)|null|
+|**2024-09-10**|**Exploring the Integration of Large Language Models in Industrial Test Maintenance Processes**|Ludvig Lemner et.al.|[2409.06416](http://arxiv.org/abs/2409.06416)|null|
+|**2024-09-10**|**MAGDA: Multi-agent guideline-driven diagnostic assistance**|David Bani-Harouni et.al.|[2409.06351](http://arxiv.org/abs/2409.06351)|null|
+|**2024-09-10**|**Foragax: An Agent Based Modelling framework based on JAX**|Siddharth Chaturvedi et.al.|[2409.06345](http://arxiv.org/abs/2409.06345)|null|
+|**2024-09-10**|**Towards Agentic AI on Particle Accelerators**|Antonin Sulc et.al.|[2409.06336](http://arxiv.org/abs/2409.06336)|null|
+|**2024-09-10**|**Automate Strategy Finding with LLM in Quant investment**|Zhizhuo Kou et.al.|[2409.06289](http://arxiv.org/abs/2409.06289)|null|
+|**2024-09-09**|**When Learning Meets Dynamics: Distributed User Connectivity Maximization in UAV-Based Communication Networks**|Bowei Li et.al.|[2409.06010](http://arxiv.org/abs/2409.06010)|null|
 |**2024-09-09**|**Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors**|Jiaqi Liu et.al.|[2409.05712](http://arxiv.org/abs/2409.05712)|null|
 |**2024-09-09**|**SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning**|Alireza Ghafarollahi et.al.|[2409.05556](http://arxiv.org/abs/2409.05556)|null|
 |**2024-09-09**|**Adaptive Multi-Layer Deployment for A Digital Twin Empowered Satellite-Terrestrial Integrated Network**|Yihong Tao et.al.|[2409.05480](http://arxiv.org/abs/2409.05480)|null|

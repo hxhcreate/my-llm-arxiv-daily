@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**"My Grade is Wrong!": A Contestable AI Framework for Interactive Feedback in Evaluating Student Essays**|Shengxin Hong et.al.|[2409.07453](http://arxiv.org/abs/2409.07453)|null|
+|**2024-09-11**|**Explanation, Debate, Align: A Weak-to-Strong Framework for Language Model Generalization**|Mehrdad Zakershahrak et.al.|[2409.07335](http://arxiv.org/abs/2409.07335)|null|
+|**2024-09-11**|**Propaganda to Hate: A Multimodal Analysis of Arabic Memes with Multi-Agent LLMs**|Firoj Alam et.al.|[2409.07246](http://arxiv.org/abs/2409.07246)|null|
+|**2024-09-11**|**DCMAC: Demand-aware Customized Multi-Agent Communication via Upper Bound Training**|Dongkun Huo et.al.|[2409.07127](http://arxiv.org/abs/2409.07127)|null|
+|**2024-09-10**|**A Quality Diversity Approach to Automatically Generate Multi-Agent Path Finding Benchmark Maps**|Cheng Qian et.al.|[2409.06888](http://arxiv.org/abs/2409.06888)|null|
+|**2024-09-10**|**Can Agents Spontaneously Form a Society? Introducing a Novel Architecture for Generative Multi-Agents to Elicit Social Emergence**|H. Zhang et.al.|[2409.06750](http://arxiv.org/abs/2409.06750)|null|
 |**2024-09-10**|**Fixed-budget and Multiple-issue Quadratic Voting**|Laura Georgescu et.al.|[2409.06614](http://arxiv.org/abs/2409.06614)|null|
 |**2024-09-10**|**Think-on-Process: Dynamic Process Generation for Collaborative Development of Multi-Agent System**|Leilei Lin et.al.|[2409.06568](http://arxiv.org/abs/2409.06568)|null|
 |**2024-09-10**|**Coordinated Motion Planning: Multi-Agent Path Finding in a Densely Packed, Bounded Domain**|Sándor P. Fekete et.al.|[2409.06486](http://arxiv.org/abs/2409.06486)|null|

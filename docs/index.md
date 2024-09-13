@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**Covariance Intersection-based Invariant Kalman Filtering(DInCIKF) for Distributed Pose Estimation**|Haoying Li et.al.|[2409.07933](http://arxiv.org/abs/2409.07933)|null|
+|**2024-09-12**|**Reinforcement Learning Discovers Efficient Decentralized Graph Path Search Strategies**|Alexei Pisacane et.al.|[2409.07932](http://arxiv.org/abs/2409.07932)|null|
+|**2024-09-12**|**Tera-SpaceCom: GNN-based Deep Reinforcement Learning for Joint Resource Allocation and Task Offloading in TeraHertz Band Space Networks**|Zhifeng Hu et.al.|[2409.07911](http://arxiv.org/abs/2409.07911)|null|
+|**2024-09-12**|**Mapping Technical Safety Research at AI Companies: A literature review and incentives analysis**|Oscar Delaney et.al.|[2409.07878](http://arxiv.org/abs/2409.07878)|null|
+|**2024-09-12**|**A Spatiotemporal Stealthy Backdoor Attack against Cooperative Multi-Agent Deep Reinforcement Learning**|Yinbo Yu et.al.|[2409.07775](http://arxiv.org/abs/2409.07775)|null|
+|**2024-09-12**|**Accelerated Multi-Time-Scale Stochastic Approximation: Optimal Complexity and Applications in Reinforcement Learning and Multi-Agent Games**|Sihan Zeng et.al.|[2409.07767](http://arxiv.org/abs/2409.07767)|null|
+|**2024-09-12**|**CollaMamba: Efficient Collaborative Perception with Cross-Agent Spatial-Temporal State Space Model**|Yang Li et.al.|[2409.07714](http://arxiv.org/abs/2409.07714)|null|
 |**2024-09-11**|**"My Grade is Wrong!": A Contestable AI Framework for Interactive Feedback in Evaluating Student Essays**|Shengxin Hong et.al.|[2409.07453](http://arxiv.org/abs/2409.07453)|null|
 |**2024-09-11**|**Explanation, Debate, Align: A Weak-to-Strong Framework for Language Model Generalization**|Mehrdad Zakershahrak et.al.|[2409.07335](http://arxiv.org/abs/2409.07335)|null|
 |**2024-09-11**|**Propaganda to Hate: A Multimodal Analysis of Arabic Memes with Multi-Agent LLMs**|Firoj Alam et.al.|[2409.07246](http://arxiv.org/abs/2409.07246)|null|

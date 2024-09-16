@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**HOLA-Drone: Hypergraphic Open-ended Learning for Zero-Shot Multi-Drone Cooperative Pursuit**|Yang Li et.al.|[2409.08767](http://arxiv.org/abs/2409.08767)|null|
+|**2024-09-13**|**Average Consensus over Directed Networks in Open Multi-Agent Systems with Acknowledgement Feedback**|Evagoras Makridis et.al.|[2409.08634](http://arxiv.org/abs/2409.08634)|null|
+|**2024-09-12**|**Knowledge Tagging with Large Language Model based Multi-Agent System**|Hang Li et.al.|[2409.08406](http://arxiv.org/abs/2409.08406)|null|
 |**2024-09-12**|**Covariance Intersection-based Invariant Kalman Filtering(DInCIKF) for Distributed Pose Estimation**|Haoying Li et.al.|[2409.07933](http://arxiv.org/abs/2409.07933)|null|
 |**2024-09-12**|**Reinforcement Learning Discovers Efficient Decentralized Graph Path Search Strategies**|Alexei Pisacane et.al.|[2409.07932](http://arxiv.org/abs/2409.07932)|null|
 |**2024-09-12**|**Tera-SpaceCom: GNN-based Deep Reinforcement Learning for Joint Resource Allocation and Task Offloading in TeraHertz Band Space Networks**|Zhifeng Hu et.al.|[2409.07911](http://arxiv.org/abs/2409.07911)|null|

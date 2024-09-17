@@ -17,6 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**Decentralized and Asymmetric Multi-Agent Learning in Construction Sites**|Yakov Miron et.al.|[2409.10375](http://arxiv.org/abs/2409.10375)|null|
+|**2024-09-16**|**Multi-Agent Obstacle Avoidance using Velocity Obstacles and Control Barrier Functions**|Alejandro Sánchez Roncero et.al.|[2409.10117](http://arxiv.org/abs/2409.10117)|null|
+|**2024-09-16**|**A Social Force Model for Multi-Agent Systems With Application to Robots Traversal in Cluttered Environments**|Chenxi Li et.al.|[2409.10049](http://arxiv.org/abs/2409.10049)|null|
+|**2024-09-16**|**Bearing-Distance Based Flocking with Zone-Based Interactions**|Hossein B. Jond et.al.|[2409.10047](http://arxiv.org/abs/2409.10047)|null|
+|**2024-09-15**|**Decentralized Safe and Scalable Multi-Agent Control under Limited Actuation**|Vrushabh Zinage et.al.|[2409.09573](http://arxiv.org/abs/2409.09573)|null|
+|**2024-09-14**|**Learning Nudges for Conditional Cooperation: A Multi-Agent Reinforcement Learning Model**|Shatayu Kulkarni et.al.|[2409.09509](http://arxiv.org/abs/2409.09509)|null|
+|**2024-09-14**|**Learning Keypoints for Multi-Agent Behavior Analysis using Self-Supervision**|Daniel Khalil et.al.|[2409.09455](http://arxiv.org/abs/2409.09455)|null|
+|**2024-09-14**|**Capability Augmentation for Heterogeneous Dynamic Teaming with Temporal Logic Tasks**|Carter Berlind et.al.|[2409.09285](http://arxiv.org/abs/2409.09285)|null|
+|**2024-09-13**|**Measure Preserving Flows for Ergodic Search in Convoluted Environments**|Albert Xu et.al.|[2409.09164](http://arxiv.org/abs/2409.09164)|null|
 |**2024-09-13**|**HOLA-Drone: Hypergraphic Open-ended Learning for Zero-Shot Multi-Drone Cooperative Pursuit**|Yang Li et.al.|[2409.08767](http://arxiv.org/abs/2409.08767)|null|
 |**2024-09-13**|**Average Consensus over Directed Networks in Open Multi-Agent Systems with Acknowledgement Feedback**|Evagoras Makridis et.al.|[2409.08634](http://arxiv.org/abs/2409.08634)|null|
 |**2024-09-12**|**Knowledge Tagging with Large Language Model based Multi-Agent System**|Hang Li et.al.|[2409.08406](http://arxiv.org/abs/2409.08406)|null|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.24
+## Updated on 2024.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2024-09-17**|**Hyper-SAMARL: Hypergraph-based Coordinated Task Allocation and Socially-aware Navigation for Multi-Robot Systems**|Weizheng Wang et.al.|[2409.11561](http://arxiv.org/abs/2409.11561)|null|
 |**2024-09-17**|**Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent**|Fatemeh Haji et.al.|[2409.11527](http://arxiv.org/abs/2409.11527)|null|
 |**2024-09-19**|**The Art of Storytelling: Multi-Agent Generative AI for Dynamic Multimodal Narratives**|Samee Arif et.al.|[2409.11261](http://arxiv.org/abs/2409.11261)|**[link](https://github.com/ulrs0/The-Art-of-Story-Telling)**|
-|**2024-09-17**|**Reactive Environments for Active Inference Agents with RxEnvironments.jl**|Wouter W. L. Nuijten et.al.|[2409.11087](http://arxiv.org/abs/2409.11087)|**[link](https://github.com/biaslab/RxEnvironments.jl)**|
+|**2024-09-17**|**Reactive Environments for Active Inference Agents with RxEnvironments.jl**|Wouter W. L. Nuijten et.al.|[2409.11087](http://arxiv.org/abs/2409.11087)|**[link](https://github.com/wouterwln/rxenvironments-examples)**|
 |**2024-09-17**|**Distributed Optimization for Traffic Light Control and Connected Automated Vehicle Coordination in Mixed-Traffic Intersections**|Viet-Anh Le et.al.|[2409.10864](http://arxiv.org/abs/2409.10864)|null|
 |**2024-09-16**|**AutoSafeCoder: A Multi-Agent Framework for Securing LLM Code Generation through Static Analysis and Fuzz Testing**|Ana Nunez et.al.|[2409.10737](http://arxiv.org/abs/2409.10737)|null|
 |**2024-09-16**|**Multi-agent Path Finding in Continuous Environment**|Kristýna Janovská et.al.|[2409.10680](http://arxiv.org/abs/2409.10680)|null|
@@ -1074,7 +1074,7 @@
 |**2023-12-30**|**Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning**|Xin Yu et.al.|[2401.00167](http://arxiv.org/abs/2401.00167)|null|
 |**2023-12-30**|**Contrastive learning-based agent modeling for deep reinforcement learning**|Wenhao Ma et.al.|[2401.00132](http://arxiv.org/abs/2401.00132)|null|
 
-<p align=right>(<a href=#updated-on-20240924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

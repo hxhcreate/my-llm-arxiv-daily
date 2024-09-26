@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**Communication Backbone Reconfiguration with Connectivity Maintenance**|Leonardo Santos et.al.|[2409.16851](http://arxiv.org/abs/2409.16851)|null|
+|**2024-09-25**|**Asynchronous Fractional Multi-Agent Deep Reinforcement Learning for Age-Minimal Mobile Edge Computing**|Lyudong Jin et.al.|[2409.16832](http://arxiv.org/abs/2409.16832)|null|
+|**2024-09-25**|**Dashing for the Golden Snitch: Multi-Drone Time-Optimal Motion Planning with Multi-Agent Reinforcement Learning**|Xian Wang et.al.|[2409.16720](http://arxiv.org/abs/2409.16720)|null|
+|**2024-09-24**|**MBC: Multi-Brain Collaborative Control for Quadruped Robots**|Hang Liu et.al.|[2409.16460](http://arxiv.org/abs/2409.16460)|null|
+|**2024-09-24**|**A Multi-Agent Multi-Environment Mixed Q-Learning for Partially Decentralized Wireless Network Optimization**|Talha Bozkus et.al.|[2409.16450](http://arxiv.org/abs/2409.16450)|null|
+|**2024-09-25**|**Multi-UAV Pursuit-Evasion with Online Planning in Unknown Environments by Deep Reinforcement Learning**|Jiayu Chen et.al.|[2409.15866](http://arxiv.org/abs/2409.15866)|null|
+|**2024-09-24**|**A Robust, Task-Agnostic and Fully-Scalable Voxel Mapping System for Large Scale Environments**|Jinche La et.al.|[2409.15779](http://arxiv.org/abs/2409.15779)|null|
+|**2024-09-24**|**Linear Contextual Bandits with Interference**|Yang Xu et.al.|[2409.15682](http://arxiv.org/abs/2409.15682)|null|
+|**2024-09-23**|**Revolutionizing Biomarker Discovery: Leveraging Generative AI for Bio-Knowledge-Embedded Continuous Space Exploration**|Wangyang Ying et.al.|[2409.15612](http://arxiv.org/abs/2409.15612)|null|
+|**2024-09-23**|**SymAware: A Software Development Framework for Trustworthy Multi-Agent Systems with Situational Awareness**|Ernesto Casablanca et.al.|[2409.14833](http://arxiv.org/abs/2409.14833)|null|
 |**2024-09-18**|**Residual Descent Differential Dynamic Game (RD3G) -- A Fast Newton Solver for Constrained General Sum Games**|Zhiyuan Zhang et.al.|[2409.12152](http://arxiv.org/abs/2409.12152)|null|
 |**2024-09-18**|**MAgICoRe: Multi-Agent, Iterative, Coarse-to-Fine Refinement for Reasoning**|Justin Chih-Yao Chen et.al.|[2409.12147](http://arxiv.org/abs/2409.12147)|**[link](https://github.com/dinobby/magicore)**|
 |**2024-09-18**|**Putting Data at the Centre of Offline Multi-Agent Reinforcement Learning**|Claude Formanek et.al.|[2409.12001](http://arxiv.org/abs/2409.12001)|null|

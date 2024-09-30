@@ -89,7 +89,7 @@
 |**2024-09-08**|**Decentralized Control of Multi-Agent Systems Under Acyclic Spatio-Temporal Task Dependencies**|Gregorio Marchesini et.al.|[2409.05106](http://arxiv.org/abs/2409.05106)|null|
 |**2024-09-08**|**Towards Multi-agent Policy-based Directed Hypergraph Learning for Traffic Signal Control**|Kang Wang et.al.|[2409.05037](http://arxiv.org/abs/2409.05037)|null|
 |**2024-09-08**|**Cooperative Learning-Based Framework for VNF Caching and Placement Optimization over Low Earth Orbit Satellite Networks**|Khai Doan et.al.|[2409.05025](http://arxiv.org/abs/2409.05025)|null|
-|**2024-09-07**|**Adaptation Procedure in Misinformation Games**|Konstantinos Varsos et.al.|[2409.04854](http://arxiv.org/abs/2409.04854)|null|
+|**2024-09-07**|**Adaptation Procedure in Misinformation Games**|Konstantinos Varsos et.al.|[2409.04854](http://arxiv.org/abs/2409.04854)|**[link](https://github.com/merkouris148/adaptation-procedure-misinformation-games)**|
 |**2024-09-06**|**Using Large Language Models to Generate Authentic Multi-agent Knowledge Work Datasets**|Desiree Heim et.al.|[2409.04286](http://arxiv.org/abs/2409.04286)|null|
 |**2024-09-06**|**Advancing Multi-Organ Disease Care: A Hierarchical Multi-Agent Reinforcement Learning Framework**|Daniel J. Tan et.al.|[2409.04224](http://arxiv.org/abs/2409.04224)|null|
 |**2024-09-06**|**Tighter Analysis for Decentralized Stochastic Gradient Method: Impact of Data Homogeneity**|Qiang Li et.al.|[2409.04092](http://arxiv.org/abs/2409.04092)|null|
@@ -187,7 +187,7 @@
 |**2024-08-15**|**Independent Policy Mirror Descent for Markov Potential Games: Scaling to Large Number of Players**|Pragnya Alatur et.al.|[2408.08075](http://arxiv.org/abs/2408.08075)|null|
 |**2024-08-15**|**Text2BIM: Generating Building Models Using a Large Language Model-based Multi-Agent Framework**|Changyu Du et.al.|[2408.08054](http://arxiv.org/abs/2408.08054)|null|
 |**2024-08-16**|**MAG-SQL: Multi-Agent Generative Approach with Soft Schema Linking and Iterative Sub-SQL Refinement for Text-to-SQL**|Wenxuan Xie et.al.|[2408.07930](http://arxiv.org/abs/2408.07930)|**[link](https://github.com/LancelotXWX/MAG-SQL)**|
-|**2024-08-14**|**SustainDC -- Benchmarking for Sustainable Data Center Control**|Avisek Naug et.al.|[2408.07841](http://arxiv.org/abs/2408.07841)|null|
+|**2024-08-14**|**SustainDC -- Benchmarking for Sustainable Data Center Control**|Avisek Naug et.al.|[2408.07841](http://arxiv.org/abs/2408.07841)|**[link](https://github.com/hewlettpackard/dc-rl)**|
 |**2024-08-14**|**SigmaRL: A Sample-Efficient and Generalizable Multi-Agent Reinforcement Learning Framework for Motion Planning**|Jianye Xu et.al.|[2408.07644](http://arxiv.org/abs/2408.07644)|**[link](https://github.com/cas-lab-munich/sigmarl)**|
 |**2024-08-14**|**Development of a Multi-Agent Clinical Decision Support System for Korean Triage and Acuity Scale (KTAS)-Based Triage and Treatment Planning in Emergency Departments**|Seungjun Han et.al.|[2408.07531](http://arxiv.org/abs/2408.07531)|null|
 |**2024-08-14**|**Bridging Training and Execution via Dynamic Directed Graph-Based Communication in Cooperative Multi-Agent Systems**|Zhuohui Zhang et.al.|[2408.07397](http://arxiv.org/abs/2408.07397)|null|
@@ -970,7 +970,7 @@
 |**2024-02-04**|**Fast Peer Adaptation with Context-aware Exploration**|Long Ma et.al.|[2402.02468](http://arxiv.org/abs/2402.02468)|null|
 |**2024-02-02**|**MAGDi: Structured Distillation of Multi-Agent Interaction Graphs Improves Reasoning in Smaller Language Models**|Justin Chih-Yao Chen et.al.|[2402.01620](http://arxiv.org/abs/2402.01620)|**[link](https://github.com/dinobby/magdi)**|
 |**2024-02-02**|**Guidance Graph Optimization for Lifelong Multi-Agent Path Finding**|Yulun Zhang et.al.|[2402.01446](http://arxiv.org/abs/2402.01446)|**[link](https://github.com/lunjohnzhang/ggo_public)**|
-|**2024-02-02**|**CodePori: Large Scale Model for Autonomous Software Development by Using Multi-Agents**|Zeeshan Rasheed et.al.|[2402.01411](http://arxiv.org/abs/2402.01411)|null|
+|**2024-02-02**|**CodePori: Large Scale Model for Autonomous Software Development by Using Multi-Agents**|Zeeshan Rasheed et.al.|[2402.01411](http://arxiv.org/abs/2402.01411)|**[link](https://github.com/gpt-laboratory/codepori)**|
 |**2024-02-02**|**Can Large Language Models Serve as Data Analysts? A Multi-Agent Assisted Approach for Qualitative Data Analysis**|Zeeshan Rasheed et.al.|[2402.01386](http://arxiv.org/abs/2402.01386)|null|
 |**2024-02-02**|**Neural Trajectory Model: Implicit Neural Trajectory Representation for Trajectories Generation**|Zihan Yu et.al.|[2402.01254](http://arxiv.org/abs/2402.01254)|**[link](https://github.com/laser2099/neural-trajectory-model)**|
 |**2024-02-02**|**A Multi-Agent Conversational Recommender System**|Jiabao Fang et.al.|[2402.01135](http://arxiv.org/abs/2402.01135)|null|

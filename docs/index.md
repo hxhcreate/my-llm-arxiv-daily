@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner**|Xiaopan Zhang et.al.|[2409.20560](http://arxiv.org/abs/2409.20560)|null|
+|**2024-09-30**|**MARLadona -- Towards Cooperative Team Play Using Multi-Agent Reinforcement Learning**|Zichong Li et.al.|[2409.20326](http://arxiv.org/abs/2409.20326)|null|
+|**2024-09-30**|**Distributed NeRF Learning for Collaborative Multi-Robot Perception**|Hongrui Zhao et.al.|[2409.20289](http://arxiv.org/abs/2409.20289)|null|
+|**2024-09-30**|**Can We Break the Curse of Multiagency in Robust Multi-Agent Reinforcement Learning?**|Laixi Shi et.al.|[2409.20067](http://arxiv.org/abs/2409.20067)|null|
+|**2024-09-30**|**Fuel tax loss in a world of electric mobility: A window of opportunity for congestion pricing**|Thi Ngoc Nguyen et.al.|[2409.20033](http://arxiv.org/abs/2409.20033)|null|
+|**2024-09-30**|**Variational Auto-encoder Based Solutions to Interactive Dynamic Influence Diagrams**|Yinghui Pan et.al.|[2409.19965](http://arxiv.org/abs/2409.19965)|null|
+|**2024-09-30**|**TRANSAGENT: An LLM-Based Multi-Agent System for Code Translation**|Zhiqiang Yuan et.al.|[2409.19894](http://arxiv.org/abs/2409.19894)|null|
+|**2024-09-30**|**Enabling Multi-Robot Collaboration from Single-Human Guidance**|Zhengran Ji et.al.|[2409.19831](http://arxiv.org/abs/2409.19831)|null|
+|**2024-09-29**|**T2Vs Meet VLMs: A Scalable Multimodal Dataset for Visual Harmfulness Recognition**|Chen Yeh et.al.|[2409.19734](http://arxiv.org/abs/2409.19734)|**[link](https://github.com/nctu-eva-lab/vhd11k)**|
+|**2024-09-29**|**An action language-based formalisation of an abstract argumentation framework**|Yann Munro et.al.|[2409.19625](http://arxiv.org/abs/2409.19625)|null|
 |**2024-09-27**|**Mean-Field Control Barrier Functions: A Framework for Real-Time Swarm Control**|Samy Wu Fung et.al.|[2409.18945](http://arxiv.org/abs/2409.18945)|null|
 |**2024-09-27**|**Safe Decentralized Multi-Agent Control using Black-Box Predictors, Conformal Decision Policies, and Control Barrier Functions**|Sacha Huriot et.al.|[2409.18862](http://arxiv.org/abs/2409.18862)|null|
 |**2024-09-27**|**Enhancing Spectrum Efficiency in 6G Satellite Networks: A GAIL-Powered Policy Learning via Asynchronous Federated Inverse Reinforcement Learning**|Sheikh Salman Hassan et.al.|[2409.18718](http://arxiv.org/abs/2409.18718)|null|

@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-02**|**Windowed MAPF with Completeness Guarantees**|Rishi Veerapaneni et.al.|[2410.01798](http://arxiv.org/abs/2410.01798)|null|
+|**2024-10-02**|**Social coordination perpetuates stereotypic expectations and behaviors across generations in deep multi-agent reinforcement learning**|Rebekah A. Gelpí et.al.|[2410.01763](http://arxiv.org/abs/2410.01763)|null|
+|**2024-10-02**|**Performant, Memory Efficient and Scalable Multi-Agent Reinforcement Learning**|Omayma Mahjoub et.al.|[2410.01706](http://arxiv.org/abs/2410.01706)|null|
+|**2024-10-02**|**Agent-Driven Large Language Models for Mandarin Lyric Generation**|Hong-Hsiang Liu et.al.|[2410.01450](http://arxiv.org/abs/2410.01450)|null|
+|**2024-10-02**|**MARLens: Understanding Multi-agent Reinforcement Learning for Traffic Signal Control via Visual Analytics**|Yutian Zhang et.al.|[2410.01364](http://arxiv.org/abs/2410.01364)|null|
+|**2024-10-02**|**FanCric : Multi-Agentic Framework for Crafting Fantasy 11 Cricket Teams**|Mohit Bhatnagar et.al.|[2410.01307](http://arxiv.org/abs/2410.01307)|null|
+|**2024-10-01**|**Exploiting Structure in Offline Multi-Agent RL: The Benefits of Low Interaction Rank**|Wenhao Zhan et.al.|[2410.01101](http://arxiv.org/abs/2410.01101)|null|
+|**2024-10-01**|**From Facts to Insights: A Study on the Generation and Evaluation of Analytical Reports for Deciphering Earnings Calls**|Tomas Goldsack et.al.|[2410.01039](http://arxiv.org/abs/2410.01039)|null|
+|**2024-10-01**|**Fast-and-flexible decision-making with modulatory interactions**|Rodrigo Moreno-Morton et.al.|[2410.00798](http://arxiv.org/abs/2410.00798)|null|
+|**2024-10-01**|**Human-Robot Collaborative Minimum Time Search through Sub-priors in Ant Colony Optimization**|Oscar Gil Viyuela et.al.|[2410.00517](http://arxiv.org/abs/2410.00517)|null|
 |**2024-09-30**|**LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner**|Xiaopan Zhang et.al.|[2409.20560](http://arxiv.org/abs/2409.20560)|null|
 |**2024-09-30**|**MARLadona -- Towards Cooperative Team Play Using Multi-Agent Reinforcement Learning**|Zichong Li et.al.|[2409.20326](http://arxiv.org/abs/2409.20326)|null|
 |**2024-09-30**|**Distributed NeRF Learning for Collaborative Multi-Robot Perception**|Hongrui Zhao et.al.|[2409.20289](http://arxiv.org/abs/2409.20289)|null|

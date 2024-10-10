@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.09
+## Updated on 2024.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,7 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-07**|**GLEE: A Unified Framework and Benchmark for Language-based Economic Environments**|Eilam Shapira et.al.|[2410.05254](http://arxiv.org/abs/2410.05254)|null|
+|**2024-10-07**|**GLEE: A Unified Framework and Benchmark for Language-based Economic Environments**|Eilam Shapira et.al.|[2410.05254](http://arxiv.org/abs/2410.05254)|**[link](https://github.com/eilamshapira/GLEE)**|
 |**2024-10-07**|**Scalable and Accurate Graph Reasoning with LLM-based Multi-Agents**|Yuwei Hu et.al.|[2410.05130](http://arxiv.org/abs/2410.05130)|null|
 |**2024-10-07**|**Cloud-Based Scheduling Mechanism for Scalable and Resource-Efficient Centralized Controllers**|Achilleas Santi Seisa et.al.|[2410.04920](http://arxiv.org/abs/2410.04920)|null|
 |**2024-10-07**|**Distributed Collaborative User Positioning for Cell-Free Massive MIMO with Multi-Agent Reinforcement Learning**|Ziheng Liu et.al.|[2410.04871](http://arxiv.org/abs/2410.04871)|null|
@@ -1138,7 +1138,7 @@
 |**2023-12-30**|**Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning**|Xin Yu et.al.|[2401.00167](http://arxiv.org/abs/2401.00167)|null|
 |**2023-12-30**|**Contrastive learning-based agent modeling for deep reinforcement learning**|Wenhao Ma et.al.|[2401.00132](http://arxiv.org/abs/2401.00132)|null|
 
-<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

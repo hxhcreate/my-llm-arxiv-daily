@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.10
+## Updated on 2024.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AGENT
@@ -20,7 +20,7 @@ layout: default
 |**2024-10-09**|**Variations in Multi-Agent Actor-Critic Frameworks for Joint Optimizations in UAV Swarm Networks: Recent Evolution, Challenges, and Directions**|Muhammad Morshed Alam et.al.|[2410.06627](http://arxiv.org/abs/2410.06627)|null|
 |**2024-10-09**|**Cooperative Multi-Target Positioning for Cell-Free Massive MIMO with Multi-Agent Reinforcement Learning**|Ziheng Liu et.al.|[2410.06506](http://arxiv.org/abs/2410.06506)|null|
 |**2024-10-08**|**Cooperative and Asynchronous Transformer-based Mission Planning for Heterogeneous Teams of Mobile Robots**|Milad Farjadnasab et.al.|[2410.06372](http://arxiv.org/abs/2410.06372)|null|
-|**2024-10-08**|**An Algorithm for Distributed Computation of Reachable Sets for Multi-Agent Systems**|Omanshu Thapliyal et.al.|[2410.06321](http://arxiv.org/abs/2410.06321)|null|
+|**2024-10-10**|**An Algorithm for Distributed Computation of Reachable Sets for Multi-Agent Systems**|Omanshu Thapliyal et.al.|[2410.06321](http://arxiv.org/abs/2410.06321)|null|
 |**2024-10-08**|**Multimodal Situational Safety**|Kaiwen Zhou et.al.|[2410.06172](http://arxiv.org/abs/2410.06172)|null|
 |**2024-10-08**|**Coevolving with the Other You: Fine-Tuning LLM with Sequential Cooperative Multi-Agent Reinforcement Learning**|Hao Ma et.al.|[2410.06101](http://arxiv.org/abs/2410.06101)|null|
 |**2024-10-08**|**Learning Equilibria in Adversarial Team Markov Games: A Nonconvex-Hidden-Concave Min-Max Optimization Problem**|Fivos Kalogiannis et.al.|[2410.05673](http://arxiv.org/abs/2410.05673)|null|

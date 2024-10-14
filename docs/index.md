@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**PEAR: A Robust and Flexible Automation Framework for Ptychography Enabled by Multiple Large Language Model Agents**|Xiangyu Yin et.al.|[2410.09034](http://arxiv.org/abs/2410.09034)|null|
+|**2024-10-11**|**The Dynamics of Social Conventions in LLM populations: Spontaneous Emergence, Collective Biases and Tipping Points**|Ariel Flint Ashery et.al.|[2410.08948](http://arxiv.org/abs/2410.08948)|null|
+|**2024-10-11**|**Deep Learning Algorithms for Mean Field Optimal Stopping in Finite Space and Discrete Time**|Lorenzo Magnino et.al.|[2410.08850](http://arxiv.org/abs/2410.08850)|null|
+|**2024-10-11**|**Efficiently Scanning and Resampling Spatio-Temporal Tasks with Irregular Observations**|Bryce Ferenczi et.al.|[2410.08681](http://arxiv.org/abs/2410.08681)|null|
+|**2024-10-11**|**Derivation of macroscopic epidemic models from multi-agent systems**|Mattia Zanella et.al.|[2410.08610](http://arxiv.org/abs/2410.08610)|null|
+|**2024-10-11**|**Kaleidoscope: Learnable Masks for Heterogeneous Multi-agent Reinforcement Learning**|Xinran Li et.al.|[2410.08540](http://arxiv.org/abs/2410.08540)|**[link](https://github.com/lxxxxr/kaleidoscope)**|
+|**2024-10-11**|**Distributed Adaptive Consensus with Obstacle and Collision Avoidance for Networks of Heterogeneous Multi-Agent Systems**|Armel Koulong et.al.|[2410.08440](http://arxiv.org/abs/2410.08440)|null|
+|**2024-10-10**|**Large Legislative Models: Towards Efficient AI Policymaking in Economic Simulations**|Henry Gasztowtt et.al.|[2410.08345](http://arxiv.org/abs/2410.08345)|**[link](https://github.com/hegasz/large-legislative-models)**|
 |**2024-10-10**|**Optima: Optimizing Effectiveness and Efficiency for LLM-Based Multi-Agent System**|Weize Chen et.al.|[2410.08115](http://arxiv.org/abs/2410.08115)|null|
 |**2024-10-10**|**Multi-Agent Collaborative Data Selection for Efficient LLM Pretraining**|Tianyi Bai et.al.|[2410.08102](http://arxiv.org/abs/2410.08102)|null|
 |**2024-10-10**|**Variational Inequality Methods for Multi-Agent Reinforcement Learning: Performance and Stability Gains**|Baraah A. M. Sidahmed et.al.|[2410.07976](http://arxiv.org/abs/2410.07976)|null|

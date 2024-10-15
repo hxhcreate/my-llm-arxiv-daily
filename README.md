@@ -17,6 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-14**|**DrivingDojo Dataset: Advancing Interactive and Knowledge-Enriched Driving World Model**|Yuqi Wang et.al.|[2410.10738](http://arxiv.org/abs/2410.10738)|null|
+|**2024-10-14**|**Consensus in Multiagent Systems with lack of connection**|Mohamed Bentaibi et.al.|[2410.10486](http://arxiv.org/abs/2410.10486)|null|
+|**2024-10-14**|**Compositional Shielding and Reinforcement Learning for Multi-Agent Systems**|Asger Horn Brorholt et.al.|[2410.10460](http://arxiv.org/abs/2410.10460)|null|
+|**2024-10-14**|**Content Caching-Assisted Vehicular Edge Computing Using Multi-Agent Graph Attention Reinforcement Learning**|Jinjin Shen et.al.|[2410.10071](http://arxiv.org/abs/2410.10071)|null|
+|**2024-10-13**|**GRRIS: a real-time intra-site observation scheduling scheme for distributed survey telescope arrays**|Yajie Zhang et.al.|[2410.09881](http://arxiv.org/abs/2410.09881)|null|
+|**2024-10-13**|**Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models**|Chengshuai Shi et.al.|[2410.09701](http://arxiv.org/abs/2410.09701)|null|
+|**2024-10-12**|**CAMPHOR: Collaborative Agents for Multi-input Planning and High-Order Reasoning On Device**|Yicheng Fu et.al.|[2410.09407](http://arxiv.org/abs/2410.09407)|null|
+|**2024-10-12**|**Two Heads Are Better Than One: A Multi-Agent System Has the Potential to Improve Scientific Idea Generation**|Haoyang Su et.al.|[2410.09403](http://arxiv.org/abs/2410.09403)|**[link](https://github.com/open-sciencelab/social_science)**|
+|**2024-10-12**|**LLM-SmartAudit: Advanced Smart Contract Vulnerability Detection**|Zhiyuan Wei et.al.|[2410.09381](http://arxiv.org/abs/2410.09381)|null|
 |**2024-10-11**|**PEAR: A Robust and Flexible Automation Framework for Ptychography Enabled by Multiple Large Language Model Agents**|Xiangyu Yin et.al.|[2410.09034](http://arxiv.org/abs/2410.09034)|null|
 |**2024-10-11**|**The Dynamics of Social Conventions in LLM populations: Spontaneous Emergence, Collective Biases and Tipping Points**|Ariel Flint Ashery et.al.|[2410.08948](http://arxiv.org/abs/2410.08948)|null|
 |**2024-10-11**|**Deep Learning Algorithms for Mean Field Optimal Stopping in Finite Space and Discrete Time**|Lorenzo Magnino et.al.|[2410.08850](http://arxiv.org/abs/2410.08850)|null|

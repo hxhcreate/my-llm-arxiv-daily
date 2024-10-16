@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-15**|**G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks**|Guibin Zhang et.al.|[2410.11782](http://arxiv.org/abs/2410.11782)|null|
+|**2024-10-15**|**Markov-Nash equilibria in mean-field games under model uncertainty**|Johannes Langner et.al.|[2410.11652](http://arxiv.org/abs/2410.11652)|null|
+|**2024-10-15**|**AGENTiGraph: An Interactive Knowledge Graph Platform for LLM-based Chatbots Utilizing Private Data**|Xinjie Zhao et.al.|[2410.11531](http://arxiv.org/abs/2410.11531)|null|
+|**2024-10-15**|**Agent-Based Modelling of Older Adult Needs for Autonomous Mobility-on-Demand: A Case Study in Winnipeg, Canada**|Manon Prédhumeau et.al.|[2410.11416](http://arxiv.org/abs/2410.11416)|null|
+|**2024-10-15**|**Strategic and Fair Aggregator Interactions in Energy Markets: Mutli-agent Dynamics and Quasiconcave Games**|Jiayi Li et.al.|[2410.11296](http://arxiv.org/abs/2410.11296)|null|
+|**2024-10-15**|**Multi-Objective-Optimization Multi-AUV Assisted Data Collection Framework for IoUT Based on Offline Reinforcement Learning**|Yimian Ding et.al.|[2410.11282](http://arxiv.org/abs/2410.11282)|null|
+|**2024-10-15**|**Biologically Inspired Swarm Dynamic Target Tracking and Obstacle Avoidance**|Lucas Page et.al.|[2410.11237](http://arxiv.org/abs/2410.11237)|null|
 |**2024-10-14**|**DrivingDojo Dataset: Advancing Interactive and Knowledge-Enriched Driving World Model**|Yuqi Wang et.al.|[2410.10738](http://arxiv.org/abs/2410.10738)|null|
 |**2024-10-14**|**Consensus in Multiagent Systems with lack of connection**|Mohamed Bentaibi et.al.|[2410.10486](http://arxiv.org/abs/2410.10486)|null|
 |**2024-10-14**|**Compositional Shielding and Reinforcement Learning for Multi-Agent Systems**|Asger Horn Brorholt et.al.|[2410.10460](http://arxiv.org/abs/2410.10460)|null|

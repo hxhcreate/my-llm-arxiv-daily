@@ -22,7 +22,7 @@
 |**2024-10-17**|**Real Eventual Exponential Positivity of Complex-valued Laplacians: Applications to Consensus in Multi-agent Systems**|Aditi Saxena et.al.|[2410.13700](http://arxiv.org/abs/2410.13700)|null|
 |**2024-10-17**|**Byzantine-Resilient Output Optimization of Multiagent via Self-Triggered Hybrid Detection Approach**|Chenhang Yan et.al.|[2410.13454](http://arxiv.org/abs/2410.13454)|null|
 |**2024-10-16**|**Facilitating Multi-turn Function Calling for LLMs via Compositional Instruction Tuning**|Mingyang Chen et.al.|[2410.12952](http://arxiv.org/abs/2410.12952)|null|
-|**2024-10-16**|**JudgeBench: A Benchmark for Evaluating LLM-based Judges**|Sijun Tan et.al.|[2410.12784](http://arxiv.org/abs/2410.12784)|null|
+|**2024-10-16**|**JudgeBench: A Benchmark for Evaluating LLM-based Judges**|Sijun Tan et.al.|[2410.12784](http://arxiv.org/abs/2410.12784)|**[link](https://github.com/ScalerLab/JudgeBench)**|
 |**2024-10-16**|**HEnRY: A Multi-Agent System Framework for Multi-Domain Contexts**|Emmanuele Lacavalla et.al.|[2410.12720](http://arxiv.org/abs/2410.12720)|**[link](https://github.com/2mmanu/henry)**|
 |**2024-10-16**|**Hybrid Decision Making for Scalable Multi-Agent Navigation: Integrating Semantic Maps, Discrete Coordination, and Model Predictive Control**|Koen de Vos et.al.|[2410.12651](http://arxiv.org/abs/2410.12651)|null|
 |**2024-10-16**|**Zeroth-Order Feedback Optimization in Multi-Agent Systems: Tackling Coupled Constraints**|Yingpeng Duan et.al.|[2410.12647](http://arxiv.org/abs/2410.12647)|null|

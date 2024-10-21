@@ -24,7 +24,7 @@ layout: default
 |**2024-10-16**|**Hybrid Decision Making for Scalable Multi-Agent Navigation: Integrating Semantic Maps, Discrete Coordination, and Model Predictive Control**|Koen de Vos et.al.|[2410.12651](http://arxiv.org/abs/2410.12651)|null|
 |**2024-10-16**|**Zeroth-Order Feedback Optimization in Multi-Agent Systems: Tackling Coupled Constraints**|Yingpeng Duan et.al.|[2410.12647](http://arxiv.org/abs/2410.12647)|null|
 |**2024-10-16**|**A Communication Consistent Approach to Signal Temporal Logic Task Decomposition in Multi-Agent Systems**|Gregorio Marchesini et.al.|[2410.12563](http://arxiv.org/abs/2410.12563)|null|
-|**2024-10-16**|**Counterfactual Effect Decomposition in Multi-Agent Sequential Decision Making**|Stelios Triantafyllou et.al.|[2410.12539](http://arxiv.org/abs/2410.12539)|null|
+|**2024-10-16**|**Counterfactual Effect Decomposition in Multi-Agent Sequential Decision Making**|Stelios Triantafyllou et.al.|[2410.12539](http://arxiv.org/abs/2410.12539)|**[link](https://github.com/stelios30/cf-effect-decomposition)**|
 |**2024-10-17**|**MedAide: Towards an Omni Medical Aide via Specialized LLM-based Multi-Agent Collaboration**|Jinjie Wei et.al.|[2410.12532](http://arxiv.org/abs/2410.12532)|null|
 |**2024-10-17**|**Aegis:An Advanced LLM-Based Multi-Agent for Intelligent Functional Safety Engineering**|Lu Shi et.al.|[2410.12475](http://arxiv.org/abs/2410.12475)|null|
 |**2024-10-17**|**Enhancing LLM Trading Performance with Fact-Subjectivity Aware Reasoning**|Qian Wang et.al.|[2410.12464](http://arxiv.org/abs/2410.12464)|null|
@@ -54,7 +54,7 @@ layout: default
 |**2024-10-11**|**Distributed Adaptive Consensus with Obstacle and Collision Avoidance for Networks of Heterogeneous Multi-Agent Systems**|Armel Koulong et.al.|[2410.08440](http://arxiv.org/abs/2410.08440)|null|
 |**2024-10-10**|**Large Legislative Models: Towards Efficient AI Policymaking in Economic Simulations**|Henry Gasztowtt et.al.|[2410.08345](http://arxiv.org/abs/2410.08345)|**[link](https://github.com/hegasz/large-legislative-models)**|
 |**2024-10-10**|**Optima: Optimizing Effectiveness and Efficiency for LLM-Based Multi-Agent System**|Weize Chen et.al.|[2410.08115](http://arxiv.org/abs/2410.08115)|null|
-|**2024-10-10**|**Multi-Agent Collaborative Data Selection for Efficient LLM Pretraining**|Tianyi Bai et.al.|[2410.08102](http://arxiv.org/abs/2410.08102)|null|
+|**2024-10-10**|**Multi-Agent Collaborative Data Selection for Efficient LLM Pretraining**|Tianyi Bai et.al.|[2410.08102](http://arxiv.org/abs/2410.08102)|**[link](https://github.com/beccabai/multi-agent-data-selection)**|
 |**2024-10-10**|**Variational Inequality Methods for Multi-Agent Reinforcement Learning: Performance and Stability Gains**|Baraah A. M. Sidahmed et.al.|[2410.07976](http://arxiv.org/abs/2410.07976)|null|
 |**2024-10-10**|**Dynamic Programming based Local Search approaches for Multi-Agent Path Finding problems on Directed Graphs**|Irene Saccani et.al.|[2410.07954](http://arxiv.org/abs/2410.07954)|null|
 |**2024-10-10**|**Learning to Balance Altruism and Self-interest Based on Empathy in Mixed-Motive Games**|Fanqi Kong et.al.|[2410.07863](http://arxiv.org/abs/2410.07863)|null|
@@ -437,7 +437,7 @@ layout: default
 |**2024-07-09**|**Hypothetical Minds: Scaffolding Theory of Mind for Multi-Agent Tasks with Large Language Models**|Logan Cross et.al.|[2407.07086](http://arxiv.org/abs/2407.07086)|**[link](https://github.com/locross93/hypothetical-minds)**|
 |**2024-07-10**|**Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence**|Weize Chen et.al.|[2407.07061](http://arxiv.org/abs/2407.07061)|**[link](https://github.com/openbmb/ioa)**|
 |**2024-07-10**|**PEER: Expertizing Domain-Specific Tasks with a Multi-Agent Framework and Tuning Methods**|Yiying Wang et.al.|[2407.06985](http://arxiv.org/abs/2407.06985)|**[link](https://github.com/alipay/agentuniverse)**|
-|**2024-07-09**|**Richelieu: Self-Evolving LLM-Based Agents for AI Diplomacy**|Zhenyu Guan et.al.|[2407.06813](http://arxiv.org/abs/2407.06813)|null|
+|**2024-07-09**|**Richelieu: Self-Evolving LLM-Based Agents for AI Diplomacy**|Zhenyu Guan et.al.|[2407.06813](http://arxiv.org/abs/2407.06813)|**[link](https://github.com/todexter3/richelieu)**|
 |**2024-07-10**|**FinCon: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making**|Yangyang Yu et.al.|[2407.06567](http://arxiv.org/abs/2407.06567)|null|
 |**2024-07-09**|**Fast Distributed Optimization over Directed Graphs under Malicious Attacks using Trust**|Arif Kerem Dayı et.al.|[2407.06541](http://arxiv.org/abs/2407.06541)|null|
 |**2024-07-09**|**Semantic Communication in Multi-team Dynamic Games: A Mean Field Perspective**|Shubham Aggarwal et.al.|[2407.06528](http://arxiv.org/abs/2407.06528)|null|

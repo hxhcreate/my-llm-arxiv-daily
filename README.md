@@ -27,17 +27,17 @@
 |**2024-10-23**|**GraphTeam: Facilitating Large Language Model-based Graph Analysis via Multi-Agent Collaboration**|Xin Li et.al.|[2410.18032](http://arxiv.org/abs/2410.18032)|**[link](https://github.com/bupt-gamma/graphteam)**|
 |**2024-10-23**|**On Regularity and Normalization in Sequential Screening**|Ian Ball et.al.|[2410.17962](http://arxiv.org/abs/2410.17962)|null|
 |**2024-10-23**|**Guide for Defense (G4D): Dynamic Guidance for Robust and Balanced Defense in Large Language Models**|He Cao et.al.|[2410.17922](http://arxiv.org/abs/2410.17922)|**[link](https://github.com/idea-xl/g4d)**|
-|**2024-10-23**|**Scalable Offline Reinforcement Learning for Mean Field Games**|Axel Brunnbauer et.al.|[2410.17898](http://arxiv.org/abs/2410.17898)|null|
+|**2024-10-23**|**Scalable Offline Reinforcement Learning for Mean Field Games**|Axel Brunnbauer et.al.|[2410.17898](http://arxiv.org/abs/2410.17898)|**[link](https://github.com/axelbr/offline-mmd)**|
 |**2024-10-23**|**TranSPORTmer: A Holistic Approach to Trajectory Understanding in Multi-Agent Sports**|Guillem Capellera et.al.|[2410.17785](http://arxiv.org/abs/2410.17785)|null|
 |**2024-10-23**|**Navigate Complex Physical Worlds via Geometrically Constrained LLM**|Yongqiang Huang et.al.|[2410.17529](http://arxiv.org/abs/2410.17529)|null|
-|**2024-10-22**|**Evolution with Opponent-Learning Awareness**|Yann Bouteiller et.al.|[2410.17466](http://arxiv.org/abs/2410.17466)|null|
+|**2024-10-22**|**Evolution with Opponent-Learning Awareness**|Yann Bouteiller et.al.|[2410.17466](http://arxiv.org/abs/2410.17466)|**[link](https://github.com/yannbouteiller/eola)**|
 |**2024-10-22**|**Decoding Time Series with LLMs: A Multi-Agent Framework for Cross-Domain Annotation**|Minhua Lin et.al.|[2410.17462](http://arxiv.org/abs/2410.17462)|null|
 |**2024-10-22**|**Cooperative Multi-Agent Constrained Stochastic Linear Bandits**|Amirhossein Afsharrad et.al.|[2410.17382](http://arxiv.org/abs/2410.17382)|null|
 |**2024-10-22**|**Episodic Future Thinking Mechanism for Multi-agent Reinforcement Learning**|Dongsu Lee et.al.|[2410.17373](http://arxiv.org/abs/2410.17373)|null|
 |**2024-10-22**|**Responsibility in a Multi-Value Strategic Setting**|Timothy Parker et.al.|[2410.17229](http://arxiv.org/abs/2410.17229)|null|
 |**2024-10-22**|**Scalable spectral representations for network multiagent control**|Zhaolin Ren et.al.|[2410.17221](http://arxiv.org/abs/2410.17221)|null|
 |**2024-10-22**|**Layered LA-MAPF: a decomposition of large agent MAPF instance to accelerate solving without compromising solvability**|Zhuo Yao et.al.|[2410.17160](http://arxiv.org/abs/2410.17160)|**[link](https://github.com/joeyao-bit/layeredmapf)**|
-|**2024-10-22**|**Delay-Constrained Grant-Free Random Access in MIMO Systems: Distributed Pilot Allocation and Power Control**|Jianan Bai et.al.|[2410.17068](http://arxiv.org/abs/2410.17068)|null|
+|**2024-10-22**|**Delay-Constrained Grant-Free Random Access in MIMO Systems: Distributed Pilot Allocation and Power Control**|Jianan Bai et.al.|[2410.17068](http://arxiv.org/abs/2410.17068)|**[link](https://github.com/oxwhirl/pymarl)**|
 |**2024-10-22**|**Self-Evolving Multi-Agent Collaboration Networks for Software Development**|Yue Hu et.al.|[2410.16946](http://arxiv.org/abs/2410.16946)|null|
 |**2024-10-22**|**SERN: Simulation-Enhanced Realistic Navigation for Multi-Agent Robotic Systems in Contested Environments**|Jumman Hossain et.al.|[2410.16686](http://arxiv.org/abs/2410.16686)|null|
 |**2024-10-22**|**Convex Markov Games: A Framework for Fairness, Imitation, and Creativity in Multi-Agent Learning**|Ian Gemp et.al.|[2410.16600](http://arxiv.org/abs/2410.16600)|null|
@@ -51,7 +51,7 @@
 |**2024-10-21**|**FlickerFusion: Intra-trajectory Domain Generalizing Multi-Agent RL**|Woosung Koh et.al.|[2410.15876](http://arxiv.org/abs/2410.15876)|null|
 |**2024-10-21**|**Towards Efficient Collaboration via Graph Modeling in Reinforcement Learning**|Wenzhe Fan et.al.|[2410.15841](http://arxiv.org/abs/2410.15841)|null|
 |**2024-10-22**|**Three connected problems: principal with multiple agents in cooperation, Principal--Agent with Mckean--Vlasov dynamics and multitask Principal--Agent**|Mao Fabrice Djete et.al.|[2410.15818](http://arxiv.org/abs/2410.15818)|null|
-|**2024-10-21**|**Hierarchical Search-Based Cooperative Motion Planning**|Yuchen Wu et.al.|[2410.15710](http://arxiv.org/abs/2410.15710)|null|
+|**2024-10-21**|**Hierarchical Search-Based Cooperative Motion Planning**|Yuchen Wu et.al.|[2410.15710](http://arxiv.org/abs/2410.15710)|**[link](https://github.com/wycuniverstar/scmp)**|
 |**2024-10-21**|**Students Rather Than Experts: A New AI For Education Pipeline To Model More Human-Like And Personalised Early Adolescences**|Yiping Ma et.al.|[2410.15701](http://arxiv.org/abs/2410.15701)|null|
 |**2024-10-21**|**NetSafe: Exploring the Topological Safety of Multi-agent Networks**|Miao Yu et.al.|[2410.15686](http://arxiv.org/abs/2410.15686)|null|
 |**2024-10-18**|**Teaching Models to Balance Resisting and Accepting Persuasion**|Elias Stengel-Eskin et.al.|[2410.14596](http://arxiv.org/abs/2410.14596)|**[link](https://github.com/esteng/persuasion_balanced_training)**|
@@ -60,14 +60,14 @@
 |**2024-10-18**|**A Model Checker for Natural Strategic Ability**|Marco Aruta et.al.|[2410.14374](http://arxiv.org/abs/2410.14374)|null|
 |**2024-10-18**|**CoMAL: Collaborative Multi-Agent Large Language Models for Mixed-Autonomy Traffic**|Huaiyuan Yao et.al.|[2410.14368](http://arxiv.org/abs/2410.14368)|**[link](https://github.com/hyan-yao/comal)**|
 |**2024-10-18**|**Good Parenting is all you need -- Multi-agentic LLM Hallucination Mitigation**|Edward et.al.|[2410.14262](http://arxiv.org/abs/2410.14262)|null|
-|**2024-10-18**|**Synthesizing Post-Training Data for LLMs through Multi-Agent Simulation**|Shuo Tang et.al.|[2410.14251](http://arxiv.org/abs/2410.14251)|null|
+|**2024-10-18**|**Synthesizing Post-Training Data for LLMs through Multi-Agent Simulation**|Shuo Tang et.al.|[2410.14251](http://arxiv.org/abs/2410.14251)|**[link](https://github.com/shuotang123/matrix-gen)**|
 |**2024-10-18**|**Agents4PLC: Automating Closed-loop PLC Code Generation and Verification in Industrial Control Systems using LLM-based Agents**|Zihan Liu et.al.|[2410.14209](http://arxiv.org/abs/2410.14209)|null|
 |**2024-10-17**|**On Diffusion Models for Multi-Agent Partial Observability: Shared Attractors, Error Bounds, and Composite Flow**|Tonghan Wang et.al.|[2410.13953](http://arxiv.org/abs/2410.13953)|null|
 |**2024-10-17**|**AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents**|Ke Yang et.al.|[2410.13825](http://arxiv.org/abs/2410.13825)|null|
 |**2024-10-17**|**Rapid and Automated Alloy Design with Graph Neural Network-Powered LLM-Driven Multi-Agent Systems**|Alireza Ghafarollahi et.al.|[2410.13768](http://arxiv.org/abs/2410.13768)|null|
 |**2024-10-17**|**Real Eventual Exponential Positivity of Complex-valued Laplacians: Applications to Consensus in Multi-agent Systems**|Aditi Saxena et.al.|[2410.13700](http://arxiv.org/abs/2410.13700)|null|
 |**2024-10-17**|**Byzantine-Resilient Output Optimization of Multiagent via Self-Triggered Hybrid Detection Approach**|Chenhang Yan et.al.|[2410.13454](http://arxiv.org/abs/2410.13454)|null|
-|**2024-10-16**|**Facilitating Multi-turn Function Calling for LLMs via Compositional Instruction Tuning**|Mingyang Chen et.al.|[2410.12952](http://arxiv.org/abs/2410.12952)|null|
+|**2024-10-16**|**Facilitating Multi-turn Function Calling for LLMs via Compositional Instruction Tuning**|Mingyang Chen et.al.|[2410.12952](http://arxiv.org/abs/2410.12952)|**[link](https://github.com/pku-baichuan-mlsystemlab/button)**|
 |**2024-10-16**|**JudgeBench: A Benchmark for Evaluating LLM-based Judges**|Sijun Tan et.al.|[2410.12784](http://arxiv.org/abs/2410.12784)|**[link](https://github.com/ScalerLab/JudgeBench)**|
 |**2024-10-16**|**HEnRY: A Multi-Agent System Framework for Multi-Domain Contexts**|Emmanuele Lacavalla et.al.|[2410.12720](http://arxiv.org/abs/2410.12720)|**[link](https://github.com/2mmanu/henry)**|
 |**2024-10-16**|**Hybrid Decision Making for Scalable Multi-Agent Navigation: Integrating Semantic Maps, Discrete Coordination, and Model Predictive Control**|Koen de Vos et.al.|[2410.12651](http://arxiv.org/abs/2410.12651)|null|
@@ -93,7 +93,7 @@
 |**2024-10-13**|**Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models**|Chengshuai Shi et.al.|[2410.09701](http://arxiv.org/abs/2410.09701)|null|
 |**2024-10-12**|**CAMPHOR: Collaborative Agents for Multi-input Planning and High-Order Reasoning On Device**|Yicheng Fu et.al.|[2410.09407](http://arxiv.org/abs/2410.09407)|null|
 |**2024-10-12**|**Two Heads Are Better Than One: A Multi-Agent System Has the Potential to Improve Scientific Idea Generation**|Haoyang Su et.al.|[2410.09403](http://arxiv.org/abs/2410.09403)|**[link](https://github.com/open-sciencelab/social_science)**|
-|**2024-10-12**|**LLM-SmartAudit: Advanced Smart Contract Vulnerability Detection**|Zhiyuan Wei et.al.|[2410.09381](http://arxiv.org/abs/2410.09381)|null|
+|**2024-10-12**|**LLM-SmartAudit: Advanced Smart Contract Vulnerability Detection**|Zhiyuan Wei et.al.|[2410.09381](http://arxiv.org/abs/2410.09381)|**[link](https://github.com/LLMAudit/LLMSmartAuditTool)**|
 |**2024-10-11**|**PEAR: A Robust and Flexible Automation Framework for Ptychography Enabled by Multiple Large Language Model Agents**|Xiangyu Yin et.al.|[2410.09034](http://arxiv.org/abs/2410.09034)|null|
 |**2024-10-11**|**The Dynamics of Social Conventions in LLM populations: Spontaneous Emergence, Collective Biases and Tipping Points**|Ariel Flint Ashery et.al.|[2410.08948](http://arxiv.org/abs/2410.08948)|null|
 |**2024-10-11**|**Deep Learning Algorithms for Mean Field Optimal Stopping in Finite Space and Discrete Time**|Lorenzo Magnino et.al.|[2410.08850](http://arxiv.org/abs/2410.08850)|null|
@@ -353,7 +353,7 @@
 |**2024-08-12**|**Multi-Agent Deep Reinforcement Learning Framework for Wireless MAC Protocol Design and Optimization**|Navid Keshtiarast et.al.|[2408.05884](http://arxiv.org/abs/2408.05884)|null|
 |**2024-08-11**|**DeepAir: A Multi-Agent Deep Reinforcement Learning Based Scheme for an Unknown User Location Problem**|Baris Yamansavascilar et.al.|[2408.05712](http://arxiv.org/abs/2408.05712)|null|
 |**2024-08-10**|**Multi-agent Planning using Visual Language Models**|Michele Brienza et.al.|[2408.05478](http://arxiv.org/abs/2408.05478)|null|
-|**2024-08-09**|**Expected $1.x$ -Makespan-Optimal MAPF on Grids in Low-Poly Time**|Teng Guo et.al.|[2408.05385](http://arxiv.org/abs/2408.05385)|null|
+|**2024-08-09**|**Expected $1.x$ -Makespan-Optimal MAPF on Grids in Low-Poly Time**|Teng Guo et.al.|[2408.05385](http://arxiv.org/abs/2408.05385)|**[link](https://github.com/arc-l/rubik-table)**|
 |**2024-08-09**|**Modeling Transit in a Fully Integrated Agent-Based Framework: Methodology and Large-Scale Application**|Omer Verbas et.al.|[2408.05176](http://arxiv.org/abs/2408.05176)|null|
 |**2024-08-08**|**A Multi-Scale Cognitive Interaction Model of Instrument Operations at the Linac Coherent Light Source**|Jonathan Segal et.al.|[2408.04734](http://arxiv.org/abs/2408.04734)|null|
 |**2024-08-08**|**Emergence in Multi-Agent Systems: A Safety Perspective**|Philipp Altmann et.al.|[2408.04514](http://arxiv.org/abs/2408.04514)|**[link](https://github.com/philippaltmann/emas)**|
@@ -577,7 +577,7 @@
 |**2024-06-14**|**Mix Q-learning for Lane Changing: A Collaborative Decision-Making Method in Multi-Agent Deep Reinforcement Learning**|Xiaojun Bi et.al.|[2406.09755](http://arxiv.org/abs/2406.09755)|null|
 |**2024-06-13**|**Characterising Interventions in Causal Games**|Manuj Mishra et.al.|[2406.09318](http://arxiv.org/abs/2406.09318)|null|
 |**2024-06-13**|**Applying Multi-Agent Negotiation to Solve the Production Routing Problem With Privacy Preserving**|Luiza Pellin Biasoto et.al.|[2406.09214](http://arxiv.org/abs/2406.09214)|null|
-|**2024-06-13**|**Dispelling the Mirage of Progress in Offline MARL through Standardised Baselines and Evaluation**|Claude Formanek et.al.|[2406.09068](http://arxiv.org/abs/2406.09068)|null|
+|**2024-06-13**|**Dispelling the Mirage of Progress in Offline MARL through Standardised Baselines and Evaluation**|Claude Formanek et.al.|[2406.09068](http://arxiv.org/abs/2406.09068)|**[link](https://github.com/instadeepai/og-marl)**|
 |**2024-06-13**|**Multi-Agent Software Development through Cross-Team Collaboration**|Zhuoyun Du et.al.|[2406.08979](http://arxiv.org/abs/2406.08979)|**[link](https://github.com/openbmb/chatdev)**|
 |**2024-06-13**|**Equilibrium Selection for Multi-agent Reinforcement Learning: A Unified Framework**|Runyu Zhang et.al.|[2406.08844](http://arxiv.org/abs/2406.08844)|null|
 |**2024-06-13**|**Batch-Instructed Gradient for Prompt Evolution:Systematic Prompt Optimization for Enhanced Text-to-Image Synthesis**|Xinrui Yang et.al.|[2406.08713](http://arxiv.org/abs/2406.08713)|**[link](https://github.com/slark-prime/maai_optimizer)**|
@@ -775,7 +775,7 @@
 |**2024-04-27**|**UMass-BioNLP at MEDIQA-M3G 2024: DermPrompt -- A Systematic Exploration of Prompt Engineering with GPT-4V for Dermatological Diagnosis**|Parth Vashisht et.al.|[2404.17749](http://arxiv.org/abs/2404.17749)|**[link](https://github.com/parth166/m3g-clinicaldermatology)**|
 |**2024-04-26**|**Quantum Multi-Agent Reinforcement Learning for Aerial Ad-hoc Networks**|Theodora-Augustina Drăgan et.al.|[2404.17499](http://arxiv.org/abs/2404.17499)|null|
 |**2024-04-26**|**A multi-agent model of hierarchical decision dynamics**|Paul Kinsler et.al.|[2404.17477](http://arxiv.org/abs/2404.17477)|null|
-|**2024-04-26**|**A Unified Debugging Approach via LLM-Based Multi-Agent Synergy**|Cheryl Lee et.al.|[2404.17153](http://arxiv.org/abs/2404.17153)|null|
+|**2024-04-26**|**A Unified Debugging Approach via LLM-Based Multi-Agent Synergy**|Cheryl Lee et.al.|[2404.17153](http://arxiv.org/abs/2404.17153)|**[link](https://github.com/acceptepapier/unidebugger)**|
 |**2024-04-25**|**Evaluating Collaborative Autonomy in Opposed Environments using Maritime Capture-the-Flag Competitions**|Jordan Beason et.al.|[2404.17038](http://arxiv.org/abs/2404.17038)|null|
 |**2024-04-25**|**AutoGenesisAgent: Self-Generating Multi-Agent Systems for Complex Tasks**|Jeremy Harper et.al.|[2404.17017](http://arxiv.org/abs/2404.17017)|null|
 |**2024-04-25**|**Neural Interaction Energy for Multi-Agent Trajectory Prediction**|Kaixin Shen et.al.|[2404.16579](http://arxiv.org/abs/2404.16579)|null|

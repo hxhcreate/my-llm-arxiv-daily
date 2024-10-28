@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-25**|**Evolving Neural Networks Reveal Emergent Collective Behavior from Minimal Agent Interactions**|Guilherme S. Y. Giardini et.al.|[2410.19718](http://arxiv.org/abs/2410.19718)|null|
+|**2024-10-25**|**The Sound of Silence in Social Networks**|Jesús Aranda et.al.|[2410.19685](http://arxiv.org/abs/2410.19685)|null|
+|**2024-10-25**|**MetaTrading: An Immersion-Aware Model Trading Framework for Vehicular Metaverse Services**|Hongjia Wu et.al.|[2410.19665](http://arxiv.org/abs/2410.19665)|null|
+|**2024-10-25**|**Planning-Aware Diffusion Networks for Enhanced Motion Forecasting in Autonomous Driving**|Liu Yunhao et.al.|[2410.19639](http://arxiv.org/abs/2410.19639)|null|
+|**2024-10-25**|**PMM-Net: Single-stage Multi-agent Trajectory Prediction with Patching-based Embedding and Explicit Modal Modulation**|Huajian Liu et.al.|[2410.19544](http://arxiv.org/abs/2410.19544)|null|
+|**2024-10-25**|**Offline-to-Online Multi-Agent Reinforcement Learning with Offline Value Function Memory and Sequential Exploration**|Hai Zhong et.al.|[2410.19450](http://arxiv.org/abs/2410.19450)|null|
+|**2024-10-25**|**Multi-Agent Reinforcement Learning with Selective State-Space Models**|Jemma Daniel et.al.|[2410.19382](http://arxiv.org/abs/2410.19382)|null|
+|**2024-10-25**|**Toward Finding Strong Pareto Optimal Policies in Multi-Agent Reinforcement Learning**|Bang Giang Le et.al.|[2410.19372](http://arxiv.org/abs/2410.19372)|**[link](https://github.com/giangbang/strong-pareto-marl)**|
+|**2024-10-25**|**Joint User Scheduling and Precoding for RIS-Aided MU-MISO Systems: A MADRL Approach**|Yangjing Wang et.al.|[2410.19359](http://arxiv.org/abs/2410.19359)|null|
+|**2024-10-25**|**VisionCoder: Empowering Multi-Agent Auto-Programming for Image Processing with Hybrid LLMs**|Zixiao Zhao et.al.|[2410.19245](http://arxiv.org/abs/2410.19245)|null|
 |**2024-10-24**|**Schema-Guided Culture-Aware Complex Event Simulation with Multi-Agent Role-Play**|Sha Li et.al.|[2410.18935](http://arxiv.org/abs/2410.18935)|null|
 |**2024-10-24**|**Multi-agent cooperation through learning-aware policy gradients**|Alexander Meulemans et.al.|[2410.18636](http://arxiv.org/abs/2410.18636)|null|
 |**2024-10-24**|**Leveraging Graph Neural Networks and Multi-Agent Reinforcement Learning for Inventory Control in Supply Chains**|Niki Kotecha et.al.|[2410.18631](http://arxiv.org/abs/2410.18631)|null|

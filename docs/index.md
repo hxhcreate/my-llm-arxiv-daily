@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.29
+## Updated on 2024.10.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AGENT
@@ -19,7 +19,7 @@ layout: default
 |**2024-10-28**|**FairStream: Fair Multimedia Streaming Benchmark for Reinforcement Learning Agents**|Jannis Weil et.al.|[2410.21029](http://arxiv.org/abs/2410.21029)|null|
 |**2024-10-28**|**Bilevel Model for Electricity Market Mechanism Optimisation via Quantum Computing Enhanced Reinforcement Learning**|Shuyang Zhu et.al.|[2410.20968](http://arxiv.org/abs/2410.20968)|null|
 |**2024-10-27**|**Observability of Linear Time-Invariant Systems with Relative Measurements: A Geometric Approach**|Ioannis Raptis et.al.|[2410.20637](http://arxiv.org/abs/2410.20637)|null|
-|**2024-10-27**|**AutoKaggle: A Multi-Agent Framework for Autonomous Data Science Competitions**|Ziming Li et.al.|[2410.20424](http://arxiv.org/abs/2410.20424)|**[link](https://github.com/multimodal-art-projection/AutoKaggle)**|
+|**2024-10-29**|**AutoKaggle: A Multi-Agent Framework for Autonomous Data Science Competitions**|Ziming Li et.al.|[2410.20424](http://arxiv.org/abs/2410.20424)|**[link](https://github.com/multimodal-art-projection/AutoKaggle)**|
 |**2024-10-27**|**Logarithmically Quantized Distributed Optimization over Dynamic Multi-Agent Networks**|Mohammadreza Doostmohammadian et.al.|[2410.20345](http://arxiv.org/abs/2410.20345)|null|
 |**2024-10-26**|**Who is Responsible? Explaining Safety Violations in Multi-Agent Cyber-Physical Systems**|Luyao Niu et.al.|[2410.20288](http://arxiv.org/abs/2410.20288)|null|
 |**2024-10-26**|**SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement**|Antonis Antoniades et.al.|[2410.20285](http://arxiv.org/abs/2410.20285)|null|

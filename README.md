@@ -17,6 +17,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**Multi-Agent Large Language Models for Conversational Task-Solving**|Jonas Becker et.al.|[2410.22932](http://arxiv.org/abs/2410.22932)|null|
+|**2024-10-30**|**Self-optimization in distributed manufacturing systems using Modular State-based Stackelberg Games**|Steve Yuwono et.al.|[2410.22912](http://arxiv.org/abs/2410.22912)|null|
+|**2024-10-30**|**Federated UCBVI: Communication-Efficient Federated Regret Minimization with Heterogeneous Agents**|Safwan Labbi et.al.|[2410.22908](http://arxiv.org/abs/2410.22908)|null|
+|**2024-10-30**|**Modelling vehicle and pedestrian collective dynamics: Challenges and advancements**|Cécile Appert-Rolland et.al.|[2410.22896](http://arxiv.org/abs/2410.22896)|null|
+|**2024-10-30**|**$\textbf{EMOS}$: $\textbf{E}$mbodiment-aware Heterogeneous $\textbf{M}$ulti-robot $\textbf{O}$perating $\textbf{S}$ ystem with LLM Agents**|Junting Chen et.al.|[2410.22662](http://arxiv.org/abs/2410.22662)|null|
+|**2024-10-29**|**Energy-Aware Multi-Agent Reinforcement Learning for Collaborative Execution in Mission-Oriented Drone Networks**|Ying Li et.al.|[2410.22578](http://arxiv.org/abs/2410.22578)|null|
 |**2024-10-29**|**Flow-DPO: Improving LLM Mathematical Reasoning through Online Multi-Agent Learning**|Yihe Deng et.al.|[2410.22304](http://arxiv.org/abs/2410.22304)|null|
 |**2024-10-29**|**EconoJax: A Fast & Scalable Economic Simulation in Jax**|Koen Ponse et.al.|[2410.22165](http://arxiv.org/abs/2410.22165)|**[link](https://github.com/ponseko/econojax)**|
 |**2024-10-29**|**Improving Performance of Commercially Available AI Products in a Multi-Agent Configuration**|Cory Hymel et.al.|[2410.22129](http://arxiv.org/abs/2410.22129)|null|

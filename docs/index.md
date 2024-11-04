@@ -41,13 +41,13 @@ layout: default
 |**2024-10-28**|**CT2C-QA: Multimodal Question Answering over Chinese Text, Table and Chart**|Bowen Zhao et.al.|[2410.21414](http://arxiv.org/abs/2410.21414)|null|
 |**2024-10-28**|**LiGAR: LiDAR-Guided Hierarchical Transformer for Multi-Modal Group Activity Recognition**|Naga Venkata Sai Raviteja Chappa et.al.|[2410.21108](http://arxiv.org/abs/2410.21108)|null|
 |**2024-10-28**|**CRAT: A Multi-Agent Framework for Causality-Enhanced Reflective and Retrieval-Augmented Translation with Large Language Models**|Meiqi Chen et.al.|[2410.21067](http://arxiv.org/abs/2410.21067)|null|
-|**2024-10-28**|**FairStream: Fair Multimedia Streaming Benchmark for Reinforcement Learning Agents**|Jannis Weil et.al.|[2410.21029](http://arxiv.org/abs/2410.21029)|null|
+|**2024-10-28**|**FairStream: Fair Multimedia Streaming Benchmark for Reinforcement Learning Agents**|Jannis Weil et.al.|[2410.21029](http://arxiv.org/abs/2410.21029)|**[link](https://github.com/jw3il/fairstream)**|
 |**2024-10-28**|**Bilevel Model for Electricity Market Mechanism Optimisation via Quantum Computing Enhanced Reinforcement Learning**|Shuyang Zhu et.al.|[2410.20968](http://arxiv.org/abs/2410.20968)|null|
 |**2024-10-27**|**Observability of Linear Time-Invariant Systems with Relative Measurements: A Geometric Approach**|Ioannis Raptis et.al.|[2410.20637](http://arxiv.org/abs/2410.20637)|null|
 |**2024-10-29**|**AutoKaggle: A Multi-Agent Framework for Autonomous Data Science Competitions**|Ziming Li et.al.|[2410.20424](http://arxiv.org/abs/2410.20424)|**[link](https://github.com/multimodal-art-projection/AutoKaggle)**|
 |**2024-10-27**|**Logarithmically Quantized Distributed Optimization over Dynamic Multi-Agent Networks**|Mohammadreza Doostmohammadian et.al.|[2410.20345](http://arxiv.org/abs/2410.20345)|null|
 |**2024-10-26**|**Who is Responsible? Explaining Safety Violations in Multi-Agent Cyber-Physical Systems**|Luyao Niu et.al.|[2410.20288](http://arxiv.org/abs/2410.20288)|null|
-|**2024-10-26**|**SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement**|Antonis Antoniades et.al.|[2410.20285](http://arxiv.org/abs/2410.20285)|null|
+|**2024-10-26**|**SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement**|Antonis Antoniades et.al.|[2410.20285](http://arxiv.org/abs/2410.20285)|**[link](https://github.com/aorwall/moatless-tree-search)**|
 |**2024-10-26**|**A Digital Twin-based Intelligent Network Architecture for Underwater Acoustic Sensor Networks**|Shanshan Song et.al.|[2410.20151](http://arxiv.org/abs/2410.20151)|null|
 |**2024-10-25**|**Evolving Neural Networks Reveal Emergent Collective Behavior from Minimal Agent Interactions**|Guilherme S. Y. Giardini et.al.|[2410.19718](http://arxiv.org/abs/2410.19718)|null|
 |**2024-10-25**|**The Sound of Silence in Social Networks**|Jesús Aranda et.al.|[2410.19685](http://arxiv.org/abs/2410.19685)|null|
@@ -238,7 +238,7 @@ layout: default
 |**2024-09-19**|**The Art of Storytelling: Multi-Agent Generative AI for Dynamic Multimodal Narratives**|Samee Arif et.al.|[2409.11261](http://arxiv.org/abs/2409.11261)|**[link](https://github.com/ulrs0/The-Art-of-Story-Telling)**|
 |**2024-09-17**|**Reactive Environments for Active Inference Agents with RxEnvironments.jl**|Wouter W. L. Nuijten et.al.|[2409.11087](http://arxiv.org/abs/2409.11087)|**[link](https://github.com/wouterwln/rxenvironments-examples)**|
 |**2024-09-17**|**Distributed Optimization for Traffic Light Control and Connected Automated Vehicle Coordination in Mixed-Traffic Intersections**|Viet-Anh Le et.al.|[2409.10864](http://arxiv.org/abs/2409.10864)|null|
-|**2024-09-16**|**AutoSafeCoder: A Multi-Agent Framework for Securing LLM Code Generation through Static Analysis and Fuzz Testing**|Ana Nunez et.al.|[2409.10737](http://arxiv.org/abs/2409.10737)|null|
+|**2024-09-16**|**AutoSafeCoder: A Multi-Agent Framework for Securing LLM Code Generation through Static Analysis and Fuzz Testing**|Ana Nunez et.al.|[2409.10737](http://arxiv.org/abs/2409.10737)|**[link](https://github.com/secureaiautonomylab/autosafecoder)**|
 |**2024-09-16**|**Multi-agent Path Finding in Continuous Environment**|Kristýna Janovská et.al.|[2409.10680](http://arxiv.org/abs/2409.10680)|null|
 |**2024-09-16**|**Decentralized and Asymmetric Multi-Agent Learning in Construction Sites**|Yakov Miron et.al.|[2409.10375](http://arxiv.org/abs/2409.10375)|null|
 |**2024-09-16**|**Multi-Agent Obstacle Avoidance using Velocity Obstacles and Control Barrier Functions**|Alejandro Sánchez Roncero et.al.|[2409.10117](http://arxiv.org/abs/2409.10117)|null|
@@ -500,7 +500,7 @@ layout: default
 |**2024-07-16**|**Distributed Prescribed-Time Convex Optimization: Cascade Design and Time-Varying Gain Approach**|Gewei Zuo et.al.|[2407.11413](http://arxiv.org/abs/2407.11413)|null|
 |**2024-07-16**|**Prescribed-time Cooperative Output Regulation of Linear Heterogeneous Multi-agent Systems**|Gewei Zuo et.al.|[2407.11408](http://arxiv.org/abs/2407.11408)|null|
 |**2024-07-16**|**InvAgent: A Large Language Model based Multi-Agent System for Inventory Management in Supply Chains**|Yinzhu Quan et.al.|[2407.11384](http://arxiv.org/abs/2407.11384)|**[link](https://github.com/zefang-liu/InvAgent)**|
-|**2024-07-16**|**Digital Twin Vehicular Edge Computing Network: Task Offloading and Resource Allocation**|Yu Xie et.al.|[2407.11310](http://arxiv.org/abs/2407.11310)|null|
+|**2024-07-16**|**Digital Twin Vehicular Edge Computing Network: Task Offloading and Resource Allocation**|Yu Xie et.al.|[2407.11310](http://arxiv.org/abs/2407.11310)|**[link](https://github.com/qiongwu86/digital-twin-vehicular-edge-computing-network_task-offloading-and-resource-allocation)**|
 |**2024-07-16**|**Sibyl: Simple yet Effective Agent Framework for Complex Real-world Reasoning**|Yulong Wang et.al.|[2407.10718](http://arxiv.org/abs/2407.10718)|**[link](https://github.com/ag2s1/sibyl-system)**|
 |**2024-07-16**|**Back to Newton's Laws: Learning Vision-based Agile Flight via Differentiable Physics**|Yuang Zhang et.al.|[2407.10648](http://arxiv.org/abs/2407.10648)|null|
 |**2024-07-15**|**Cooperative Reward Shaping for Multi-Agent Pathfinding**|Zhenyu Song et.al.|[2407.10403](http://arxiv.org/abs/2407.10403)|null|
@@ -718,7 +718,7 @@ layout: default
 |**2024-05-24**|**SMART: Scalable Multi-agent Real-time Simulation via Next-token Prediction**|Wei Wu et.al.|[2405.15677](http://arxiv.org/abs/2405.15677)|**[link](https://github.com/regenmacher22/SMART)**|
 |**2024-05-24**|**Human-in-the-loop Reinforcement Learning for Data Quality Monitoring in Particle Physics Experiments**|Olivia Jullian Parra et.al.|[2405.15508](http://arxiv.org/abs/2405.15508)|null|
 |**2024-05-24**|**Distributed Adaptive Control of Disturbed Interconnected Systems with High-Order Tuners**|Moh. Kamalul Wafi et.al.|[2405.15178](http://arxiv.org/abs/2405.15178)|null|
-|**2024-05-24**|**CulturePark: Boosting Cross-cultural Understanding in Large Language Models**|Cheng Li et.al.|[2405.15145](http://arxiv.org/abs/2405.15145)|null|
+|**2024-05-24**|**CulturePark: Boosting Cross-cultural Understanding in Large Language Models**|Cheng Li et.al.|[2405.15145](http://arxiv.org/abs/2405.15145)|**[link](https://github.com/scarelette/culturepark)**|
 |**2024-05-23**|**Controlling Behavioral Diversity in Multi-Agent Reinforcement Learning**|Matteo Bettini et.al.|[2405.15054](http://arxiv.org/abs/2405.15054)|**[link](https://github.com/proroklab/controllingbehavioraldiversity)**|
 |**2024-05-23**|**CityGPT: Towards Urban IoT Learning, Analysis and Interaction with Multi-Agent System**|Qinghua Guan et.al.|[2405.14691](http://arxiv.org/abs/2405.14691)|null|
 |**2024-05-23**|**AI-Olympics: Exploring the Generalization of Agents through Open Competitions**|Chen Wang et.al.|[2405.14358](http://arxiv.org/abs/2405.14358)|null|

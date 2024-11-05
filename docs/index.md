@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**Revisiting Game-Theoretic Control in Socio-Technical Networks: Emerging Design Frameworks and Contemporary Applications**|Quanyan Zhu et.al.|[2411.01794](http://arxiv.org/abs/2411.01794)|null|
+|**2024-11-04**|**Lyapunov-guided Multi-Agent Reinforcement Learning for Delay-Sensitive Wireless Scheduling**|Cheng Zhang et.al.|[2411.01766](http://arxiv.org/abs/2411.01766)|null|
+|**2024-11-03**|**Large-Scale Multi-Robot Coverage Path Planning on Grids with Path Deconfliction**|Jingtao Tang et.al.|[2411.01707](http://arxiv.org/abs/2411.01707)|**[link](https://github.com/reso1/ls-mcpp)**|
+|**2024-11-03**|**Learning to Construct Implicit Communication Channel**|Han Wang et.al.|[2411.01553](http://arxiv.org/abs/2411.01553)|null|
+|**2024-11-03**|**HiMemFormer: Hierarchical Memory-Aware Transformer for Multi-Agent Action Anticipation**|Zirui Wang et.al.|[2411.01455](http://arxiv.org/abs/2411.01455)|null|
+|**2024-11-03**|**Online Relational Inference for Evolving Multi-agent Interacting Systems**|Beomseok Kang et.al.|[2411.01442](http://arxiv.org/abs/2411.01442)|null|
+|**2024-11-02**|**Guiding Multi-agent Multi-task Reinforcement Learning by a Hierarchical Framework with Logical Reward Shaping**|Chanjuan Liu et.al.|[2411.01184](http://arxiv.org/abs/2411.01184)|null|
+|**2024-11-02**|**Role Play: Learning Adaptive Role-Specific Strategies in Multi-Agent Interactions**|Weifan Long et.al.|[2411.01166](http://arxiv.org/abs/2411.01166)|null|
+|**2024-11-01**|**Sample-Efficient Regret-Minimizing Double Oracle in Extensive-Form Games**|Xiaohang Tang et.al.|[2411.00954](http://arxiv.org/abs/2411.00954)|null|
+|**2024-11-01**|**LogiCity: Advancing Neuro-Symbolic AI with Abstract Urban Simulation**|Bowen Li et.al.|[2411.00773](http://arxiv.org/abs/2411.00773)|null|
 |**2024-10-31**|**Language-Driven Policy Distillation for Cooperative Driving in Multi-Agent Reinforcement Learning**|Jiaqi Liu et.al.|[2410.24152](http://arxiv.org/abs/2410.24152)|null|
 |**2024-10-31**|**Navigating the Unknown: A Chat-Based Collaborative Interface for Personalized Exploratory Tasks**|Yingzhe Peng et.al.|[2410.24032](http://arxiv.org/abs/2410.24032)|null|
 |**2024-10-31**|**QuACK: A Multipurpose Queuing Algorithm for Cooperative $k$ -Armed Bandits**|Benjamin Howson et.al.|[2410.23867](http://arxiv.org/abs/2410.23867)|null|

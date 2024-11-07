@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.06
+## Updated on 2024.11.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |**2024-11-05**|**Polyhedral study of a temporal rural postman problem: application in inspection of railway track without disturbing train schedules**|Somnath Buriuly et.al.|[2411.02822](http://arxiv.org/abs/2411.02822)|null|
 |**2024-11-05**|**DroidSpeak: Enhancing Cross-LLM Communication**|Yuhan Liu et.al.|[2411.02820](http://arxiv.org/abs/2411.02820)|null|
 |**2024-11-04**|**Multi-Agent Decision Transformers for Dynamic Dispatching in Material Handling Systems Leveraging Enterprise Big Data**|Xian Yeow Lee et.al.|[2411.02584](http://arxiv.org/abs/2411.02584)|null|
-|**2024-11-04**|**Revisiting Game-Theoretic Control in Socio-Technical Networks: Emerging Design Frameworks and Contemporary Applications**|Quanyan Zhu et.al.|[2411.01794](http://arxiv.org/abs/2411.01794)|null|
+|**2024-11-05**|**Revisiting Game-Theoretic Control in Socio-Technical Networks: Emerging Design Frameworks and Contemporary Applications**|Quanyan Zhu et.al.|[2411.01794](http://arxiv.org/abs/2411.01794)|null|
 |**2024-11-05**|**Lyapunov-guided Multi-Agent Reinforcement Learning for Delay-Sensitive Wireless Scheduling**|Cheng Zhang et.al.|[2411.01766](http://arxiv.org/abs/2411.01766)|null|
 |**2024-11-03**|**Large-Scale Multi-Robot Coverage Path Planning on Grids with Path Deconfliction**|Jingtao Tang et.al.|[2411.01707](http://arxiv.org/abs/2411.01707)|**[link](https://github.com/reso1/ls-mcpp)**|
 |**2024-11-03**|**Learning to Construct Implicit Communication Channel**|Han Wang et.al.|[2411.01553](http://arxiv.org/abs/2411.01553)|null|
@@ -1303,7 +1303,7 @@
 |**2023-12-30**|**Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning**|Xin Yu et.al.|[2401.00167](http://arxiv.org/abs/2401.00167)|null|
 |**2023-12-30**|**Contrastive learning-based agent modeling for deep reinforcement learning**|Wenhao Ma et.al.|[2401.00132](http://arxiv.org/abs/2401.00132)|null|
 
-<p align=right>(<a href=#updated-on-20241106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241107>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

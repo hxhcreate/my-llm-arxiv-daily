@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**Incentive Design with Spillovers**|Krishna Dasaratha et.al.|[2411.08026](http://arxiv.org/abs/2411.08026)|null|
+|**2024-11-12**|**Mitigating Bias in Queer Representation within Large Language Models: A Collaborative Agent Approach**|Tianyi Huang et.al.|[2411.07656](http://arxiv.org/abs/2411.07656)|**[link](https://github.com/tonyhrule/queer-bias-llms)**|
+|**2024-11-12**|**Exploring Multi-Agent Reinforcement Learning for Unrelated Parallel Machine Scheduling**|Maria Zampella et.al.|[2411.07634](http://arxiv.org/abs/2411.07634)|null|
+|**2024-11-12**|**A Simple Multi-agent Joint Prediction Method for Autonomous Driving**|Mingyi Wang et.al.|[2411.07612](http://arxiv.org/abs/2411.07612)|null|
+|**2024-11-12**|**Stability for a stochastic fractional differential variational inequality with Lévy jump**|Yue Zeng et.al.|[2411.07557](http://arxiv.org/abs/2411.07557)|null|
+|**2024-11-12**|**BudgetMLAgent: A Cost-Effective LLM Multi-Agent system for Automating Machine Learning Tasks**|Shubham Gandhi et.al.|[2411.07464](http://arxiv.org/abs/2411.07464)|null|
+|**2024-11-11**|**Using Generative AI and Multi-Agents to Provide Automatic Feedback**|Shuchen Guo et.al.|[2411.07407](http://arxiv.org/abs/2411.07407)|null|
+|**2024-11-11**|**Factorised Active Inference for Strategic Multi-Agent Interactions**|Jaime Ruiz-Serra et.al.|[2411.07362](http://arxiv.org/abs/2411.07362)|null|
 |**2024-11-11**|**RoundTable: Investigating Group Decision-Making Mechanism in Multi-Agent Collaboration**|Young-Min Cho et.al.|[2411.07161](http://arxiv.org/abs/2411.07161)|null|
 |**2024-11-11**|**Learning Multi-Agent Collaborative Manipulation for Long-Horizon Quadrupedal Pushing**|Chuye Hong et.al.|[2411.07104](http://arxiv.org/abs/2411.07104)|null|
 |**2024-11-11**|**A Multi-Agent Approach for REST API Testing with Semantic Graphs and LLM-Driven Inputs**|Myeongsoo Kim et.al.|[2411.07098](http://arxiv.org/abs/2411.07098)|null|

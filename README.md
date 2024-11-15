@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**Strategic Sacrifice: Self-Organized Robot Swarm Localization for Inspection Productivity**|Sneha Ramshanker et.al.|[2411.09493](http://arxiv.org/abs/2411.09493)|null|
 |**2024-11-13**|**FinRobot: AI Agent for Equity Research and Valuation with Large Language Models**|Tianyu Zhou et.al.|[2411.08804](http://arxiv.org/abs/2411.08804)|**[link](https://github.com/ai4finance-foundation/finrobot)**|
 |**2024-11-13**|**BAMAX: Backtrack Assisted Multi-Agent Exploration using Reinforcement Learning**|Geetansh Kalra et.al.|[2411.08400](http://arxiv.org/abs/2411.08400)|null|
 |**2024-11-13**|**Communication Efficient Decentralization for Smoothed Online Convex Optimization**|Neelkamal Bhuyan et.al.|[2411.08355](http://arxiv.org/abs/2411.08355)|null|

@@ -35,7 +35,7 @@ layout: default
 |**2024-11-11**|**Learning Multi-Agent Collaborative Manipulation for Long-Horizon Quadrupedal Pushing**|Chuye Hong et.al.|[2411.07104](http://arxiv.org/abs/2411.07104)|null|
 |**2024-11-11**|**A Multi-Agent Approach for REST API Testing with Semantic Graphs and LLM-Driven Inputs**|Myeongsoo Kim et.al.|[2411.07098](http://arxiv.org/abs/2411.07098)|null|
 |**2024-11-11**|**Learning Collective Dynamics of Multi-Agent Systems using Event-based Vision**|Minah Lee et.al.|[2411.07039](http://arxiv.org/abs/2411.07039)|null|
-|**2024-11-11**|**Distributed Graph Augmentation Protocols to Achieve Strong Connectivity in Multi-Agent Networks**|Guilherme Ramos et.al.|[2411.06880](http://arxiv.org/abs/2411.06880)|null|
+|**2024-11-11**|**Distributed Graph Augmentation Protocols to Achieve Strong Connectivity in Multi-Agent Networks**|Guilherme Ramos et.al.|[2411.06880](http://arxiv.org/abs/2411.06880)|**[link](https://github.com/xuizy/distributed_network_augmentation)**|
 |**2024-11-11**|**Ambient AI Scribing Support: Comparing the Performance of Specialized AI Agentic Architecture to Leading Foundational Models**|Chanseo Lee et.al.|[2411.06713](http://arxiv.org/abs/2411.06713)|null|
 |**2024-11-10**|**OffLight: An Offline Multi-Agent Reinforcement Learning Framework for Traffic Signal Control**|Rohit Bokade et.al.|[2411.06601](http://arxiv.org/abs/2411.06601)|null|
 |**2024-11-10**|**MA-DV2F: A Multi-Agent Navigation Framework using Dynamic Velocity Vector Field**|Yining Ma et.al.|[2411.06404](http://arxiv.org/abs/2411.06404)|null|
@@ -79,7 +79,7 @@ layout: default
 |**2024-11-02**|**Guiding Multi-agent Multi-task Reinforcement Learning by a Hierarchical Framework with Logical Reward Shaping**|Chanjuan Liu et.al.|[2411.01184](http://arxiv.org/abs/2411.01184)|null|
 |**2024-11-02**|**Role Play: Learning Adaptive Role-Specific Strategies in Multi-Agent Interactions**|Weifan Long et.al.|[2411.01166](http://arxiv.org/abs/2411.01166)|null|
 |**2024-11-01**|**Sample-Efficient Regret-Minimizing Double Oracle in Extensive-Form Games**|Xiaohang Tang et.al.|[2411.00954](http://arxiv.org/abs/2411.00954)|null|
-|**2024-11-01**|**LogiCity: Advancing Neuro-Symbolic AI with Abstract Urban Simulation**|Bowen Li et.al.|[2411.00773](http://arxiv.org/abs/2411.00773)|null|
+|**2024-11-01**|**LogiCity: Advancing Neuro-Symbolic AI with Abstract Urban Simulation**|Bowen Li et.al.|[2411.00773](http://arxiv.org/abs/2411.00773)|**[link](https://github.com/Jaraxxus-Me/LogiCity)**|
 |**2024-10-31**|**Language-Driven Policy Distillation for Cooperative Driving in Multi-Agent Reinforcement Learning**|Jiaqi Liu et.al.|[2410.24152](http://arxiv.org/abs/2410.24152)|null|
 |**2024-10-31**|**Navigating the Unknown: A Chat-Based Collaborative Interface for Personalized Exploratory Tasks**|Yingzhe Peng et.al.|[2410.24032](http://arxiv.org/abs/2410.24032)|null|
 |**2024-10-31**|**QuACK: A Multipurpose Queuing Algorithm for Cooperative $k$ -Armed Bandits**|Benjamin Howson et.al.|[2410.23867](http://arxiv.org/abs/2410.23867)|null|

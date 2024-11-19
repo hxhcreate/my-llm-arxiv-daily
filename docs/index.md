@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-18**|**Competing Bandits in Decentralized Large Contextual Matching Markets**|Satush Parikh et.al.|[2411.11794](http://arxiv.org/abs/2411.11794)|null|
+|**2024-11-18**|**The Power of Many: Multi-Agent Multimodal Models for Cultural Image Captioning**|Longju Bai et.al.|[2411.11758](http://arxiv.org/abs/2411.11758)|null|
+|**2024-11-18**|**Signaling and Social Learning in Swarms of Robots**|Leo Cazenille et.al.|[2411.11616](http://arxiv.org/abs/2411.11616)|null|
+|**2024-11-18**|**Syllabus: Portable Curricula for Reinforcement Learning Agents**|Ryan Sullivan et.al.|[2411.11318](http://arxiv.org/abs/2411.11318)|null|
+|**2024-11-17**|**Emergent Structure in Multi-agent Systems Using Geometric Embeddings**|Dimitria Silveria et.al.|[2411.11142](http://arxiv.org/abs/2411.11142)|null|
+|**2024-11-17**|**Mitigating Relative Over-Generalization in Multi-Agent Reinforcement Learning**|Ting Zhu et.al.|[2411.11099](http://arxiv.org/abs/2411.11099)|null|
+|**2024-11-17**|**Joint Precoding and AP Selection for Energy Efficient RIS-aided Cell-Free Massive MIMO Using Multi-agent Reinforcement Learning**|Enyu Shi et.al.|[2411.11070](http://arxiv.org/abs/2411.11070)|null|
+|**2024-11-17**|**Reinforcing Competitive Multi-Agents for Playing So Long Sucker**|Medant Sharan et.al.|[2411.11057](http://arxiv.org/abs/2411.11057)|null|
+|**2024-11-16**|**Existence of $ε$ -Nash Equilibria in Nonzero-Sum Borel Stochastic Games and Equilibria of Quantized Models**|Naci Saldi et.al.|[2411.10805](http://arxiv.org/abs/2411.10805)|null|
+|**2024-11-16**|**Distributed Optimization Method Based On Optimal Control**|Ziyuan Guo et.al.|[2411.10658](http://arxiv.org/abs/2411.10658)|null|
 |**2024-11-15**|**Evaluating Creativity and Deception in Large Language Models: A Simulation Framework for Multi-Agent Balderdash**|Parsa Hejabi et.al.|[2411.10422](http://arxiv.org/abs/2411.10422)|**[link](https://github.com/parsahejabi/simulation-framework-for-multi-agent-balderdash)**|
 |**2024-11-15**|**Towards Sample-Efficiency and Generalization of Transfer and Inverse Reinforcement Learning: A Comprehensive Literature Review**|Hossein Hassani et.al.|[2411.10268](http://arxiv.org/abs/2411.10268)|null|
 |**2024-11-15**|**Agentic LLMs in the Supply Chain: Towards Autonomous Multi-Agent Consensus-Seeking**|Valeria Jannelli et.al.|[2411.10184](http://arxiv.org/abs/2411.10184)|null|

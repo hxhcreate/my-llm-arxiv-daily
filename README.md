@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-21**|**Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models**|Yuhao Dong et.al.|[2411.14432](http://arxiv.org/abs/2411.14432)|**[link](https://github.com/dongyh20/insight-v)**|
+|**2024-11-21**|**Multi-Agent Environments for Vehicle Routing Problems**|Ricardo Gama et.al.|[2411.14411](http://arxiv.org/abs/2411.14411)|null|
+|**2024-11-21**|**Explainable Multi-Agent Reinforcement Learning for Extended Reality Codec Adaptation**|Pedro Enrique Iturria-Rivera et.al.|[2411.14264](http://arxiv.org/abs/2411.14264)|null|
+|**2024-11-21**|**Learning Two-agent Motion Planning Strategies from Generalized Nash Equilibrium for Model Predictive Control**|Hansung Kim et.al.|[2411.13983](http://arxiv.org/abs/2411.13983)|null|
+|**2024-11-21**|**Cooperative Grasping and Transportation using Multi-agent Reinforcement Learning with Ternary Force Representation**|Ing-Sheng Bernard-Tiong et.al.|[2411.13942](http://arxiv.org/abs/2411.13942)|null|
+|**2024-11-21**|**LLMs as Continuous Learners: Improving the Reproduction of Defective Code in Software Issues**|Yalan Lin et.al.|[2411.13941](http://arxiv.org/abs/2411.13941)|null|
+|**2024-11-21**|**Learning to Cooperate with Humans using Generative Agents**|Yancheng Liang et.al.|[2411.13934](http://arxiv.org/abs/2411.13934)|**[link](https://github.com/lych1233/gamma-human-ai-collaboration)**|
+|**2024-11-21**|**XAgents: A Framework for Interpretable Rule-Based Multi-Agents Cooperation**|Hailong Yang et.al.|[2411.13932](http://arxiv.org/abs/2411.13932)|null|
+|**2024-11-21**|**PIORS: Personalized Intelligent Outpatient Reception based on Large Language Model with Multi-Agents Medical Scenario Simulation**|Zhijie Bao et.al.|[2411.13902](http://arxiv.org/abs/2411.13902)|null|
+|**2024-11-21**|**Weak synchronization in heterogeneous multi-agent systems**|Anton A. Stoorvogel et.al.|[2411.13806](http://arxiv.org/abs/2411.13806)|null|
 |**2024-11-20**|**WHALES: A Multi-agent Scheduling Dataset for Enhanced Cooperation in Autonomous Driving**|Siwei Chen et.al.|[2411.13340](http://arxiv.org/abs/2411.13340)|**[link](https://github.com/chensiweithu/whales)**|
 |**2024-11-20**|**Cyborg Insect Factory: Automatic Assembly System to Build up Insect-computer Hybrid Robot Based on Vision-guided Robotic Arm Manipulation of Custom Bipolar Electrodes**|Qifeng Lin et.al.|[2411.13164](http://arxiv.org/abs/2411.13164)|null|
 |**2024-11-19**|**Human-In-the-Loop Software Development Agents**|Wannita Takerngsaksiri et.al.|[2411.12924](http://arxiv.org/abs/2411.12924)|null|

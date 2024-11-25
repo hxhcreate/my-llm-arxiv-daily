@@ -29,11 +29,11 @@ layout: default
 |**2024-11-19**|**Human-In-the-Loop Software Development Agents**|Wannita Takerngsaksiri et.al.|[2411.12924](http://arxiv.org/abs/2411.12924)|null|
 |**2024-11-19**|**C $^{2}$ INet: Realizing Incremental Trajectory Prediction with Prior-Aware Continual Causal Intervention**|Xiaohe Li et.al.|[2411.12313](http://arxiv.org/abs/2411.12313)|null|
 |**2024-11-19**|**Efficient Training in Multi-Agent Reinforcement Learning: A Communication-Free Framework for the Box-Pushing Problem**|David Ge et.al.|[2411.12246](http://arxiv.org/abs/2411.12246)|null|
-|**2024-11-19**|**Safe Navigation in Dynamic Environments using Density Functions**|Sriram S. K. S Narayanan et.al.|[2411.12206](http://arxiv.org/abs/2411.12206)|null|
+|**2024-11-19**|**Safe Navigation in Dynamic Environments using Density Functions**|Sriram S. K. S Narayanan et.al.|[2411.12206](http://arxiv.org/abs/2411.12206)|**[link](https://github.com/sriram-2502/time_varying_density)**|
 |**2024-11-19**|**A More Advanced Group Polarization Measurement Approach Based on LLM-Based Agents and Graphs**|Zixin Liu et.al.|[2411.12196](http://arxiv.org/abs/2411.12196)|null|
 |**2024-11-19**|**Adversarial Multi-Agent Reinforcement Learning for Proactive False Data Injection Detection**|Kejun Chen et.al.|[2411.12130](http://arxiv.org/abs/2411.12130)|null|
 |**2024-11-18**|**Competing Bandits in Decentralized Large Contextual Matching Markets**|Satush Parikh et.al.|[2411.11794](http://arxiv.org/abs/2411.11794)|null|
-|**2024-11-18**|**The Power of Many: Multi-Agent Multimodal Models for Cultural Image Captioning**|Longju Bai et.al.|[2411.11758](http://arxiv.org/abs/2411.11758)|null|
+|**2024-11-18**|**The Power of Many: Multi-Agent Multimodal Models for Cultural Image Captioning**|Longju Bai et.al.|[2411.11758](http://arxiv.org/abs/2411.11758)|**[link](https://github.com/michigannlp/mosaic)**|
 |**2024-11-19**|**Signaling and Social Learning in Swarms of Robots**|Leo Cazenille et.al.|[2411.11616](http://arxiv.org/abs/2411.11616)|null|
 |**2024-11-18**|**Syllabus: Portable Curricula for Reinforcement Learning Agents**|Ryan Sullivan et.al.|[2411.11318](http://arxiv.org/abs/2411.11318)|**[link](https://github.com/RyanNavillus/Syllabus)**|
 |**2024-11-17**|**Emergent Structure in Multi-agent Systems Using Geometric Embeddings**|Dimitria Silveria et.al.|[2411.11142](http://arxiv.org/abs/2411.11142)|null|
@@ -47,7 +47,7 @@ layout: default
 |**2024-11-15**|**Agentic LLMs in the Supply Chain: Towards Autonomous Multi-Agent Consensus-Seeking**|Valeria Jannelli et.al.|[2411.10184](http://arxiv.org/abs/2411.10184)|null|
 |**2024-11-15**|**Enforcing Cooperative Safety for Reinforcement Learning-based Mixed-Autonomy Platoon Control**|Jingyuan Zhou et.al.|[2411.10031](http://arxiv.org/abs/2411.10031)|null|
 |**2024-11-15**|**Reaching Resilient Leader-Follower Consensus in Time-Varying Networks via Multi-Hop Relays**|Liwei Yuan et.al.|[2411.09954](http://arxiv.org/abs/2411.09954)|null|
-|**2024-11-15**|**InvestESG: A multi-agent reinforcement learning benchmark for studying climate investment as a social dilemma**|Xiaoxuan Hou et.al.|[2411.09856](http://arxiv.org/abs/2411.09856)|null|
+|**2024-11-15**|**InvestESG: A multi-agent reinforcement learning benchmark for studying climate investment as a social dilemma**|Xiaoxuan Hou et.al.|[2411.09856](http://arxiv.org/abs/2411.09856)|**[link](https://github.com/yuanjiayiy/InvestESG)**|
 |**2024-11-14**|**Strategic Sacrifice: Self-Organized Robot Swarm Localization for Inspection Productivity**|Sneha Ramshanker et.al.|[2411.09493](http://arxiv.org/abs/2411.09493)|null|
 |**2024-11-13**|**FinRobot: AI Agent for Equity Research and Valuation with Large Language Models**|Tianyu Zhou et.al.|[2411.08804](http://arxiv.org/abs/2411.08804)|**[link](https://github.com/ai4finance-foundation/finrobot)**|
 |**2024-11-13**|**BAMAX: Backtrack Assisted Multi-Agent Exploration using Reinforcement Learning**|Geetansh Kalra et.al.|[2411.08400](http://arxiv.org/abs/2411.08400)|null|
@@ -81,7 +81,7 @@ layout: default
 |**2024-11-08**|**Time-to-reach Bounds for Verification of Dynamical Systems Using the Koopman Spectrum**|Jianqiang Ding et.al.|[2411.05554](http://arxiv.org/abs/2411.05554)|null|
 |**2024-11-08**|**Emergent Cooperative Strategies for Multi-Agent Shepherding via Reinforcement Learning**|Italo Napolitano et.al.|[2411.05454](http://arxiv.org/abs/2411.05454)|null|
 |**2024-11-08**|**VISTA: Visual Integrated System for Tailored Automation in Math Problem Generation Using LLM**|Jeongwoo Lee et.al.|[2411.05423](http://arxiv.org/abs/2411.05423)|null|
-|**2024-11-08**|**LLM-PySC2: Starcraft II learning environment for Large Language Models**|Zongyuan Li et.al.|[2411.05348](http://arxiv.org/abs/2411.05348)|null|
+|**2024-11-08**|**LLM-PySC2: Starcraft II learning environment for Large Language Models**|Zongyuan Li et.al.|[2411.05348](http://arxiv.org/abs/2411.05348)|**[link](https://github.com/nkai-decision-team/llm-pysc2)**|
 |**2024-11-07**|**Performative Reinforcement Learning with Linear Markov Decision Process**|Debmalya Mandal et.al.|[2411.05234](http://arxiv.org/abs/2411.05234)|null|
 |**2024-11-07**|**Maximizing User Connectivity in AI-Enabled Multi-UAV Networks: A Distributed Strategy Generalized to Arbitrary User Distributions**|Bowei Li et.al.|[2411.05205](http://arxiv.org/abs/2411.05205)|null|
 |**2024-11-07**|**PentestAgent: Incorporating LLM Agents to Automated Penetration Testing**|Xiangmin Shen et.al.|[2411.05185](http://arxiv.org/abs/2411.05185)|null|
@@ -236,7 +236,7 @@ layout: default
 |**2024-10-12**|**CAMPHOR: Collaborative Agents for Multi-input Planning and High-Order Reasoning On Device**|Yicheng Fu et.al.|[2410.09407](http://arxiv.org/abs/2410.09407)|null|
 |**2024-10-12**|**Two Heads Are Better Than One: A Multi-Agent System Has the Potential to Improve Scientific Idea Generation**|Haoyang Su et.al.|[2410.09403](http://arxiv.org/abs/2410.09403)|**[link](https://github.com/open-sciencelab/social_science)**|
 |**2024-10-12**|**LLM-SmartAudit: Advanced Smart Contract Vulnerability Detection**|Zhiyuan Wei et.al.|[2410.09381](http://arxiv.org/abs/2410.09381)|**[link](https://github.com/LLMAudit/LLMSmartAuditTool)**|
-|**2024-10-11**|**PEAR: A Robust and Flexible Automation Framework for Ptychography Enabled by Multiple Large Language Model Agents**|Xiangyu Yin et.al.|[2410.09034](http://arxiv.org/abs/2410.09034)|null|
+|**2024-10-11**|**PEAR: A Robust and Flexible Automation Framework for Ptychography Enabled by Multiple Large Language Model Agents**|Xiangyu Yin et.al.|[2410.09034](http://arxiv.org/abs/2410.09034)|**[link](https://github.com/xyin-anl/Nodeology)**|
 |**2024-10-11**|**The Dynamics of Social Conventions in LLM populations: Spontaneous Emergence, Collective Biases and Tipping Points**|Ariel Flint Ashery et.al.|[2410.08948](http://arxiv.org/abs/2410.08948)|null|
 |**2024-10-11**|**Deep Learning Algorithms for Mean Field Optimal Stopping in Finite Space and Discrete Time**|Lorenzo Magnino et.al.|[2410.08850](http://arxiv.org/abs/2410.08850)|null|
 |**2024-10-11**|**Efficiently Scanning and Resampling Spatio-Temporal Tasks with Irregular Observations**|Bryce Ferenczi et.al.|[2410.08681](http://arxiv.org/abs/2410.08681)|null|
@@ -799,7 +799,7 @@ layout: default
 |**2024-05-28**|**Safe Multi-Agent Reinforcement Learning with Bilevel Optimization in Autonomous Driving**|Zhi Zheng et.al.|[2405.18209](http://arxiv.org/abs/2405.18209)|**[link](https://github.com/saferl-lab/safe-marl-in-autonomous-driving)**|
 |**2024-05-28**|**Mutation-Bias Learning in Games**|Johann Bauer et.al.|[2405.18190](http://arxiv.org/abs/2405.18190)|null|
 |**2024-05-28**|**PyTAG: Tabletop Games for Multi-Agent Reinforcement Learning**|Martin Balla et.al.|[2405.18123](http://arxiv.org/abs/2405.18123)|**[link](https://github.com/martinballa/pytag)**|
-|**2024-05-28**|**ATM: Adversarial Tuning Multi-agent System Makes a Robust Retrieval-Augmented Generator**|Junda Zhu et.al.|[2405.18111](http://arxiv.org/abs/2405.18111)|null|
+|**2024-05-28**|**ATM: Adversarial Tuning Multi-agent System Makes a Robust Retrieval-Augmented Generator**|Junda Zhu et.al.|[2405.18111](http://arxiv.org/abs/2405.18111)|**[link](https://github.com/chuhac/atm-rag)**|
 |**2024-05-28**|**Individual Contributions as Intrinsic Exploration Scaffolds for Multi-agent Reinforcement Learning**|Xinran Li et.al.|[2405.18110](http://arxiv.org/abs/2405.18110)|**[link](https://github.com/lxxxxr/ices)**|
 |**2024-05-28**|**LLM experiments with simulation: Large Language Model Multi-Agent System for Process Simulation Parametrization in Digital Twins**|Yuchen Xia et.al.|[2405.18092](http://arxiv.org/abs/2405.18092)|**[link](https://github.com/yuchenxia/llmdrivensimulation)**|
 |**2024-05-28**|**Cognitive Insights and Stable Coalition Matching for Fostering Multi-Agent Cooperation**|Jiaqi Shao et.al.|[2405.18044](http://arxiv.org/abs/2405.18044)|null|
@@ -1215,7 +1215,7 @@ layout: default
 |**2024-02-13**|**Optimal Task Assignment and Path Planning using Conflict-Based Search with Precedence and Temporal Constraints**|Yu Quan Chong et.al.|[2402.08772](http://arxiv.org/abs/2402.08772)|null|
 |**2024-02-13**|**Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast**|Xiangming Gu et.al.|[2402.08567](http://arxiv.org/abs/2402.08567)|**[link](https://github.com/sail-sg/agent-smith)**|
 |**2024-02-13**|**Fairness Auditing with Multi-Agent Collaboration**|Martijn de Vos et.al.|[2402.08522](http://arxiv.org/abs/2402.08522)|**[link](https://github.com/sacs-epfl/fairness-audits-with-collaboration)**|
-|**2024-02-13**|**Conservative and Risk-Aware Offline Multi-Agent Reinforcement Learning for Digital Twins**|Eslam Eldeeb et.al.|[2402.08421](http://arxiv.org/abs/2402.08421)|null|
+|**2024-02-13**|**Conservative and Risk-Aware Offline Multi-Agent Reinforcement Learning for Digital Twins**|Eslam Eldeeb et.al.|[2402.08421](http://arxiv.org/abs/2402.08421)|**[link](https://github.com/eslam211/conservative-and-distributional-marl)**|
 |**2024-02-13**|**Interacting Particle Systems on Networks: joint inference of the network and the interaction kernel**|Quanjun Lang et.al.|[2402.08412](http://arxiv.org/abs/2402.08412)|null|
 |**2024-02-13**|**Simulating Human Strategic Behavior: Comparing Single and Multi-agent LLMs**|Karthik Sreedhar et.al.|[2402.08189](http://arxiv.org/abs/2402.08189)|null|
 |**2024-02-13**|**Enabling Multi-Agent Transfer Reinforcement Learning via Scenario Independent Representation**|Ayesha Siddika Nipu et.al.|[2402.08184](http://arxiv.org/abs/2402.08184)|null|

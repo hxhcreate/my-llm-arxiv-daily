@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-25**|**Barriers on the EDGE: A scalable CBF architecture over EDGE for safe aerial-ground multi-agent coordination**|Viswa Narayanan Sankaranarayanan et.al.|[2411.16608](http://arxiv.org/abs/2411.16608)|null|
+|**2024-11-25**|**Online Guidance Graph Optimization for Lifelong Multi-Agent Path Finding**|Hongzhi Zang et.al.|[2411.16506](http://arxiv.org/abs/2411.16506)|null|
+|**2024-11-25**|**A Multi-agent Framework for Materials Laws Discovery**|Bo Hu et.al.|[2411.16416](http://arxiv.org/abs/2411.16416)|null|
+|**2024-11-25**|**Enhancing Multi-Agent Consensus through Third-Party LLM Integration: Analyzing Uncertainty and Mitigating Hallucinations in Large Language Models**|Zhihua Duan et.al.|[2411.16189](http://arxiv.org/abs/2411.16189)|null|
+|**2024-11-25**|**Multi-Robot Reliable Navigation in Uncertain Topological Environments with Graph Attention Networks**|Zhuoyuan Yu et.al.|[2411.16134](http://arxiv.org/abs/2411.16134)|null|
+|**2024-11-24**|**PIANIST: Learning Partially Observable World Models with LLMs for Multi-Agent Decision Making**|Jonathan Light et.al.|[2411.15998](http://arxiv.org/abs/2411.15998)|null|
+|**2024-11-24**|**Lattice $φ^{4}$ field theory as a multi-agent system of financial markets**|Dimitrios Bachtis et.al.|[2411.15813](http://arxiv.org/abs/2411.15813)|**[link](https://github.com/dbachtis/phifm)**|
+|**2024-11-24**|**DrugAgent: Automating AI-aided Drug Discovery Programming through LLM Multi-Agent Collaboration**|Sizhe Liu et.al.|[2411.15692](http://arxiv.org/abs/2411.15692)|null|
+|**2024-11-23**|**Instruct or Interact? Exploring and Eliciting LLMs' Capability in Code Snippet Adaptation Through Prompt Engineering**|Tanghaoran Zhang et.al.|[2411.15501](http://arxiv.org/abs/2411.15501)|**[link](https://github.com/ztwater/instruct-or-interact)**|
+|**2024-11-23**|**Multi-Agent Disk Inspection**|James Conley et.al.|[2411.15391](http://arxiv.org/abs/2411.15391)|null|
 |**2024-11-22**|**On Multi-Agent Inverse Reinforcement Learning**|Till Freihaut et.al.|[2411.15046](http://arxiv.org/abs/2411.15046)|null|
 |**2024-11-22**|**Safe Multi-Agent Reinforcement Learning with Convergence to Generalized Nash Equilibrium**|Zeyang Li et.al.|[2411.15036](http://arxiv.org/abs/2411.15036)|null|
 |**2024-11-22**|**Enhancing Clinical Trial Patient Matching through Knowledge Augmentation with Multi-Agents**|Hanwen Shi et.al.|[2411.14637](http://arxiv.org/abs/2411.14637)|null|

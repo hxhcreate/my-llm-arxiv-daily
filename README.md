@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.08
+## Updated on 2024.12.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,7 +19,7 @@
 |---|---|---|---|---|
 |**2024-12-05**|**GenMAC: Compositional Text-to-Video Generation with Multi-Agent Collaboration**|Kaiyi Huang et.al.|[2412.04440](http://arxiv.org/abs/2412.04440)|null|
 |**2024-12-05**|**Intersection-Aware Assessment of EMS Accessibility in NYC: A Data-Driven Approach**|Haoran Su et.al.|[2412.04369](http://arxiv.org/abs/2412.04369)|null|
-|**2024-12-05**|**Reinforcement Learning for Freeway Lane-Change Regulation via Connected Vehicles**|Ke Sun et.al.|[2412.04341](http://arxiv.org/abs/2412.04341)|null|
+|**2024-12-06**|**Reinforcement Learning for Freeway Lane-Change Regulation via Connected Vehicles**|Ke Sun et.al.|[2412.04341](http://arxiv.org/abs/2412.04341)|null|
 |**2024-12-05**|**Transient Multi-Agent Path Finding for Lifelong Navigation in Dense Environments**|Jonathan Morag et.al.|[2412.04256](http://arxiv.org/abs/2412.04256)|null|
 |**2024-12-05**|**HyperMARL: Adaptive Hypernetworks for Multi-Agent RL**|Kale-ab Abebe Tessera et.al.|[2412.04233](http://arxiv.org/abs/2412.04233)|null|
 |**2024-12-05**|**Dimension Reduction via Random Projection for Privacy in Multi-Agent Systems**|Puspanjali Ghoshal et.al.|[2412.04031](http://arxiv.org/abs/2412.04031)|null|
@@ -1446,7 +1446,7 @@
 |**2023-12-30**|**Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning**|Xin Yu et.al.|[2401.00167](http://arxiv.org/abs/2401.00167)|null|
 |**2023-12-30**|**Contrastive learning-based agent modeling for deep reinforcement learning**|Wenhao Ma et.al.|[2401.00132](http://arxiv.org/abs/2401.00132)|null|
 
-<p align=right>(<a href=#updated-on-20241208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241209>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

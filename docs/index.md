@@ -34,7 +34,7 @@ layout: default
 |**2024-12-03**|**The Problem of Social Cost in Multi-Agent General Reinforcement Learning: Survey and Synthesis**|Kee Siong Ng et.al.|[2412.02091](http://arxiv.org/abs/2412.02091)|null|
 |**2024-12-03**|**Evolution of Collective AI Beyond Individual Optimization**|Ryosuke Takata et.al.|[2412.02085](http://arxiv.org/abs/2412.02085)|null|
 |**2024-12-03**|**Comparative Analysis of Multi-Agent Reinforcement Learning Policies for Crop Planning Decision Support**|Anubha Mahajan et.al.|[2412.02057](http://arxiv.org/abs/2412.02057)|null|
-|**2024-12-02**|**Who's Gaming the System? A Causally-Motivated Approach for Detecting Strategic Adaptation**|Trenton Chang et.al.|[2412.02000](http://arxiv.org/abs/2412.02000)|null|
+|**2024-12-02**|**Who's Gaming the System? A Causally-Motivated Approach for Detecting Strategic Adaptation**|Trenton Chang et.al.|[2412.02000](http://arxiv.org/abs/2412.02000)|**[link](https://github.com/MLD3/gaming_detection)**|
 |**2024-12-02**|**ChatCollab: Exploring Collaboration Between Humans and AI Agents in Software Teams**|Benjamin Klieger et.al.|[2412.01992](http://arxiv.org/abs/2412.01992)|null|
 |**2024-12-02**|**MALT: Improving Reasoning with Multi-Agent LLM Training**|Sumeet Ramesh Motwani et.al.|[2412.01928](http://arxiv.org/abs/2412.01928)|null|
 |**2024-11-29**|**RMIO: A Model-Based MARL Framework for Scenarios with Observation Loss in Some Agents**|Shi Zifeng et.al.|[2411.19639](http://arxiv.org/abs/2411.19639)|null|

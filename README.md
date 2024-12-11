@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**Offline Multi-Agent Reinforcement Learning via In-Sample Sequential Policy Optimization**|Zongkai Liu et.al.|[2412.07639](http://arxiv.org/abs/2412.07639)|null|
+|**2024-12-10**|**Event-Triggered Memory Control for Interval Type-2 Fuzzy Heterogeneous Multi-Agent Systems**|Sen Kong et.al.|[2412.07471](http://arxiv.org/abs/2412.07471)|null|
+|**2024-12-10**|**A Distributed Deep Koopman Learning Algorithm for Control**|Wenjian Hao et.al.|[2412.07212](http://arxiv.org/abs/2412.07212)|null|
+|**2024-12-10**|**A linear-quadratic partially observed Stackelberg stochastic differential game with multiple followers and its application to multi-agent formation control**|Yichun Li et.al.|[2412.07159](http://arxiv.org/abs/2412.07159)|null|
 |**2024-12-09**|**Reasoning about Strategic Abilities in Stochastic Multi-agent Systems**|Yedi Zhang et.al.|[2412.06509](http://arxiv.org/abs/2412.06509)|null|
 |**2024-12-09**|**Augmenting the action space with conventions to improve multi-agent cooperation in Hanabi**|F. Bredell et.al.|[2412.06333](http://arxiv.org/abs/2412.06333)|null|
 |**2024-12-09**|**Vision-Based Deep Reinforcement Learning of UAV Autonomous Navigation Using Privileged Information**|Junqiao Wang et.al.|[2412.06313](http://arxiv.org/abs/2412.06313)|null|

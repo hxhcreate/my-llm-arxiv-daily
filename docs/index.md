@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-12**|**DiverseAgentEntropy: Quantifying Black-Box LLM Uncertainty through Diverse Perspectives and Multi-Agent Interaction**|Yu Feng et.al.|[2412.09572](http://arxiv.org/abs/2412.09572)|null|
+|**2024-12-12**|**From Intention To Implementation: Automating Biomedical Research via LLMs**|Yi Luo et.al.|[2412.09429](http://arxiv.org/abs/2412.09429)|null|
+|**2024-12-12**|**Reinforcement Learning Within the Classical Robotics Stack: A Case Study in Robot Soccer**|Adam Labiosa et.al.|[2412.09417](http://arxiv.org/abs/2412.09417)|null|
+|**2024-12-12**|**LMAgent: A Large-scale Multimodal Agents Society for Multi-user Simulation**|Yijun Liu et.al.|[2412.09237](http://arxiv.org/abs/2412.09237)|null|
+|**2024-12-12**|**Reconfigurable Intelligent Surface for Internet of Robotic Things**|Wanli Ni et.al.|[2412.09117](http://arxiv.org/abs/2412.09117)|null|
+|**2024-12-12**|**Quantum-Train-Based Distributed Multi-Agent Reinforcement Learning**|Kuan-Cheng Chen et.al.|[2412.08845](http://arxiv.org/abs/2412.08845)|null|
 |**2024-12-11**|**Automated Soap Opera Testing Directed by LLMs and Scenario Knowledge: Feasibility, Challenges, and Road Ahead**|Yanqi Su et.al.|[2412.08581](http://arxiv.org/abs/2412.08581)|null|
 |**2024-12-11**|**An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**|Leandro Parada et.al.|[2412.08562](http://arxiv.org/abs/2412.08562)|null|
 |**2024-12-11**|**TapeAgents: a Holistic Framework for Agent Development and Optimization**|Dzmitry Bahdanau et.al.|[2412.08445](http://arxiv.org/abs/2412.08445)|null|

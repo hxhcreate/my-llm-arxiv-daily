@@ -17,6 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**Harnessing Language for Coordination: A Framework and Benchmark for LLM-Driven Multi-Agent Control**|Timothée Anne et.al.|[2412.11761](http://arxiv.org/abs/2412.11761)|null|
+|**2024-12-16**|**Seeker: Towards Exception Safety Code Generation with Intermediate Language Agents Framework**|Xuanming Zhang et.al.|[2412.11713](http://arxiv.org/abs/2412.11713)|null|
+|**2024-12-16**|**Loosely Synchronized Rule-Based Planning for Multi-Agent Path Finding with Asynchronous Actions**|Shuai Zhou et.al.|[2412.11678](http://arxiv.org/abs/2412.11678)|null|
+|**2024-12-15**|**Cultural Palette: Pluralising Culture Alignment via Multi-agent Palette**|Jiahao Yuan et.al.|[2412.11167](http://arxiv.org/abs/2412.11167)|**[link](https://github.com/Jiahao-Yuan/CulturalPalette)**|
+|**2024-12-15**|**PromptV: Leveraging LLM-powered Multi-Agent Prompting for High-quality Verilog Generation**|Zhendong Mi et.al.|[2412.11014](http://arxiv.org/abs/2412.11014)|null|
+|**2024-12-14**|**DSRC: Learning Density-insensitive and Semantic-aware Collaborative Representation against Corruptions**|Jingyu Zhang et.al.|[2412.10739](http://arxiv.org/abs/2412.10739)|**[link](https://github.com/terry9a/dsrc)**|
+|**2024-12-14**|**Cluster-Based Multi-Agent Task Scheduling for Space-Air-Ground Integrated Networks**|Zhiying Wang et.al.|[2412.10700](http://arxiv.org/abs/2412.10700)|null|
+|**2024-12-14**|**Deviate or Not: Learning Coalition Structures with Multiple-bit Observations in Games**|Yixuan Even Xu et.al.|[2412.10636](http://arxiv.org/abs/2412.10636)|null|
+|**2024-12-13**|**A systematic review of norm emergence in multi-agent systems**|Carmengelys Cordova et.al.|[2412.10609](http://arxiv.org/abs/2412.10609)|null|
 |**2024-12-13**|**Heterogeneous Multi-Robot Graph Coverage with Proximity and Movement Constraints**|Dolev Mutzari et.al.|[2412.10083](http://arxiv.org/abs/2412.10083)|null|
 |**2024-12-13**|**Optimized Coordination Strategy for Multi-Aerospace Systems in Pick-and-Place Tasks By Deep Neural Network**|Ye Zhang et.al.|[2412.09877](http://arxiv.org/abs/2412.09877)|null|
 |**2024-12-13**|**AutoPatent: A Multi-Agent Framework for Automatic Patent Generation**|Qiyao Wang et.al.|[2412.09796](http://arxiv.org/abs/2412.09796)|**[link](https://github.com/qiyao-wang/autopatent)**|

@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents**|Sheng Yin et.al.|[2412.13178](http://arxiv.org/abs/2412.13178)|**[link](https://github.com/shengyin1224/safeagentbench)**|
+|**2024-12-17**|**Contract-based Design and Verification of Multi-Agent Systems with Quantitative Temporal Requirements**|Rafael Dewes et.al.|[2412.13114](http://arxiv.org/abs/2412.13114)|null|
+|**2024-12-17**|**A Simplified Algorithm for Joint Real-Time Synchronization, NLoS Identification, and Multi-Agent Localization**|Yili Deng et.al.|[2412.12677](http://arxiv.org/abs/2412.12677)|null|
+|**2024-12-17**|**PerSphere: A Comprehensive Framework for Multi-Faceted Perspective Retrieval and Summarization**|Yun Luo et.al.|[2412.12588](http://arxiv.org/abs/2412.12588)|**[link](https://github.com/LuoXiaoHeics/PerSphere)**|
+|**2024-12-17**|**ChatDiT: A Training-Free Baseline for Task-Agnostic Free-Form Chatting with Diffusion Transformers**|Lianghua Huang et.al.|[2412.12571](http://arxiv.org/abs/2412.12571)|**[link](https://github.com/ali-vilab/chatdit)**|
+|**2024-12-17**|**A MARL Based Multi-Target Tracking Algorithm Under Jamming Against Radar**|Ziang Wang et.al.|[2412.12547](http://arxiv.org/abs/2412.12547)|null|
+|**2024-12-17**|**Swarm Intelligence in Collision-free Formation Control for Multi-UAV Systems with 3D Obstacle Avoidance Maneuvers**|Reza Ahmadvand et.al.|[2412.12437](http://arxiv.org/abs/2412.12437)|null|
+|**2024-12-16**|**Achieving Collective Welfare in Multi-Agent Reinforcement Learning via Suggestion Sharing**|Yue Jin et.al.|[2412.12326](http://arxiv.org/abs/2412.12326)|null|
 |**2024-12-16**|**Harnessing Language for Coordination: A Framework and Benchmark for LLM-Driven Multi-Agent Control**|Timothée Anne et.al.|[2412.11761](http://arxiv.org/abs/2412.11761)|null|
 |**2024-12-16**|**Seeker: Towards Exception Safety Code Generation with Intermediate Language Agents Framework**|Xuanming Zhang et.al.|[2412.11713](http://arxiv.org/abs/2412.11713)|null|
 |**2024-12-16**|**Loosely Synchronized Rule-Based Planning for Multi-Agent Path Finding with Asynchronous Actions**|Shuai Zhou et.al.|[2412.11678](http://arxiv.org/abs/2412.11678)|null|

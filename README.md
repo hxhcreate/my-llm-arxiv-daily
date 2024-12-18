@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.17
+## Updated on 2024.12.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2024-12-14**|**Cluster-Based Multi-Agent Task Scheduling for Space-Air-Ground Integrated Networks**|Zhiying Wang et.al.|[2412.10700](http://arxiv.org/abs/2412.10700)|null|
 |**2024-12-14**|**Deviate or Not: Learning Coalition Structures with Multiple-bit Observations in Games**|Yixuan Even Xu et.al.|[2412.10636](http://arxiv.org/abs/2412.10636)|null|
 |**2024-12-13**|**A systematic review of norm emergence in multi-agent systems**|Carmengelys Cordova et.al.|[2412.10609](http://arxiv.org/abs/2412.10609)|null|
-|**2024-12-13**|**Heterogeneous Multi-Robot Graph Coverage with Proximity and Movement Constraints**|Dolev Mutzari et.al.|[2412.10083](http://arxiv.org/abs/2412.10083)|null|
+|**2024-12-17**|**Heterogeneous Multi-Robot Graph Coverage with Proximity and Movement Constraints**|Dolev Mutzari et.al.|[2412.10083](http://arxiv.org/abs/2412.10083)|null|
 |**2024-12-13**|**Optimized Coordination Strategy for Multi-Aerospace Systems in Pick-and-Place Tasks By Deep Neural Network**|Ye Zhang et.al.|[2412.09877](http://arxiv.org/abs/2412.09877)|null|
 |**2024-12-13**|**AutoPatent: A Multi-Agent Framework for Automatic Patent Generation**|Qiyao Wang et.al.|[2412.09796](http://arxiv.org/abs/2412.09796)|**[link](https://github.com/qiyao-wang/autopatent)**|
 |**2024-12-12**|**MAC-Ego3D: Multi-Agent Gaussian Consensus for Real-Time Collaborative Ego-Motion and Photorealistic 3D Reconstruction**|Xiaohao Xu et.al.|[2412.09723](http://arxiv.org/abs/2412.09723)|**[link](https://github.com/xiaohao-xu/mac-ego3d)**|
@@ -1492,7 +1492,7 @@
 |**2023-12-30**|**Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning**|Xin Yu et.al.|[2401.00167](http://arxiv.org/abs/2401.00167)|null|
 |**2023-12-30**|**Contrastive learning-based agent modeling for deep reinforcement learning**|Wenhao Ma et.al.|[2401.00132](http://arxiv.org/abs/2401.00132)|null|
 
-<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

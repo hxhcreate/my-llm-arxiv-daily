@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**Towards privacy-preserving cooperative control via encrypted distributed optimization**|Philipp Binfet et.al.|[2412.13953](http://arxiv.org/abs/2412.13953)|null|
+|**2024-12-18**|**Meta-Reflection: A Feedback-Free Reflection Learning Framework**|Yaoke Wang et.al.|[2412.13781](http://arxiv.org/abs/2412.13781)|null|
+|**2024-12-18**|**Heuristic Planner for Communication-Constrained Multi-Agent Multi-Goal Path Planning**|Jáchym Herynek et.al.|[2412.13719](http://arxiv.org/abs/2412.13719)|null|
+|**2024-12-18**|**A2H: A UI Converter from Android to HarmonyOS Platform**|Chen Wang et.al.|[2412.13693](http://arxiv.org/abs/2412.13693)|null|
+|**2024-12-18**|**Exploring Multi-Modal Integration with Tool-Augmented LLM Agents for Precise Causal Discovery**|ChengAo Shen et.al.|[2412.13667](http://arxiv.org/abs/2412.13667)|null|
+|**2024-12-18**|**Large Language Model Federated Learning with Blockchain and Unlearning for Cross-Organizational Collaboration**|Xuhan Zuo et.al.|[2412.13551](http://arxiv.org/abs/2412.13551)|null|
+|**2024-12-18**|**ROMAS: A Role-Based Multi-Agent System for Database monitoring and Planning**|Yi Huang et.al.|[2412.13520](http://arxiv.org/abs/2412.13520)|null|
+|**2024-12-18**|**Gradual Vigilance and Interval Communication: Enhancing Value Alignment in Multi-Agent Debates**|Rui Zou et.al.|[2412.13471](http://arxiv.org/abs/2412.13471)|null|
+|**2024-12-17**|**Multi-Agent Motion Planning For Differential Drive Robots Through Stationary State Search**|Jingtian Yan et.al.|[2412.13359](http://arxiv.org/abs/2412.13359)|null|
+|**2024-12-17**|**Linear Contracts for Supermodular Functions Based on Graphs**|Kanstantsin Pashkovich et.al.|[2412.13290](http://arxiv.org/abs/2412.13290)|null|
 |**2024-12-18**|**SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents**|Sheng Yin et.al.|[2412.13178](http://arxiv.org/abs/2412.13178)|**[link](https://github.com/shengyin1224/safeagentbench)**|
 |**2024-12-17**|**Contract-based Design and Verification of Multi-Agent Systems with Quantitative Temporal Requirements**|Rafael Dewes et.al.|[2412.13114](http://arxiv.org/abs/2412.13114)|null|
 |**2024-12-17**|**A Simplified Algorithm for Joint Real-Time Synchronization, NLoS Identification, and Multi-Agent Localization**|Yili Deng et.al.|[2412.12677](http://arxiv.org/abs/2412.12677)|null|

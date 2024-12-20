@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**Probabilistic Strategy Logic with Degrees of Observability**|Chunyan Mu et.al.|[2412.15135](http://arxiv.org/abs/2412.15135)|null|
+|**2024-12-19**|**Agent-Temporal Credit Assignment for Optimal Policy Preservation in Sparse Multi-Agent Reinforcement Learning**|Aditya Kapoor et.al.|[2412.14779](http://arxiv.org/abs/2412.14779)|null|
+|**2024-12-19**|**PsyDraw: A Multi-Agent Multimodal System for Mental Health Screening in Left-Behind Children**|Yiqun Zhang et.al.|[2412.14769](http://arxiv.org/abs/2412.14769)|**[link](https://github.com/LYiHub/psydraw)**|
+|**2024-12-19**|**Bel Esprit: Multi-Agent Framework for Building AI Model Pipelines**|Yunsu Kim et.al.|[2412.14684](http://arxiv.org/abs/2412.14684)|null|
+|**2024-12-19**|**Coupling and Tensorization of Kinetic Theory and Graph Theory**|Datong Zhou et.al.|[2412.14512](http://arxiv.org/abs/2412.14512)|null|
+|**2024-12-18**|**A Survey on Large Language Model-based Agents for Statistics and Data Science**|Maojun Sun et.al.|[2412.14222](http://arxiv.org/abs/2412.14222)|null|
+|**2024-12-18**|**Heterogeneous Multi-Agent Reinforcement Learning for Distributed Channel Access in WLANs**|Jiaming Yu et.al.|[2412.14218](http://arxiv.org/abs/2412.14218)|null|
 |**2024-12-18**|**Towards privacy-preserving cooperative control via encrypted distributed optimization**|Philipp Binfet et.al.|[2412.13953](http://arxiv.org/abs/2412.13953)|null|
 |**2024-12-18**|**Meta-Reflection: A Feedback-Free Reflection Learning Framework**|Yaoke Wang et.al.|[2412.13781](http://arxiv.org/abs/2412.13781)|null|
 |**2024-12-18**|**Heuristic Planner for Communication-Constrained Multi-Agent Multi-Goal Path Planning**|Jáchym Herynek et.al.|[2412.13719](http://arxiv.org/abs/2412.13719)|null|

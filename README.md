@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.22
+## Updated on 2024.12.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,7 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-19**|**Probabilistic Strategy Logic with Degrees of Observability**|Chunyan Mu et.al.|[2412.15135](http://arxiv.org/abs/2412.15135)|null|
+|**2024-12-20**|**Probabilistic Strategy Logic with Degrees of Observability**|Chunyan Mu et.al.|[2412.15135](http://arxiv.org/abs/2412.15135)|null|
 |**2024-12-19**|**Agent-Temporal Credit Assignment for Optimal Policy Preservation in Sparse Multi-Agent Reinforcement Learning**|Aditya Kapoor et.al.|[2412.14779](http://arxiv.org/abs/2412.14779)|null|
 |**2024-12-19**|**PsyDraw: A Multi-Agent Multimodal System for Mental Health Screening in Left-Behind Children**|Yiqun Zhang et.al.|[2412.14769](http://arxiv.org/abs/2412.14769)|**[link](https://github.com/LYiHub/psydraw)**|
 |**2024-12-19**|**Bel Esprit: Multi-Agent Framework for Building AI Model Pipelines**|Yunsu Kim et.al.|[2412.14684](http://arxiv.org/abs/2412.14684)|null|
@@ -1517,7 +1517,7 @@
 |**2023-12-30**|**Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning**|Xin Yu et.al.|[2401.00167](http://arxiv.org/abs/2401.00167)|null|
 |**2023-12-30**|**Contrastive learning-based agent modeling for deep reinforcement learning**|Wenhao Ma et.al.|[2401.00132](http://arxiv.org/abs/2401.00132)|null|
 
-<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

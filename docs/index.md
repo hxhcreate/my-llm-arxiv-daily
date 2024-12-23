@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.22
+## Updated on 2024.12.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AGENT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-19**|**Probabilistic Strategy Logic with Degrees of Observability**|Chunyan Mu et.al.|[2412.15135](http://arxiv.org/abs/2412.15135)|null|
+|**2024-12-20**|**Probabilistic Strategy Logic with Degrees of Observability**|Chunyan Mu et.al.|[2412.15135](http://arxiv.org/abs/2412.15135)|null|
 |**2024-12-19**|**Agent-Temporal Credit Assignment for Optimal Policy Preservation in Sparse Multi-Agent Reinforcement Learning**|Aditya Kapoor et.al.|[2412.14779](http://arxiv.org/abs/2412.14779)|null|
 |**2024-12-19**|**PsyDraw: A Multi-Agent Multimodal System for Mental Health Screening in Left-Behind Children**|Yiqun Zhang et.al.|[2412.14769](http://arxiv.org/abs/2412.14769)|**[link](https://github.com/LYiHub/psydraw)**|
 |**2024-12-19**|**Bel Esprit: Multi-Agent Framework for Building AI Model Pipelines**|Yunsu Kim et.al.|[2412.14684](http://arxiv.org/abs/2412.14684)|null|

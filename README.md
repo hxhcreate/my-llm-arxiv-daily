@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Towards Interpretable Radiology Report Generation via Concept Bottlenecks using a Multi-Agentic RAG**|Hasan Md Tusfiqur Alam et.al.|[2412.16086](http://arxiv.org/abs/2412.16086)|**[link](https://github.com/tifat58/irr-with-cbm-rag)**|
+|**2024-12-20**|**Speedup Techniques for Switchable Temporal Plan Graph Optimization**|He Jiang et.al.|[2412.15908](http://arxiv.org/abs/2412.15908)|null|
+|**2024-12-20**|**AIR: Unifying Individual and Cooperative Exploration in Collective Multi-Agent Reinforcement Learning**|Guangchong Zhou et.al.|[2412.15700](http://arxiv.org/abs/2412.15700)|**[link](https://github.com/jugg1er/air)**|
+|**2024-12-20**|**Asynchronous Vector Consensus over Matrix-Weighted Networks**|P Raghavendra Rao et.al.|[2412.15681](http://arxiv.org/abs/2412.15681)|null|
+|**2024-12-20**|**Tacit Learning with Adaptive Information Selection for Cooperative Multi-Agent Reinforcement Learning**|Lunjun Liu et.al.|[2412.15639](http://arxiv.org/abs/2412.15639)|null|
+|**2024-12-20**|**Understanding Individual Agent Importance in Multi-Agent System via Counterfactual Reasoning**|Chen Jianming et.al.|[2412.15619](http://arxiv.org/abs/2412.15619)|null|
+|**2024-12-20**|**Multi Agent Reinforcement Learning for Sequential Satellite Assignment Problems**|Joshua Holder et.al.|[2412.15573](http://arxiv.org/abs/2412.15573)|**[link](https://github.com/Rainlabuw/rl-enabled-distributed-assignment)**|
+|**2024-12-20**|**Novelty-Guided Data Reuse for Efficient and Diversified Multi-Agent Reinforcement Learning**|Yangkun Chen et.al.|[2412.15517](http://arxiv.org/abs/2412.15517)|**[link](https://github.com/kkane99/MANGER_code)**|
+|**2024-12-20**|**Mitigating Social Bias in Large Language Models: A Multi-Objective Approach within a Multi-Agent Framework**|Zhenjie Xu et.al.|[2412.15504](http://arxiv.org/abs/2412.15504)|null|
+|**2024-12-20**|**An Agent-based Model for Competitive Agents**|Mohammad Daneshvar et.al.|[2412.15485](http://arxiv.org/abs/2412.15485)|null|
 |**2024-12-20**|**Probabilistic Strategy Logic with Degrees of Observability**|Chunyan Mu et.al.|[2412.15135](http://arxiv.org/abs/2412.15135)|null|
 |**2024-12-19**|**Agent-Temporal Credit Assignment for Optimal Policy Preservation in Sparse Multi-Agent Reinforcement Learning**|Aditya Kapoor et.al.|[2412.14779](http://arxiv.org/abs/2412.14779)|null|
 |**2024-12-19**|**PsyDraw: A Multi-Agent Multimodal System for Mental Health Screening in Left-Behind Children**|Yiqun Zhang et.al.|[2412.14769](http://arxiv.org/abs/2412.14769)|**[link](https://github.com/LYiHub/psydraw)**|

@@ -30,7 +30,7 @@
 |**2024-12-19**|**A2H: A UI Converter from Android to HarmonyOS Platform**|Chen Wang et.al.|[2412.13693](http://arxiv.org/abs/2412.13693)|null|
 |**2024-12-18**|**Exploring Multi-Modal Integration with Tool-Augmented LLM Agents for Precise Causal Discovery**|ChengAo Shen et.al.|[2412.13667](http://arxiv.org/abs/2412.13667)|null|
 |**2024-12-18**|**Large Language Model Federated Learning with Blockchain and Unlearning for Cross-Organizational Collaboration**|Xuhan Zuo et.al.|[2412.13551](http://arxiv.org/abs/2412.13551)|null|
-|**2024-12-18**|**ROMAS: A Role-Based Multi-Agent System for Database monitoring and Planning**|Yi Huang et.al.|[2412.13520](http://arxiv.org/abs/2412.13520)|null|
+|**2024-12-18**|**ROMAS: A Role-Based Multi-Agent System for Database monitoring and Planning**|Yi Huang et.al.|[2412.13520](http://arxiv.org/abs/2412.13520)|**[link](https://github.com/eosphoros-ai/db-gpt)**|
 |**2024-12-18**|**Gradual Vigilance and Interval Communication: Enhancing Value Alignment in Multi-Agent Debates**|Rui Zou et.al.|[2412.13471](http://arxiv.org/abs/2412.13471)|null|
 |**2024-12-17**|**Multi-Agent Motion Planning For Differential Drive Robots Through Stationary State Search**|Jingtian Yan et.al.|[2412.13359](http://arxiv.org/abs/2412.13359)|null|
 |**2024-12-17**|**Linear Contracts for Supermodular Functions Based on Graphs**|Kanstantsin Pashkovich et.al.|[2412.13290](http://arxiv.org/abs/2412.13290)|null|
@@ -39,7 +39,7 @@
 |**2024-12-17**|**A Simplified Algorithm for Joint Real-Time Synchronization, NLoS Identification, and Multi-Agent Localization**|Yili Deng et.al.|[2412.12677](http://arxiv.org/abs/2412.12677)|null|
 |**2024-12-17**|**PerSphere: A Comprehensive Framework for Multi-Faceted Perspective Retrieval and Summarization**|Yun Luo et.al.|[2412.12588](http://arxiv.org/abs/2412.12588)|**[link](https://github.com/LuoXiaoHeics/PerSphere)**|
 |**2024-12-17**|**ChatDiT: A Training-Free Baseline for Task-Agnostic Free-Form Chatting with Diffusion Transformers**|Lianghua Huang et.al.|[2412.12571](http://arxiv.org/abs/2412.12571)|**[link](https://github.com/ali-vilab/chatdit)**|
-|**2024-12-17**|**A MARL Based Multi-Target Tracking Algorithm Under Jamming Against Radar**|Ziang Wang et.al.|[2412.12547](http://arxiv.org/abs/2412.12547)|null|
+|**2024-12-17**|**A MARL Based Multi-Target Tracking Algorithm Under Jamming Against Radar**|Ziang Wang et.al.|[2412.12547](http://arxiv.org/abs/2412.12547)|**[link](https://github.com/s1s3r4/muav-mtt-mappo)**|
 |**2024-12-17**|**Swarm Intelligence in Collision-free Formation Control for Multi-UAV Systems with 3D Obstacle Avoidance Maneuvers**|Reza Ahmadvand et.al.|[2412.12437](http://arxiv.org/abs/2412.12437)|null|
 |**2024-12-16**|**Achieving Collective Welfare in Multi-Agent Reinforcement Learning via Suggestion Sharing**|Yue Jin et.al.|[2412.12326](http://arxiv.org/abs/2412.12326)|null|
 |**2024-12-16**|**Harnessing Language for Coordination: A Framework and Benchmark for LLM-Driven Multi-Agent Control**|Timothée Anne et.al.|[2412.11761](http://arxiv.org/abs/2412.11761)|null|
@@ -72,7 +72,7 @@
 |**2024-12-12**|**Towards Foundation-model-based Multiagent System to Accelerate AI for Social Impact**|Yunfan Zhao et.al.|[2412.07880](http://arxiv.org/abs/2412.07880)|null|
 |**2024-12-10**|**Finite-time Non-overshooting Leader-following Consensus Control for Multi-Agent Systems**|Min Li et.al.|[2412.07855](http://arxiv.org/abs/2412.07855)|null|
 |**2024-12-10**|**MAGE: A Multi-Agent Engine for Automated RTL Code Generation**|Yujie Zhao et.al.|[2412.07822](http://arxiv.org/abs/2412.07822)|**[link](https://github.com/stable-lab/MAGE-A-Multi-Agent-Engine-for-Automated-RTL-Code-Generation)**|
-|**2024-12-10**|**Offline Multi-Agent Reinforcement Learning via In-Sample Sequential Policy Optimization**|Zongkai Liu et.al.|[2412.07639](http://arxiv.org/abs/2412.07639)|null|
+|**2024-12-10**|**Offline Multi-Agent Reinforcement Learning via In-Sample Sequential Policy Optimization**|Zongkai Liu et.al.|[2412.07639](http://arxiv.org/abs/2412.07639)|**[link](https://github.com/kkkaiaiai/inspo)**|
 |**2024-12-10**|**Event-Triggered Memory Control for Interval Type-2 Fuzzy Heterogeneous Multi-Agent Systems**|Sen Kong et.al.|[2412.07471](http://arxiv.org/abs/2412.07471)|null|
 |**2024-12-10**|**A Distributed Deep Koopman Learning Algorithm for Control**|Wenjian Hao et.al.|[2412.07212](http://arxiv.org/abs/2412.07212)|null|
 |**2024-12-10**|**A linear-quadratic partially observed Stackelberg stochastic differential game with multiple followers and its application to multi-agent formation control**|Yichun Li et.al.|[2412.07159](http://arxiv.org/abs/2412.07159)|null|
@@ -154,7 +154,7 @@
 |**2024-11-21**|**LLMs as Continuous Learners: Improving the Reproduction of Defective Code in Software Issues**|Yalan Lin et.al.|[2411.13941](http://arxiv.org/abs/2411.13941)|null|
 |**2024-11-21**|**Learning to Cooperate with Humans using Generative Agents**|Yancheng Liang et.al.|[2411.13934](http://arxiv.org/abs/2411.13934)|**[link](https://github.com/lych1233/gamma-human-ai-collaboration)**|
 |**2024-11-21**|**XAgents: A Framework for Interpretable Rule-Based Multi-Agents Cooperation**|Hailong Yang et.al.|[2411.13932](http://arxiv.org/abs/2411.13932)|null|
-|**2024-11-21**|**PIORS: Personalized Intelligent Outpatient Reception based on Large Language Model with Multi-Agents Medical Scenario Simulation**|Zhijie Bao et.al.|[2411.13902](http://arxiv.org/abs/2411.13902)|null|
+|**2024-11-21**|**PIORS: Personalized Intelligent Outpatient Reception based on Large Language Model with Multi-Agents Medical Scenario Simulation**|Zhijie Bao et.al.|[2411.13902](http://arxiv.org/abs/2411.13902)|**[link](https://github.com/fudandisc/piors)**|
 |**2024-11-21**|**Weak synchronization in heterogeneous multi-agent systems**|Anton A. Stoorvogel et.al.|[2411.13806](http://arxiv.org/abs/2411.13806)|null|
 |**2024-11-20**|**WHALES: A Multi-agent Scheduling Dataset for Enhanced Cooperation in Autonomous Driving**|Siwei Chen et.al.|[2411.13340](http://arxiv.org/abs/2411.13340)|**[link](https://github.com/chensiweithu/whales)**|
 |**2024-11-20**|**Cyborg Insect Factory: Automatic Assembly System to Build up Insect-computer Hybrid Robot Based on Vision-guided Robotic Arm Manipulation of Custom Bipolar Electrodes**|Qifeng Lin et.al.|[2411.13164](http://arxiv.org/abs/2411.13164)|null|
@@ -452,7 +452,7 @@
 |**2024-09-25**|**Language Grounded Multi-agent Communication for Ad-hoc Teamwork**|Huao Li et.al.|[2409.17348](http://arxiv.org/abs/2409.17348)|null|
 |**2024-09-25**|**Communication Backbone Reconfiguration with Connectivity Maintenance**|Leonardo Santos et.al.|[2409.16851](http://arxiv.org/abs/2409.16851)|null|
 |**2024-09-25**|**Asynchronous Fractional Multi-Agent Deep Reinforcement Learning for Age-Minimal Mobile Edge Computing**|Lyudong Jin et.al.|[2409.16832](http://arxiv.org/abs/2409.16832)|null|
-|**2024-09-25**|**Dashing for the Golden Snitch: Multi-Drone Time-Optimal Motion Planning with Multi-Agent Reinforcement Learning**|Xian Wang et.al.|[2409.16720](http://arxiv.org/abs/2409.16720)|null|
+|**2024-09-25**|**Dashing for the Golden Snitch: Multi-Drone Time-Optimal Motion Planning with Multi-Agent Reinforcement Learning**|Xian Wang et.al.|[2409.16720](http://arxiv.org/abs/2409.16720)|**[link](https://github.com/KafuuChikai/Dashing-for-the-Golden-Snitch-Multi-Drone-RL)**|
 |**2024-09-24**|**MBC: Multi-Brain Collaborative Control for Quadruped Robots**|Hang Liu et.al.|[2409.16460](http://arxiv.org/abs/2409.16460)|null|
 |**2024-09-24**|**A Multi-Agent Multi-Environment Mixed Q-Learning for Partially Decentralized Wireless Network Optimization**|Talha Bozkus et.al.|[2409.16450](http://arxiv.org/abs/2409.16450)|null|
 |**2024-09-25**|**Multi-UAV Pursuit-Evasion with Online Planning in Unknown Environments by Deep Reinforcement Learning**|Jiayu Chen et.al.|[2409.15866](http://arxiv.org/abs/2409.15866)|null|
@@ -874,7 +874,7 @@
 |**2024-06-10**|**Adaptive Opponent Policy Detection in Multi-Agent MDPs: Real-Time Strategy Switch Identification Using Running Error Estimation**|Mohidul Haque Mridul et.al.|[2406.06500](http://arxiv.org/abs/2406.06500)|null|
 |**2024-06-11**|**Reasoning in Token Economies: Budget-Aware Evaluation of LLM Reasoning Strategies**|Junlin Wang et.al.|[2406.06461](http://arxiv.org/abs/2406.06461)|null|
 |**2024-06-11**|**iMotion-LLM: Motion Prediction Instruction Tuning**|Abdulwahab Felemban et.al.|[2406.06211](http://arxiv.org/abs/2406.06211)|null|
-|**2024-06-10**|**Deep Multi-Objective Reinforcement Learning for Utility-Based Infrastructural Maintenance Optimization**|Jesse van Remmerden et.al.|[2406.06184](http://arxiv.org/abs/2406.06184)|null|
+|**2024-06-10**|**Deep Multi-Objective Reinforcement Learning for Utility-Based Infrastructural Maintenance Optimization**|Jesse van Remmerden et.al.|[2406.06184](http://arxiv.org/abs/2406.06184)|**[link](https://github.com/jesserem/MODCMAC)**|
 |**2024-06-10**|**Risk Sensitivity in Markov Games and Multi-Agent Reinforcement Learning: A Systematic Review**|Hafez Ghaemi et.al.|[2406.06041](http://arxiv.org/abs/2406.06041)|null|
 |**2024-06-09**|**Multi-UAV Trajectory Design for Fair and Secure Communication**|Hongjiang Lei et.al.|[2406.05936](http://arxiv.org/abs/2406.05936)|null|
 |**2024-06-11**|**Deception Analysis with Artificial Intelligence: An Interdisciplinary Perspective**|Stefan Sarkadi et.al.|[2406.05724](http://arxiv.org/abs/2406.05724)|null|
@@ -946,7 +946,7 @@
 |**2024-05-27**|**Advancing Behavior Generation in Mobile Robotics through High-Fidelity Procedural Simulations**|Victor A. Kich et.al.|[2405.16818](http://arxiv.org/abs/2405.16818)|**[link](https://github.com/victorkich/YamaS)**|
 |**2024-05-27**|**LLM-Based Cooperative Agents using Information Relevance and Plan Validation**|SeungWon Seo et.al.|[2405.16751](http://arxiv.org/abs/2405.16751)|null|
 |**2024-05-26**|**Mimicry and the Emergence of Cooperative Communication**|Dylan Cope et.al.|[2405.16622](http://arxiv.org/abs/2405.16622)|null|
-|**2024-05-28**|**Meta-Task Planning for Language Agents**|Cong Zhang et.al.|[2405.16510](http://arxiv.org/abs/2405.16510)|null|
+|**2024-05-28**|**Meta-Task Planning for Language Agents**|Cong Zhang et.al.|[2405.16510](http://arxiv.org/abs/2405.16510)|**[link](https://github.com/zcaicaros/pmc)**|
 |**2024-05-24**|**SMART: Scalable Multi-agent Real-time Simulation via Next-token Prediction**|Wei Wu et.al.|[2405.15677](http://arxiv.org/abs/2405.15677)|**[link](https://github.com/regenmacher22/SMART)**|
 |**2024-05-24**|**Human-in-the-loop Reinforcement Learning for Data Quality Monitoring in Particle Physics Experiments**|Olivia Jullian Parra et.al.|[2405.15508](http://arxiv.org/abs/2405.15508)|null|
 |**2024-05-24**|**Distributed Adaptive Control of Disturbed Interconnected Systems with High-Order Tuners**|Moh. Kamalul Wafi et.al.|[2405.15178](http://arxiv.org/abs/2405.15178)|null|

@@ -857,7 +857,7 @@
 |**2024-06-20**|**Soft-QMIX: Integrating Maximum Entropy For Monotonic Value Function Factorization**|Wentse Chen et.al.|[2406.13930](http://arxiv.org/abs/2406.13930)|**[link](https://github.com/WentseChen/Soft-QMIX)**|
 |**2024-06-19**|**CLAMP: Majorized Plug-and-Play for Coherent 3D LIDAR Imaging**|Tony G. Allen et.al.|[2406.13651](http://arxiv.org/abs/2406.13651)|null|
 |**2024-06-19**|**CoDreamer: Communication-Based Decentralised World Models**|Edan Toledo et.al.|[2406.13600](http://arxiv.org/abs/2406.13600)|null|
-|**2024-06-18**|**MAGIC: Generating Self-Correction Guideline for In-Context Text-to-SQL**|Arian Askari et.al.|[2406.12692](http://arxiv.org/abs/2406.12692)|null|
+|**2024-06-18**|**MAGIC: Generating Self-Correction Guideline for In-Context Text-to-SQL**|Arian Askari et.al.|[2406.12692](http://arxiv.org/abs/2406.12692)|**[link](https://github.com/microsoft/synqo)**|
 |**2024-06-18**|**Ask-before-Plan: Proactive Language Agents for Real-World Planning**|Xuan Zhang et.al.|[2406.12639](http://arxiv.org/abs/2406.12639)|**[link](https://github.com/magicgh/ask-before-plan)**|
 |**2024-06-18**|**Large Language Models based Multi-Agent Framework for Objective Oriented Control Design in Power Electronics**|Chenggang Cui et.al.|[2406.12628](http://arxiv.org/abs/2406.12628)|null|
 |**2024-06-18**|**Problem-Solving in Language Model Networks**|Ciaran Regan et.al.|[2406.12374](http://arxiv.org/abs/2406.12374)|**[link](https://github.com/tsukuba-websci/psilmn)**|

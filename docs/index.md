@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-27**|**Bottom-up robust modeling for the foraging behavior of Physarum polycephalum**|Damiano Reginato et.al.|[2412.19790](http://arxiv.org/abs/2412.19790)|null|
+|**2024-12-27**|**Bidding Games on Markov Decision Processes with Quantitative Reachability Objectives**|Guy Avni et.al.|[2412.19609](http://arxiv.org/abs/2412.19609)|null|
+|**2024-12-27**|**Scalable Hierarchical Reinforcement Learning for Hyper Scale Multi-Robot Task Planning**|Xuan Zhou et.al.|[2412.19538](http://arxiv.org/abs/2412.19538)|null|
+|**2024-12-27**|**Casevo: A Cognitive Agents and Social Evolution Simulator**|Zexun Jiang et.al.|[2412.19498](http://arxiv.org/abs/2412.19498)|null|
+|**2024-12-27**|**Knowledge Graph-Based Multi-Agent Path Planning in Dynamic Environments using WAITR**|Ted Edward Holmberg et.al.|[2412.19469](http://arxiv.org/abs/2412.19469)|null|
+|**2024-12-27**|**Online distributed algorithms for mixed equilibrium problems in dynamic environments**|Hang Xu et.al.|[2412.19399](http://arxiv.org/abs/2412.19399)|null|
+|**2024-12-26**|**Swarm Contract: A Multi-Sovereign Agent Consensus Mechanism**|Haowei Yang et.al.|[2412.19256](http://arxiv.org/abs/2412.19256)|null|
+|**2024-12-26**|**NADER: Neural Architecture Design via Multi-Agent Collaboration**|Zekang Yang et.al.|[2412.19206](http://arxiv.org/abs/2412.19206)|null|
+|**2024-12-26**|**Hierarchical Multi-agent Meta-Reinforcement Learning for Cross-channel Bidding**|Shenghong He et.al.|[2412.19064](http://arxiv.org/abs/2412.19064)|null|
+|**2024-12-24**|**Agents on the Bench: Large Language Model Based Multi Agent Framework for Trustworthy Digital Justice**|Cong Jiang et.al.|[2412.18697](http://arxiv.org/abs/2412.18697)|null|
 |**2024-12-24**|**Multi-Agent Norm Perception and Induction in Distributed Healthcare**|Chao Li et.al.|[2412.18454](http://arxiv.org/abs/2412.18454)|null|
 |**2024-12-24**|**Muse: A Multimodal Conversational Recommendation Dataset with Scenario-Grounded User Profiles**|Zihan Wang et.al.|[2412.18416](http://arxiv.org/abs/2412.18416)|null|
 |**2024-12-24**|**Multi-Agents Based on Large Language Models for Knowledge-based Visual Question Answering**|Zhongjian Hu et.al.|[2412.18351](http://arxiv.org/abs/2412.18351)|null|

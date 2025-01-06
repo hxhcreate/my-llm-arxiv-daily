@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.05
+## Updated on 2025.01.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 |**2025-01-02**|**Cyber-physical Defense for Heterogeneous Multi-agent Systems Against Exponentially Unbounded Attacks on Signed Digraphs**|Yichao Wang et.al.|[2501.00990](http://arxiv.org/abs/2501.00990)|null|
 |**2025-01-01**|**Defense Strategies for Autonomous Multi-agent Systems: Ensuring Safety and Resilience Under Exponentially Unbounded FDI Attacks**|Yichao Wang et.al.|[2501.00973](http://arxiv.org/abs/2501.00973)|null|
 |**2025-01-01**|**Intent-based Radio Scheduler for RAN Slicing: Learning to deal with different network scenarios**|Cleverson Nahum et.al.|[2501.00950](http://arxiv.org/abs/2501.00950)|**[link](https://github.com/lasseufpa/intent_radio_sched_multi_slice)**|
-|**2025-01-01**|**Large Language Model Based Multi-Agent System Augmented Complex Event Processing Pipeline for Internet of Multimedia Things**|Talha Zeeshan et.al.|[2501.00906](http://arxiv.org/abs/2501.00906)|null|
+|**2025-01-03**|**Large Language Model Based Multi-Agent System Augmented Complex Event Processing Pipeline for Internet of Multimedia Things**|Talha Zeeshan et.al.|[2501.00906](http://arxiv.org/abs/2501.00906)|null|
 |**2025-01-01**|**Observer-Based Data-Driven Consensus Control for Nonlinear Multi-Agent Systems against DoS and FDI attacks**|Yi Zhang et.al.|[2501.00872](http://arxiv.org/abs/2501.00872)|null|
 |**2025-01-01**|**LLM-Powered Multi-Agent System for Automated Crypto Portfolio Management**|Yichen Luo et.al.|[2501.00826](http://arxiv.org/abs/2501.00826)|null|
 |**2024-12-30**|**Exploring and Controlling Diversity in LLM-Agent Conversation**|KuanChao Chu et.al.|[2412.21102](http://arxiv.org/abs/2412.21102)|null|
@@ -1575,7 +1575,7 @@
 |**2023-12-30**|**Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning**|Xin Yu et.al.|[2401.00167](http://arxiv.org/abs/2401.00167)|null|
 |**2023-12-30**|**Contrastive learning-based agent modeling for deep reinforcement learning**|Wenhao Ma et.al.|[2401.00132](http://arxiv.org/abs/2401.00132)|null|
 
-<p align=right>(<a href=#updated-on-20250105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

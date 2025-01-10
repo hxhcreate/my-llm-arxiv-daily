@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.09
+## Updated on 2025.01.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AGENT
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-07**|**HIVEX: A High-Impact Environment Suite for Multi-Agent Research (extended version)**|Philipp D. Siedler et.al.|[2501.04180](http://arxiv.org/abs/2501.04180)|null|
-|**2025-01-07**|**Collaborative Spacecraft Servicing under Partial Feedback using Lyapunov-based Deep Neural Networks**|Cristian F. Nino et.al.|[2501.04160](http://arxiv.org/abs/2501.04160)|null|
+|**2025-01-09**|**Collaborative Spacecraft Servicing under Partial Feedback using Lyapunov-based Deep Neural Networks**|Cristian F. Nino et.al.|[2501.04160](http://arxiv.org/abs/2501.04160)|null|
 |**2025-01-07**|**A Unified Attack Detection Strategy for Multi-Agent Systems over Transient and Steady Stages**|Jinming Gao et.al.|[2501.03496](http://arxiv.org/abs/2501.03496)|null|
 |**2025-01-06**|**Turn-based Multi-Agent Reinforcement Learning Model Checking**|Dennis Gross et.al.|[2501.03187](http://arxiv.org/abs/2501.03187)|null|
 |**2025-01-06**|**CAMP: Collaborative Attention Model with Profiles for Vehicle Routing Problems**|Chuanbo Hua et.al.|[2501.02977](http://arxiv.org/abs/2501.02977)|null|

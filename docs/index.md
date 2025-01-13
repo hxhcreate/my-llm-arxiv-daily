@@ -31,7 +31,7 @@ layout: default
 |**2025-01-04**|**CORD: Generalizable Cooperation via Role Diversity**|Kanefumi Matsuyama et.al.|[2501.02221](http://arxiv.org/abs/2501.02221)|null|
 |**2025-01-04**|**TACTIC: Task-Agnostic Contrastive pre-Training for Inter-Agent Communication**|Peihong Yu et.al.|[2501.02174](http://arxiv.org/abs/2501.02174)|null|
 |**2025-01-03**|**SMTL: A Stratified Logic for Expressive Multi-Level Temporal Specifications**|Ali Baheri et.al.|[2501.02094](http://arxiv.org/abs/2501.02094)|null|
-|**2025-01-03**|**Multi-Agent Conversational Online Learning for Adaptive LLM Response Identification**|Xiangxiang Dai et.al.|[2501.01849](http://arxiv.org/abs/2501.01849)|null|
+|**2025-01-03**|**Multi-Agent Conversational Online Learning for Adaptive LLM Response Identification**|Xiangxiang Dai et.al.|[2501.01849](http://arxiv.org/abs/2501.01849)|**[link](https://github.com/tarfersoul/maco)**|
 |**2025-01-03**|**Distributed Framework Construction for Affine Formation Control**|Huiming Li et.al.|[2501.01817](http://arxiv.org/abs/2501.01817)|null|
 |**2025-01-03**|**BLAST: A Stealthy Backdoor Leverage Attack against Cooperative Multi-Agent Deep Reinforcement Learning based Systems**|Yinbo Yu et.al.|[2501.01593](http://arxiv.org/abs/2501.01593)|null|
 |**2025-01-02**|**PIMAEX: Multi-Agent Exploration through Peer Incentivization**|Michael Kölle et.al.|[2501.01266](http://arxiv.org/abs/2501.01266)|null|
@@ -469,7 +469,7 @@ layout: default
 |**2024-10-08**|**Cooperative and Asynchronous Transformer-based Mission Planning for Heterogeneous Teams of Mobile Robots**|Milad Farjadnasab et.al.|[2410.06372](http://arxiv.org/abs/2410.06372)|**[link](https://github.com/mylad13/catmip)**|
 |**2024-10-10**|**An Algorithm for Distributed Computation of Reachable Sets for Multi-Agent Systems**|Omanshu Thapliyal et.al.|[2410.06321](http://arxiv.org/abs/2410.06321)|null|
 |**2024-10-08**|**Multimodal Situational Safety**|Kaiwen Zhou et.al.|[2410.06172](http://arxiv.org/abs/2410.06172)|null|
-|**2024-10-08**|**Coevolving with the Other You: Fine-Tuning LLM with Sequential Cooperative Multi-Agent Reinforcement Learning**|Hao Ma et.al.|[2410.06101](http://arxiv.org/abs/2410.06101)|null|
+|**2024-10-08**|**Coevolving with the Other You: Fine-Tuning LLM with Sequential Cooperative Multi-Agent Reinforcement Learning**|Hao Ma et.al.|[2410.06101](http://arxiv.org/abs/2410.06101)|**[link](https://github.com/Harry67Hu/CORY)**|
 |**2024-10-08**|**Learning Equilibria in Adversarial Team Markov Games: A Nonconvex-Hidden-Concave Min-Max Optimization Problem**|Fivos Kalogiannis et.al.|[2410.05673](http://arxiv.org/abs/2410.05673)|null|
 |**2024-10-07**|**GLEE: A Unified Framework and Benchmark for Language-based Economic Environments**|Eilam Shapira et.al.|[2410.05254](http://arxiv.org/abs/2410.05254)|**[link](https://github.com/eilamshapira/GLEE)**|
 |**2024-10-07**|**Scalable and Accurate Graph Reasoning with LLM-based Multi-Agents**|Yuwei Hu et.al.|[2410.05130](http://arxiv.org/abs/2410.05130)|null|
@@ -1504,7 +1504,7 @@ layout: default
 |**2024-01-26**|**Energy Flexibility Potential in the Brewery Sector: A Multi-agent Based Simulation of 239 Danish Breweries**|Daniel Anthony Howard et.al.|[2401.14903](http://arxiv.org/abs/2401.14903)|null|
 |**2024-01-26**|**On Inhomogeneous Infinite Products of Stochastic Matrices and Applications**|Zhaoyue Xia et.al.|[2401.14612](http://arxiv.org/abs/2401.14612)|null|
 |**2024-01-26**|**Enhancing Diagnostic Accuracy through Multi-Agent Conversations: Using Large Language Models to Mitigate Cognitive Bias**|Yu He Ke et.al.|[2401.14589](http://arxiv.org/abs/2401.14589)|null|
-|**2024-01-25**|**GCBF+: A Neural Graph Control Barrier Function Framework for Distributed Safe Multi-Agent Control**|Songyuan Zhang et.al.|[2401.14554](http://arxiv.org/abs/2401.14554)|null|
+|**2024-01-25**|**GCBF+: A Neural Graph Control Barrier Function Framework for Distributed Safe Multi-Agent Control**|Songyuan Zhang et.al.|[2401.14554](http://arxiv.org/abs/2401.14554)|**[link](https://github.com/MIT-REALM/gcbfplus)**|
 |**2024-01-25**|**STEMFold: Stochastic Temporal Manifold for Multi-Agent Interactions in the Presence of Hidden Agents**|Hemant Kumawat et.al.|[2401.14522](http://arxiv.org/abs/2401.14522)|null|
 |**2024-01-27**|**Networked Multiagent Reinforcement Learning for Peer-to-Peer Energy Trading**|Chen Feng et.al.|[2401.13947](http://arxiv.org/abs/2401.13947)|null|
 |**2024-01-24**|**Event-triggered adaptive consensus of heterogeneous multi-agent system under communication and actuator faults**|Leyi Zheng et.al.|[2401.13492](http://arxiv.org/abs/2401.13492)|null|

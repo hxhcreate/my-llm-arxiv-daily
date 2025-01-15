@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.14
+## Updated on 2025.01.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,7 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-13**|**WebWalker: Benchmarking LLMs in Web Traversal**|Jialong Wu et.al.|[2501.07572](http://arxiv.org/abs/2501.07572)|**[link](https://github.com/alibaba-nlp/webwalker)**|
+|**2025-01-14**|**WebWalker: Benchmarking LLMs in Web Traversal**|Jialong Wu et.al.|[2501.07572](http://arxiv.org/abs/2501.07572)|**[link](https://github.com/alibaba-nlp/webwalker)**|
 |**2025-01-13**|**How low-cost AI universal approximators reshape market efficiency**|Paolo Barucca et.al.|[2501.07489](http://arxiv.org/abs/2501.07489)|null|
 |**2025-01-12**|**A novel multi-agent dynamic portfolio optimization learning system based on hierarchical deep reinforcement learning**|Ruoyu Sun et.al.|[2501.06832](http://arxiv.org/abs/2501.06832)|null|
 |**2025-01-11**|**Guided Code Generation with LLMs: A Multi-Agent Framework for Complex Code Tasks**|Amr Almorsi et.al.|[2501.06625](http://arxiv.org/abs/2501.06625)|null|
@@ -1608,7 +1608,7 @@
 |**2023-12-30**|**Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning**|Xin Yu et.al.|[2401.00167](http://arxiv.org/abs/2401.00167)|null|
 |**2023-12-30**|**Contrastive learning-based agent modeling for deep reinforcement learning**|Wenhao Ma et.al.|[2401.00132](http://arxiv.org/abs/2401.00132)|null|
 
-<p align=right>(<a href=#updated-on-20250114>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250115>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

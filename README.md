@@ -17,10 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-15**|**A Reinforcement Learning Approach to Quiet and Safe UAM Traffic Management**|Surya Murthy et.al.|[2501.08941](http://arxiv.org/abs/2501.08941)|null|
+|**2025-01-15**|**Networked Agents in the Dark: Team Value Learning under Partial Observability**|Guilherme S. Varela et.al.|[2501.08778](http://arxiv.org/abs/2501.08778)|null|
+|**2025-01-15**|**Application of Deep Reinforcement Learning to UAV Swarming for Ground Surveillance**|Raúl Arranz et.al.|[2501.08655](http://arxiv.org/abs/2501.08655)|null|
+|**2025-01-15**|**AutoRestTest: A Tool for Automated REST API Testing Using LLMs and MARL**|Tyler Stennett et.al.|[2501.08600](http://arxiv.org/abs/2501.08600)|null|
 |**2025-01-14**|**ADAM-1: AI and Bioinformatics for Alzheimer's Detection and Microbiome-Clinical Data Integrations**|Ziyuan Huang et.al.|[2501.08324](http://arxiv.org/abs/2501.08324)|null|
 |**2025-01-14**|**Engineering LLM Powered Multi-agent Framework for Autonomous CloudOps**|Kannan Parthasarathy et.al.|[2501.08243](http://arxiv.org/abs/2501.08243)|null|
 |**2025-01-14**|**Dynamic Pricing in High-Speed Railways Using Multi-Agent Reinforcement Learning**|Enrique Adrian Villarrubia-Martin et.al.|[2501.08234](http://arxiv.org/abs/2501.08234)|null|
-|**2025-01-14**|**Cooperative Patrol Routing: Optimizing Urban Crime Surveillance through Multi-Agent Reinforcement Learning**|Juan Palma-Borda et.al.|[2501.08020](http://arxiv.org/abs/2501.08020)|null|
+|**2025-01-14**|**Cooperative Patrol Routing: Optimizing Urban Crime Surveillance through Multi-Agent Reinforcement Learning**|Juan Palma-Borda et.al.|[2501.08020](http://arxiv.org/abs/2501.08020)|**[link](https://github.com/iacomlab/marl-patrol-routing)**|
 |**2025-01-14**|**Flow: A Modular Approach to Automated Agentic Workflow Generation**|Boye Niu et.al.|[2501.07834](http://arxiv.org/abs/2501.07834)|null|
 |**2025-01-14**|**Agent-Centric Projection of Prompting Techniques and Implications for Synthetic Training Data for Large Language Models**|Dhruv Dhamani et.al.|[2501.07815](http://arxiv.org/abs/2501.07815)|null|
 |**2025-01-14**|**Talk to Right Specialists: Routing and Planning in Multi-agent System for Question Answering**|Feijie Wu et.al.|[2501.07813](http://arxiv.org/abs/2501.07813)|null|

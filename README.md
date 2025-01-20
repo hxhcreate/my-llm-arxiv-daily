@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-17**|**Towards Human-Guided, Data-Centric LLM Co-Pilots**|Evgeny Saveliev et.al.|[2501.10321](http://arxiv.org/abs/2501.10321)|null|
+|**2025-01-17**|**Deployment of an Aerial Multi-agent System for Automated Task Execution in Large-scale Underground Mining Environments**|Niklas Dahlquist et.al.|[2501.10262](http://arxiv.org/abs/2501.10262)|null|
+|**2025-01-17**|**GAWM: Global-Aware World Model for Multi-Agent Reinforcement Learning**|Zifeng Shi et.al.|[2501.10116](http://arxiv.org/abs/2501.10116)|null|
+|**2025-01-16**|**Crossover-BPSO Driven Multi-Agent Technology for Managing Local Energy Systems**|Hafiz Majid Hussain et.al.|[2501.09832](http://arxiv.org/abs/2501.09832)|null|
 |**2025-01-16**|**Empowering Large Language Models in Wireless Communication: A Novel Dataset and Fine-Tuning Framework**|Yushen Lin et.al.|[2501.09631](http://arxiv.org/abs/2501.09631)|null|
 |**2025-01-16**|**A Multi-agent System for Hybrid Optimization**|Eric S. Fraga et.al.|[2501.09563](http://arxiv.org/abs/2501.09563)|null|
 |**2025-01-16**|**Solving the unsolvable: Translating case law in Hong Kong**|King-kui Sin et.al.|[2501.09444](http://arxiv.org/abs/2501.09444)|null|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.21
+## Updated on 2025.01.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AGENT
@@ -20,7 +20,7 @@ layout: default
 |**2025-01-16**|**Crossover-BPSO Driven Multi-Agent Technology for Managing Local Energy Systems**|Hafiz Majid Hussain et.al.|[2501.09832](http://arxiv.org/abs/2501.09832)|null|
 |**2025-01-16**|**Empowering Large Language Models in Wireless Communication: A Novel Dataset and Fine-Tuning Framework**|Yushen Lin et.al.|[2501.09631](http://arxiv.org/abs/2501.09631)|null|
 |**2025-01-16**|**A Multi-agent System for Hybrid Optimization**|Eric S. Fraga et.al.|[2501.09563](http://arxiv.org/abs/2501.09563)|null|
-|**2025-01-16**|**Solving the unsolvable: Translating case law in Hong Kong**|King-kui Sin et.al.|[2501.09444](http://arxiv.org/abs/2501.09444)|null|
+|**2025-01-18**|**Solving the Unsolvable: Translating Case Law in Hong Kong**|King-kui Sin et.al.|[2501.09444](http://arxiv.org/abs/2501.09444)|null|
 |**2025-01-16**|**ADAGE: A generic two-layer framework for adaptive agent based modelling**|Benjamin Patrick Evans et.al.|[2501.09429](http://arxiv.org/abs/2501.09429)|null|
 |**2025-01-16**|**AutoCBT: An Autonomous Multi-agent Framework for Cognitive Behavioral Therapy in Psychological Counseling**|Ancheng Xu et.al.|[2501.09426](http://arxiv.org/abs/2501.09426)|null|
 |**2025-01-16**|**Hierarchical Deep Reinforcement Learning for Adaptive Resource Management in Integrated Terrestrial and Non-Terrestrial Networks**|Muhammad Ahmed Mohsin et.al.|[2501.09212](http://arxiv.org/abs/2501.09212)|**[link](https://github.com/ahmd-mohsin/Spectrum-Sharing-Hierarchical-DRL)**|

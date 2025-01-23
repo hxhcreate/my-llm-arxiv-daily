@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-22**|**An Offline Multi-Agent Reinforcement Learning Framework for Radio Resource Management**|Eslam Eldeeb et.al.|[2501.12991](http://arxiv.org/abs/2501.12991)|null|
+|**2025-01-22**|**Learning-based Distributed Model Predictive Control using Multi-Agent Bayesian Optimization**|Hossein Nejatbakhsh Esfahani et.al.|[2501.12989](http://arxiv.org/abs/2501.12989)|null|
+|**2025-01-22**|**FilmAgent: A Multi-Agent Framework for End-to-End Film Automation in Virtual 3D Spaces**|Zhenran Xu et.al.|[2501.12909](http://arxiv.org/abs/2501.12909)|null|
+|**2025-01-22**|**ACEBench: Who Wins the Match Point in Tool Learning?**|Chen Chen et.al.|[2501.12851](http://arxiv.org/abs/2501.12851)|null|
+|**2025-01-22**|**Optimal Rebate Design: Incentives, Competition and Efficiency in Auction Markets**|Thibaut Mastrolia et.al.|[2501.12591](http://arxiv.org/abs/2501.12591)|null|
 |**2025-01-21**|**mmCooper: A Multi-agent Multi-stage Communication-efficient and Collaboration-robust Cooperative Perception Framework**|Bingyi Liu et.al.|[2501.12263](http://arxiv.org/abs/2501.12263)|null|
 |**2025-01-21**|**Multi-Agent Feedback Motion Planning using Probably Approximately Correct Nonlinear Model Predictive Control**|Mark Gonzales et.al.|[2501.12234](http://arxiv.org/abs/2501.12234)|null|
 |**2025-01-21**|**Experience-replay Innovative Dynamics**|Tuo Zhang et.al.|[2501.12199](http://arxiv.org/abs/2501.12199)|null|

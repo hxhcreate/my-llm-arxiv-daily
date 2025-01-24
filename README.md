@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-23**|**Scalable Safe Multi-Agent Reinforcement Learning for Multi-Agent System**|Haikuo Du et.al.|[2501.13727](http://arxiv.org/abs/2501.13727)|null|
+|**2025-01-23**|**WFCRL: A Multi-Agent Reinforcement Learning Benchmark for Wind Farm Control**|Claire Bizon Monroc et.al.|[2501.13592](http://arxiv.org/abs/2501.13592)|null|
+|**2025-01-23**|**Explainable AI-aided Feature Selection and Model Reduction for DRL-based V2X Resource Allocation**|Nasir Khan et.al.|[2501.13552](http://arxiv.org/abs/2501.13552)|null|
+|**2025-01-23**|**Knowledge-Informed Multi-Agent Trajectory Prediction at Signalized Intersections for Infrastructure-to-Everything**|Huilin Yin et.al.|[2501.13461](http://arxiv.org/abs/2501.13461)|null|
+|**2025-01-23**|**BMG-Q: Localized Bipartite Match Graph Attention Q-Learning for Ride-Pooling Order Dispatch**|Yulong Hu et.al.|[2501.13448](http://arxiv.org/abs/2501.13448)|null|
+|**2025-01-23**|**VulnBot: Autonomous Penetration Testing for A Multi-Agent Collaborative Framework**|He Kong et.al.|[2501.13411](http://arxiv.org/abs/2501.13411)|null|
+|**2025-01-23**|**Do as We Do, Not as You Think: the Conformity of Large Language Models**|Zhiyuan Weng et.al.|[2501.13381](http://arxiv.org/abs/2501.13381)|**[link](https://github.com/zhiyuan-weng/benchform)**|
+|**2025-01-23**|**Task Allocation in Customer-led Two-sided Markets with Satellite Constellation Services**|Jianglin Qiao et.al.|[2501.13364](http://arxiv.org/abs/2501.13364)|null|
+|**2025-01-23**|**AgentRec: Agent Recommendation Using Sentence Embeddings Aligned to Human Feedback**|Joshua Park et.al.|[2501.13333](http://arxiv.org/abs/2501.13333)|**[link](https://github.com/joshprk/agentrec)**|
+|**2025-01-22**|**SRMT: Shared Memory for Multi-agent Lifelong Pathfinding**|Alsu Sagirova et.al.|[2501.13200](http://arxiv.org/abs/2501.13200)|**[link](https://github.com/aloriosa/srmt)**|
 |**2025-01-22**|**An Offline Multi-Agent Reinforcement Learning Framework for Radio Resource Management**|Eslam Eldeeb et.al.|[2501.12991](http://arxiv.org/abs/2501.12991)|null|
 |**2025-01-22**|**Learning-based Distributed Model Predictive Control using Multi-Agent Bayesian Optimization**|Hossein Nejatbakhsh Esfahani et.al.|[2501.12989](http://arxiv.org/abs/2501.12989)|null|
 |**2025-01-22**|**FilmAgent: A Multi-Agent Framework for End-to-End Film Automation in Virtual 3D Spaces**|Zhenran Xu et.al.|[2501.12909](http://arxiv.org/abs/2501.12909)|null|

@@ -72,13 +72,13 @@
 |**2025-01-11**|**Guided Code Generation with LLMs: A Multi-Agent Framework for Complex Code Tasks**|Amr Almorsi et.al.|[2501.06625](http://arxiv.org/abs/2501.06625)|null|
 |**2025-01-11**|**Hierarchical Reinforcement Learning for Optimal Agent Grouping in Cooperative Systems**|Liyuan Hu et.al.|[2501.06554](http://arxiv.org/abs/2501.06554)|null|
 |**2025-01-11**|**Cooperative Optimal Output Tracking for Discrete-Time Multiagent Systems: Stabilizing Policy Iteration Frameworks and Analysis**|Dongdong Li et.al.|[2501.06510](http://arxiv.org/abs/2501.06510)|null|
-|**2025-01-11**|**Ptychography using Blind Multi-Mode PMACE**|Qiuchen Zhai et.al.|[2501.06470](http://arxiv.org/abs/2501.06470)|null|
+|**2025-01-11**|**Ptychography using Blind Multi-Mode PMACE**|Qiuchen Zhai et.al.|[2501.06470](http://arxiv.org/abs/2501.06470)|**[link](https://github.com/cabouman/ptycho_pmace_papers)**|
 |**2025-01-11**|**Reinforcement Learning for Enhancing Sensing Estimation in Bistatic ISAC Systems with UAV Swarms**|Obed Morrison Atsu et.al.|[2501.06454](http://arxiv.org/abs/2501.06454)|null|
 |**2025-01-10**|**Multi-Agent Collaboration Mechanisms: A Survey of LLMs**|Khanh-Tung Tran et.al.|[2501.06322](http://arxiv.org/abs/2501.06322)|null|
 |**2025-01-10**|**BioAgents: Democratizing Bioinformatics Analysis with Multi-Agent Systems**|Nikita Mehandru et.al.|[2501.06314](http://arxiv.org/abs/2501.06314)|null|
 |**2025-01-10**|**A Mixed-Integer Conic Program for the Multi-Agent Moving-Target Traveling Salesman Problem**|Allen George Philip et.al.|[2501.06130](http://arxiv.org/abs/2501.06130)|null|
 |**2025-01-10**|**Learning Flexible Heterogeneous Coordination with Capability-Aware Shared Hypernetworks**|Kevin Fu et.al.|[2501.06058](http://arxiv.org/abs/2501.06058)|**[link](https://github.com/kfu02/jaxmarl)**|
-|**2025-01-10**|**Scaling Safe Multi-Agent Control for Signal Temporal Logic Specifications**|Joe Eappen et.al.|[2501.05639](http://arxiv.org/abs/2501.05639)|null|
+|**2025-01-10**|**Scaling Safe Multi-Agent Control for Signal Temporal Logic Specifications**|Joe Eappen et.al.|[2501.05639](http://arxiv.org/abs/2501.05639)|**[link](https://github.com/jeappen/mastl-gcbf)**|
 |**2025-01-09**|**Control of Overpopulated Tails in Kinetic Epidemic Models**|Mattia Zanella et.al.|[2501.05365](http://arxiv.org/abs/2501.05365)|null|
 |**2025-01-09**|**On Corrigibility and Alignment in Multi Agent Games**|Edmund Dable-Heath et.al.|[2501.05360](http://arxiv.org/abs/2501.05360)|null|
 |**2025-01-09**|**CoDe: Communication Delay-Tolerant Multi-Agent Collaboration via Dual Alignment of Intent and Timeliness**|Shoucheng Song et.al.|[2501.05207](http://arxiv.org/abs/2501.05207)|null|
@@ -1478,7 +1478,7 @@
 |**2024-02-18**|**Benchmark Self-Evolving: A Multi-Agent Framework for Dynamic LLM Evaluation**|Siyuan Wang et.al.|[2402.11443](http://arxiv.org/abs/2402.11443)|**[link](https://github.com/nanshineloong/self-evolving-benchmark)**|
 |**2024-02-16**|**Modelling crypto markets by multi-agent reinforcement learning**|Johann Lussange et.al.|[2402.10803](http://arxiv.org/abs/2402.10803)|**[link](https://github.com/johannlussange/symba_crypto)**|
 |**2024-02-14**|**Middleware-based multi-agent development environment for building and testing distributed intelligent systems**|Francisco José Aguayo-Canela et.al.|[2402.10385](http://arxiv.org/abs/2402.10385)|null|
-|**2024-02-15**|**TDAG: A Multi-Agent Framework based on Dynamic Task Decomposition and Agent Generation**|Yaoxiang Wang et.al.|[2402.10178](http://arxiv.org/abs/2402.10178)|null|
+|**2024-02-15**|**TDAG: A Multi-Agent Framework based on Dynamic Task Decomposition and Agent Generation**|Yaoxiang Wang et.al.|[2402.10178](http://arxiv.org/abs/2402.10178)|**[link](https://github.com/yxwang8775/tdag)**|
 |**2024-02-14**|**Advancing Building Energy Modeling with Large Language Models: Exploration and Case Studies**|Liang Zhang et.al.|[2402.09579](http://arxiv.org/abs/2402.09579)|null|
 |**2024-02-14**|**ABIDES-Economist: Agent-Based Simulation of Economic Systems with Learning Agents**|Kshama Dwarakanath et.al.|[2402.09563](http://arxiv.org/abs/2402.09563)|null|
 |**2024-02-14**|**Enriched multi-agent middleware for building rule-based distributed security solutions for IoT environments**|Francisco José Aguayo-Canela et.al.|[2402.09499](http://arxiv.org/abs/2402.09499)|null|

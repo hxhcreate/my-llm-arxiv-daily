@@ -17,6 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**Hybrid Quantum-Classical Multi-Agent Pathfinding**|Thore Gerlach et.al.|[2501.14568](http://arxiv.org/abs/2501.14568)|null|
+|**2025-01-24**|**Breaking the Pre-Planning Barrier: Real-Time Adaptive Coordination of Mission and Charging UAVs Using Graph Reinforcement Learning**|Yuhan Hu et.al.|[2501.14488](http://arxiv.org/abs/2501.14488)|null|
+|**2025-01-24**|**MARL-OT: Multi-Agent Reinforcement Learning Guided Online Fuzzing to Detect Safety Violation in Autonomous Driving Systems**|Linfeng Liang et.al.|[2501.14451](http://arxiv.org/abs/2501.14451)|null|
+|**2025-01-24**|**MASTER: A Multi-Agent System with LLM Specialized MCTS**|Bingzheng Gan et.al.|[2501.14304](http://arxiv.org/abs/2501.14304)|null|
+|**2025-01-24**|**Multi-agent KTO: Reinforcing Strategic Interactions of Large Language Model in Language Game**|Rong Ye et.al.|[2501.14225](http://arxiv.org/abs/2501.14225)|null|
+|**2025-01-24**|**Distributed Multi-Agent Coordination Using Multi-Modal Foundation Models**|Saaduddin Mahmud et.al.|[2501.14189](http://arxiv.org/abs/2501.14189)|null|
+|**2025-01-23**|**Collaborating in a competitive world: Heterogeneous Multi-Agent Decision Making in Symbiotic Supply Chain Environments**|Wan Wang et.al.|[2501.14111](http://arxiv.org/abs/2501.14111)|null|
 |**2025-01-23**|**Scalable Safe Multi-Agent Reinforcement Learning for Multi-Agent System**|Haikuo Du et.al.|[2501.13727](http://arxiv.org/abs/2501.13727)|null|
 |**2025-01-23**|**WFCRL: A Multi-Agent Reinforcement Learning Benchmark for Wind Farm Control**|Claire Bizon Monroc et.al.|[2501.13592](http://arxiv.org/abs/2501.13592)|**[link](https://github.com/ifpen/wfcrl-env)**|
 |**2025-01-23**|**Explainable AI-aided Feature Selection and Model Reduction for DRL-based V2X Resource Allocation**|Nasir Khan et.al.|[2501.13552](http://arxiv.org/abs/2501.13552)|null|

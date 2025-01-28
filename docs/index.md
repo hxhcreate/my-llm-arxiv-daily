@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**Multi-Agent Geospatial Copilots for Remote Sensing Workflows**|Chaehong Lee et.al.|[2501.16254](http://arxiv.org/abs/2501.16254)|null|
+|**2025-01-27**|**Multi-Agent Meta-Offline Reinforcement Learning for Timely UAV Path Planning and Data Collection**|Eslam Eldeeb et.al.|[2501.16098](http://arxiv.org/abs/2501.16098)|null|
+|**2025-01-27**|**Value-oriented forecast reconciliation for renewables in electricity markets**|Honglin Wen et.al.|[2501.16086](http://arxiv.org/abs/2501.16086)|null|
+|**2025-01-27**|**Modeling and stability analysis of live systems with time-varying dimension**|Andrii Mironchenko et.al.|[2501.15991](http://arxiv.org/abs/2501.15991)|null|
+|**2025-01-27**|**MADP: Multi-Agent Deductive Planning for Enhanced Cognitive-Behavioral Mental Health Question Answer**|Qi Chen et.al.|[2501.15826](http://arxiv.org/abs/2501.15826)|null|
+|**2025-01-27**|**Adaptive AI-based Decentralized Resource Management in the Cloud-Edge Continuum**|Lanpei Li et.al.|[2501.15802](http://arxiv.org/abs/2501.15802)|null|
+|**2025-01-27**|**Harnessing Diverse Perspectives: A Multi-Agent Framework for Enhanced Error Detection in Knowledge Graphs**|Yu Li et.al.|[2501.15791](http://arxiv.org/abs/2501.15791)|**[link](https://github.com/kse-eleven/makged)**|
+|**2025-01-27**|**LLM-powered Multi-agent Framework for Goal-oriented Learning in Intelligent Tutoring System**|Tianfu Wang et.al.|[2501.15749](http://arxiv.org/abs/2501.15749)|**[link](https://github.com/geminilight/gen-mentor)**|
+|**2025-01-27**|**Selective Experience Sharing in Reinforcement Learning Enhances Interference Management**|Madan Dahal et.al.|[2501.15735](http://arxiv.org/abs/2501.15735)|null|
+|**2025-01-27**|**Prioritized Value-Decomposition Network for Explainable AI-Enabled Network Slicing**|Shavbo Salehi et.al.|[2501.15734](http://arxiv.org/abs/2501.15734)|null|
 |**2025-01-24**|**Hybrid Quantum-Classical Multi-Agent Pathfinding**|Thore Gerlach et.al.|[2501.14568](http://arxiv.org/abs/2501.14568)|null|
 |**2025-01-24**|**Breaking the Pre-Planning Barrier: Real-Time Adaptive Coordination of Mission and Charging UAVs Using Graph Reinforcement Learning**|Yuhan Hu et.al.|[2501.14488](http://arxiv.org/abs/2501.14488)|null|
 |**2025-01-24**|**MARL-OT: Multi-Agent Reinforcement Learning Guided Online Fuzzing to Detect Safety Violation in Autonomous Driving Systems**|Linfeng Liang et.al.|[2501.14451](http://arxiv.org/abs/2501.14451)|null|

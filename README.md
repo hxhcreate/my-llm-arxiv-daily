@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.29
+## Updated on 2025.01.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@
 |**2025-01-28**|**Beyond Human Intervention: Algorithmic Collusion through Multi-Agent Learning Strategies**|Suzie Grondin et.al.|[2501.16935](http://arxiv.org/abs/2501.16935)|null|
 |**2025-01-28**|**Optimization and Learning in Open Multi-Agent Systems**|Diego Deplano et.al.|[2501.16847](http://arxiv.org/abs/2501.16847)|null|
 |**2025-01-28**|**RG-Attn: Radian Glue Attention for Multi-modality Multi-agent Cooperative Perception**|Lantao Li et.al.|[2501.16803](http://arxiv.org/abs/2501.16803)|null|
-|**2025-01-28**|**MACI: Multi-Agent Collaborative Intelligence for Robust Reasoning and Temporal Planning**|Edward Y. Chang et.al.|[2501.16689](http://arxiv.org/abs/2501.16689)|null|
+|**2025-01-29**|**MACI: Multi-Agent Collaborative Intelligence for Adaptive Reasoning and Temporal Planning**|Edward Y. Chang et.al.|[2501.16689](http://arxiv.org/abs/2501.16689)|null|
 |**2025-01-28**|**Jupybara: Operationalizing a Design Space for Actionable Data Analysis and Storytelling with LLMs**|Huichen Will Wang et.al.|[2501.16661](http://arxiv.org/abs/2501.16661)|null|
 |**2025-01-28**|**MCTS-SQL: An Effective Framework for Text-to-SQL with Monte Carlo Tree Search**|Shuozhi Yuan et.al.|[2501.16607](http://arxiv.org/abs/2501.16607)|null|
 |**2025-01-27**|**Multi-Agent Geospatial Copilots for Remote Sensing Workflows**|Chaehong Lee et.al.|[2501.16254](http://arxiv.org/abs/2501.16254)|null|
@@ -1683,7 +1683,7 @@
 |**2023-12-30**|**Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning**|Xin Yu et.al.|[2401.00167](http://arxiv.org/abs/2401.00167)|null|
 |**2023-12-30**|**Contrastive learning-based agent modeling for deep reinforcement learning**|Wenhao Ma et.al.|[2401.00132](http://arxiv.org/abs/2401.00132)|null|
 
-<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250130>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

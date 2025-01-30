@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**Multi-Agent Path Finding Using Conflict-Based Search and Structural-Semantic Topometric Maps**|Scott Fredriksson et.al.|[2501.17661](http://arxiv.org/abs/2501.17661)|null|
+|**2025-01-29**|**Coalitional control: a bottom-up approach**|Filiberto Fele et.al.|[2501.17614](http://arxiv.org/abs/2501.17614)|null|
+|**2025-01-29**|**Optimal Utility Design with Arbitrary Information Networks**|Vartika Singh et.al.|[2501.17385](http://arxiv.org/abs/2501.17385)|null|
+|**2025-01-28**|**Anomaly Detection in Cooperative Vehicle Perception Systems under Imperfect Communication**|Ashish Bastola et.al.|[2501.17329](http://arxiv.org/abs/2501.17329)|null|
 |**2025-01-28**|**Learning Mean Field Control on Sparse Graphs**|Christian Fabian et.al.|[2501.17079](http://arxiv.org/abs/2501.17079)|null|
 |**2025-01-28**|**Revisit Mixture Models for Multi-Agent Simulation: Experimental Study within a Unified Framework**|Longzhong Lin et.al.|[2501.17015](http://arxiv.org/abs/2501.17015)|null|
 |**2025-01-28**|**Towards Open-Source and Modular Space Systems with ATMOS**|Pedro Roque et.al.|[2501.16973](http://arxiv.org/abs/2501.16973)|null|

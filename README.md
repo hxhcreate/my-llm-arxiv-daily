@@ -56,7 +56,7 @@
 |**2025-01-23**|**Explainable AI-aided Feature Selection and Model Reduction for DRL-based V2X Resource Allocation**|Nasir Khan et.al.|[2501.13552](http://arxiv.org/abs/2501.13552)|null|
 |**2025-01-23**|**Knowledge-Informed Multi-Agent Trajectory Prediction at Signalized Intersections for Infrastructure-to-Everything**|Huilin Yin et.al.|[2501.13461](http://arxiv.org/abs/2501.13461)|null|
 |**2025-01-23**|**BMG-Q: Localized Bipartite Match Graph Attention Q-Learning for Ride-Pooling Order Dispatch**|Yulong Hu et.al.|[2501.13448](http://arxiv.org/abs/2501.13448)|null|
-|**2025-01-23**|**VulnBot: Autonomous Penetration Testing for A Multi-Agent Collaborative Framework**|He Kong et.al.|[2501.13411](http://arxiv.org/abs/2501.13411)|null|
+|**2025-01-23**|**VulnBot: Autonomous Penetration Testing for A Multi-Agent Collaborative Framework**|He Kong et.al.|[2501.13411](http://arxiv.org/abs/2501.13411)|**[link](https://github.com/khenryaegis/vulnbot)**|
 |**2025-01-23**|**Do as We Do, Not as You Think: the Conformity of Large Language Models**|Zhiyuan Weng et.al.|[2501.13381](http://arxiv.org/abs/2501.13381)|**[link](https://github.com/zhiyuan-weng/benchform)**|
 |**2025-01-23**|**Task Allocation in Customer-led Two-sided Markets with Satellite Constellation Services**|Jianglin Qiao et.al.|[2501.13364](http://arxiv.org/abs/2501.13364)|null|
 |**2025-01-23**|**AgentRec: Agent Recommendation Using Sentence Embeddings Aligned to Human Feedback**|Joshua Park et.al.|[2501.13333](http://arxiv.org/abs/2501.13333)|**[link](https://github.com/joshprk/agentrec)**|
@@ -218,7 +218,7 @@
 |**2024-12-16**|**Achieving Collective Welfare in Multi-Agent Reinforcement Learning via Suggestion Sharing**|Yue Jin et.al.|[2412.12326](http://arxiv.org/abs/2412.12326)|null|
 |**2024-12-16**|**Harnessing Language for Coordination: A Framework and Benchmark for LLM-Driven Multi-Agent Control**|Timothée Anne et.al.|[2412.11761](http://arxiv.org/abs/2412.11761)|null|
 |**2024-12-16**|**Seeker: Towards Exception Safety Code Generation with Intermediate Language Agents Framework**|Xuanming Zhang et.al.|[2412.11713](http://arxiv.org/abs/2412.11713)|null|
-|**2024-12-16**|**Loosely Synchronized Rule-Based Planning for Multi-Agent Path Finding with Asynchronous Actions**|Shuai Zhou et.al.|[2412.11678](http://arxiv.org/abs/2412.11678)|null|
+|**2024-12-16**|**Loosely Synchronized Rule-Based Planning for Multi-Agent Path Finding with Asynchronous Actions**|Shuai Zhou et.al.|[2412.11678](http://arxiv.org/abs/2412.11678)|**[link](https://github.com/rap-lab-org/public_LSRP)**|
 |**2024-12-15**|**Cultural Palette: Pluralising Culture Alignment via Multi-agent Palette**|Jiahao Yuan et.al.|[2412.11167](http://arxiv.org/abs/2412.11167)|**[link](https://github.com/Jiahao-Yuan/CulturalPalette)**|
 |**2024-12-15**|**PromptV: Leveraging LLM-powered Multi-Agent Prompting for High-quality Verilog Generation**|Zhendong Mi et.al.|[2412.11014](http://arxiv.org/abs/2412.11014)|null|
 |**2024-12-14**|**DSRC: Learning Density-insensitive and Semantic-aware Collaborative Representation against Corruptions**|Jingyu Zhang et.al.|[2412.10739](http://arxiv.org/abs/2412.10739)|**[link](https://github.com/terry9a/dsrc)**|
@@ -913,7 +913,7 @@
 |**2024-07-14**|**Ontology-driven Reinforcement Learning for Personalized Student Support**|Ryan Hare et.al.|[2407.10332](http://arxiv.org/abs/2407.10332)|null|
 |**2024-07-14**|**Consensus and Flocking under Communication Failure**|Fabio Ancona et.al.|[2407.10306](http://arxiv.org/abs/2407.10306)|null|
 |**2024-07-14**|**Learning to Steer Markovian Agents under Model Uncertainty**|Jiawei Huang et.al.|[2407.10207](http://arxiv.org/abs/2407.10207)|**[link](https://github.com/jiaweihhuang/steering_markovian_agents)**|
-|**2024-07-14**|**Long-Horizon Planning for Multi-Agent Robots in Partially Observable Environments**|Siddharth Nayak et.al.|[2407.10031](http://arxiv.org/abs/2407.10031)|null|
+|**2024-07-14**|**Long-Horizon Planning for Multi-Agent Robots in Partially Observable Environments**|Siddharth Nayak et.al.|[2407.10031](http://arxiv.org/abs/2407.10031)|**[link](https://github.com/nsidn98/llamar)**|
 |**2024-07-13**|**AtomAgents: Alloy design and discovery through physics-aware multi-modal multi-agent artificial intelligence**|Alireza Ghafarollahi et.al.|[2407.10022](http://arxiv.org/abs/2407.10022)|null|
 |**2024-07-13**|**Cohesive Conversations: Enhancing Authenticity in Multi-Agent Simulated Dialogues**|KuanChao Chu et.al.|[2407.09897](http://arxiv.org/abs/2407.09897)|null|
 |**2024-07-13**|**Synergistic Multi-Agent Framework with Trajectory Learning for Knowledge-Intensive Tasks**|Shengbin Yue et.al.|[2407.09893](http://arxiv.org/abs/2407.09893)|**[link](https://github.com/yueshengbin/SMART)**|

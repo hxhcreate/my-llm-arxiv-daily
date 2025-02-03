@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**Learning Contracts in Hierarchical Multi-Agent Systems**|Antoine Scheid et.al.|[2501.19388](http://arxiv.org/abs/2501.19388)|null|
+|**2025-01-31**|**Multi-agent Multi-armed Bandit with Fully Heavy-tailed Dynamics**|Xingyu Wang et.al.|[2501.19239](http://arxiv.org/abs/2501.19239)|null|
+|**2025-01-31**|**A parallelizable variant of HCA***|Sreenivasan Ganti et.al.|[2501.19218](http://arxiv.org/abs/2501.19218)|null|
+|**2025-01-31**|**Autonomous Legacy Web Application Upgrades Using a Multi-Agent System**|Valtteri Ala-Salmi et.al.|[2501.19204](http://arxiv.org/abs/2501.19204)|null|
+|**2025-01-31**|**Prediction-Aware Learning in Multi-Agent Systems**|Aymeric Capitaine et.al.|[2501.19144](http://arxiv.org/abs/2501.19144)|null|
+|**2025-01-31**|**O-MAPL: Offline Multi-agent Preference Learning**|The Viet Bui et.al.|[2501.18944](http://arxiv.org/abs/2501.18944)|null|
+|**2025-01-31**|**Language Games as the Pathway to Artificial Superhuman Intelligence**|Ying Wen et.al.|[2501.18924](http://arxiv.org/abs/2501.18924)|null|
+|**2025-01-30**|**Deceptive Sequential Decision-Making via Regularized Policy Optimization**|Yerin Kim et.al.|[2501.18803](http://arxiv.org/abs/2501.18803)|null|
+|**2025-01-30**|**Survey and Improvement Strategies for Gene Prioritization with Large Language Models**|Matthew Neeley et.al.|[2501.18794](http://arxiv.org/abs/2501.18794)|null|
+|**2025-01-30**|**Invisible Traces: Using Hybrid Fingerprinting to identify underlying LLMs in GenAI Apps**|Devansh Bhardwaj et.al.|[2501.18712](http://arxiv.org/abs/2501.18712)|null|
 |**2025-01-30**|**Leveraging LLM Agents for Automated Optimization Modeling for SASP Problems: A Graph-RAG based Approach**|Tianpeng Pan et.al.|[2501.18320](http://arxiv.org/abs/2501.18320)|null|
 |**2025-01-30**|**Model Checking for Multi-Agent Systems Modeled By Epistemic Process Calculus**|Qixian Yu et.al.|[2501.18155](http://arxiv.org/abs/2501.18155)|null|
 |**2025-01-30**|**B3C: A Minimalist Approach to Offline Multi-Agent Reinforcement Learning**|Woojun Kim et.al.|[2501.18138](http://arxiv.org/abs/2501.18138)|null|

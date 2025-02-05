@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.04
+## Updated on 2025.02.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2025-01-31**|**Language Games as the Pathway to Artificial Superhuman Intelligence**|Ying Wen et.al.|[2501.18924](http://arxiv.org/abs/2501.18924)|null|
 |**2025-01-30**|**Deceptive Sequential Decision-Making via Regularized Policy Optimization**|Yerin Kim et.al.|[2501.18803](http://arxiv.org/abs/2501.18803)|null|
 |**2025-01-30**|**Survey and Improvement Strategies for Gene Prioritization with Large Language Models**|Matthew Neeley et.al.|[2501.18794](http://arxiv.org/abs/2501.18794)|null|
-|**2025-02-03**|**Invisible Traces: Using Hybrid Fingerprinting to identify underlying LLMs in GenAI Apps**|Devansh Bhardwaj et.al.|[2501.18712](http://arxiv.org/abs/2501.18712)|null|
+|**2025-02-04**|**Invisible Traces: Using Hybrid Fingerprinting to identify underlying LLMs in GenAI Apps**|Devansh Bhardwaj et.al.|[2501.18712](http://arxiv.org/abs/2501.18712)|null|
 |**2025-01-30**|**Leveraging LLM Agents for Automated Optimization Modeling for SASP Problems: A Graph-RAG based Approach**|Tianpeng Pan et.al.|[2501.18320](http://arxiv.org/abs/2501.18320)|null|
 |**2025-01-30**|**Model Checking for Multi-Agent Systems Modeled By Epistemic Process Calculus**|Qixian Yu et.al.|[2501.18155](http://arxiv.org/abs/2501.18155)|null|
 |**2025-01-30**|**B3C: A Minimalist Approach to Offline Multi-Agent Reinforcement Learning**|Woojun Kim et.al.|[2501.18138](http://arxiv.org/abs/2501.18138)|null|
@@ -1701,7 +1701,7 @@
 |**2023-12-30**|**Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning**|Xin Yu et.al.|[2401.00167](http://arxiv.org/abs/2401.00167)|null|
 |**2023-12-30**|**Contrastive learning-based agent modeling for deep reinforcement learning**|Wenhao Ma et.al.|[2401.00132](http://arxiv.org/abs/2401.00132)|null|
 
-<p align=right>(<a href=#updated-on-20250204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250205>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

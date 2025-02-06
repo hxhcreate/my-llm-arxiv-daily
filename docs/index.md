@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.05
+## Updated on 2025.02.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AGENT
@@ -23,7 +23,7 @@ layout: default
 |**2025-02-03**|**An Agentic AI Workflow for Detecting Cognitive Concerns in Real-world Data**|Jiazi Tian et.al.|[2502.01789](http://arxiv.org/abs/2502.01789)|null|
 |**2025-02-03**|**Position: Towards a Responsible LLM-empowered Multi-Agent Systems**|Jinwei Hu et.al.|[2502.01714](http://arxiv.org/abs/2502.01714)|null|
 |**2025-02-04**|**Visual Theory of Mind Enables the Invention of Writing Systems**|Benjamin A. Spiegel et.al.|[2502.01568](http://arxiv.org/abs/2502.01568)|null|
-|**2025-02-03**|**TwinMarket: A Scalable Behavioral and SocialSimulation for Financial Markets**|Yuzhe Yang et.al.|[2502.01506](http://arxiv.org/abs/2502.01506)|null|
+|**2025-02-05**|**TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets**|Yuzhe Yang et.al.|[2502.01506](http://arxiv.org/abs/2502.01506)|null|
 |**2025-01-31**|**Learning Contracts in Hierarchical Multi-Agent Systems**|Antoine Scheid et.al.|[2501.19388](http://arxiv.org/abs/2501.19388)|null|
 |**2025-01-31**|**Multi-agent Multi-armed Bandit with Fully Heavy-tailed Dynamics**|Xingyu Wang et.al.|[2501.19239](http://arxiv.org/abs/2501.19239)|null|
 |**2025-01-31**|**A parallelizable variant of HCA***|Sreenivasan Ganti et.al.|[2501.19218](http://arxiv.org/abs/2501.19218)|null|

@@ -39,7 +39,7 @@
 |**2025-02-04**|**MAGNNET: Multi-Agent Graph Neural Network-based Efficient Task Allocation for Autonomous Vehicles with Deep Reinforcement Learning**|Lavanya Ratnabala et.al.|[2502.02311](http://arxiv.org/abs/2502.02311)|null|
 |**2025-02-04**|**Sequential Multi-objective Multi-agent Reinforcement Learning Approach for Predictive Maintenance**|Yan Chen et.al.|[2502.02071](http://arxiv.org/abs/2502.02071)|null|
 |**2025-02-04**|**CH-MARL: Constrained Hierarchical Multiagent Reinforcement Learning for Sustainable Maritime Logistics**|Saad Alqithami et.al.|[2502.02060](http://arxiv.org/abs/2502.02060)|null|
-|**2025-02-04**|**Bottom-Up Reputation Promotes Cooperation with Multi-Agent Reinforcement Learning**|Tianyu Ren et.al.|[2502.01971](http://arxiv.org/abs/2502.01971)|null|
+|**2025-02-04**|**Bottom-Up Reputation Promotes Cooperation with Multi-Agent Reinforcement Learning**|Tianyu Ren et.al.|[2502.01971](http://arxiv.org/abs/2502.01971)|**[link](https://github.com/itstyren/lr2)**|
 |**2025-02-04**|**VolleyBots: A Testbed for Multi-Drone Volleyball Game Combining Motion Control and Strategic Play**|Zelai Xu et.al.|[2502.01932](http://arxiv.org/abs/2502.01932)|null|
 |**2025-02-03**|**An Agentic AI Workflow for Detecting Cognitive Concerns in Real-world Data**|Jiazi Tian et.al.|[2502.01789](http://arxiv.org/abs/2502.01789)|null|
 |**2025-02-03**|**Position: Towards a Responsible LLM-empowered Multi-Agent Systems**|Jinwei Hu et.al.|[2502.01714](http://arxiv.org/abs/2502.01714)|null|
@@ -48,7 +48,7 @@
 |**2025-01-31**|**Learning Contracts in Hierarchical Multi-Agent Systems**|Antoine Scheid et.al.|[2501.19388](http://arxiv.org/abs/2501.19388)|null|
 |**2025-01-31**|**Multi-agent Multi-armed Bandit with Fully Heavy-tailed Dynamics**|Xingyu Wang et.al.|[2501.19239](http://arxiv.org/abs/2501.19239)|null|
 |**2025-01-31**|**A parallelizable variant of HCA***|Sreenivasan Ganti et.al.|[2501.19218](http://arxiv.org/abs/2501.19218)|null|
-|**2025-01-31**|**Autonomous Legacy Web Application Upgrades Using a Multi-Agent System**|Valtteri Ala-Salmi et.al.|[2501.19204](http://arxiv.org/abs/2501.19204)|null|
+|**2025-01-31**|**Autonomous Legacy Web Application Upgrades Using a Multi-Agent System**|Valtteri Ala-Salmi et.al.|[2501.19204](http://arxiv.org/abs/2501.19204)|**[link](https://github.com/alasalm1/multi-agent-pipeline)**|
 |**2025-01-31**|**Prediction-Aware Learning in Multi-Agent Systems**|Aymeric Capitaine et.al.|[2501.19144](http://arxiv.org/abs/2501.19144)|null|
 |**2025-01-31**|**O-MAPL: Offline Multi-agent Preference Learning**|The Viet Bui et.al.|[2501.18944](http://arxiv.org/abs/2501.18944)|null|
 |**2025-01-31**|**Language Games as the Pathway to Artificial Superhuman Intelligence**|Ying Wen et.al.|[2501.18924](http://arxiv.org/abs/2501.18924)|null|
@@ -88,7 +88,7 @@
 |**2025-01-24**|**MASTER: A Multi-Agent System with LLM Specialized MCTS**|Bingzheng Gan et.al.|[2501.14304](http://arxiv.org/abs/2501.14304)|null|
 |**2025-01-24**|**Multi-agent KTO: Reinforcing Strategic Interactions of Large Language Model in Language Game**|Rong Ye et.al.|[2501.14225](http://arxiv.org/abs/2501.14225)|null|
 |**2025-01-24**|**Distributed Multi-Agent Coordination Using Multi-Modal Foundation Models**|Saaduddin Mahmud et.al.|[2501.14189](http://arxiv.org/abs/2501.14189)|null|
-|**2025-01-23**|**Collaborating in a competitive world: Heterogeneous Multi-Agent Decision Making in Symbiotic Supply Chain Environments**|Wan Wang et.al.|[2501.14111](http://arxiv.org/abs/2501.14111)|null|
+|**2025-01-23**|**Collaborating in a competitive world: Heterogeneous Multi-Agent Decision Making in Symbiotic Supply Chain Environments**|Wan Wang et.al.|[2501.14111](http://arxiv.org/abs/2501.14111)|**[link](https://github.com/wangwan0910/masc)**|
 |**2025-01-23**|**Scalable Safe Multi-Agent Reinforcement Learning for Multi-Agent System**|Haikuo Du et.al.|[2501.13727](http://arxiv.org/abs/2501.13727)|null|
 |**2025-01-23**|**WFCRL: A Multi-Agent Reinforcement Learning Benchmark for Wind Farm Control**|Claire Bizon Monroc et.al.|[2501.13592](http://arxiv.org/abs/2501.13592)|**[link](https://github.com/ifpen/wfcrl-env)**|
 |**2025-01-23**|**Explainable AI-aided Feature Selection and Model Reduction for DRL-based V2X Resource Allocation**|Nasir Khan et.al.|[2501.13552](http://arxiv.org/abs/2501.13552)|null|
@@ -298,7 +298,7 @@
 |**2024-12-08**|**A Collaborative Multi-Agent Approach to Retrieval-Augmented Generation Across Diverse Data**|Aniruddha Salve et.al.|[2412.05838](http://arxiv.org/abs/2412.05838)|null|
 |**2024-12-06**|**Towards Effective GenAI Multi-Agent Collaboration: Design and Evaluation for Enterprise Applications**|Raphael Shu et.al.|[2412.05449](http://arxiv.org/abs/2412.05449)|**[link](https://github.com/aws-samples/multiagent-collab-scenario-benchmark)**|
 |**2024-12-06**|**TeamCraft: A Benchmark for Multi-Modal Multi-Agent Systems in Minecraft**|Qian Long et.al.|[2412.05255](http://arxiv.org/abs/2412.05255)|**[link](https://github.com/teamcraft-bench/teamcraft)**|
-|**2024-12-06**|**Who Speaks Next? Multi-party AI Discussion Leveraging the Systematics of Turn-taking in Murder Mystery Games**|Ryota Nonomura et.al.|[2412.04937](http://arxiv.org/abs/2412.04937)|null|
+|**2024-12-06**|**Who Speaks Next? Multi-party AI Discussion Leveraging the Systematics of Turn-taking in Murder Mystery Games**|Ryota Nonomura et.al.|[2412.04937](http://arxiv.org/abs/2412.04937)|**[link](https://github.com/nono-111/llm-based-multi-conversational-agent)**|
 |**2024-12-06**|**Breaking Event Rumor Detection via Stance-Separated Multi-Agent Debate**|Mingqing Zhang et.al.|[2412.04859](http://arxiv.org/abs/2412.04859)|null|
 |**2024-12-05**|**GenMAC: Compositional Text-to-Video Generation with Multi-Agent Collaboration**|Kaiyi Huang et.al.|[2412.04440](http://arxiv.org/abs/2412.04440)|null|
 |**2024-12-05**|**Intersection-Aware Assessment of EMS Accessibility in NYC: A Data-Driven Approach**|Haoran Su et.al.|[2412.04369](http://arxiv.org/abs/2412.04369)|null|
@@ -900,7 +900,7 @@
 |**2024-07-28**|**Conversational AI Multi-Agent Interoperability, Universal Open APIs for Agentic Natural Language Multimodal Communications**|Diego Gosmar et.al.|[2407.19438](http://arxiv.org/abs/2407.19438)|null|
 |**2024-07-27**|**Collaborative Adaptation for Recovery from Unforeseen Malfunctions in Discrete and Continuous MARL Domains**|Yasin Findik et.al.|[2407.19144](http://arxiv.org/abs/2407.19144)|null|
 |**2024-07-27**|**Relational Q-Functionals: Multi-Agent Learning to Recover from Unforeseen Robot Malfunctions in Continuous Action Domains**|Yasin Findik et.al.|[2407.19128](http://arxiv.org/abs/2407.19128)|null|
-|**2024-07-26**|**Solving Robotics Problems in Zero-Shot with Vision-Language Models**|Zidan Wang et.al.|[2407.19094](http://arxiv.org/abs/2407.19094)|null|
+|**2024-07-26**|**Solving Robotics Problems in Zero-Shot with Vision-Language Models**|Zidan Wang et.al.|[2407.19094](http://arxiv.org/abs/2407.19094)|**[link](https://github.com/wonderful-team-robotics/wonderful_team_robotics)**|
 |**2024-07-26**|**Multi-Robot System Architecture design in SysML and BPMN**|Ahmed R. Sadik et.al.|[2407.18749](http://arxiv.org/abs/2407.18749)|null|
 |**2024-07-26**|**Multi-Agent Deep Reinforcement Learning for Energy Efficient Multi-Hop STAR-RIS-Assisted Transmissions**|Pei-Hsiang Liao et.al.|[2407.18627](http://arxiv.org/abs/2407.18627)|null|
 |**2024-07-26**|**Reinforcement Learning for Sustainable Energy: A Survey**|Koen Ponse et.al.|[2407.18597](http://arxiv.org/abs/2407.18597)|null|
@@ -1111,7 +1111,7 @@
 |**2024-06-04**|**Large Language Model-Enabled Multi-Agent Manufacturing Systems**|Jonghan Lim et.al.|[2406.01893](http://arxiv.org/abs/2406.01893)|null|
 |**2024-06-03**|**Multi-Agent Reinforcement Learning Meets Leaf Sequencing in Radiotherapy**|Riqiang Gao et.al.|[2406.01853](http://arxiv.org/abs/2406.01853)|null|
 |**2024-06-03**|**ZAPP! Zonotope Agreement of Prediction and Planning for Continuous-Time Collision Avoidance with Discrete-Time Dynamics**|Luca Paparusso et.al.|[2406.01814](http://arxiv.org/abs/2406.01814)|null|
-|**2024-06-03**|**Leader-Follower Density Control of Spatial Dynamics in Large-Scale Multi-Agent Systems**|Gian Carlo Maffettone et.al.|[2406.01804](http://arxiv.org/abs/2406.01804)|null|
+|**2024-06-03**|**Leader-Follower Density Control of Spatial Dynamics in Large-Scale Multi-Agent Systems**|Gian Carlo Maffettone et.al.|[2406.01804](http://arxiv.org/abs/2406.01804)|**[link](https://github.com/sincrogroup/leader_follower_density_control)**|
 |**2024-06-03**|**Multi-agent assignment via state augmented reinforcement learning**|Leopoldo Agorio et.al.|[2406.01782](http://arxiv.org/abs/2406.01782)|null|
 |**2024-06-03**|**AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation**|Junhao Cheng et.al.|[2406.01388](http://arxiv.org/abs/2406.01388)|**[link](https://github.com/donahowe/AutoStudio)**|
 |**2024-06-03**|**Multi-Agent Transfer Learning via Temporal Contrastive Learning**|Weihao Zeng et.al.|[2406.01377](http://arxiv.org/abs/2406.01377)|null|

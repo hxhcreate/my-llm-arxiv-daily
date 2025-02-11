@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-10**|**KARMA: Leveraging Multi-Agent LLMs for Automated Knowledge Graph Enrichment**|Yuxing Lu et.al.|[2502.06472](http://arxiv.org/abs/2502.06472)|null|
+|**2025-02-10**|**SIGMA: Sheaf-Informed Geometric Multi-Agent Pathfinding**|Shuhao Liao et.al.|[2502.06440](http://arxiv.org/abs/2502.06440)|null|
+|**2025-02-10**|**Reducing Variance Caused by Communication in Decentralized Multi-agent Deep Reinforcement Learning**|Changxi Zhu et.al.|[2502.06261](http://arxiv.org/abs/2502.06261)|null|
+|**2025-02-10**|**Amplifying Minority Voices: AI-Mediated Devil's Advocate System for Inclusive Group Decision-Making**|Soohwan Lee et.al.|[2502.06251](http://arxiv.org/abs/2502.06251)|null|
+|**2025-02-10**|**C-3PO: Compact Plug-and-Play Proxy Optimization to Achieve Human-like Retrieval-Augmented Generation**|Guoxin Chen et.al.|[2502.06205](http://arxiv.org/abs/2502.06205)|null|
+|**2025-02-10**|**Towards Bio-inspired Heuristically Accelerated Reinforcement Learning for Adaptive Underwater Multi-Agents Behaviour**|Antoine Vivien et.al.|[2502.06113](http://arxiv.org/abs/2502.06113)|null|
+|**2025-02-09**|**Training Language Models for Social Deduction with Multi-Agent Reinforcement Learning**|Bidipta Sarkar et.al.|[2502.06060](http://arxiv.org/abs/2502.06060)|**[link](https://github.com/SocialDeductionLLM/SocialDeductionLLM)**|
+|**2025-02-09**|**Preventing Rogue Agents Improves Multi-Agent Collaboration**|Ohav Barbi et.al.|[2502.05986](http://arxiv.org/abs/2502.05986)|null|
+|**2025-02-09**|**Redefining Robot Generalization Through Interactive Intelligence**|Sharmita Dey et.al.|[2502.05963](http://arxiv.org/abs/2502.05963)|null|
+|**2025-02-09**|**MetaChain: A Fully-Automated and Zero-Code Framework for LLM Agents**|Jiabin Tang et.al.|[2502.05957](http://arxiv.org/abs/2502.05957)|null|
 |**2025-02-07**|**Near-Optimal Online Learning for Multi-Agent Submodular Coordination: Tight Approximation and Communication Efficiency**|Qixin Zhang et.al.|[2502.05028](http://arxiv.org/abs/2502.05028)|null|
 |**2025-02-07**|**$TAR^2$ : Temporal-Agent Reward Redistribution for Optimal Policy Preservation in Multi-Agent Reinforcement Learning**|Aditya Kapoor et.al.|[2502.04864](http://arxiv.org/abs/2502.04864)|null|
 |**2025-02-07**|**S $^2$ -MAD: Breaking the Token Barrier to Enhance Multi-Agent Debate Efficiency**|Yuting Zeng et.al.|[2502.04790](http://arxiv.org/abs/2502.04790)|null|

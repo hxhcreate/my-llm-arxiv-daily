@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-12**|**Poly-Autoregressive Prediction for Modeling Interactions**|Neerja Thakkar et.al.|[2502.08646](http://arxiv.org/abs/2502.08646)|null|
+|**2025-02-12**|**Faithful, Unfaithful or Ambiguous? Multi-Agent Debate with Initial Stance for Summary Evaluation**|Mahnaz Koupaee et.al.|[2502.08514](http://arxiv.org/abs/2502.08514)|null|
+|**2025-02-12**|**Resilient Quantized Consensus in Multi-Hop Relay Networks**|Liwei Yuan et.al.|[2502.08455](http://arxiv.org/abs/2502.08455)|null|
+|**2025-02-12**|**Towards Principled Multi-Agent Task Agnostic Exploration**|Riccardo Zamboni et.al.|[2502.08365](http://arxiv.org/abs/2502.08365)|null|
+|**2025-02-12**|**Hierarchical Multi-Agent Framework for Carbon-Efficient Liquid-Cooled Data Center Clusters**|Soumyendu Sarkar et.al.|[2502.08337](http://arxiv.org/abs/2502.08337)|null|
+|**2025-02-12**|**Decentralised multi-agent coordination for real-time railway traffic management**|Leo D'Amato et.al.|[2502.08324](http://arxiv.org/abs/2502.08324)|null|
+|**2025-02-12**|**Flow-of-Action: SOP Enhanced LLM-Based Multi-Agent System for Root Cause Analysis**|Changhua Pei et.al.|[2502.08224](http://arxiv.org/abs/2502.08224)|null|
+|**2025-02-12**|**Generative AI-Enhanced Cooperative MEC of UAVs and Ground Stations for Unmanned Surface Vehicles**|Jiahao You et.al.|[2502.08119](http://arxiv.org/abs/2502.08119)|null|
+|**2025-02-12**|**Multi-Agent Performative Prediction Beyond the Insensitivity Assumption: A Case Study for Mortgage Competition**|Guanghui Wang et.al.|[2502.08063](http://arxiv.org/abs/2502.08063)|null|
+|**2025-02-12**|**End-to-End Predictive Planner for Autonomous Driving with Consistency Models**|Anjian Li et.al.|[2502.08033](http://arxiv.org/abs/2502.08033)|null|
 |**2025-02-11**|**Distributed Value Decomposition Networks with Networked Agents**|Guilherme S. Varela et.al.|[2502.07635](http://arxiv.org/abs/2502.07635)|null|
 |**2025-02-11**|**A Near-optimal, Scalable and Corruption-tolerant Framework for Stochastic Bandits: From Single-Agent to Multi-Agent and Beyond**|Zicheng Hu et.al.|[2502.07514](http://arxiv.org/abs/2502.07514)|null|
 |**2025-02-11**|**Multi-Agent Collaboration for Multilingual Code Instruction Tuning**|Jian Yang et.al.|[2502.07487](http://arxiv.org/abs/2502.07487)|null|

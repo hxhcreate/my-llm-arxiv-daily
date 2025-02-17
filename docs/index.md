@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-14**|**Reinforcement Learning in Strategy-Based and Atari Games: A Review of Google DeepMinds Innovations**|Abdelrhman Shaheen et.al.|[2502.10303](http://arxiv.org/abs/2502.10303)|null|
+|**2025-02-14**|**Learning to Solve the Min-Max Mixed-Shelves Picker-Routing Problem via Hierarchical and Parallel Decoding**|Laurin Luttmann et.al.|[2502.10233](http://arxiv.org/abs/2502.10233)|null|
+|**2025-02-14**|**Reinforcement Learning based Constrained Optimal Control: an Interpretable Reward Design**|Jingjie Ni et.al.|[2502.10187](http://arxiv.org/abs/2502.10187)|null|
+|**2025-02-14**|**Cooperative Multi-Agent Planning with Adaptive Skill Synthesis**|Zhiyuan Li et.al.|[2502.10148](http://arxiv.org/abs/2502.10148)|null|
+|**2025-02-14**|**A Survey on LLM-powered Agents for Recommender Systems**|Qiyao Peng et.al.|[2502.10050](http://arxiv.org/abs/2502.10050)|null|
+|**2025-02-14**|**Evaluating and Improving Graph-based Explanation Methods for Multi-Agent Coordination**|Siva Kailas et.al.|[2502.09889](http://arxiv.org/abs/2502.09889)|null|
+|**2025-02-14**|**Robust Event-Triggered Integrated Communication and Control with Graph Information Bottleneck Optimization**|Ziqiong Wang et.al.|[2502.09846](http://arxiv.org/abs/2502.09846)|null|
+|**2025-02-13**|**Incentivize without Bonus: Provably Efficient Model-based Online Multi-agent RL for Markov Games**|Tong Yang et.al.|[2502.09780](http://arxiv.org/abs/2502.09780)|null|
 |**2025-02-13**|**KIMAs: A Configurable Knowledge Integrated Multi-Agent System**|Zitao Li et.al.|[2502.09596](http://arxiv.org/abs/2502.09596)|null|
 |**2025-02-13**|**Language Agents as Digital Representatives in Collective Decision-Making**|Daniel Jarrett et.al.|[2502.09369](http://arxiv.org/abs/2502.09369)|null|
 |**2025-02-13**|**Mind the Gaps: Logical English, Prolog, and Multi-agent Systems for Autonomous Vehicles**|Galileo Sartor et.al.|[2502.09216](http://arxiv.org/abs/2502.09216)|null|

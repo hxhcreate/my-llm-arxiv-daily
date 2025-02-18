@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**HARBOR: Exploring Persona Dynamics in Multi-Agent Competition**|Kenan Jiang et.al.|[2502.12149](http://arxiv.org/abs/2502.12149)|null|
+|**2025-02-17**|**A survey about perceptions of mobility to inform an agent-based simulator of subjective modal choice**|Carole Adam et.al.|[2502.12058](http://arxiv.org/abs/2502.12058)|null|
+|**2025-02-17**|**Multi-agent coordination via communication partitions**|Wei-Chen Lee et.al.|[2502.12042](http://arxiv.org/abs/2502.12042)|null|
+|**2025-02-17**|**Table-Critic: A Multi-Agent Framework for Collaborative Criticism and Refinement in Table Reasoning**|Peiying Yu et.al.|[2502.11799](http://arxiv.org/abs/2502.11799)|null|
+|**2025-02-17**|**Changing the Rules of the Game: Reasoning about Dynamic Phenomena in Multi-Agent Systems**|Rustam Galimullin et.al.|[2502.11785](http://arxiv.org/abs/2502.11785)|null|
+|**2025-02-17**|**Enhancing Recommendation Explanations through User-Centric Refinement**|Jingsen Zhang et.al.|[2502.11721](http://arxiv.org/abs/2502.11721)|null|
+|**2025-02-17**|**Deviation Ratings: A General, Clone-Invariant Rating Method**|Luke Marris et.al.|[2502.11645](http://arxiv.org/abs/2502.11645)|null|
+|**2025-02-17**|**A New Lyapunov-like Stability Inequality with an \textit{Asymmetric} Matrix and Application to Suboptimal LQ Control Design (to be corrected)**|Avinash Kumar et.al.|[2502.11556](http://arxiv.org/abs/2502.11556)|null|
+|**2025-02-17**|**Generative Multi-Agent Collaboration in Embodied AI: A Systematic Review**|Di Wu et.al.|[2502.11518](http://arxiv.org/abs/2502.11518)|null|
+|**2025-02-16**|**Unlocking the Potential of Generative AI through Neuro-Symbolic Architectures: Benefits and Limitations**|Oualid Bougzime et.al.|[2502.11269](http://arxiv.org/abs/2502.11269)|null|
 |**2025-02-14**|**Reinforcement Learning in Strategy-Based and Atari Games: A Review of Google DeepMinds Innovations**|Abdelrhman Shaheen et.al.|[2502.10303](http://arxiv.org/abs/2502.10303)|null|
 |**2025-02-14**|**Learning to Solve the Min-Max Mixed-Shelves Picker-Routing Problem via Hierarchical and Parallel Decoding**|Laurin Luttmann et.al.|[2502.10233](http://arxiv.org/abs/2502.10233)|null|
 |**2025-02-14**|**Reinforcement Learning based Constrained Optimal Control: an Interpretable Reward Design**|Jingjie Ni et.al.|[2502.10187](http://arxiv.org/abs/2502.10187)|null|

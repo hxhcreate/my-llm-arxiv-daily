@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**You need to MIMIC to get FAME: Solving Meeting Transcript Scarcity with a Multi-Agent Conversations**|Frederic Kirstein et.al.|[2502.13001](http://arxiv.org/abs/2502.13001)|null|
+|**2025-02-18**|**Free Argumentative Exchanges for Explaining Image Classifiers**|Avinash Kori et.al.|[2502.12995](http://arxiv.org/abs/2502.12995)|null|
+|**2025-02-18**|**A Survey on DRL based UAV Communications and Networking: DRL Fundamentals, Applications and Implementations**|Wei Zhao et.al.|[2502.12875](http://arxiv.org/abs/2502.12875)|null|
+|**2025-02-18**|**Perovskite-LLM: Knowledge-Enhanced Large Language Models for Perovskite Solar Cell Research**|Xiang Liu et.al.|[2502.12669](http://arxiv.org/abs/2502.12669)|null|
+|**2025-02-18**|**Automating Prompt Leakage Attacks on Large Language Models Using Agentic Approach**|Tvrtko Sternak et.al.|[2502.12630](http://arxiv.org/abs/2502.12630)|null|
+|**2025-02-18**|**Hypernetwork-based approach for optimal composition design in partially controlled multi-agent systems**|Kyeonghyeon Park et.al.|[2502.12605](http://arxiv.org/abs/2502.12605)|null|
+|**2025-02-18**|**Simulating Cooperative Prosocial Behavior with Multi-Agent LLMs: Evidence and Mechanisms for AI Agents to Inform Policy Decisions**|Karthik Sreedhar et.al.|[2502.12504](http://arxiv.org/abs/2502.12504)|null|
+|**2025-02-17**|**Stochastic Real-Time Deception in Nash Equilibrium Seeking for Games with Quadratic Payoffs**|Michael Tang et.al.|[2502.12337](http://arxiv.org/abs/2502.12337)|null|
 |**2025-02-17**|**HARBOR: Exploring Persona Dynamics in Multi-Agent Competition**|Kenan Jiang et.al.|[2502.12149](http://arxiv.org/abs/2502.12149)|null|
 |**2025-02-17**|**A survey about perceptions of mobility to inform an agent-based simulator of subjective modal choice**|Carole Adam et.al.|[2502.12058](http://arxiv.org/abs/2502.12058)|null|
 |**2025-02-17**|**Multi-agent coordination via communication partitions**|Wei-Chen Lee et.al.|[2502.12042](http://arxiv.org/abs/2502.12042)|null|

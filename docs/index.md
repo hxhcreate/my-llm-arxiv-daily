@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Exploring Personalized Health Support through Data-Driven, Theory-Guided LLMs: A Case Study in Sleep Health**|Xingbo Wang et.al.|[2502.13920](http://arxiv.org/abs/2502.13920)|null|
+|**2025-02-19**|**From Correctness to Comprehension: AI Agents for Personalized Error Diagnosis in Education**|Yi-Fan Zhang et.al.|[2502.13789](http://arxiv.org/abs/2502.13789)|null|
+|**2025-02-19**|**Poster: SpiderSim: Multi-Agent Driven Theoretical Cybersecurity Simulation for Industrial Digitalization**|Jiaqi Li et.al.|[2502.13778](http://arxiv.org/abs/2502.13778)|null|
+|**2025-02-19**|**Causes and Strategies in Multiagent Systems**|Sylvia S. Kerkhove et.al.|[2502.13701](http://arxiv.org/abs/2502.13701)|null|
+|**2025-02-19**|**Decentralized Planning Using Probabilistic Hyperproperties**|Francesco Pontiggia et.al.|[2502.13621](http://arxiv.org/abs/2502.13621)|null|
+|**2025-02-19**|**Vision-Based Generic Potential Function for Policy Alignment in Multi-Agent Reinforcement Learning**|Hao Ma et.al.|[2502.13430](http://arxiv.org/abs/2502.13430)|null|
+|**2025-02-19**|**Learning Symbolic Task Decompositions for Multi-Agent Teams**|Ameesh Shah et.al.|[2502.13376](http://arxiv.org/abs/2502.13376)|null|
+|**2025-02-18**|**Communication Strategy on Macro-and-Micro Traffic State in Cooperative Deep Reinforcement Learning for Regional Traffic Signal Control**|Hankang Gu et.al.|[2502.13248](http://arxiv.org/abs/2502.13248)|null|
 |**2025-02-18**|**You need to MIMIC to get FAME: Solving Meeting Transcript Scarcity with a Multi-Agent Conversations**|Frederic Kirstein et.al.|[2502.13001](http://arxiv.org/abs/2502.13001)|null|
 |**2025-02-18**|**Free Argumentative Exchanges for Explaining Image Classifiers**|Avinash Kori et.al.|[2502.12995](http://arxiv.org/abs/2502.12995)|null|
 |**2025-02-18**|**A Survey on DRL based UAV Communications and Networking: DRL Fundamentals, Applications and Implementations**|Wei Zhao et.al.|[2502.12875](http://arxiv.org/abs/2502.12875)|null|

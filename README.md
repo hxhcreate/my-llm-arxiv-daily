@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-20**|**Red-Teaming LLM Multi-Agent Systems via Communication Attacks**|Pengfei He et.al.|[2502.14847](http://arxiv.org/abs/2502.14847)|null|
+|**2025-02-20**|**Optimizing Model Selection for Compound AI Systems**|Lingjiao Chen et.al.|[2502.14815](http://arxiv.org/abs/2502.14815)|null|
+|**2025-02-20**|**Planning, scheduling, and execution on the Moon: the CADRE technology demonstration mission**|Gregg Rabideau et.al.|[2502.14803](http://arxiv.org/abs/2502.14803)|null|
+|**2025-02-20**|**A Multi-Agent Perspective on Modern Information Retrieval**|Haya Nachimovsky et.al.|[2502.14796](http://arxiv.org/abs/2502.14796)|null|
+|**2025-02-20**|**Tree-of-Debate: Multi-Persona Debate Trees Elicit Critical Thinking for Scientific Comparative Analysis**|Priyanka Kargupta et.al.|[2502.14767](http://arxiv.org/abs/2502.14767)|null|
+|**2025-02-20**|**Multi-Agent Coordination across Diverse Applications: A Survey**|Lijun Sun et.al.|[2502.14743](http://arxiv.org/abs/2502.14743)|null|
+|**2025-02-20**|**Curiosity Driven Multi-agent Reinforcement Learning for 3D Game Testing**|Raihana Ferdous et.al.|[2502.14606](http://arxiv.org/abs/2502.14606)|null|
+|**2025-02-20**|**CORBA: Contagious Recursive Blocking Attacks on Multi-Agent Systems Based on Large Language Models**|Zhenhong Zhou et.al.|[2502.14529](http://arxiv.org/abs/2502.14529)|null|
+|**2025-02-20**|**Enhancing Language Multi-Agent Learning with Multi-Agent Credit Re-Assignment for Interactive Environment Generalization**|Zhitao He et.al.|[2502.14496](http://arxiv.org/abs/2502.14496)|null|
+|**2025-02-20**|**Data-Driven Cooperative Output Regulation via Distributed Internal Model**|Liquan Lin et.al.|[2502.14336](http://arxiv.org/abs/2502.14336)|null|
 |**2025-02-19**|**Exploring Personalized Health Support through Data-Driven, Theory-Guided LLMs: A Case Study in Sleep Health**|Xingbo Wang et.al.|[2502.13920](http://arxiv.org/abs/2502.13920)|null|
 |**2025-02-19**|**From Correctness to Comprehension: AI Agents for Personalized Error Diagnosis in Education**|Yi-Fan Zhang et.al.|[2502.13789](http://arxiv.org/abs/2502.13789)|null|
 |**2025-02-19**|**Poster: SpiderSim: Multi-Agent Driven Theoretical Cybersecurity Simulation for Industrial Digitalization**|Jiaqi Li et.al.|[2502.13778](http://arxiv.org/abs/2502.13778)|null|

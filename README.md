@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**Multi-Agent Verification: Scaling Test-Time Compute with Multiple Verifiers**|Shalev Lifshitz et.al.|[2502.20379](http://arxiv.org/abs/2502.20379)|null|
+|**2025-02-27**|**Multi-Agent Path Planning in Complex Environments using Gaussian Belief Propagation with Global Path Finding**|Jens Høigaard Jensen et.al.|[2502.20369](http://arxiv.org/abs/2502.20369)|null|
+|**2025-02-27**|**Trajectory-to-Action Pipeline (TAP): Automated Scenario Description Extraction for Autonomous Vehicle Behavior Comparison**|Aron Harder et.al.|[2502.20353](http://arxiv.org/abs/2502.20353)|null|
+|**2025-02-27**|**M^3Builder: A Multi-Agent System for Automated Machine Learning in Medical Imaging**|Jinghao Feng et.al.|[2502.20301](http://arxiv.org/abs/2502.20301)|null|
+|**2025-02-27**|**MARVEL: Multi-Agent Reinforcement Learning for constrained field-of-View multi-robot Exploration in Large-scale environments**|Jimmy Chiun et.al.|[2502.20217](http://arxiv.org/abs/2502.20217)|null|
+|**2025-02-27**|**Collab-Overcooked: Benchmarking and Evaluating Large Language Models as Collaborative Agents**|Haochen Sun et.al.|[2502.20073](http://arxiv.org/abs/2502.20073)|null|
+|**2025-02-27**|**A Generative Model Enhanced Multi-Agent Reinforcement Learning Method for Electric Vehicle Charging Navigation**|Tianyang Qi et.al.|[2502.20068](http://arxiv.org/abs/2502.20068)|null|
+|**2025-02-27**|**RouteRL: Multi-agent reinforcement learning framework for urban route choice with autonomous vehicles**|Ahmet Onur Akman et.al.|[2502.20065](http://arxiv.org/abs/2502.20065)|null|
+|**2025-02-27**|**MIND: Towards Immersive Psychological Healing with Multi-agent Inner Dialogue**|Yujia Chen et.al.|[2502.19860](http://arxiv.org/abs/2502.19860)|null|
+|**2025-02-27**|**Exponential Topology-enabled Scalable Communication in Multi-agent Reinforcement Learning**|Xinran Li et.al.|[2502.19717](http://arxiv.org/abs/2502.19717)|null|
 |**2025-02-26**|**EMT: A Visual Multi-Task Benchmark Dataset for Autonomous Driving in the Arab Gulf Region**|Nadya Abdel Madjid et.al.|[2502.19260](http://arxiv.org/abs/2502.19260)|null|
 |**2025-02-26**|**Simulation of Language Evolution under Regulated Social Media Platforms: A Synergistic Approach of Large Language Models and Genetic Algorithms**|Jinyu Cai et.al.|[2502.19193](http://arxiv.org/abs/2502.19193)|null|
 |**2025-02-26**|**Multi-Agent Security Tax: Trading Off Security and Collaboration Capabilities in Multi-Agent Systems**|Pierre Peigne-Lefebvre et.al.|[2502.19145](http://arxiv.org/abs/2502.19145)|null|

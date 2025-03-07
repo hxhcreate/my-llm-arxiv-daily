@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.06
+## Updated on 2025.03.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AGENT
@@ -22,7 +22,7 @@ layout: default
 |**2025-03-05**|**Exploring the Potential of Large Language Models as Predictors in Dynamic Text-Attributed Graphs**|Runlin Lei et.al.|[2503.03258](http://arxiv.org/abs/2503.03258)|null|
 |**2025-03-05**|**MA-LoT: Multi-Agent Lean-based Long Chain-of-Thought Reasoning enhances Formal Theorem Proving**|Ruida Wang et.al.|[2503.03205](http://arxiv.org/abs/2503.03205)|null|
 |**2025-03-05**|**Distributed Certifiably Correct Range-Aided SLAM**|Alexander Thoms et.al.|[2503.03192](http://arxiv.org/abs/2503.03192)|null|
-|**2025-03-05**|**Dango: A Mixed-Initiative Data Wrangling System using Large Language Model**|Wei-Hao Chen et.al.|[2503.03154](http://arxiv.org/abs/2503.03154)|null|
+|**2025-03-06**|**Dango: A Mixed-Initiative Data Wrangling System using Large Language Model**|Wei-Hao Chen et.al.|[2503.03154](http://arxiv.org/abs/2503.03154)|null|
 |**2025-03-04**|**RAILGUN: A Unified Convolutional Policy for Multi-Agent Path Finding Across Different Environments and Tasks**|Yimin Tang et.al.|[2503.02992](http://arxiv.org/abs/2503.02992)|null|
 |**2025-03-04**|**From Metaphor to Mechanism: How LLMs Decode Traditional Chinese Medicine Symbolic Language for Modern Clinical Relevance**|Jiacheng Tang et.al.|[2503.02760](http://arxiv.org/abs/2503.02760)|null|
 |**2025-03-04**|**Federated Learning for Privacy-Preserving Feedforward Control in Multi-Agent Systems**|Jakob Weber et.al.|[2503.02693](http://arxiv.org/abs/2503.02693)|**[link](https://github.com/j-cap/FL-based-neural-FF-control)**|

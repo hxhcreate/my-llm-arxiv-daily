@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-12**|**The turnpike control in stochastic multi-agent dynamics: a discrete-time approach with exponential integrators**|Fabio Cassini et.al.|[2503.09549](http://arxiv.org/abs/2503.09549)|null|
+|**2025-03-12**|**PairVDN - Pair-wise Decomposed Value Functions**|Zak Buzzard et.al.|[2503.09521](http://arxiv.org/abs/2503.09521)|null|
+|**2025-03-12**|**RESTRAIN: Reinforcement Learning-Based Secure Framework for Trigger-Action IoT Environment**|Md Morshed Alam et.al.|[2503.09513](http://arxiv.org/abs/2503.09513)|null|
+|**2025-03-12**|**ReMA: Learning to Meta-think for LLMs with Multi-Agent Reinforcement Learning**|Ziyu Wan et.al.|[2503.09501](http://arxiv.org/abs/2503.09501)|null|
+|**2025-03-12**|**Multi-Agent Image Restoration**|Xu Jiang et.al.|[2503.09403](http://arxiv.org/abs/2503.09403)|null|
+|**2025-03-12**|**Task Allocation for Multi-agent Systems via Unequal-dimensional Optimal Transport**|Anqi Dong et.al.|[2503.09369](http://arxiv.org/abs/2503.09369)|null|
+|**2025-03-12**|**COLA: A Scalable Multi-Agent Framework For Windows UI Task Automation**|Di Zhao et.al.|[2503.09263](http://arxiv.org/abs/2503.09263)|null|
+|**2025-03-12**|**Rethinking Bimanual Robotic Manipulation: Learning with Decoupled Interaction Framework**|Jian-Jian Jiang et.al.|[2503.09186](http://arxiv.org/abs/2503.09186)|null|
+|**2025-03-12**|**Optimal control for multiagent systems with simultaneous aggregation**|Mauro Bonafini et.al.|[2503.09168](http://arxiv.org/abs/2503.09168)|null|
+|**2025-03-11**|**Beam Selection in ISAC using Contextual Bandit with Multi-modal Transformer and Transfer Learning**|Mohammad Farzanullah et.al.|[2503.08937](http://arxiv.org/abs/2503.08937)|null|
 |**2025-03-11**|**Hierarchical Multi Agent DRL for Soft Handovers Between Edge Clouds in Open RAN**|F. Giarrè et.al.|[2503.08493](http://arxiv.org/abs/2503.08493)|null|
 |**2025-03-11**|**Collaborative Dynamic 3D Scene Graphs for Open-Vocabulary Urban Scene Understanding**|Tim Steinke et.al.|[2503.08474](http://arxiv.org/abs/2503.08474)|null|
 |**2025-03-11**|**Learning to Detect Objects from Multi-Agent LiDAR Scans without Manual Labels**|Qiming Xia et.al.|[2503.08421](http://arxiv.org/abs/2503.08421)|null|

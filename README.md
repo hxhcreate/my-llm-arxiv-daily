@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-13**|**A large multi-agent system with noise both in position and control**|Giuseppe D'Onofrio et.al.|[2503.10543](http://arxiv.org/abs/2503.10543)|null|
+|**2025-03-13**|**HALO: Fault-Tolerant Safety Architecture For High-Speed Autonomous Racing**|Aron Harder et.al.|[2503.10341](http://arxiv.org/abs/2503.10341)|null|
+|**2025-03-13**|**SurgRAW: Multi-Agent Workflow with Chain-of-Thought Reasoning for Surgical Intelligence**|Chang Han Low et.al.|[2503.10265](http://arxiv.org/abs/2503.10265)|null|
+|**2025-03-13**|**Reach-Avoid-Stay-Collision-Avoidance Negotiation Framework for Multi-Agent Systems via Spatiotemporal Tubes**|Mohd. Faizuddin Faruqui et.al.|[2503.10245](http://arxiv.org/abs/2503.10245)|null|
+|**2025-03-13**|**Global synchronization of multi-agent systems with nonlinear interactions**|Anthony Couthures et.al.|[2503.10205](http://arxiv.org/abs/2503.10205)|null|
+|**2025-03-13**|**Multi-Agent Q-Learning Dynamics in Random Networks: Convergence due to Exploration and Sparsity**|Aamal Hussain et.al.|[2503.10186](http://arxiv.org/abs/2503.10186)|null|
+|**2025-03-13**|**Optimal Privacy-Preserving Distributed Median Consensus**|Wenrui Yu et.al.|[2503.10147](http://arxiv.org/abs/2503.10147)|null|
+|**2025-03-13**|**AgentDAO: Synthesis of Proposal Transactions Via Abstract DAO Semantics**|Lin Ao et.al.|[2503.10099](http://arxiv.org/abs/2503.10099)|null|
+|**2025-03-13**|**One-bit consensus of controllable linear multi-agent systems with communication noises**|Ru An et.al.|[2503.10062](http://arxiv.org/abs/2503.10062)|null|
+|**2025-03-13**|**Enhancing Multi-Agent Systems via Reinforcement Learning with LLM-based Planner and Graph-based Policy**|Ziqi Jia et.al.|[2503.10049](http://arxiv.org/abs/2503.10049)|null|
 |**2025-03-12**|**The turnpike control in stochastic multi-agent dynamics: a discrete-time approach with exponential integrators**|Fabio Cassini et.al.|[2503.09549](http://arxiv.org/abs/2503.09549)|null|
 |**2025-03-12**|**PairVDN - Pair-wise Decomposed Value Functions**|Zak Buzzard et.al.|[2503.09521](http://arxiv.org/abs/2503.09521)|null|
 |**2025-03-12**|**RESTRAIN: Reinforcement Learning-Based Secure Framework for Trigger-Action IoT Environment**|Md Morshed Alam et.al.|[2503.09513](http://arxiv.org/abs/2503.09513)|null|

@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**|Weiqiang Jin et.al.|[2503.13415](http://arxiv.org/abs/2503.13415)|null|
+|**2025-03-17**|**Toward Generative 6G Simulation: An Experimental Multi-Agent LLM and ns-3 Integration**|Farhad Rezazadeh et.al.|[2503.13402](http://arxiv.org/abs/2503.13402)|null|
+|**2025-03-17**|**Optimal intrinsic formation using exogenous systems**|Yueyue Xu et.al.|[2503.13359](http://arxiv.org/abs/2503.13359)|null|
+|**2025-03-17**|**Goal2Story: A Multi-Agent Fleet based on Privately Enabled sLLMs for Impacting Mapping on Requirements Elicitation**|Xinkai Zou et.al.|[2503.13279](http://arxiv.org/abs/2503.13279)|null|
+|**2025-03-17**|**Knowledge-Aware Iterative Retrieval for Multi-Agent Systems**|Seyoung Song et.al.|[2503.13275](http://arxiv.org/abs/2503.13275)|null|
+|**2025-03-17**|**Robust Decision-Making Via Free Energy Minimization**|Allahkaram Shafiei et.al.|[2503.13223](http://arxiv.org/abs/2503.13223)|null|
+|**2025-03-17**|**MAP: Evaluation and Multi-Agent Enhancement of Large Language Models for Inpatient Pathways**|Zhen Chen et.al.|[2503.13205](http://arxiv.org/abs/2503.13205)|null|
+|**2025-03-17**|**Prioritized Planning for Continuous-time Lifelong Multi-agent Pathfinding**|Alvin Combrink et.al.|[2503.13175](http://arxiv.org/abs/2503.13175)|null|
+|**2025-03-17**|**Collaborative AI Enhances Image Understanding in Materials Science**|Ruoyan Avery Yin et.al.|[2503.13169](http://arxiv.org/abs/2503.13169)|null|
+|**2025-03-17**|**Actively learning equilibria in Nash games with misleading information**|Barbara Franci et.al.|[2503.13167](http://arxiv.org/abs/2503.13167)|null|
 |**2025-03-14**|**Essentials of the kinetic theory of multi-agent systems**|Nadia Loy et.al.|[2503.11554](http://arxiv.org/abs/2503.11554)|null|
 |**2025-03-14**|**Prompt Injection Detection and Mitigation via AI Multi-Agent NLP Frameworks**|Diego Gosmar et.al.|[2503.11517](http://arxiv.org/abs/2503.11517)|null|
 |**2025-03-14**|**Multi-agent coordination for on-demand data gathering with periodic information upload**|Yaroslav Marchukov et.al.|[2503.11504](http://arxiv.org/abs/2503.11504)|null|

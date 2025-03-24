@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.23
+## Updated on 2025.03.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,8 +19,8 @@
 |---|---|---|---|---|
 |**2025-03-20**|**RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints**|Yiran Qin et.al.|[2503.16408](http://arxiv.org/abs/2503.16408)|null|
 |**2025-03-20**|**Characterizing the Convergence of Game Dynamics via Potentialness**|Martin Bichler et.al.|[2503.16285](http://arxiv.org/abs/2503.16285)|null|
-|**2025-03-20**|**GreenIQ: A Deep Search Platform for Comprehensive Carbon Market Analysis and Automated Report Generation**|Bisola Faith Kayode et.al.|[2503.16041](http://arxiv.org/abs/2503.16041)|null|
-|**2025-03-20**|**How much should we care about what others know? Jump signals in optimal investment under relative performance concerns**|Peter Bank et.al.|[2503.16039](http://arxiv.org/abs/2503.16039)|null|
+|**2025-03-21**|**GreenIQ: A Deep Search Platform for Comprehensive Carbon Market Analysis and Automated Report Generation**|Oluwole Fagbohun et.al.|[2503.16041](http://arxiv.org/abs/2503.16041)|null|
+|**2025-03-21**|**How much should we care about what others know? Jump signals in optimal investment under relative performance concerns**|Peter Bank et.al.|[2503.16039](http://arxiv.org/abs/2503.16039)|null|
 |**2025-03-20**|**Consensus Tracking Control of Multi-agent Systems with A Time-varying Reference State under Binary-valued Communication**|Ting Wang et.al.|[2503.15955](http://arxiv.org/abs/2503.15955)|null|
 |**2025-03-20**|**Unreal-MAP: Unreal-Engine-Based General Platform for Multi-Agent Reinforcement Learning**|Tianyi Hu et.al.|[2503.15947](http://arxiv.org/abs/2503.15947)|null|
 |**2025-03-20**|**AutoRedTeamer: Autonomous Red Teaming with Lifelong Attack Integration**|Andy Zhou et.al.|[2503.15754](http://arxiv.org/abs/2503.15754)|null|
@@ -2000,7 +2000,7 @@
 |**2023-12-30**|**Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning**|Xin Yu et.al.|[2401.00167](http://arxiv.org/abs/2401.00167)|null|
 |**2023-12-30**|**Contrastive learning-based agent modeling for deep reinforcement learning**|Wenhao Ma et.al.|[2401.00132](http://arxiv.org/abs/2401.00132)|null|
 
-<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

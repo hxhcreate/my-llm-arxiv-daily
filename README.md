@@ -17,8 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-21**|**LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language**|Kun Chu et.al.|[2503.17309](http://arxiv.org/abs/2503.17309)|null|
+|**2025-03-21**|**Which2comm: An Efficient Collaborative Perception Framework for 3D Object Detection**|Duanrui Yu et.al.|[2503.17175](http://arxiv.org/abs/2503.17175)|null|
+|**2025-03-21**|**MAPS: A Multi-Agent Framework Based on Big Seven Personality and Socratic Guidance for Multimodal Scientific Problem Solving**|Jian Zhang et.al.|[2503.16905](http://arxiv.org/abs/2503.16905)|null|
+|**2025-03-21**|**MARS: A Multi-Agent Framework Incorporating Socratic Guidance for Automated Prompt Optimization**|Jian Zhang et.al.|[2503.16874](http://arxiv.org/abs/2503.16874)|null|
+|**2025-03-21**|**ETVA: Evaluation of Text-to-Video Alignment via Fine-grained Question Generation and Answering**|Kaisi Guan et.al.|[2503.16867](http://arxiv.org/abs/2503.16867)|null|
+|**2025-03-21**|**When Debate Fails: Bias Reinforcement in Large Language Models**|Jihwan Oh et.al.|[2503.16814](http://arxiv.org/abs/2503.16814)|null|
 |**2025-03-20**|**RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints**|Yiran Qin et.al.|[2503.16408](http://arxiv.org/abs/2503.16408)|null|
-|**2025-03-20**|**Characterizing the Convergence of Game Dynamics via Potentialness**|Martin Bichler et.al.|[2503.16285](http://arxiv.org/abs/2503.16285)|null|
+|**2025-03-20**|**Characterizing the Convergence of Game Dynamics via Potentialness**|Martin Bichler et.al.|[2503.16285](http://arxiv.org/abs/2503.16285)|**[link](https://github.com/MOberlechner/games_learning)**|
 |**2025-03-21**|**GreenIQ: A Deep Search Platform for Comprehensive Carbon Market Analysis and Automated Report Generation**|Oluwole Fagbohun et.al.|[2503.16041](http://arxiv.org/abs/2503.16041)|null|
 |**2025-03-21**|**How much should we care about what others know? Jump signals in optimal investment under relative performance concerns**|Peter Bank et.al.|[2503.16039](http://arxiv.org/abs/2503.16039)|null|
 |**2025-03-20**|**Consensus Tracking Control of Multi-agent Systems with A Time-varying Reference State under Binary-valued Communication**|Ting Wang et.al.|[2503.15955](http://arxiv.org/abs/2503.15955)|null|

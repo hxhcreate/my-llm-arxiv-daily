@@ -40,7 +40,7 @@ layout: default
 |**2025-03-18**|**Decentralized Continuification Control of Multi-Agent Systems via Distributed Density Estimation**|Beniamino Di Lorenzo et.al.|[2503.14119](http://arxiv.org/abs/2503.14119)|null|
 |**2025-03-18**|**Sparse control in microscopic and mean-field leader-follower models**|Melanie Harms et.al.|[2503.14113](http://arxiv.org/abs/2503.14113)|null|
 |**2025-03-18**|**Collective completeness and pricing hedging duality**|Alessandro Doldi et.al.|[2503.14086](http://arxiv.org/abs/2503.14086)|null|
-|**2025-03-18**|**MDocAgent: A Multi-Modal Multi-Agent Framework for Document Understanding**|Siwei Han et.al.|[2503.13964](http://arxiv.org/abs/2503.13964)|null|
+|**2025-03-18**|**MDocAgent: A Multi-Modal Multi-Agent Framework for Document Understanding**|Siwei Han et.al.|[2503.13964](http://arxiv.org/abs/2503.13964)|**[link](https://github.com/aiming-lab/mdocagent)**|
 |**2025-03-17**|**A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**|Weiqiang Jin et.al.|[2503.13415](http://arxiv.org/abs/2503.13415)|null|
 |**2025-03-17**|**Toward Generative 6G Simulation: An Experimental Multi-Agent LLM and ns-3 Integration**|Farhad Rezazadeh et.al.|[2503.13402](http://arxiv.org/abs/2503.13402)|null|
 |**2025-03-17**|**Optimal intrinsic formation using exogenous systems**|Yueyue Xu et.al.|[2503.13359](http://arxiv.org/abs/2503.13359)|null|
@@ -52,15 +52,15 @@ layout: default
 |**2025-03-17**|**Collaborative AI Enhances Image Understanding in Materials Science**|Ruoyan Avery Yin et.al.|[2503.13169](http://arxiv.org/abs/2503.13169)|null|
 |**2025-03-17**|**Actively learning equilibria in Nash games with misleading information**|Barbara Franci et.al.|[2503.13167](http://arxiv.org/abs/2503.13167)|null|
 |**2025-03-14**|**Essentials of the kinetic theory of multi-agent systems**|Nadia Loy et.al.|[2503.11554](http://arxiv.org/abs/2503.11554)|null|
-|**2025-03-14**|**Prompt Injection Detection and Mitigation via AI Multi-Agent NLP Frameworks**|Diego Gosmar et.al.|[2503.11517](http://arxiv.org/abs/2503.11517)|null|
+|**2025-03-14**|**Prompt Injection Detection and Mitigation via AI Multi-Agent NLP Frameworks**|Diego Gosmar et.al.|[2503.11517](http://arxiv.org/abs/2503.11517)|**[link](https://github.com/diegogosmar/pinject_agentic)**|
 |**2025-03-14**|**Multi-agent coordination for on-demand data gathering with periodic information upload**|Yaroslav Marchukov et.al.|[2503.11504](http://arxiv.org/abs/2503.11504)|null|
 |**2025-03-14**|**Unicorn: A Universal and Collaborative Reinforcement Learning Approach Towards Generalizable Network-Wide Traffic Signal Control**|Yifeng Zhang et.al.|[2503.11488](http://arxiv.org/abs/2503.11488)|null|
 |**2025-03-14**|**Research Vision: Multi-Agent Path Planning for Cops And Robbers Via Reactive Synthesis**|William Fishell et.al.|[2503.11475](http://arxiv.org/abs/2503.11475)|null|
-|**2025-03-14**|**AIstorian lets AI be a historian: A KG-powered multi-agent system for accurate biography generation**|Fengyu Li et.al.|[2503.11346](http://arxiv.org/abs/2503.11346)|null|
+|**2025-03-14**|**AIstorian lets AI be a historian: A KG-powered multi-agent system for accurate biography generation**|Fengyu Li et.al.|[2503.11346](http://arxiv.org/abs/2503.11346)|**[link](https://github.com/zju-daily/aistorian)**|
 |**2025-03-14**|**EmoAgent: Multi-Agent Collaboration of Plan, Edit, and Critic, for Affective Image Manipulation**|Qi Mao et.al.|[2503.11290](http://arxiv.org/abs/2503.11290)|null|
 |**2025-03-14**|**Collaboration is all you need: LLM Assisted Safe Code Translation**|Rabimba Karanjai et.al.|[2503.11237](http://arxiv.org/abs/2503.11237)|null|
 |**2025-03-14**|**Ergodic exploration of dynamic distribution**|Luka Lanča et.al.|[2503.11235](http://arxiv.org/abs/2503.11235)|null|
-|**2025-03-14**|**Prompt Alchemy: Automatic Prompt Refinement for Enhancing Code Generation**|Sixiang Ye et.al.|[2503.11085](http://arxiv.org/abs/2503.11085)|null|
+|**2025-03-14**|**Prompt Alchemy: Automatic Prompt Refinement for Enhancing Code Generation**|Sixiang Ye et.al.|[2503.11085](http://arxiv.org/abs/2503.11085)|**[link](https://github.com/buriyuanyou/prochemy)**|
 |**2025-03-13**|**A large multi-agent system with noise both in position and control**|Giuseppe D'Onofrio et.al.|[2503.10543](http://arxiv.org/abs/2503.10543)|null|
 |**2025-03-13**|**HALO: Fault-Tolerant Safety Architecture For High-Speed Autonomous Racing**|Aron Harder et.al.|[2503.10341](http://arxiv.org/abs/2503.10341)|null|
 |**2025-03-13**|**SurgRAW: Multi-Agent Workflow with Chain-of-Thought Reasoning for Surgical Intelligence**|Chang Han Low et.al.|[2503.10265](http://arxiv.org/abs/2503.10265)|null|
@@ -106,7 +106,7 @@ layout: default
 |**2025-03-07**|**Multi Agent based Medical Assistant for Edge Devices**|Sakharam Gawade et.al.|[2503.05397](http://arxiv.org/abs/2503.05397)|**[link](https://github.com/sakharamg/Multi-Agent-Health-Assistant)**|
 |**2025-03-07**|**VLMs Play StarCraft II: A Benchmark and Multimodal Decision Method**|Weiyu Ma et.al.|[2503.05383](http://arxiv.org/abs/2503.05383)|**[link](https://github.com/camel-ai/vlm-play-starcraft2)**|
 |**2025-03-07**|**GEMA-Score: Granular Explainable Multi-Agent Score for Radiology Report Evaluation**|Zhenxuan Zhang et.al.|[2503.05347](http://arxiv.org/abs/2503.05347)|**[link](https://github.com/zhenxuan-zhang/gema_score)**|
-|**2025-03-07**|**MM-StoryAgent: Immersive Narrated Storybook Video Generation with a Multi-Agent Paradigm across Text, Image and Audio**|Xuenan Xu et.al.|[2503.05242](http://arxiv.org/abs/2503.05242)|null|
+|**2025-03-07**|**MM-StoryAgent: Immersive Narrated Storybook Video Generation with a Multi-Agent Paradigm across Text, Image and Audio**|Xuenan Xu et.al.|[2503.05242](http://arxiv.org/abs/2503.05242)|**[link](https://github.com/x-plug/mm_storyagent)**|
 |**2025-03-07**|**Multi-Robot Collaboration through Reinforcement Learning and Abstract Simulation**|Adam Labiosa et.al.|[2503.05092](http://arxiv.org/abs/2503.05092)|null|
 |**2025-03-06**|**Multi-Agent Ergodic Exploration under Smoke-Based, Time-Varying Sensor Visibility Constraints**|Elena Wittemyer et.al.|[2503.04998](http://arxiv.org/abs/2503.04998)|null|
 |**2025-03-06**|**Security-Aware Sensor Fusion with MATE: the Multi-Agent Trust Estimator**|R. Spencer Hallyburton et.al.|[2503.04954](http://arxiv.org/abs/2503.04954)|null|

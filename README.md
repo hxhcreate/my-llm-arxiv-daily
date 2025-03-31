@@ -17,6 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-28**|**Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions**|Mohammad Almansoori et.al.|[2503.22678](http://arxiv.org/abs/2503.22678)|null|
+|**2025-03-28**|**Unlocking LLM Repair Capabilities in Low-Resource Programming Languages Through Cross-Language Translation and Multi-Agent Refinement**|Wenqiang Luo et.al.|[2503.22512](http://arxiv.org/abs/2503.22512)|null|
+|**2025-03-28**|**WorkTeam: Constructing Workflows from Natural Language with Multi-Agents**|Hanchao Liu et.al.|[2503.22473](http://arxiv.org/abs/2503.22473)|null|
+|**2025-03-28**|**PharmAgents: Building a Virtual Pharma with Large Language Model Agents**|Bowen Gao et.al.|[2503.22164](http://arxiv.org/abs/2503.22164)|null|
+|**2025-03-28**|**Cooperative Hybrid Multi-Agent Pathfinding Based on Shared Exploration Maps**|Ning Liu et.al.|[2503.22162](http://arxiv.org/abs/2503.22162)|null|
+|**2025-03-28**|**REMAC: Self-Reflective and Self-Evolving Multi-Agent Collaboration for Long-Horizon Robot Manipulation**|Puzhen Yuan et.al.|[2503.22122](http://arxiv.org/abs/2503.22122)|null|
+|**2025-03-27**|**Debate-Driven Multi-Agent LLMs for Phishing Email Detection**|Ngoc Tuong Vy Nguyen et.al.|[2503.22038](http://arxiv.org/abs/2503.22038)|null|
 |**2025-03-27**|**Combining Graph Attention Networks and Distributed Optimization for Multi-Robot Mixed-Integer Convex Programming**|Viet-Anh Le et.al.|[2503.21548](http://arxiv.org/abs/2503.21548)|null|
 |**2025-03-27**|**Learning Generalizable Skills from Offline Multi-Task Data for Multi-Agent Cooperation**|Sicong Liu et.al.|[2503.21200](http://arxiv.org/abs/2503.21200)|null|
 |**2025-03-27**|**Safe Human Robot Navigation in Warehouse Scenario**|Seth Farrell et.al.|[2503.21141](http://arxiv.org/abs/2503.21141)|null|

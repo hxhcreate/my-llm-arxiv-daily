@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.01
+## Updated on 2025.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,14 +19,14 @@
 |---|---|---|---|---|
 |**2025-03-31**|**Fair Dynamic Spectrum Access via Fully Decentralized Multi-Agent Reinforcement Learning**|Yubo Zhang et.al.|[2503.24296](http://arxiv.org/abs/2503.24296)|null|
 |**2025-03-31**|**MaintainCoder: Maintainable Code Generation Under Dynamic Requirements**|Zhengren Wang et.al.|[2503.24260](http://arxiv.org/abs/2503.24260)|null|
-|**2025-03-31**|**TeleAntiFraud-28k: A Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection**|Zhiming Ma et.al.|[2503.24115](http://arxiv.org/abs/2503.24115)|null|
+|**2025-04-01**|**TeleAntiFraud-28k: An Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection**|Zhiming Ma et.al.|[2503.24115](http://arxiv.org/abs/2503.24115)|null|
 |**2025-03-31**|**Data-Driven Distributed Output Synchronization of Heterogeneous Discrete-Time Multi-Agent Systems**|Giulio Fattore et.al.|[2503.24105](http://arxiv.org/abs/2503.24105)|null|
 |**2025-03-31**|**Consensus on Open Multi-Agent Systems Over Graphs Sampled from Graphons**|Renato Vizuete et.al.|[2503.24025](http://arxiv.org/abs/2503.24025)|null|
 |**2025-03-31**|**Rubric Is All You Need: Enhancing LLM-based Code Evaluation With Question-Specific Rubrics**|Aditya Pathak et.al.|[2503.23989](http://arxiv.org/abs/2503.23989)|null|
 |**2025-03-31**|**SchemaAgent: A Multi-Agents Framework for Generating Relational Database Schema**|Qin Wang et.al.|[2503.23886](http://arxiv.org/abs/2503.23886)|null|
 |**2025-03-31**|**WHERE and WHICH: Iterative Debate for Biomedical Synthetic Data Augmentation**|Zhengyi Zhao et.al.|[2503.23673](http://arxiv.org/abs/2503.23673)|null|
 |**2025-03-31**|**Multi-Agent Deep Reinforcement Learning for Optimized Multi-UAV Coverage and Power-Efficient UE Connectivity**|Xuli Cai et.al.|[2503.23669](http://arxiv.org/abs/2503.23669)|null|
-|**2025-03-31**|**MolGround: A Benchmark for Molecular Grounding**|Jiaxin Wu et.al.|[2503.23668](http://arxiv.org/abs/2503.23668)|null|
+|**2025-04-01**|**MolGround: A Benchmark for Molecular Grounding**|Jiaxin Wu et.al.|[2503.23668](http://arxiv.org/abs/2503.23668)|null|
 |**2025-03-28**|**Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions**|Mohammad Almansoori et.al.|[2503.22678](http://arxiv.org/abs/2503.22678)|null|
 |**2025-03-28**|**Unlocking LLM Repair Capabilities in Low-Resource Programming Languages Through Cross-Language Translation and Multi-Agent Refinement**|Wenqiang Luo et.al.|[2503.22512](http://arxiv.org/abs/2503.22512)|null|
 |**2025-03-28**|**WorkTeam: Constructing Workflows from Natural Language with Multi-Agents**|Hanchao Liu et.al.|[2503.22473](http://arxiv.org/abs/2503.22473)|null|
@@ -2055,7 +2055,7 @@
 |**2023-12-30**|**Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning**|Xin Yu et.al.|[2401.00167](http://arxiv.org/abs/2401.00167)|null|
 |**2023-12-30**|**Contrastive learning-based agent modeling for deep reinforcement learning**|Wenhao Ma et.al.|[2401.00132](http://arxiv.org/abs/2401.00132)|null|
 
-<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

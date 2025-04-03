@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Budget-Feasible Contracts**|Michal Feldman et.al.|[2504.01773](http://arxiv.org/abs/2504.01773)|null|
+|**2025-04-02**|**LLM-mediated Dynamic Plan Generation with a Multi-Agent Approach**|Reo Abe et.al.|[2504.01637](http://arxiv.org/abs/2504.01637)|null|
+|**2025-04-02**|**GeoRAG: A Question-Answering Approach from a Geographical Perspective**|Jian Wang et.al.|[2504.01458](http://arxiv.org/abs/2504.01458)|null|
+|**2025-04-02**|**Dynamic Incentive Strategies for Smart EV Charging Stations: An LLM-Driven User Digital Twin Approach**|Yichen Sun et.al.|[2504.01423](http://arxiv.org/abs/2504.01423)|null|
+|**2025-04-01**|**Remember, but also, Forget: Bridging Myopic and Perfect Recall Fairness with Past-Discounting**|Ashwin Kumar et.al.|[2504.01154](http://arxiv.org/abs/2504.01154)|null|
+|**2025-04-01**|**Provably Stable Multi-Agent Routing with Bounded-Delay Adversaries in the Decision Loop**|Roee M. Francos et.al.|[2504.00863](http://arxiv.org/abs/2504.00863)|null|
+|**2025-04-02**|**Do We Truly Need So Many Samples? Multi-LLM Repeated Sampling Efficiently Scales Test-Time Compute**|Jianhao Chen et.al.|[2504.00762](http://arxiv.org/abs/2504.00762)|null|
+|**2025-04-01**|**GraphMaster: Automated Graph Synthesis via LLM Agents in Data-Limited Environments**|Enjun Du et.al.|[2504.00711](http://arxiv.org/abs/2504.00711)|null|
+|**2025-04-01**|**Simulation of Autonomous Industrial Vehicle Fleet Using Fuzzy Agents: Application to Task Allocation and Battery Charge Management**|Juliette Grosset et.al.|[2504.00683](http://arxiv.org/abs/2504.00683)|null|
+|**2025-04-01**|**Asynchronous Multi-Agent Systems with Petri nets**|Federica Adobbati et.al.|[2504.00602](http://arxiv.org/abs/2504.00602)|null|
 |**2025-03-31**|**Fair Dynamic Spectrum Access via Fully Decentralized Multi-Agent Reinforcement Learning**|Yubo Zhang et.al.|[2503.24296](http://arxiv.org/abs/2503.24296)|null|
 |**2025-03-31**|**MaintainCoder: Maintainable Code Generation Under Dynamic Requirements**|Zhengren Wang et.al.|[2503.24260](http://arxiv.org/abs/2503.24260)|null|
 |**2025-04-02**|**TeleAntiFraud-28k: An Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection**|Zhiming Ma et.al.|[2503.24115](http://arxiv.org/abs/2503.24115)|null|

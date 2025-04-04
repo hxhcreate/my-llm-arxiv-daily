@@ -17,6 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**Sequential Binary Hypothesis Testing with Competing Agents under Information Asymmetry**|Aneesh Raghavan et.al.|[2504.02743](http://arxiv.org/abs/2504.02743)|null|
+|**2025-04-03**|**A Set-Theoretic Robust Control Approach for Linear Quadratic Games with Unknown Counterparts**|Francesco Bianchin et.al.|[2504.02679](http://arxiv.org/abs/2504.02679)|null|
+|**2025-04-03**|**Multi-Mission Tool Bench: Assessing the Robustness of LLM based Agents through Related and Dynamic Missions**|PeiJie Yu et.al.|[2504.02623](http://arxiv.org/abs/2504.02623)|null|
+|**2025-04-03**|**Hierarchical Policy-Gradient Reinforcement Learning for Multi-Agent Shepherding Control of Non-Cohesive Targets**|Stefano Covone et.al.|[2504.02479](http://arxiv.org/abs/2504.02479)|null|
+|**2025-04-02**|**A Survey of Scaling in Large Language Model Reasoning**|Zihan Chen et.al.|[2504.02181](http://arxiv.org/abs/2504.02181)|null|
+|**2025-04-02**|**Achieving Unanimous Consensus in Decision Making Using Multi-Agents**|Apurba Pokharel et.al.|[2504.02128](http://arxiv.org/abs/2504.02128)|null|
+|**2025-04-02**|**Distributed Resource Allocation for Human-Autonomy Teaming under Coupled Constraints**|Yichen Yao et.al.|[2504.02088](http://arxiv.org/abs/2504.02088)|null|
+|**2025-04-02**|**Self-Resource Allocation in Multi-Agent LLM Systems**|Alfonso Amayuelas et.al.|[2504.02051](http://arxiv.org/abs/2504.02051)|null|
+|**2025-04-02**|**Distributed Multi-agent Coordination over Cellular Sheaves**|Tyler Hanks et.al.|[2504.02049](http://arxiv.org/abs/2504.02049)|null|
 |**2025-04-02**|**Budget-Feasible Contracts**|Michal Feldman et.al.|[2504.01773](http://arxiv.org/abs/2504.01773)|null|
 |**2025-04-02**|**LLM-mediated Dynamic Plan Generation with a Multi-Agent Approach**|Reo Abe et.al.|[2504.01637](http://arxiv.org/abs/2504.01637)|null|
 |**2025-04-03**|**GeoRAG: A Question-Answering Approach from a Geographical Perspective**|Jian Wang et.al.|[2504.01458](http://arxiv.org/abs/2504.01458)|null|

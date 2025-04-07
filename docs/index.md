@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**A Lower Bound on Conservative Elementary Object Systems Coverability**|Francesco Di Cosmo et.al.|[2504.03591](http://arxiv.org/abs/2504.03591)|null|
+|**2025-04-04**|**Decentralized Collective World Model for Emergent Communication and Coordination**|Kentaro Nomura et.al.|[2504.03353](http://arxiv.org/abs/2504.03353)|null|
+|**2025-04-04**|**Learning-Based Conformal Tube MPC for Safe Control in Interactive Multi-Agent Systems**|Shuqi Wang et.al.|[2504.03293](http://arxiv.org/abs/2504.03293)|null|
+|**2025-04-04**|**Energy Aware and Safe Path Planning for Unmanned Aircraft Systems**|Sebastian Gasche et.al.|[2504.03271](http://arxiv.org/abs/2504.03271)|null|
+|**2025-04-04**|**DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments**|Yuxiang Zheng et.al.|[2504.03160](http://arxiv.org/abs/2504.03160)|null|
+|**2025-04-03**|**Distributionally Robust Predictive Runtime Verification under Spatio-Temporal Logic Specifications**|Yiqi Zhao et.al.|[2504.02964](http://arxiv.org/abs/2504.02964)|null|
 |**2025-04-03**|**Sequential Binary Hypothesis Testing with Competing Agents under Information Asymmetry**|Aneesh Raghavan et.al.|[2504.02743](http://arxiv.org/abs/2504.02743)|null|
 |**2025-04-03**|**A Set-Theoretic Robust Control Approach for Linear Quadratic Games with Unknown Counterparts**|Francesco Bianchin et.al.|[2504.02679](http://arxiv.org/abs/2504.02679)|null|
 |**2025-04-03**|**Multi-Mission Tool Bench: Assessing the Robustness of LLM based Agents through Related and Dynamic Missions**|PeiJie Yu et.al.|[2504.02623](http://arxiv.org/abs/2504.02623)|**[link](https://github.com/yupeijei1997/MMTB)**|

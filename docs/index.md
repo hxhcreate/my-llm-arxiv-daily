@@ -14,6 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Linear Regulator-Based Synchronization of Positive Multi-Agent Systems**|Alba Gurpegui et.al.|[2504.06169](http://arxiv.org/abs/2504.06169)|null|
+|**2025-04-08**|**Real-Time LaCAM**|Runzhe Liang et.al.|[2504.06091](http://arxiv.org/abs/2504.06091)|null|
+|**2025-04-08**|**Robust and Efficient Average Consensus with Non-Coherent Over-the-Air Aggregation**|Yuhang Deng et.al.|[2504.05729](http://arxiv.org/abs/2504.05729)|null|
+|**2025-04-08**|**Single-Agent vs. Multi-Agent LLM Strategies for Automated Student Reflection Assessment**|Gen Li et.al.|[2504.05716](http://arxiv.org/abs/2504.05716)|null|
+|**2025-04-08**|**FactGuard: Leveraging Multi-Agent Systems to Generate Answerable and Unanswerable Questions for Enhanced Long-Context LLM Extraction**|Qian-Wen Zhang et.al.|[2504.05607](http://arxiv.org/abs/2504.05607)|null|
+|**2025-04-07**|**Federated Hierarchical Reinforcement Learning for Adaptive Traffic Signal Control**|Yongjie Fu et.al.|[2504.05553](http://arxiv.org/abs/2504.05553)|null|
+|**2025-04-07**|**Prism: Dynamic and Flexible Benchmarking of LLMs Code Generation with Monte Carlo Tree Search**|Vahid Majdinasab et.al.|[2504.05500](http://arxiv.org/abs/2504.05500)|null|
+|**2025-04-07**|**BC-ADMM: An Efficient Non-convex Constrained Optimizer with Robotic Applications**|Zherong Pan et.al.|[2504.05465](http://arxiv.org/abs/2504.05465)|null|
+|**2025-04-07**|**EduPlanner: LLM-Based Multi-Agent Systems for Customized and Intelligent Instructional Design**|Xueqiao Zhang et.al.|[2504.05370](http://arxiv.org/abs/2504.05370)|null|
 |**2025-04-07**|**CREA: A Collaborative Multi-Agent Framework for Creative Content Generation with Diffusion Models**|Kavana Venkatesh et.al.|[2504.05306](http://arxiv.org/abs/2504.05306)|null|
 |**2025-04-07**|**AI-Driven Tactical Communications and Networking for Defense: A Survey and Emerging Trends**|Victor Monzon Baeza et.al.|[2504.05071](http://arxiv.org/abs/2504.05071)|null|
 |**2025-04-08**|**Attention-Augmented Inverse Reinforcement Learning with Graph Convolutions for Multi-Agent Task Allocation**|Huilin Yin et.al.|[2504.05045](http://arxiv.org/abs/2504.05045)|null|

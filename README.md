@@ -53,14 +53,14 @@
 |**2025-04-08**|**Autono: A ReAct-Based Highly Robust Autonomous Agent Framework**|Zihao Wu et.al.|[2504.04650](http://arxiv.org/abs/2504.04650)|**[link](https://github.com/vortezwohl/Autono)**|
 |**2025-04-04**|**A Lower Bound on Conservative Elementary Object Systems Coverability**|Francesco Di Cosmo et.al.|[2504.03591](http://arxiv.org/abs/2504.03591)|null|
 |**2025-04-04**|**Decentralized Collective World Model for Emergent Communication and Coordination**|Kentaro Nomura et.al.|[2504.03353](http://arxiv.org/abs/2504.03353)|null|
-|**2025-04-04**|**Learning-Based Conformal Tube MPC for Safe Control in Interactive Multi-Agent Systems**|Shuqi Wang et.al.|[2504.03293](http://arxiv.org/abs/2504.03293)|null|
+|**2025-04-04**|**Learning-Based Conformal Tube MPC for Safe Control in Interactive Multi-Agent Systems**|Shuqi Wang et.al.|[2504.03293](http://arxiv.org/abs/2504.03293)|**[link](https://github.com/yangming911/conformal_tube_mpc)**|
 |**2025-04-04**|**Energy Aware and Safe Path Planning for Unmanned Aircraft Systems**|Sebastian Gasche et.al.|[2504.03271](http://arxiv.org/abs/2504.03271)|null|
-|**2025-04-07**|**DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments**|Yuxiang Zheng et.al.|[2504.03160](http://arxiv.org/abs/2504.03160)|null|
-|**2025-04-03**|**Distributionally Robust Predictive Runtime Verification under Spatio-Temporal Logic Specifications**|Yiqi Zhao et.al.|[2504.02964](http://arxiv.org/abs/2504.02964)|null|
+|**2025-04-07**|**DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments**|Yuxiang Zheng et.al.|[2504.03160](http://arxiv.org/abs/2504.03160)|**[link](https://github.com/gair-nlp/deepresearcher)**|
+|**2025-04-03**|**Distributionally Robust Predictive Runtime Verification under Spatio-Temporal Logic Specifications**|Yiqi Zhao et.al.|[2504.02964](http://arxiv.org/abs/2504.02964)|**[link](https://github.com/saids-lab/robust_spatio-temporal_predictive_runtime_verification)**|
 |**2025-04-03**|**Sequential Binary Hypothesis Testing with Competing Agents under Information Asymmetry**|Aneesh Raghavan et.al.|[2504.02743](http://arxiv.org/abs/2504.02743)|null|
 |**2025-04-03**|**A Set-Theoretic Robust Control Approach for Linear Quadratic Games with Unknown Counterparts**|Francesco Bianchin et.al.|[2504.02679](http://arxiv.org/abs/2504.02679)|null|
 |**2025-04-03**|**Multi-Mission Tool Bench: Assessing the Robustness of LLM based Agents through Related and Dynamic Missions**|PeiJie Yu et.al.|[2504.02623](http://arxiv.org/abs/2504.02623)|**[link](https://github.com/yupeijei1997/MMTB)**|
-|**2025-04-03**|**Hierarchical Policy-Gradient Reinforcement Learning for Multi-Agent Shepherding Control of Non-Cohesive Targets**|Stefano Covone et.al.|[2504.02479](http://arxiv.org/abs/2504.02479)|null|
+|**2025-04-03**|**Hierarchical Policy-Gradient Reinforcement Learning for Multi-Agent Shepherding Control of Non-Cohesive Targets**|Stefano Covone et.al.|[2504.02479](http://arxiv.org/abs/2504.02479)|**[link](https://github.com/sincrogroup/hierarchical-policy-gradient-rl-for-multi-agent-shepherding-control-of-non-cohesive-targets)**|
 |**2025-04-02**|**A Survey of Scaling in Large Language Model Reasoning**|Zihan Chen et.al.|[2504.02181](http://arxiv.org/abs/2504.02181)|null|
 |**2025-04-02**|**Achieving Unanimous Consensus in Decision Making Using Multi-Agents**|Apurba Pokharel et.al.|[2504.02128](http://arxiv.org/abs/2504.02128)|null|
 |**2025-04-02**|**Distributed Resource Allocation for Human-Autonomy Teaming under Coupled Constraints**|Yichen Yao et.al.|[2504.02088](http://arxiv.org/abs/2504.02088)|null|
@@ -127,7 +127,7 @@
 |**2025-03-23**|**Metaphor-based Jailbreaking Attacks on Text-to-Image Models**|Chenyu Zhang et.al.|[2503.17987](http://arxiv.org/abs/2503.17987)|null|
 |**2025-03-21**|**LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language**|Kun Chu et.al.|[2503.17309](http://arxiv.org/abs/2503.17309)|**[link](https://github.com/kchu/llm-map)**|
 |**2025-03-21**|**Which2comm: An Efficient Collaborative Perception Framework for 3D Object Detection**|Duanrui Yu et.al.|[2503.17175](http://arxiv.org/abs/2503.17175)|null|
-|**2025-03-21**|**MAPS: A Multi-Agent Framework Based on Big Seven Personality and Socratic Guidance for Multimodal Scientific Problem Solving**|Jian Zhang et.al.|[2503.16905](http://arxiv.org/abs/2503.16905)|null|
+|**2025-03-21**|**MAPS: A Multi-Agent Framework Based on Big Seven Personality and Socratic Guidance for Multimodal Scientific Problem Solving**|Jian Zhang et.al.|[2503.16905](http://arxiv.org/abs/2503.16905)|**[link](https://github.com/exoskeletonzj/MARS)**|
 |**2025-03-21**|**MARS: A Multi-Agent Framework Incorporating Socratic Guidance for Automated Prompt Optimization**|Jian Zhang et.al.|[2503.16874](http://arxiv.org/abs/2503.16874)|null|
 |**2025-03-21**|**ETVA: Evaluation of Text-to-Video Alignment via Fine-grained Question Generation and Answering**|Kaisi Guan et.al.|[2503.16867](http://arxiv.org/abs/2503.16867)|null|
 |**2025-03-21**|**When Debate Fails: Bias Reinforcement in Large Language Models**|Jihwan Oh et.al.|[2503.16814](http://arxiv.org/abs/2503.16814)|null|
@@ -912,7 +912,7 @@
 |**2024-10-22**|**Self-Evolving Multi-Agent Collaboration Networks for Software Development**|Yue Hu et.al.|[2410.16946](http://arxiv.org/abs/2410.16946)|null|
 |**2024-10-22**|**SERN: Simulation-Enhanced Realistic Navigation for Multi-Agent Robotic Systems in Contested Environments**|Jumman Hossain et.al.|[2410.16686](http://arxiv.org/abs/2410.16686)|null|
 |**2024-10-22**|**Convex Markov Games: A Framework for Fairness, Imitation, and Creativity in Multi-Agent Learning**|Ian Gemp et.al.|[2410.16600](http://arxiv.org/abs/2410.16600)|null|
-|**2024-10-21**|**The Social Cost of Growth: Evaluating GMV-Centric and Welfare-Centric Strategies in Online Food Delivery Platforms**|Yukun Zhang et.al.|[2410.16566](http://arxiv.org/abs/2410.16566)|null|
+|**2024-10-21**|**The Social Cost of Growth: Evaluating GMV-Centric and Welfare-Centric Strategies in Online Food Delivery Platforms**|Yukun Zhang et.al.|[2410.16566](http://arxiv.org/abs/2410.16566)|**[link](https://github.com/yukunzhang1/Revenue-vs.-Welfare-A-Comprehensive-Analysis-of-Strategic-Trade-offs-in-Online-Food-Delivery-Systems)**|
 |**2024-10-21**|**Distributed Online Life-Long Learning (DOL3) for Multi-agent Trust and Reputation Assessment in E-commerce**|Hariprasauth Ramamoorthy et.al.|[2410.16529](http://arxiv.org/abs/2410.16529)|null|
 |**2024-10-21**|**RGMDT: Return-Gap-Minimizing Decision Tree Extraction in Non-Euclidean Metric Space**|Jingdi Chen et.al.|[2410.16517](http://arxiv.org/abs/2410.16517)|null|
 |**2024-10-21**|**IBGP: Imperfect Byzantine Generals Problem for Zero-Shot Robustness in Communicative Multi-Agent Systems**|Yihuan Mao et.al.|[2410.16237](http://arxiv.org/abs/2410.16237)|null|
@@ -1685,7 +1685,7 @@
 |**2024-04-18**|**JointPPO: Diving Deeper into the Effectiveness of PPO in Multi-Agent Reinforcement Learning**|Chenxing Liu et.al.|[2404.11831](http://arxiv.org/abs/2404.11831)|null|
 |**2024-04-17**|**The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling: A Survey**|Tula Masterman et.al.|[2404.11584](http://arxiv.org/abs/2404.11584)|null|
 |**2024-04-17**|**Open-Ended Wargames with Large Language Models**|Daniel P. Hogan et.al.|[2404.11446](http://arxiv.org/abs/2404.11446)|**[link](https://github.com/iqtlabs/snowglobe)**|
-|**2024-04-17**|**Towards Multi-agent Reinforcement Learning based Traffic Signal Control through Spatio-temporal Hypergraphs**|Kang Wang et.al.|[2404.11014](http://arxiv.org/abs/2404.11014)|null|
+|**2024-04-17**|**Towards Multi-agent Reinforcement Learning based Traffic Signal Control through Spatio-temporal Hypergraphs**|Kang Wang et.al.|[2404.11014](http://arxiv.org/abs/2404.11014)|**[link](https://github.com/edun-eyes/tsc)**|
 |**2024-04-17**|**Function Approximation for Reinforcement Learning Controller for Energy from Spread Waves**|Soumyendu Sarkar et.al.|[2404.10991](http://arxiv.org/abs/2404.10991)|null|
 |**2024-04-17**|**Group-Aware Coordination Graph for Multi-Agent Reinforcement Learning**|Wei Duan et.al.|[2404.10976](http://arxiv.org/abs/2404.10976)|**[link](https://github.com/Wei9711/GACG)**|
 |**2024-04-16**|**Sustainability of Data Center Digital Twins with Reinforcement Learning**|Soumyendu Sarkar et.al.|[2404.10786](http://arxiv.org/abs/2404.10786)|**[link](https://github.com/hewlettpackard/dc-rl)**|

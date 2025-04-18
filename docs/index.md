@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**Retrieval-Augmented Generation with Conflicting Evidence**|Han Wang et.al.|[2504.13079](http://arxiv.org/abs/2504.13079)|null|
+|**2025-04-17**|**InstructRAG: Leveraging Retrieval-Augmented Generation on Instruction Graphs for LLM-Based Task Planning**|Zheng Wang et.al.|[2504.13032](http://arxiv.org/abs/2504.13032)|null|
+|**2025-04-17**|**QLLM: Do We Really Need a Mixing Network for Credit Assignment in Multi-Agent Reinforcement Learning?**|Zhouyang Jiang et.al.|[2504.12961](http://arxiv.org/abs/2504.12961)|null|
+|**2025-04-17**|**Are AI agents the new machine translation frontier? Challenges and opportunities of single- and multi-agent systems for multilingual digital communication**|Vicent Briva-Iglesias et.al.|[2504.12891](http://arxiv.org/abs/2504.12891)|null|
+|**2025-04-17**|**DashChat: Interactive Authoring of Industrial Dashboard Design Prototypes through Conversation with LLM-Powered Agents**|S. Shen et.al.|[2504.12865](http://arxiv.org/abs/2504.12865)|null|
+|**2025-04-17**|**Multi-Agent Reinforcement Learning Simulation for Environmental Policy Synthesis**|James Rudd-Jones et.al.|[2504.12777](http://arxiv.org/abs/2504.12777)|null|
+|**2025-04-17**|**The Athenian Academy: A Seven-Layer Architecture Model for Multi-Agent Systems**|Lidong Zhai et.al.|[2504.12735](http://arxiv.org/abs/2504.12735)|null|
+|**2025-04-17**|**Cross-environment Cooperation Enables Zero-shot Multi-agent Coordination**|Kunal Jha et.al.|[2504.12714](http://arxiv.org/abs/2504.12714)|null|
+|**2025-04-17**|**Collaborative Perception Datasets for Autonomous Driving: A Review**|Naibang Wang et.al.|[2504.12696](http://arxiv.org/abs/2504.12696)|null|
+|**2025-04-17**|**On Equivalence Between Decentralized Policy-Profile Mixtures and Behavioral Coordination Policies in Multi-Agent Systems**|Nouman Khan et.al.|[2504.12635](http://arxiv.org/abs/2504.12635)|null|
 |**2025-04-16**|**Optimal flock formation induced by agent heterogeneity**|Arthur N. Montanari et.al.|[2504.12297](http://arxiv.org/abs/2504.12297)|null|
 |**2025-04-16**|**Factor-MCLS: Multi-agent learning system with reward factor matrix and multi-critic framework for dynamic portfolio optimization**|Ruoyu Sun et.al.|[2504.11874](http://arxiv.org/abs/2504.11874)|null|
 |**2025-04-15**|**Multi-Agent Reinforcement Learning for Decentralized Reservoir Management via Murmuration Intelligence**|Heming Fu et.al.|[2504.11569](http://arxiv.org/abs/2504.11569)|null|

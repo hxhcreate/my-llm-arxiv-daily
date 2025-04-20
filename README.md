@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.19
+## Updated on 2025.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,7 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-17**|**Retrieval-Augmented Generation with Conflicting Evidence**|Han Wang et.al.|[2504.13079](http://arxiv.org/abs/2504.13079)|null|
+|**2025-04-17**|**Retrieval-Augmented Generation with Conflicting Evidence**|Han Wang et.al.|[2504.13079](http://arxiv.org/abs/2504.13079)|**[link](https://github.com/hannight/ramdocs)**|
 |**2025-04-17**|**InstructRAG: Leveraging Retrieval-Augmented Generation on Instruction Graphs for LLM-Based Task Planning**|Zheng Wang et.al.|[2504.13032](http://arxiv.org/abs/2504.13032)|null|
 |**2025-04-17**|**QLLM: Do We Really Need a Mixing Network for Credit Assignment in Multi-Agent Reinforcement Learning?**|Zhouyang Jiang et.al.|[2504.12961](http://arxiv.org/abs/2504.12961)|null|
 |**2025-04-17**|**Are AI agents the new machine translation frontier? Challenges and opportunities of single- and multi-agent systems for multilingual digital communication**|Vicent Briva-Iglesias et.al.|[2504.12891](http://arxiv.org/abs/2504.12891)|null|
@@ -2148,7 +2148,7 @@
 |**2023-12-30**|**Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning**|Xin Yu et.al.|[2401.00167](http://arxiv.org/abs/2401.00167)|null|
 |**2023-12-30**|**Contrastive learning-based agent modeling for deep reinforcement learning**|Wenhao Ma et.al.|[2401.00132](http://arxiv.org/abs/2401.00132)|null|
 
-<p align=right>(<a href=#updated-on-20250419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250420>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

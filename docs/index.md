@@ -24,7 +24,7 @@ layout: default
 |**2025-04-17**|**Cross-environment Cooperation Enables Zero-shot Multi-agent Coordination**|Kunal Jha et.al.|[2504.12714](http://arxiv.org/abs/2504.12714)|null|
 |**2025-04-17**|**Collaborative Perception Datasets for Autonomous Driving: A Review**|Naibang Wang et.al.|[2504.12696](http://arxiv.org/abs/2504.12696)|null|
 |**2025-04-17**|**On Equivalence Between Decentralized Policy-Profile Mixtures and Behavioral Coordination Policies in Multi-Agent Systems**|Nouman Khan et.al.|[2504.12635](http://arxiv.org/abs/2504.12635)|null|
-|**2025-04-16**|**Optimal flock formation induced by agent heterogeneity**|Arthur N. Montanari et.al.|[2504.12297](http://arxiv.org/abs/2504.12297)|null|
+|**2025-04-16**|**Optimal flock formation induced by agent heterogeneity**|Arthur N. Montanari et.al.|[2504.12297](http://arxiv.org/abs/2504.12297)|**[link](https://github.com/montanariarthur/optflock)**|
 |**2025-04-16**|**Factor-MCLS: Multi-agent learning system with reward factor matrix and multi-critic framework for dynamic portfolio optimization**|Ruoyu Sun et.al.|[2504.11874](http://arxiv.org/abs/2504.11874)|null|
 |**2025-04-15**|**Multi-Agent Reinforcement Learning for Decentralized Reservoir Management via Murmuration Intelligence**|Heming Fu et.al.|[2504.11569](http://arxiv.org/abs/2504.11569)|null|
 |**2025-04-15**|**Multi-Agent Reinforcement Learning for Greenhouse Gas Offset Credit Markets**|Liam Welsh et.al.|[2504.11258](http://arxiv.org/abs/2504.11258)|null|
@@ -32,17 +32,17 @@ layout: default
 |**2025-04-15**|**LOKA Protocol: A Decentralized Framework for Trustworthy and Ethical AI Agent Ecosystems**|Rajesh Ranjan et.al.|[2504.10915](http://arxiv.org/abs/2504.10915)|null|
 |**2025-04-14**|**Achieving Optimal Tissue Repair Through MARL with Reward Shaping and Curriculum Learning**|Muhammad Al-Zafar Khan et.al.|[2504.10677](http://arxiv.org/abs/2504.10677)|null|
 |**2025-04-14**|**Can Competition Enhance the Proficiency of Agents Powered by Large Language Models in the Realm of News-driven Time Series Forecasting?**|Yuxuan Zhang et.al.|[2504.10210](http://arxiv.org/abs/2504.10210)|null|
-|**2025-04-14**|**MSCoT: Structured Chain-of-Thought Generation for Multiple Programming Languages**|Naizhu Jin et.al.|[2504.10178](http://arxiv.org/abs/2504.10178)|null|
+|**2025-04-14**|**MSCoT: Structured Chain-of-Thought Generation for Multiple Programming Languages**|Naizhu Jin et.al.|[2504.10178](http://arxiv.org/abs/2504.10178)|**[link](https://github.com/wolfgangjin/mscot)**|
 |**2025-04-14**|**DataMosaic: Explainable and Verifiable Multi-Modal Data Analytics through Extract-Reason-Verify**|Zhengxuan Zhang et.al.|[2504.10036](http://arxiv.org/abs/2504.10036)|null|
 |**2025-04-14**|**PestMA: LLM-based Multi-Agent System for Informed Pest Management**|Hongrui Shi et.al.|[2504.09855](http://arxiv.org/abs/2504.09855)|null|
-|**2025-04-14**|**Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning**|Can Jin et.al.|[2504.09772](http://arxiv.org/abs/2504.09772)|null|
+|**2025-04-14**|**Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning**|Can Jin et.al.|[2504.09772](http://arxiv.org/abs/2504.09772)|**[link](https://github.com/jincan333/MAS-TTS)**|
 |**2025-04-14**|**Socratic Chart: Cooperating Multiple Agents for Robust SVG Chart Understanding**|Yuyang Ji et.al.|[2504.09764](http://arxiv.org/abs/2504.09764)|null|
 |**2025-04-13**|**Learning-based decentralized control with collision avoidance for multi-agent systems**|Omayra Yago Nieto et.al.|[2504.09730](http://arxiv.org/abs/2504.09730)|null|
-|**2025-04-13**|**EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety**|Jiahao Qiu et.al.|[2504.09689](http://arxiv.org/abs/2504.09689)|null|
+|**2025-04-13**|**EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety**|Jiahao Qiu et.al.|[2504.09689](http://arxiv.org/abs/2504.09689)|**[link](https://github.com/1akaman/emoagent)**|
 |**2025-04-13**|**AgentDynEx: Nudging the Mechanics and Dynamics of Multi-Agent Simulations**|Jenny Ma et.al.|[2504.09662](http://arxiv.org/abs/2504.09662)|null|
 |**2025-04-13**|**Fine-tuning an Large Language Model for Automating Computational Fluid Dynamics Simulations**|Zhehao Dong et.al.|[2504.09602](http://arxiv.org/abs/2504.09602)|null|
 |**2025-04-11**|**DocAgent: A Multi-Agent System for Automated Code Documentation Generation**|Dayu Yang et.al.|[2504.08725](http://arxiv.org/abs/2504.08725)|null|
-|**2025-04-11**|**MooseAgent: A LLM Based Multi-agent Framework for Automating Moose Simulation**|Tao Zhang et.al.|[2504.08621](http://arxiv.org/abs/2504.08621)|null|
+|**2025-04-11**|**MooseAgent: A LLM Based Multi-agent Framework for Automating Moose Simulation**|Tao Zhang et.al.|[2504.08621](http://arxiv.org/abs/2504.08621)|**[link](https://github.com/taozhan18/mooseagent)**|
 |**2025-04-11**|**Belief States for Cooperative Multi-Agent Reinforcement Learning under Partial Observability**|Paul J. Pritz et.al.|[2504.08417](http://arxiv.org/abs/2504.08417)|null|
 |**2025-04-11**|**Encoding argumentation frameworks with set attackers to propositional logic systems**|Shuai Tang et.al.|[2504.08370](http://arxiv.org/abs/2504.08370)|null|
 |**2025-04-11**|**Graph Based Deep Reinforcement Learning Aided by Transformers for Multi-Agent Cooperation**|Michael Elrod et.al.|[2504.08195](http://arxiv.org/abs/2504.08195)|null|
@@ -50,7 +50,7 @@ layout: default
 |**2025-04-10**|**Test Amplification for REST APIs via Single and Multi-Agent LLM Systems**|Robbe Nooyens et.al.|[2504.08113](http://arxiv.org/abs/2504.08113)|null|
 |**2025-04-11**|**An LLM-Driven Multi-Agent Debate System for Mendelian Diseases**|Xinyang Zhou et.al.|[2504.07881](http://arxiv.org/abs/2504.07881)|null|
 |**2025-04-10**|**Anytime Single-Step MAPF Planning with Anytime PIBT**|Nayesha Gandotra et.al.|[2504.07841](http://arxiv.org/abs/2504.07841)|null|
-|**2025-04-10**|**MOSAIC: Modeling Social AI for Content Dissemination and Regulation in Multi-Agent Simulations**|Genglin Liu et.al.|[2504.07830](http://arxiv.org/abs/2504.07830)|null|
+|**2025-04-10**|**MOSAIC: Modeling Social AI for Content Dissemination and Regulation in Multi-Agent Simulations**|Genglin Liu et.al.|[2504.07830](http://arxiv.org/abs/2504.07830)|**[link](https://github.com/genglinliu/MOSAIC)**|
 |**2025-04-10**|**Strategic learning for disturbance rejection in multi-agent systems: Nash and Minmax in graphical games**|Xinyang Wang et.al.|[2504.07547](http://arxiv.org/abs/2504.07547)|null|
 |**2025-04-10**|**Achilles Heel of Distributed Multi-Agent Systems**|Yiting Zhang et.al.|[2504.07461](http://arxiv.org/abs/2504.07461)|null|
 |**2025-04-09**|**Modeling Response Consistency in Multi-Agent LLM Systems: A Comparative Analysis of Shared and Separate Context Approaches**|Tooraj Helmi et.al.|[2504.07303](http://arxiv.org/abs/2504.07303)|null|
@@ -58,8 +58,8 @@ layout: default
 |**2025-04-09**|**Analysis of the Unscented Transform for Cooperative Localization with Ranging-Only Information**|Uthman Olawoye et.al.|[2504.07242](http://arxiv.org/abs/2504.07242)|null|
 |**2025-04-09**|**Compositional design for time-varying and nonlinear coordination**|Jonas Hansson et.al.|[2504.07226](http://arxiv.org/abs/2504.07226)|null|
 |**2025-04-09**|**Multi-Agent Trustworthy Consensus under Random Dynamic Attacks**|Orhan Eren Akgün et.al.|[2504.07189](http://arxiv.org/abs/2504.07189)|null|
-|**2025-04-09**|**AI-Driven Consensus: Modeling Multi-Agent Networks with Long-Range Interactions through path-Laplacian Matrices**|Yusef Ahsini et.al.|[2504.06894](http://arxiv.org/abs/2504.06894)|null|
-|**2025-04-09**|**SDHN: Skewness-Driven Hypergraph Networks for Enhanced Localized Multi-Robot Coordination**|Delin Zhao et.al.|[2504.06684](http://arxiv.org/abs/2504.06684)|null|
+|**2025-04-09**|**AI-Driven Consensus: Modeling Multi-Agent Networks with Long-Range Interactions through path-Laplacian Matrices**|Yusef Ahsini et.al.|[2504.06894](http://arxiv.org/abs/2504.06894)|**[link](https://github.com/yusef320/AI-Driven-Consensus)**|
+|**2025-04-09**|**SDHN: Skewness-Driven Hypergraph Networks for Enhanced Localized Multi-Robot Coordination**|Delin Zhao et.al.|[2504.06684](http://arxiv.org/abs/2504.06684)|**[link](https://github.com/DeLin1001/SDHN)**|
 |**2025-04-09**|**Dynamic Residual Safe Reinforcement Learning for Multi-Agent Safety-Critical Scenarios Decision-Making**|Kaifeng Wang et.al.|[2504.06670](http://arxiv.org/abs/2504.06670)|null|
 |**2025-04-09**|**AgentFM: Role-Aware Failure Management for Distributed Databases with LLM-Driven Multi-Agents**|Lingzhe Zhang et.al.|[2504.06614](http://arxiv.org/abs/2504.06614)|null|
 |**2025-04-09**|**Market, power, gift, and concession economies: Comparison using four-mode primitive network models**|Takeshi Kato et.al.|[2504.06557](http://arxiv.org/abs/2504.06557)|null|
@@ -79,7 +79,7 @@ layout: default
 |**2025-04-07**|**BIASINSPECTOR: Detecting Bias in Structured Data through LLM Agents**|Haoxuan Li et.al.|[2504.04855](http://arxiv.org/abs/2504.04855)|null|
 |**2025-04-07**|**An Efficient Approach for Cooperative Multi-Agent Learning Problems**|Ángel Aso-Mollar et.al.|[2504.04850](http://arxiv.org/abs/2504.04850)|null|
 |**2025-04-07**|**Multi-Agent Deep Reinforcement Learning for Multiple Anesthetics Collaborative Control**|Huijie Li et.al.|[2504.04765](http://arxiv.org/abs/2504.04765)|null|
-|**2025-04-07**|**Large-Scale Mixed-Traffic and Intersection Control using Multi-agent Reinforcement Learning**|Songyang Liu et.al.|[2504.04691](http://arxiv.org/abs/2504.04691)|null|
+|**2025-04-07**|**Large-Scale Mixed-Traffic and Intersection Control using Multi-agent Reinforcement Learning**|Songyang Liu et.al.|[2504.04691](http://arxiv.org/abs/2504.04691)|**[link](https://github.com/cgchrfchscyrh/MixedTrafficControl)**|
 |**2025-04-08**|**HypRL: Reinforcement Learning of Control Policies for Hyperproperties**|Tzu-Han Hsu et.al.|[2504.04675](http://arxiv.org/abs/2504.04675)|null|
 |**2025-04-08**|**Autono: A ReAct-Based Highly Robust Autonomous Agent Framework**|Zihao Wu et.al.|[2504.04650](http://arxiv.org/abs/2504.04650)|**[link](https://github.com/vortezwohl/Autono)**|
 |**2025-04-04**|**A Lower Bound on Conservative Elementary Object Systems Coverability**|Francesco Di Cosmo et.al.|[2504.03591](http://arxiv.org/abs/2504.03591)|null|

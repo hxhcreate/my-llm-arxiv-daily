@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**Towards Test Generation from Task Description for Mobile Testing with Multi-modal Reasoning**|Hieu Huynh et.al.|[2504.15917](http://arxiv.org/abs/2504.15917)|null|
+|**2025-04-22**|**DianJin-R1: Evaluating and Enhancing Financial Reasoning in Large Language Models**|Jie Zhu et.al.|[2504.15716](http://arxiv.org/abs/2504.15716)|null|
+|**2025-04-22**|**A Multi-Agent Framework for Automated Qinqiang Opera Script Generation Using Large Language Models**|Gengxian Cao et.al.|[2504.15552](http://arxiv.org/abs/2504.15552)|null|
+|**2025-04-22**|**RiskNet: Interaction-Aware Risk Forecasting for Autonomous Driving in Long-Tail Scenarios**|Qichao Liu et.al.|[2504.15541](http://arxiv.org/abs/2504.15541)|null|
+|**2025-04-21**|**Agent for User: Testing Multi-User Interactive Features in TikTok**|Sidong Feng et.al.|[2504.15474](http://arxiv.org/abs/2504.15474)|null|
+|**2025-04-21**|**Solving Multi-Agent Safe Optimal Control with Distributed Epigraph Form MARL**|Songyuan Zhang et.al.|[2504.15425](http://arxiv.org/abs/2504.15425)|null|
+|**2025-04-21**|**MRTA-Sim: A Modular Simulator for Multi-Robot Allocation, Planning, and Control in Open-World Environments**|Victoria Marie Tuck et.al.|[2504.15418](http://arxiv.org/abs/2504.15418)|null|
 |**2025-04-21**|**FlowReasoner: Reinforcing Query-Level Meta-Agents**|Hongcheng Gao et.al.|[2504.15257](http://arxiv.org/abs/2504.15257)|**[link](https://github.com/sail-sg/flowreasoner)**|
 |**2025-04-21**|**Behavioral Universe Network (BUN): A Behavioral Information-Based Framework for Complex Systems**|Wei Zhou et.al.|[2504.15146](http://arxiv.org/abs/2504.15146)|null|
 |**2025-04-21**|**Neural ATTF: A Scalable Solution to Lifelong Multi-Agent Path Planning**|Kushal Shah et.al.|[2504.15130](http://arxiv.org/abs/2504.15130)|null|

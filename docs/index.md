@@ -82,8 +82,8 @@ layout: default
 |**2025-04-13**|**Learning-based decentralized control with collision avoidance for multi-agent systems**|Omayra Yago Nieto et.al.|[2504.09730](http://arxiv.org/abs/2504.09730)|null|
 |**2025-04-13**|**EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety**|Jiahao Qiu et.al.|[2504.09689](http://arxiv.org/abs/2504.09689)|**[link](https://github.com/1akaman/emoagent)**|
 |**2025-04-13**|**AgentDynEx: Nudging the Mechanics and Dynamics of Multi-Agent Simulations**|Jenny Ma et.al.|[2504.09662](http://arxiv.org/abs/2504.09662)|null|
-|**2025-04-13**|**Fine-tuning an Large Language Model for Automating Computational Fluid Dynamics Simulations**|Zhehao Dong et.al.|[2504.09602](http://arxiv.org/abs/2504.09602)|null|
-|**2025-04-11**|**DocAgent: A Multi-Agent System for Automated Code Documentation Generation**|Dayu Yang et.al.|[2504.08725](http://arxiv.org/abs/2504.08725)|null|
+|**2025-04-13**|**Fine-tuning an Large Language Model for Automating Computational Fluid Dynamics Simulations**|Zhehao Dong et.al.|[2504.09602](http://arxiv.org/abs/2504.09602)|**[link](https://github.com/yygroup/autocfd)**|
+|**2025-04-11**|**DocAgent: A Multi-Agent System for Automated Code Documentation Generation**|Dayu Yang et.al.|[2504.08725](http://arxiv.org/abs/2504.08725)|**[link](https://github.com/facebookresearch/docagent)**|
 |**2025-04-11**|**MooseAgent: A LLM Based Multi-agent Framework for Automating Moose Simulation**|Tao Zhang et.al.|[2504.08621](http://arxiv.org/abs/2504.08621)|**[link](https://github.com/taozhan18/mooseagent)**|
 |**2025-04-11**|**Belief States for Cooperative Multi-Agent Reinforcement Learning under Partial Observability**|Paul J. Pritz et.al.|[2504.08417](http://arxiv.org/abs/2504.08417)|null|
 |**2025-04-11**|**Encoding argumentation frameworks with set attackers to propositional logic systems**|Shuai Tang et.al.|[2504.08370](http://arxiv.org/abs/2504.08370)|null|

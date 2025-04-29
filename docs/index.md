@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Securing GenAI Multi-Agent Systems Against Tool Squatting: A Zero Trust Registry-Based Approach**|Vineeth Sai Narajala et.al.|[2504.19951](http://arxiv.org/abs/2504.19951)|null|
+|**2025-04-28**|**Can AI Agents Design and Implement Drug Discovery Pipelines?**|Khachik Smbatyan et.al.|[2504.19912](http://arxiv.org/abs/2504.19912)|null|
+|**2025-04-28**|**LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects**|Guangyi Liu et.al.|[2504.19838](http://arxiv.org/abs/2504.19838)|null|
+|**2025-04-28**|**PhenoAssistant: A Conversational Multi-Agent AI System for Automated Plant Phenotyping**|Feng Chen et.al.|[2504.19818](http://arxiv.org/abs/2504.19818)|null|
+|**2025-04-28**|**From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review**|Mohamed Amine Ferrag et.al.|[2504.19678](http://arxiv.org/abs/2504.19678)|null|
+|**2025-04-28**|**A Time-dependent Risk-aware distributed Multi-Agent Path Finder based on A***|S Nordström et.al.|[2504.19593](http://arxiv.org/abs/2504.19593)|null|
+|**2025-04-28**|**m-KAILIN: Knowledge-Driven Agentic Scientific Corpus Distillation Framework for Biomedical Large Language Models Training**|Meng Xiao et.al.|[2504.19565](http://arxiv.org/abs/2504.19565)|null|
+|**2025-04-28**|**Evolution of Cooperation in LLM-Agent Societies: A Preliminary Study Using Different Punishment Strategies**|Kavindu Warnakulasuriya et.al.|[2504.19487](http://arxiv.org/abs/2504.19487)|null|
+|**2025-04-28**|**Symmetric Policy Design for Multi-Agent Dispatch Coordination in Supply Chains**|Sagar Sudhakara et.al.|[2504.19397](http://arxiv.org/abs/2504.19397)|null|
+|**2025-04-27**|**OpenFOAMGPT 2.0: end-to-end, trustworthy automation for computational fluid dynamics**|Jingsen Feng et.al.|[2504.19338](http://arxiv.org/abs/2504.19338)|null|
 |**2025-04-25**|**Auto-SLURP: A Benchmark Dataset for Evaluating Multi-Agent Frameworks in Smart Personal Assistant**|Lei Shen et.al.|[2504.18373](http://arxiv.org/abs/2504.18373)|null|
 |**2025-04-25**|**MAGI: Multi-Agent Guided Interview for Psychiatric Assessment**|Guanqun Bi et.al.|[2504.18260](http://arxiv.org/abs/2504.18260)|null|
 |**2025-04-25**|**Automating Function-Level TARA for Automotive Full-Lifecycle Security**|Yuqiao Yang et.al.|[2504.18083](http://arxiv.org/abs/2504.18083)|null|

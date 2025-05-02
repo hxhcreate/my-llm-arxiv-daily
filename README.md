@@ -17,6 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-01**|**ParkDiffusion: Heterogeneous Multi-Agent Multi-Modal Trajectory Prediction for Automated Parking using Diffusion Models**|Jiarong Wei et.al.|[2505.00586](http://arxiv.org/abs/2505.00586)|null|
+|**2025-05-01**|**Emergence of Roles in Robotic Teams with Model Sharing and Limited Communication**|Ian O'Flynn et.al.|[2505.00540](http://arxiv.org/abs/2505.00540)|null|
+|**2025-05-01**|**Safety-Critical Traffic Simulation with Guided Latent Diffusion Model**|Mingxing Peng et.al.|[2505.00515](http://arxiv.org/abs/2505.00515)|null|
+|**2025-05-01**|**UserCentrix: An Agentic Memory-augmented AI Framework for Smart Spaces**|Alaa Saleh et.al.|[2505.00472](http://arxiv.org/abs/2505.00472)|null|
+|**2025-05-01**|**AI2-Active Safety: AI-enabled Interaction-aware Active Safety Analysis with Vehicle Dynamics**|Keshu Wu et.al.|[2505.00322](http://arxiv.org/abs/2505.00322)|null|
+|**2025-05-01**|**Large Language Models as AI Agents for Digital Atoms and Molecules: Catalyzing a New Era in Computational Biophysics**|Yijie Xia et.al.|[2505.00270](http://arxiv.org/abs/2505.00270)|null|
+|**2025-04-30**|**PSN Game: Game-theoretic Planning via a Player Selection Network**|Tianyu Qiu et.al.|[2505.00213](http://arxiv.org/abs/2505.00213)|null|
+|**2025-04-30**|**Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems**|Shaokun Zhang et.al.|[2505.00212](http://arxiv.org/abs/2505.00212)|null|
+|**2025-04-30**|**Investigating Adaptive Tuning of Assistive Exoskeletons Using Offline Reinforcement Learning: Challenges and Insights**|Yasin Findik et.al.|[2505.00201](http://arxiv.org/abs/2505.00201)|null|
 |**2025-04-30**|**Uncertainty, bias and the institution bootstrapping problem**|Stavros Anagnou et.al.|[2504.21579](http://arxiv.org/abs/2504.21579)|null|
 |**2025-04-30**|**Stability of Open Multi-agent Systems over Dynamic Signed Graphs**|Pelin Sekercioglu et.al.|[2504.21443](http://arxiv.org/abs/2504.21443)|null|
 |**2025-04-30**|**Robust Multi-agent Communication Based on Decentralization-Oriented Adversarial Training**|Xuyan Ma et.al.|[2504.21278](http://arxiv.org/abs/2504.21278)|null|

@@ -7,13 +7,17 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.04
+## Updated on 2025.05.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AGENT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**Pattern formation using an intrinsic optimal control approach**|Tianhao Li et.al.|[2505.01302](http://arxiv.org/abs/2505.01302)|null|
+|**2025-05-02**|**Exploring Equity of Climate Policies using Multi-Agent Multi-Objective Reinforcement Learning**|Palok Biswas et.al.|[2505.01115](http://arxiv.org/abs/2505.01115)|null|
+|**2025-05-02**|**Multi-agents based User Values Mining for Recommendation**|Lijian Chen et.al.|[2505.00981](http://arxiv.org/abs/2505.00981)|null|
+|**2025-05-02**|**Virtual Force-Based Routing of Modular Agents on a Graph**|Adam Casselman et.al.|[2505.00928](http://arxiv.org/abs/2505.00928)|null|
 |**2025-05-01**|**ParkDiffusion: Heterogeneous Multi-Agent Multi-Modal Trajectory Prediction for Automated Parking using Diffusion Models**|Jiarong Wei et.al.|[2505.00586](http://arxiv.org/abs/2505.00586)|null|
 |**2025-05-01**|**Emergence of Roles in Robotic Teams with Model Sharing and Limited Communication**|Ian O'Flynn et.al.|[2505.00540](http://arxiv.org/abs/2505.00540)|null|
 |**2025-05-01**|**Safety-Critical Traffic Simulation with Guided Latent Diffusion Model**|Mingxing Peng et.al.|[2505.00515](http://arxiv.org/abs/2505.00515)|null|

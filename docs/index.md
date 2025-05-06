@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**A Survey of Slow Thinking-based Reasoning LLMs using Reinforced Learning and Inference-time Scaling Law**|Qianjun Pan et.al.|[2505.02665](http://arxiv.org/abs/2505.02665)|null|
+|**2025-05-05**|**MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation**|Mingcheng Li et.al.|[2505.02648](http://arxiv.org/abs/2505.02648)|null|
+|**2025-05-05**|**Beyond the model: Key differentiators in large language models and multi-agent services**|Muskaan Goyal et.al.|[2505.02489](http://arxiv.org/abs/2505.02489)|null|
+|**2025-05-05**|**El Agente: An Autonomous Agent for Quantum Chemistry**|Yunheng Zou et.al.|[2505.02484](http://arxiv.org/abs/2505.02484)|null|
+|**2025-05-04**|**Resolving Conflicting Constraints in Multi-Agent Reinforcement Learning with Layered Safety**|Jason J. Choi et.al.|[2505.02293](http://arxiv.org/abs/2505.02293)|null|
+|**2025-05-04**|**Interpretable Emergent Language Using Inter-Agent Transformers**|Mannan Bhardwaj et.al.|[2505.02215](http://arxiv.org/abs/2505.02215)|null|
+|**2025-05-04**|**Enhancing LLM Code Generation: A Systematic Evaluation of Multi-Agent Collaboration and Runtime Debugging for Improved Accuracy, Reliability, and Latency**|Nazmus Ashrafi et.al.|[2505.02133](http://arxiv.org/abs/2505.02133)|null|
+|**2025-05-04**|**DriveAgent: Multi-Agent Structured Reasoning with LLM and Multimodal Sensor Fusion for Autonomous Driving**|Xinmeng Hou et.al.|[2505.02123](http://arxiv.org/abs/2505.02123)|null|
+|**2025-05-04**|**Open Challenges in Multi-Agent Security: Towards Secure Systems of Interacting AI Agents**|Christian Schroeder de Witt et.al.|[2505.02077](http://arxiv.org/abs/2505.02077)|null|
+|**2025-05-03**|**Securing 5G and Beyond-Enabled UAV Networks: Resilience Through Multiagent Learning and Transformers Detection**|Joseanne Viana et.al.|[2505.01885](http://arxiv.org/abs/2505.01885)|null|
 |**2025-05-02**|**Pattern formation using an intrinsic optimal control approach**|Tianhao Li et.al.|[2505.01302](http://arxiv.org/abs/2505.01302)|null|
 |**2025-05-02**|**Exploring Equity of Climate Policies using Multi-Agent Multi-Objective Reinforcement Learning**|Palok Biswas et.al.|[2505.01115](http://arxiv.org/abs/2505.01115)|null|
 |**2025-05-02**|**Multi-agents based User Values Mining for Recommendation**|Lijian Chen et.al.|[2505.00981](http://arxiv.org/abs/2505.00981)|null|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.08
+## Updated on 2025.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AGENT
@@ -21,7 +21,7 @@ layout: default
 |**2025-05-07**|**Facilitating Trustworthy Human-Agent Collaboration in LLM-based Multi-Agent System oriented Software Engineering**|Krishna Ronanki et.al.|[2505.04251](http://arxiv.org/abs/2505.04251)|null|
 |**2025-05-07**|**Multi-Agent Reinforcement Learning-based Cooperative Autonomous Driving in Smart Intersections**|Taoyuan Yu et.al.|[2505.04231](http://arxiv.org/abs/2505.04231)|null|
 |**2025-05-07**|**AutoPatch: Multi-Agent Framework for Patching Real-World CVE Vulnerabilities**|Minjae Seo et.al.|[2505.04195](http://arxiv.org/abs/2505.04195)|null|
-|**2025-05-06**|**The Power of Stories: Narrative Priming Shapes How LLM Agents Collaborate and Compete**|Gerrit Großmann et.al.|[2505.03961](http://arxiv.org/abs/2505.03961)|**[link](https://github.com/storyagents25/story-agents)**|
+|**2025-05-08**|**The Power of Stories: Narrative Priming Shapes How LLM Agents Collaborate and Compete**|Gerrit Großmann et.al.|[2505.03961](http://arxiv.org/abs/2505.03961)|**[link](https://github.com/storyagents25/story-agents)**|
 |**2025-05-06**|**Deep Q-Network (DQN) multi-agent reinforcement learning (MARL) for Stock Trading**|John Christopher Tidwell et.al.|[2505.03949](http://arxiv.org/abs/2505.03949)|null|
 |**2025-05-06**|**MARCO: A Multi-Agent System for Optimizing HPC Code Generation Using Large Language Models**|Asif Rahman et.al.|[2505.03906](http://arxiv.org/abs/2505.03906)|null|
 |**2025-05-06**|**Multi-Agent System for Comprehensive Soccer Understanding**|Jiayuan Rao et.al.|[2505.03735](http://arxiv.org/abs/2505.03735)|null|

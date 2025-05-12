@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**Robust Multi-Agent Decision-Making in Finite-Population Games**|Shinkyu Park et.al.|[2505.06200](http://arxiv.org/abs/2505.06200)|null|
+|**2025-05-09**|**Offline Multi-agent Reinforcement Learning via Score Decomposition**|Dan Qiao et.al.|[2505.05968](http://arxiv.org/abs/2505.05968)|null|
+|**2025-05-09**|**Learning Power Control Protocol for In-Factory 6G Subnetworks**|Uyoata E. Uyoata et.al.|[2505.05967](http://arxiv.org/abs/2505.05967)|null|
+|**2025-05-09**|**Why is distortion inevitable in opinion propagation on social media? Noise induced layer-wised synchronization in Noise-Frustrated Hegselmann-Krause model**|Kaiming Luo et.al.|[2505.05769](http://arxiv.org/abs/2505.05769)|null|
+|**2025-05-09**|**Multi-Agent Systems for Robotic Autonomy with LLMs**|Junhong Chen et.al.|[2505.05762](http://arxiv.org/abs/2505.05762)|null|
 |**2025-05-09**|**EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation**|Biao Yi et.al.|[2505.05440](http://arxiv.org/abs/2505.05440)|null|
 |**2025-05-08**|**Enhancing Cooperative Multi-Agent Reinforcement Learning with State Modelling and Adversarial Exploration**|Andreas Kontogiannis et.al.|[2505.05262](http://arxiv.org/abs/2505.05262)|null|
 |**2025-05-08**|**Societal and technological progress as sewing an ever-growing, ever-changing, patchy, and polychrome quilt**|Joel Z. Leibo et.al.|[2505.05197](http://arxiv.org/abs/2505.05197)|null|

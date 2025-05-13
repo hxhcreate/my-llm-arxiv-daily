@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**Multi-Agent Path Finding via Finite-Horizon Hierarchical Factorization**|Jiarui Li et.al.|[2505.07779](http://arxiv.org/abs/2505.07779)|null|
+|**2025-05-12**|**KAQG: A Knowledge-Graph-Enhanced RAG for Difficulty-Controlled Question Generation**|Ching Han Chen et.al.|[2505.07618](http://arxiv.org/abs/2505.07618)|null|
+|**2025-05-12**|**AgentFlow: Resilient Adaptive Cloud-Edge Framework for Multi-Agent Coordination**|Ching Han Chen et.al.|[2505.07603](http://arxiv.org/abs/2505.07603)|null|
+|**2025-05-12**|**RAI: Flexible Agent Framework for Embodied AI**|Kajetan Rachwał et.al.|[2505.07532](http://arxiv.org/abs/2505.07532)|null|
+|**2025-05-12**|**Towards Multi-Agent Reasoning Systems for Collaborative Expertise Delegation: An Exploratory Design Study**|Baixuan Xu et.al.|[2505.07313](http://arxiv.org/abs/2505.07313)|null|
+|**2025-05-12**|**Multi-Agent DRL for Multi-Objective Twin Migration Routing with Workload Prediction in 6G-enabled IoV**|Peng Yin et.al.|[2505.07290](http://arxiv.org/abs/2505.07290)|null|
+|**2025-05-12**|**BETTY Dataset: A Multi-modal Dataset for Full-Stack Autonomy**|Micah Nye et.al.|[2505.07266](http://arxiv.org/abs/2505.07266)|null|
+|**2025-05-12**|**Continuous-Time Control Synthesis for Multiple Quadrotors under Signal Temporal Logic Specifications**|Yating Yuan et.al.|[2505.07240](http://arxiv.org/abs/2505.07240)|null|
+|**2025-05-12**|**UAV-CodeAgents: Scalable UAV Mission Planning via Multi-Agent ReAct and Vision-Language Reasoning**|Oleg Sautenkov et.al.|[2505.07236](http://arxiv.org/abs/2505.07236)|null|
+|**2025-05-12**|**Hypergraph Coordination Networks with Dynamic Grouping for Multi-Agent Reinforcement Learning**|Chiqiang Liu et.al.|[2505.07207](http://arxiv.org/abs/2505.07207)|null|
 |**2025-05-09**|**Robust Multi-Agent Decision-Making in Finite-Population Games**|Shinkyu Park et.al.|[2505.06200](http://arxiv.org/abs/2505.06200)|null|
 |**2025-05-09**|**Offline Multi-agent Reinforcement Learning via Score Decomposition**|Dan Qiao et.al.|[2505.05968](http://arxiv.org/abs/2505.05968)|null|
 |**2025-05-09**|**Learning Power Control Protocol for In-Factory 6G Subnetworks**|Uyoata E. Uyoata et.al.|[2505.05967](http://arxiv.org/abs/2505.05967)|null|

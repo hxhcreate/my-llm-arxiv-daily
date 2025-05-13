@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.12
+## Updated on 2025.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AGENT
@@ -23,7 +23,7 @@ layout: default
 |**2025-05-08**|**Enhancing Cooperative Multi-Agent Reinforcement Learning with State Modelling and Adversarial Exploration**|Andreas Kontogiannis et.al.|[2505.05262](http://arxiv.org/abs/2505.05262)|null|
 |**2025-05-08**|**Societal and technological progress as sewing an ever-growing, ever-changing, patchy, and polychrome quilt**|Joel Z. Leibo et.al.|[2505.05197](http://arxiv.org/abs/2505.05197)|null|
 |**2025-05-08**|**Multi-agent Embodied AI: Advances and Future Directions**|Zhaohan Feng et.al.|[2505.05108](http://arxiv.org/abs/2505.05108)|null|
-|**2025-05-08**|**A Reputation System for Large Language Model-based Multi-agent Systems to Avoid the Tragedy of the Commons**|Siyue Ren et.al.|[2505.05029](http://arxiv.org/abs/2505.05029)|null|
+|**2025-05-12**|**Beyond the Tragedy of the Commons: Building A Reputation System for Generative Multi-agent Systems**|Siyue Ren et.al.|[2505.05029](http://arxiv.org/abs/2505.05029)|null|
 |**2025-05-08**|**Foam-Agent: Towards Automated Intelligent CFD Workflows**|Ling Yue et.al.|[2505.04997](http://arxiv.org/abs/2505.04997)|**[link](https://github.com/csml-rpi/foam-agent)**|
 |**2025-05-08**|**Semi-Explicit Solution of Some Discrete-Time Mean-Field-Type Games with Higher-Order Costs**|Julian Barreiro-Gomez et.al.|[2505.04988](http://arxiv.org/abs/2505.04988)|null|
 |**2025-05-08**|**A Multi-Agent AI Framework for Immersive Audiobook Production through Spatial Audio and Neural Narration**|Shaja Arul Selvamani et.al.|[2505.04885](http://arxiv.org/abs/2505.04885)|null|

@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**TRAIL: Trace Reasoning and Agentic Issue Localization**|Darshan Deshpande et.al.|[2505.08638](http://arxiv.org/abs/2505.08638)|null|
+|**2025-05-13**|**Credit Assignment and Efficient Exploration based on Influence Scope in Multi-agent Reinforcement Learning**|Shuai Han et.al.|[2505.08630](http://arxiv.org/abs/2505.08630)|null|
+|**2025-05-13**|**MC-Swarm: Minimal-Communication Multi-Agent Trajectory Planning and Deadlock Resolution for Quadrotor Swarm**|Yunwoo Lee et.al.|[2505.08593](http://arxiv.org/abs/2505.08593)|null|
+|**2025-05-13**|**The Truth Becomes Clearer Through Debate! Multi-Agent Systems with Large Language Models Unmask Fake News**|Yuhan Liu et.al.|[2505.08532](http://arxiv.org/abs/2505.08532)|null|
+|**2025-05-13**|**Scalable UAV Multi-Hop Networking via Multi-Agent Reinforcement Learning with Large Language Models**|Yanggang Xu et.al.|[2505.08448](http://arxiv.org/abs/2505.08448)|null|
+|**2025-05-13**|**Agent-as-a-Service based on Agent Network**|Yuhan Zhu et.al.|[2505.08446](http://arxiv.org/abs/2505.08446)|null|
+|**2025-05-13**|**Benchmarking AI scientists in omics data-driven biological research**|Erpai Luo et.al.|[2505.08341](http://arxiv.org/abs/2505.08341)|**[link](https://github.com/eperluo/baisbench)**|
+|**2025-05-13**|**Reciprocity as the Foundational Substrate of Society: How Reciprocal Dynamics Scale into Social Systems**|Egil Diau et.al.|[2505.08319](http://arxiv.org/abs/2505.08319)|null|
+|**2025-05-13**|**Scaling Multi Agent Reinforcement Learning for Underwater Acoustic Tracking via Autonomous Vehicles**|Matteo Gallici et.al.|[2505.08222](http://arxiv.org/abs/2505.08222)|null|
+|**2025-05-12**|**FalseReject: A Resource for Improving Contextual Safety and Mitigating Over-Refusals in LLMs via Structured Reasoning**|Zhehao Zhang et.al.|[2505.08054](http://arxiv.org/abs/2505.08054)|null|
 |**2025-05-12**|**Multi-Agent Path Finding via Finite-Horizon Hierarchical Factorization**|Jiarui Li et.al.|[2505.07779](http://arxiv.org/abs/2505.07779)|null|
 |**2025-05-12**|**KAQG: A Knowledge-Graph-Enhanced RAG for Difficulty-Controlled Question Generation**|Ching Han Chen et.al.|[2505.07618](http://arxiv.org/abs/2505.07618)|null|
 |**2025-05-12**|**AgentFlow: Resilient Adaptive Cloud-Edge Framework for Multi-Agent Coordination**|Ching Han Chen et.al.|[2505.07603](http://arxiv.org/abs/2505.07603)|null|

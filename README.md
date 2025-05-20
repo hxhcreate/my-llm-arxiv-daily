@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**Robin: A multi-agent system for automating scientific discovery**|Ali Essam Ghareeb et.al.|[2505.13400](http://arxiv.org/abs/2505.13400)|null|
+|**2025-05-19**|**Synthesis of Communication Policies for Multi-Agent Systems Robust to Communication Restrictions**|Saleh Soudijani et.al.|[2505.13311](http://arxiv.org/abs/2505.13311)|null|
+|**2025-05-19**|**Hybrid Voting-Based Task Assignment in Modular Construction Scenarios**|Daniel Weiner et.al.|[2505.13278](http://arxiv.org/abs/2505.13278)|null|
+|**2025-05-19**|**Agentic Publications: An LLM-Driven Framework for Interactive Scientific Publishing, Supplementing Traditional Papers with AI-Powered Knowledge Systems**|Roberto Pugliese et.al.|[2505.13246](http://arxiv.org/abs/2505.13246)|null|
+|**2025-05-19**|**Information Science Principles of Machine Learning: A Causal Chain Meta-Framework Based on Formalized Information Mapping**|Jianfeng Xu et.al.|[2505.13182](http://arxiv.org/abs/2505.13182)|null|
+|**2025-05-19**|**Adversarial Reasoning for Repair Based on Inferred Program Intent**|He Ye et.al.|[2505.13008](http://arxiv.org/abs/2505.13008)|null|
+|**2025-05-19**|**The Traitors: Deception and Trust in Multi-Agent Language Model Simulations**|Pedro M. P. Curvo et.al.|[2505.12923](http://arxiv.org/abs/2505.12923)|null|
+|**2025-05-19**|**From Grunts to Grammar: Emergent Language from Cooperative Foraging**|Maytus Piriyajitakonkij et.al.|[2505.12872](http://arxiv.org/abs/2505.12872)|null|
+|**2025-05-19**|**Reasoning BO: Enhancing Bayesian Optimization with Long-Context Reasoning Power of LLMs**|Zhuo Yang et.al.|[2505.12833](http://arxiv.org/abs/2505.12833)|null|
+|**2025-05-19**|**Dynamic Sight Range Selection in Multi-Agent Reinforcement Learning**|Wei-Chen Liao et.al.|[2505.12811](http://arxiv.org/abs/2505.12811)|null|
 |**2025-05-16**|**Signal attenuation enables scalable decentralized multi-agent reinforcement learning over networks**|Wesley A Suttle et.al.|[2505.11461](http://arxiv.org/abs/2505.11461)|null|
 |**2025-05-16**|**Explaining Strategic Decisions in Multi-Agent Reinforcement Learning for Aerial Combat Tactics**|Ardian Selmonaj et.al.|[2505.11311](http://arxiv.org/abs/2505.11311)|null|
 |**2025-05-16**|**Bidirectional Distillation: A Mixed-Play Framework for Multi-Agent Generalizable Behaviors**|Lang Feng et.al.|[2505.11100](http://arxiv.org/abs/2505.11100)|null|

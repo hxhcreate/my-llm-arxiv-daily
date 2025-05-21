@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**Agent Context Protocols Enhance Collective Inference**|Devansh Bhardwaj et.al.|[2505.14569](http://arxiv.org/abs/2505.14569)|null|
+|**2025-05-20**|**Multi-agent Reinforcement Learning vs. Fixed-Time Control for Traffic Signal Optimization: A Simulation Study**|Saahil Mahato et.al.|[2505.14544](http://arxiv.org/abs/2505.14544)|**[link](https://github.com/codesaahil/optitraffic)**|
+|**2025-05-20**|**Robustness Evaluation of Graph-based News Detection Using Network Structural Information**|Xianghua Zeng et.al.|[2505.14453](http://arxiv.org/abs/2505.14453)|null|
+|**2025-05-20**|**Empowering LLMs in Task-Oriented Dialogues: A Domain-Independent Multi-Agent Framework and Fine-Tuning Strategy**|Zihao Feng et.al.|[2505.14299](http://arxiv.org/abs/2505.14299)|null|
+|**2025-05-20**|**MAS-KCL: Knowledge component graph structure learning with large language model-based agentic workflow**|Yuan-Hao Jiang et.al.|[2505.14126](http://arxiv.org/abs/2505.14126)|null|
+|**2025-05-20**|**Personalized and Resilient Distributed Learning Through Opinion Dynamics**|Luca Ballotta et.al.|[2505.14081](http://arxiv.org/abs/2505.14081)|null|
+|**2025-05-20**|**Divide by Question, Conquer by Agent: SPLIT-RAG with Question-Driven Graph Partitioning**|Ruiyi Yang et.al.|[2505.13994](http://arxiv.org/abs/2505.13994)|null|
+|**2025-05-20**|**CAFES: A Collaborative Multi-Agent Framework for Multi-Granular Multimodal Essay Scoring**|Jiamin Su et.al.|[2505.13965](http://arxiv.org/abs/2505.13965)|null|
+|**2025-05-20**|**MultiDrive: A Co-Simulation Framework Bridging 2D and 3D Driving Simulation for AV Software Validation**|Marc Kaufeld et.al.|[2505.13959](http://arxiv.org/abs/2505.13959)|null|
+|**2025-05-20**|**MLZero: A Multi-Agent System for End-to-end Machine Learning Automation**|Haoyang Fang et.al.|[2505.13941](http://arxiv.org/abs/2505.13941)|**[link](https://github.com/autogluon/autogluon-assistant)**|
 |**2025-05-19**|**Robin: A multi-agent system for automating scientific discovery**|Ali Essam Ghareeb et.al.|[2505.13400](http://arxiv.org/abs/2505.13400)|null|
 |**2025-05-19**|**Synthesis of Communication Policies for Multi-Agent Systems Robust to Communication Restrictions**|Saleh Soudijani et.al.|[2505.13311](http://arxiv.org/abs/2505.13311)|null|
 |**2025-05-19**|**Hybrid Voting-Based Task Assignment in Modular Construction Scenarios**|Daniel Weiner et.al.|[2505.13278](http://arxiv.org/abs/2505.13278)|null|

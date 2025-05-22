@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-21**|**DEBATE, TRAIN, EVOLVE: Self Evolution of Language Model Reasoning**|Gaurav Srivastava et.al.|[2505.15734](http://arxiv.org/abs/2505.15734)|null|
+|**2025-05-21**|**Improved power methods for computing eigenvalues of dual quaternion Hermitian matrices**|Yongjun Chen et.al.|[2505.15584](http://arxiv.org/abs/2505.15584)|null|
+|**2025-05-21**|**Temporal Spectrum Cartography in Low-Altitude Economy Networks: A Generative AI Framework with Multi-Agent Learning**|Changyuan Zhao et.al.|[2505.15571](http://arxiv.org/abs/2505.15571)|null|
+|**2025-05-21**|**AGENT-X: Adaptive Guideline-based Expert Network for Threshold-free AI-generated teXt detection**|Jiatao Li et.al.|[2505.15261](http://arxiv.org/abs/2505.15261)|null|
+|**2025-05-21**|**R&D-Agent-Quant: A Multi-Agent Framework for Data-Centric Factors and Model Joint Optimization**|Yuante Li et.al.|[2505.15155](http://arxiv.org/abs/2505.15155)|**[link](https://github.com/microsoft/rd-agent)**|
+|**2025-05-21**|**Multicrossmodal Automated Agent for Integrating Diverse Materials Science Data**|Adib Bazgir et.al.|[2505.15132](http://arxiv.org/abs/2505.15132)|null|
+|**2025-05-21**|**Agentic Feature Augmentation: Unifying Selection and Generation with Teaming, Planning, and Memories**|Nanxu Gong et.al.|[2505.15076](http://arxiv.org/abs/2505.15076)|null|
+|**2025-05-21**|**ModelingAgent: Bridging LLMs and Mathematical Modeling for Real-World Challenges**|Cheng Qian et.al.|[2505.15068](http://arxiv.org/abs/2505.15068)|null|
+|**2025-05-21**|**PiFlow: Principle-aware Scientific Discovery with Multi-Agent Collaboration**|Yingming Pu et.al.|[2505.15047](http://arxiv.org/abs/2505.15047)|**[link](https://github.com/amair-lab/piflow)**|
+|**2025-05-21**|**Meta-Design Matters: A Self-Design Multi-Agent System**|Zixuan Ke et.al.|[2505.14996](http://arxiv.org/abs/2505.14996)|null|
 |**2025-05-20**|**Agent Context Protocols Enhance Collective Inference**|Devansh Bhardwaj et.al.|[2505.14569](http://arxiv.org/abs/2505.14569)|null|
 |**2025-05-20**|**Multi-agent Reinforcement Learning vs. Fixed-Time Control for Traffic Signal Optimization: A Simulation Study**|Saahil Mahato et.al.|[2505.14544](http://arxiv.org/abs/2505.14544)|**[link](https://github.com/codesaahil/optitraffic)**|
 |**2025-05-21**|**Robustness Evaluation of Graph-based News Detection Using Network Structural Information**|Xianghua Zeng et.al.|[2505.14453](http://arxiv.org/abs/2505.14453)|null|

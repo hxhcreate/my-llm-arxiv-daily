@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**ManuSearch: Democratizing Deep Search in Large Language Models with a Transparent and Open Multi-Agent Framework**|Lisheng Huang et.al.|[2505.18105](http://arxiv.org/abs/2505.18105)|null|
+|**2025-05-23**|**Survival Games: Human-LLM Strategic Showdowns under Severe Resource Scarcity**|Zhihong Chen et.al.|[2505.17937](http://arxiv.org/abs/2505.17937)|null|
+|**2025-05-23**|**Integrating Counterfactual Simulations with Language Models for Explaining Multi-Agent Behaviour**|Bálint Gyevnár et.al.|[2505.17801](http://arxiv.org/abs/2505.17801)|null|
+|**2025-05-23**|**URB -- Urban Routing Benchmark for RL-equipped Connected Autonomous Vehicles**|Ahmet Onur Akman et.al.|[2505.17734](http://arxiv.org/abs/2505.17734)|null|
+|**2025-05-23**|**Learning Equilibria from Data: Provably Efficient Multi-Agent Imitation Learning**|Till Freihaut et.al.|[2505.17610](http://arxiv.org/abs/2505.17610)|null|
+|**2025-05-23**|**Probe by Gaming: A Game-based Benchmark for Assessing Conceptual Knowledge in LLMs**|Shuhang Xu et.al.|[2505.17512](http://arxiv.org/abs/2505.17512)|null|
+|**2025-05-23**|**Multi-agent Systems for Misinformation Lifecycle : Detection, Correction And Source Identification**|Aditya Gautam et.al.|[2505.17511](http://arxiv.org/abs/2505.17511)|null|
+|**2025-05-23**|**PD $^3$ : A Project Duplication Detection Framework via Adapted Multi-Agent Debate**|Dezheng Bao et.al.|[2505.17492](http://arxiv.org/abs/2505.17492)|null|
+|**2025-05-23**|**LLM-BSCVM: An LLM-Based Blockchain Smart Contract Vulnerability Management Framework**|Yanli Jin et.al.|[2505.17416](http://arxiv.org/abs/2505.17416)|null|
+|**2025-05-22**|**A Survey of Safe Reinforcement Learning and Constrained MDPs: A Technical Survey on Single-Agent and Multi-Agent Safety**|Ankita Kushwaha et.al.|[2505.17342](http://arxiv.org/abs/2505.17342)|null|
 |**2025-05-22**|**SpatialScore: Towards Unified Evaluation for Multimodal Spatial Understanding**|Haoning Wu et.al.|[2505.17012](http://arxiv.org/abs/2505.17012)|**[link](https://github.com/haoningwu3639/SpatialScore)**|
 |**2025-05-22**|**X-MAS: Towards Building Multi-Agent Systems with Heterogeneous LLMs**|Rui Ye et.al.|[2505.16997](http://arxiv.org/abs/2505.16997)|null|
 |**2025-05-22**|**MASLab: A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems**|Rui Ye et.al.|[2505.16988](http://arxiv.org/abs/2505.16988)|**[link](https://github.com/masworks/maslab)**|

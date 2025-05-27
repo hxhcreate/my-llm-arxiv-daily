@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**MA-RAG: Multi-Agent Retrieval-Augmented Generation via Collaborative Chain-of-Thought Reasoning**|Thang Nguyen et.al.|[2505.20096](http://arxiv.org/abs/2505.20096)|null|
+|**2025-05-26**|**Multi-Agent Reinforcement Learning in Cybersecurity: From Fundamentals to Applications**|Christoph R. Landolt et.al.|[2505.19837](http://arxiv.org/abs/2505.19837)|null|
+|**2025-05-26**|**SecVulEval: Benchmarking LLMs for Real-World C/C++ Vulnerability Detection**|Md Basim Uddin Ahmed et.al.|[2505.19828](http://arxiv.org/abs/2505.19828)|null|
+|**2025-05-26**|**Select, Read, and Write: A Multi-Agent Framework of Full-Text-based Related Work Generation**|Xiaochuan Liu et.al.|[2505.19647](http://arxiv.org/abs/2505.19647)|null|
+|**2025-05-26**|**Adaptive Episode Length Adjustment for Multi-agent Reinforcement Learning**|Byunghyun Yoo et.al.|[2505.19637](http://arxiv.org/abs/2505.19637)|null|
+|**2025-05-26**|**DoctorAgent-RL: A Multi-Agent Collaborative Reinforcement Learning System for Multi-Turn Clinical Dialogue**|Yichun Feng et.al.|[2505.19630](http://arxiv.org/abs/2505.19630)|null|
+|**2025-05-26**|**Multi-Agent Collaboration via Evolving Orchestration**|Yufan Dang et.al.|[2505.19591](http://arxiv.org/abs/2505.19591)|null|
+|**2025-05-26**|**LLM-Agent-Controller: A Universal Multi-Agent Large Language Model System as a Control Engineer**|Rasoul Zahedifar et.al.|[2505.19567](http://arxiv.org/abs/2505.19567)|null|
+|**2025-05-26**|**AMQA: An Adversarial Dataset for Benchmarking Bias of LLMs in Medicine and Healthcare**|Ying Xiao et.al.|[2505.19562](http://arxiv.org/abs/2505.19562)|null|
+|**2025-05-26**|**DoctorRAG: Medical RAG Fusing Knowledge with Patient Analogy through Textual Gradients**|Yuxing Lu et.al.|[2505.19538](http://arxiv.org/abs/2505.19538)|null|
 |**2025-05-23**|**ManuSearch: Democratizing Deep Search in Large Language Models with a Transparent and Open Multi-Agent Framework**|Lisheng Huang et.al.|[2505.18105](http://arxiv.org/abs/2505.18105)|null|
 |**2025-05-23**|**Survival Games: Human-LLM Strategic Showdowns under Severe Resource Scarcity**|Zhihong Chen et.al.|[2505.17937](http://arxiv.org/abs/2505.17937)|null|
 |**2025-05-23**|**Integrating Counterfactual Simulations with Language Models for Explaining Multi-Agent Behaviour**|Bálint Gyevnár et.al.|[2505.17801](http://arxiv.org/abs/2505.17801)|null|

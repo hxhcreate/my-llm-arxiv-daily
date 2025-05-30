@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**From Connectivity to Autonomy: The Dawn of Self-Evolving Communication Systems**|Zeinab Nezami et.al.|[2505.23710](http://arxiv.org/abs/2505.23710)|null|
+|**2025-05-29**|**Data-to-Dashboard: Multi-Agent LLM Framework for Insightful Visualization in Enterprise Analytics**|Ran Zhang et.al.|[2505.23695](http://arxiv.org/abs/2505.23695)|null|
+|**2025-05-29**|**ROTATE: Regret-driven Open-ended Training for Ad Hoc Teamwork**|Caroline Wang et.al.|[2505.23686](http://arxiv.org/abs/2505.23686)|null|
+|**2025-05-29**|**MAPLE: A Mobile Assistant with Persistent Finite State Machines for Recovery Reasoning**|Linqiang Guo et.al.|[2505.23596](http://arxiv.org/abs/2505.23596)|null|
+|**2025-05-29**|**Agent Interpolation for Knowledge**|Marta Bílková et.al.|[2505.23401](http://arxiv.org/abs/2505.23401)|null|
+|**2025-05-29**|**GAM-Agent: Game-Theoretic and Uncertainty-Aware Collaboration for Complex Visual Reasoning**|Jusheng Zhang et.al.|[2505.23399](http://arxiv.org/abs/2505.23399)|null|
+|**2025-05-29**|**Understanding the Information Propagation Effects of Communication Topologies in LLM-based Multi-Agent Systems**|Xu Shen et.al.|[2505.23352](http://arxiv.org/abs/2505.23352)|null|
+|**2025-05-29**|**Wireless Agentic AI with Retrieval-Augmented Multimodal Semantic Perception**|Guangyuan Liu et.al.|[2505.23275](http://arxiv.org/abs/2505.23275)|null|
+|**2025-05-29**|**Cross-Task Experiential Learning on LLM-based Multi-Agent Collaboration**|Yilong Li et.al.|[2505.23187](http://arxiv.org/abs/2505.23187)|null|
+|**2025-05-29**|**MenTeR: A fully-automated Multi-agenT workflow for end-to-end RF/Analog Circuits Netlist Design**|Pin-Han Chen et.al.|[2505.22990](http://arxiv.org/abs/2505.22990)|null|
 |**2025-05-28**|**HDDLGym: A Tool for Studying Multi-Agent Hierarchical Problems Defined in HDDL with OpenAI Gym**|Ngoc La et.al.|[2505.22597](http://arxiv.org/abs/2505.22597)|null|
 |**2025-05-29**|**Topological Structure Learning Should Be A Research Priority for LLM-Based Multi-Agent Systems**|Jiaxi Yang et.al.|[2505.22467](http://arxiv.org/abs/2505.22467)|null|
 |**2025-05-28**|**AgentDNS: A Root Domain Naming System for LLM Agents**|Enfang Cui et.al.|[2505.22368](http://arxiv.org/abs/2505.22368)|null|

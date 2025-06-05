@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Thinking Beyond Visibility: A Near-Optimal Policy Framework for Locally Interdependent Multi-Agent MDPs**|Alex DeWeese et.al.|[2506.04215](http://arxiv.org/abs/2506.04215)|null|
+|**2025-06-04**|**MACS: Multi-Agent Reinforcement Learning for Optimization of Crystal Structures**|Elena Zamaraeva et.al.|[2506.04195](http://arxiv.org/abs/2506.04195)|null|
+|**2025-06-04**|**TRiSM for Agentic AI: A Review of Trust, Risk, and Security Management in LLM-based Agentic Multi-Agent Systems**|Shaina Raza et.al.|[2506.04133](http://arxiv.org/abs/2506.04133)|null|
+|**2025-06-04**|**CLAIM: An Intent-Driven Multi-Agent Framework for Analyzing Manipulation in Courtroom Dialogues**|Disha Sheshanarayana et.al.|[2506.04131](http://arxiv.org/abs/2506.04131)|null|
+|**2025-06-04**|**Graph Counselor: Adaptive Graph Exploration via Multi-Agent Synergy to Enhance LLM Reasoning**|Junqi Gao et.al.|[2506.03939](http://arxiv.org/abs/2506.03939)|null|
+|**2025-06-04**|**PulseReddit: A Novel Reddit Dataset for Benchmarking MAS in High-Frequency Cryptocurrency Trading**|Qiuhan Han et.al.|[2506.03861](http://arxiv.org/abs/2506.03861)|null|
+|**2025-06-04**|**From Theory to Practice: Real-World Use Cases on Trustworthy LLM-Driven Process Modeling, Prediction and Automation**|Peter Pfeiffer et.al.|[2506.03801](http://arxiv.org/abs/2506.03801)|null|
+|**2025-06-04**|**A Retrieval-Augmented Multi-Agent Framework for Psychiatry Diagnosis**|Mengxi Xiao et.al.|[2506.03750](http://arxiv.org/abs/2506.03750)|null|
+|**2025-06-04**|**Joint Beamforming and Resource Allocation for Delay Optimization in RIS-Assisted OFDM Systems: A DRL Approach**|Yu Ma et.al.|[2506.03586](http://arxiv.org/abs/2506.03586)|null|
+|**2025-06-04**|**From Virtual Agents to Robot Teams: A Multi-Robot Framework Evaluation in High-Stakes Healthcare Context**|Yuanchen Bai et.al.|[2506.03546](http://arxiv.org/abs/2506.03546)|null|
 |**2025-06-03**|**MAEBE: Multi-Agent Emergent Behavior Framework**|Sinem Erisken et.al.|[2506.03053](http://arxiv.org/abs/2506.03053)|null|
 |**2025-06-03**|**Coding Agents with Multimodal Browsing are Generalist Problem Solvers**|Aditya Bharat Soni et.al.|[2506.03011](http://arxiv.org/abs/2506.03011)|null|
 |**2025-06-03**|**A Multi-Agent Framework for Mitigating Dialect Biases in Privacy Policy Question-Answering Systems**|Đorđe Klisura et.al.|[2506.02998](http://arxiv.org/abs/2506.02998)|null|

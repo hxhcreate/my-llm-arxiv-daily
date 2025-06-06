@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**Teaming in the AI Era: AI-Augmented Frameworks for Forming, Simulating, and Optimizing Human Teams**|Mohammed Almutairi et.al.|[2506.05265](http://arxiv.org/abs/2506.05265)|null|
+|**2025-06-05**|**Towards Language-Augmented Multi-Agent Deep Reinforcement Learning**|Maxime Toquebiau et.al.|[2506.05236](http://arxiv.org/abs/2506.05236)|null|
+|**2025-06-05**|**A Framework for Ethical Judgment of Smart City Applications**|Weichen Shi et.al.|[2506.05172](http://arxiv.org/abs/2506.05172)|null|
+|**2025-06-05**|**LLM-Guided Scenario-based GUI Testing**|Shengcheng Yu et.al.|[2506.05079](http://arxiv.org/abs/2506.05079)|null|
+|**2025-06-05**|**ComfyUI-Copilot: An Intelligent Assistant for Automated Workflow Development**|Zhenran Xu et.al.|[2506.05010](http://arxiv.org/abs/2506.05010)|null|
+|**2025-06-05**|**Towards a Multi-Agent Simulation of Cyber-attackers and Cyber-defenders Battles**|Julien Soulé et.al.|[2506.04849](http://arxiv.org/abs/2506.04849)|null|
+|**2025-06-05**|**Agents of Change: Self-Evolving LLM Agents for Strategic Planning**|Nikolas Belle et.al.|[2506.04651](http://arxiv.org/abs/2506.04651)|null|
+|**2025-06-05**|**Advancing Tool-Augmented Large Language Models via Meta-Verification and Reflection Learning**|Zhiyuan Ma et.al.|[2506.04625](http://arxiv.org/abs/2506.04625)|null|
+|**2025-06-05**|**Demonstrations of Integrity Attacks in Multi-Agent Systems**|Can Zheng et.al.|[2506.04572](http://arxiv.org/abs/2506.04572)|null|
+|**2025-06-05**|**OpenAg: Democratizing Agricultural Intelligence**|Srikanth Thudumu et.al.|[2506.04571](http://arxiv.org/abs/2506.04571)|null|
 |**2025-06-04**|**Thinking Beyond Visibility: A Near-Optimal Policy Framework for Locally Interdependent Multi-Agent MDPs**|Alex DeWeese et.al.|[2506.04215](http://arxiv.org/abs/2506.04215)|null|
 |**2025-06-04**|**MACS: Multi-Agent Reinforcement Learning for Optimization of Crystal Structures**|Elena Zamaraeva et.al.|[2506.04195](http://arxiv.org/abs/2506.04195)|null|
 |**2025-06-04**|**TRiSM for Agentic AI: A Review of Trust, Risk, and Security Management in LLM-based Agentic Multi-Agent Systems**|Shaina Raza et.al.|[2506.04133](http://arxiv.org/abs/2506.04133)|null|

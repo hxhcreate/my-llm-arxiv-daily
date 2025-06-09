@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**A Theoretical Study of (Hyper) Self-Attention through the Lens of Interactions: Representation, Training, Generalization**|Muhammed Ustaomeroglu et.al.|[2506.06179](http://arxiv.org/abs/2506.06179)|null|
+|**2025-06-06**|**Does It Run and Is That Enough? Revisiting Text-to-Chart Generation with a Multi-Agent Approach**|James Ford et.al.|[2506.06175](http://arxiv.org/abs/2506.06175)|null|
+|**2025-06-06**|**On-board Mission Replanning for Adaptive Cooperative Multi-Robot Systems**|Elim Kwan et.al.|[2506.06094](http://arxiv.org/abs/2506.06094)|null|
+|**2025-06-06**|**Conversational Interfaces for Parametric Conceptual Architectural Design: Integrating Mixed Reality with LLM-driven Interaction**|Ruochen Ji et.al.|[2506.06066](http://arxiv.org/abs/2506.06066)|null|
+|**2025-06-06**|**Modeling human reputation-seeking behavior in a spatio-temporally complex public good provision game**|Edward Hughes et.al.|[2506.06032](http://arxiv.org/abs/2506.06032)|null|
+|**2025-06-06**|**When to Trust Context: Self-Reflective Debates for Context Reliability**|Zeqi Zhou et.al.|[2506.06020](http://arxiv.org/abs/2506.06020)|null|
+|**2025-06-06**|**Policy Optimization for Continuous-time Linear-Quadratic Graphon Mean Field Games**|Philipp Plank et.al.|[2506.05894](http://arxiv.org/abs/2506.05894)|null|
+|**2025-06-06**|**MAPLE: Multi-Agent Adaptive Planning with Long-Term Memory for Table Reasoning**|Ye Bai et.al.|[2506.05813](http://arxiv.org/abs/2506.05813)|null|
+|**2025-06-05**|**SocialDF: Benchmark Dataset and Detection Model for Mitigating Harmful Deepfake Content on Social Media Platforms**|Arnesh Batra et.al.|[2506.05538](http://arxiv.org/abs/2506.05538)|null|
+|**2025-06-05**|**Sequence Modeling for N-Agent Ad Hoc Teamwork**|Caroline Wang et.al.|[2506.05527](http://arxiv.org/abs/2506.05527)|null|
 |**2025-06-05**|**Teaming in the AI Era: AI-Augmented Frameworks for Forming, Simulating, and Optimizing Human Teams**|Mohammed Almutairi et.al.|[2506.05265](http://arxiv.org/abs/2506.05265)|null|
 |**2025-06-05**|**Towards Language-Augmented Multi-Agent Deep Reinforcement Learning**|Maxime Toquebiau et.al.|[2506.05236](http://arxiv.org/abs/2506.05236)|null|
 |**2025-06-05**|**A Framework for Ethical Judgment of Smart City Applications**|Weichen Shi et.al.|[2506.05172](http://arxiv.org/abs/2506.05172)|null|

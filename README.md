@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-10**|**VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning**|Li Kang et.al.|[2506.09049](http://arxiv.org/abs/2506.09049)|null|
+|**2025-06-10**|**Agentic Neural Networks: Self-Evolving Multi-Agent Systems via Textual Backpropagation**|Xiaowen Ma et.al.|[2506.09046](http://arxiv.org/abs/2506.09046)|null|
+|**2025-06-10**|**MasHost Builds It All: Autonomous Multi-Agent System Directed by Reinforcement Learning**|Kuo Yang et.al.|[2506.08507](http://arxiv.org/abs/2506.08507)|null|
+|**2025-06-10**|**CAF-I: A Collaborative Multi-Agent Framework for Enhanced Irony Detection with Large Language Models**|Ziqi. Liu et.al.|[2506.08430](http://arxiv.org/abs/2506.08430)|null|
+|**2025-06-10**|**TACTIC: Translation Agents with Cognitive-Theoretic Interactive Collaboration**|Weiya Li et.al.|[2506.08403](http://arxiv.org/abs/2506.08403)|**[link](https://github.com/weiyali126/TACTIC)**|
+|**2025-06-10**|**Reinforce LLM Reasoning through Multi-Agent Reflection**|Yurun Yuan et.al.|[2506.08379](http://arxiv.org/abs/2506.08379)|null|
+|**2025-06-10**|**Reinforcement Fine-Tuning for Reasoning towards Multi-Step Multi-Source Search in Large Language Models**|Wentao Shi et.al.|[2506.08352](http://arxiv.org/abs/2506.08352)|null|
+|**2025-06-09**|**HiBerNAC: Hierarchical Brain-emulated Robotic Neural Agent Collective for Disentangling Complex Manipulation**|Hongjun Wu et.al.|[2506.08296](http://arxiv.org/abs/2506.08296)|null|
+|**2025-06-09**|**From Debate to Equilibrium: Belief-Driven Multi-Agent LLM Reasoning via Bayesian Nash Equilibrium**|Xie Yi et.al.|[2506.08292](http://arxiv.org/abs/2506.08292)|null|
+|**2025-06-09**|**Ego-centric Learning of Communicative World Models for Autonomous Driving**|Hang Wang et.al.|[2506.08149](http://arxiv.org/abs/2506.08149)|null|
 |**2025-06-09**|**Supporting Construction Worker Well-Being with a Multi-Agent Conversational AI System**|Fan Yang et.al.|[2506.07997](http://arxiv.org/abs/2506.07997)|null|
 |**2025-06-09**|**A distributed motion planning approach to cooperative underwater acoustic source tracking and pursuit**|Andrea Tiranti et.al.|[2506.07877](http://arxiv.org/abs/2506.07877)|null|
 |**2025-06-09**|**Decentralizing Multi-Agent Reinforcement Learning with Temporal Causal Information**|Jan Corazza et.al.|[2506.07829](http://arxiv.org/abs/2506.07829)|null|

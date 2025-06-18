@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**Swarm-STL: A Framework for Motion Planning in Large-Scale, Multi-Swarm Systems**|Shiyu Cheng et.al.|[2506.14749](http://arxiv.org/abs/2506.14749)|null|
+|**2025-06-17**|**Linear Planar 3-SAT and Its Applications in Planning**|Victorien Desbois et.al.|[2506.14713](http://arxiv.org/abs/2506.14713)|null|
+|**2025-06-17**|**Factor-Graph-Based Passive Acoustic Navigation for Decentralized Cooperative Localization Using Bearing Elevation Depth Difference**|Kalliyan Velasco et.al.|[2506.14690](http://arxiv.org/abs/2506.14690)|null|
+|**2025-06-17**|**A Novel Indicator for Quantifying and Minimizing Information Utility Loss of Robot Teams**|Xiyu Zhao et.al.|[2506.14237](http://arxiv.org/abs/2506.14237)|null|
+|**2025-06-17**|**Xolver: Multi-Agent Reasoning with Holistic Experience Learning Just Like an Olympiad Team**|Md Tanzib Hosain et.al.|[2506.14234](http://arxiv.org/abs/2506.14234)|null|
+|**2025-06-17**|**MAS-LitEval : Multi-Agent System for Literary Translation Quality Assessment**|Junghwan Kim et.al.|[2506.14199](http://arxiv.org/abs/2506.14199)|null|
+|**2025-06-17**|**Hierarchical Multi-Agent Reinforcement Learning-based Coordinated Spatial Reuse for Next Generation WLANs**|Jiaming Yu et.al.|[2506.14187](http://arxiv.org/abs/2506.14187)|null|
+|**2025-06-17**|**Light Aircraft Game : Basic Implementation and training results analysis**|Hanzhong Cao et.al.|[2506.14164](http://arxiv.org/abs/2506.14164)|null|
+|**2025-06-17**|**StorySage: Conversational Autobiography Writing Powered by a Multi-Agent Framework**|Shayan Talaei et.al.|[2506.14159](http://arxiv.org/abs/2506.14159)|null|
+|**2025-06-17**|**RadFabric: Agentic AI System with Reasoning Capability for Radiology**|Wenting Chen et.al.|[2506.14142](http://arxiv.org/abs/2506.14142)|null|
 |**2025-06-16**|**MARCO: Hardware-Aware Neural Architecture Search for Edge Devices with Multi-Agent Reinforcement Learning and Conformal Prediction Filtering**|Arya Fayyazi et.al.|[2506.13755](http://arxiv.org/abs/2506.13755)|null|
 |**2025-06-16**|**Agent Capability Negotiation and Binding Protocol (ACNBP)**|Ken Huang et.al.|[2506.13590](http://arxiv.org/abs/2506.13590)|null|
 |**2025-06-16**|**Towards a Formal Specification for Self-organized Shape Formation in Swarm Robotics**|YR Darr et.al.|[2506.13453](http://arxiv.org/abs/2506.13453)|null|

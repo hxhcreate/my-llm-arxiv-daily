@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**JoyAgents-R1: Joint Evolution Dynamics for Versatile Multi-LLM Agents with Reinforcement Learning**|Ai Han et.al.|[2506.19846](http://arxiv.org/abs/2506.19846)|null|
+|**2025-06-24**|**MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration**|Yucheng Zhou et.al.|[2506.19835](http://arxiv.org/abs/2506.19835)|null|
+|**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[2506.19769](http://arxiv.org/abs/2506.19769)|null|
+|**2025-06-24**|**How trust networks shape students' opinions about the proficiency of artificially intelligent assistants**|Yutong Bu et.al.|[2506.19655](http://arxiv.org/abs/2506.19655)|null|
+|**2025-06-24**|**Adaptive Domain Modeling with Language Models: A Multi-Agent Approach to Task Planning**|Harisankar Babu et.al.|[2506.19592](http://arxiv.org/abs/2506.19592)|null|
+|**2025-06-24**|**MATE: LLM-Powered Multi-Agent Translation Environment for Accessibility Applications**|Aleksandr Algazinov et.al.|[2506.19502](http://arxiv.org/abs/2506.19502)|null|
+|**2025-06-24**|**LLM-based Multi-Agent System for Intelligent Refactoring of Haskell Code**|Shahbaz Siddeeq et.al.|[2506.19481](http://arxiv.org/abs/2506.19481)|null|
+|**2025-06-24**|**Center of Gravity-Guided Focusing Influence Mechanism for Multi-Agent Reinforcement Learning**|Yisak Park et.al.|[2506.19417](http://arxiv.org/abs/2506.19417)|null|
+|**2025-06-24**|**Augmenting Multi-Agent Communication with State Delta Trajectory**|Yichen Tang et.al.|[2506.19209](http://arxiv.org/abs/2506.19209)|null|
+|**2025-06-23**|**Distilling Tool Knowledge into Language Models via Back-Translated Traces**|Xingyue Huang et.al.|[2506.19171](http://arxiv.org/abs/2506.19171)|null|
 |**2025-06-23**|**Audit & Repair: An Agentic Framework for Consistent Story Visualization in Text-to-Image Diffusion Models**|Kiymet Akdemir et.al.|[2506.18900](http://arxiv.org/abs/2506.18900)|null|
 |**2025-06-23**|**GRAND-SLAM: Local Optimization for Globally Consistent Large-Scale Multi-Agent Gaussian SLAM**|Annika Thomas et.al.|[2506.18885](http://arxiv.org/abs/2506.18885)|null|
 |**2025-06-23**|**Multi-Agent Online Control with Adversarial Disturbances**|Anas Barakat et.al.|[2506.18814](http://arxiv.org/abs/2506.18814)|null|

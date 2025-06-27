@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Homogenization of Multi-agent Learning Dynamics in Finite-state Markov Games**|Yann Kerzreho et.al.|[2506.21079](http://arxiv.org/abs/2506.21079)|null|
+|**2025-06-26**|**Evidence-based diagnostic reasoning with multi-agent copilot for human pathology**|Chengkuan Chen et.al.|[2506.20964](http://arxiv.org/abs/2506.20964)|null|
+|**2025-06-26**|**LLM-guided Chemical Process Optimization with a Multi-Agent Approach**|Tong Zeng et.al.|[2506.20921](http://arxiv.org/abs/2506.20921)|null|
+|**2025-06-25**|**MAGPIE: A dataset for Multi-AGent contextual PrIvacy Evaluation**|Gurusha Juneja et.al.|[2506.20737](http://arxiv.org/abs/2506.20737)|null|
 |**2025-06-25**|**The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind**|Andrei Lupu et.al.|[2506.20664](http://arxiv.org/abs/2506.20664)|null|
 |**2025-06-25**|**Fine-Tuning and Prompt Engineering of LLMs, for the Creation of Multi-Agent AI for Addressing Sustainable Protein Production Challenges**|Alexander D. Kalian et.al.|[2506.20598](http://arxiv.org/abs/2506.20598)|null|
 |**2025-06-25**|**SV-LLM: An Agentic Approach for SoC Security Verification using Large Language Models**|Dipayan Saha et.al.|[2506.20415](http://arxiv.org/abs/2506.20415)|null|

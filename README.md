@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119](http://arxiv.org/abs/2506.24119)|null|
+|**2025-06-30**|**Auto-TA: Towards Scalable Automated Thematic Analysis (TA) via Multi-Agent Large Language Models with Reinforcement Learning**|Seungjun Yi et.al.|[2506.23998](http://arxiv.org/abs/2506.23998)|null|
+|**2025-06-30**|**Advancing Learnable Multi-Agent Pathfinding Solvers with Active Fine-Tuning**|Anton Andreychuk et.al.|[2506.23793](http://arxiv.org/abs/2506.23793)|null|
+|**2025-06-30**|**Leveraging a Multi-Agent LLM-Based System to Educate Teachers in Hate Incidents Management**|Ewelina Gajewska et.al.|[2506.23774](http://arxiv.org/abs/2506.23774)|null|
+|**2025-06-30**|**PokéAI: A Goal-Generating, Battle-Optimizing Multi-agent System for Pokemon Red**|Zihao Liu et.al.|[2506.23689](http://arxiv.org/abs/2506.23689)|null|
+|**2025-06-30**|**Evaluating Multi-Agent Defences Against Jailbreaking Attacks on Large Language Models**|Maria Carolina Cornelia Wit et.al.|[2506.23576](http://arxiv.org/abs/2506.23576)|null|
+|**2025-06-30**|**CooT: Learning to Coordinate In-Context with Coordination Transformers**|Huai-Chih Wang et.al.|[2506.23549](http://arxiv.org/abs/2506.23549)|null|
+|**2025-06-30**|**Thought-Augmented Planning for LLM-Powered Interactive Recommender Agent**|Haocheng Yu et.al.|[2506.23485](http://arxiv.org/abs/2506.23485)|null|
+|**2025-06-29**|**Corrupted by Reasoning: Reasoning Language Models Become Free-Riders in Public Goods Games**|David Guzman Piedrahita et.al.|[2506.23276](http://arxiv.org/abs/2506.23276)|null|
+|**2025-06-29**|**FinStat2SQL: A Text2SQL Pipeline for Financial Statement Analysis**|Quang Hung Nguyen et.al.|[2506.23273](http://arxiv.org/abs/2506.23273)|null|
 |**2025-06-27**|**Learning Distributed Safe Multi-Agent Navigation via Infinite-Horizon Optimal Graph Control**|Fenglan Wang et.al.|[2506.22117](http://arxiv.org/abs/2506.22117)|null|
 |**2025-06-27**|**A MILP-Based Solution to Multi-Agent Motion Planning and Collision Avoidance in Constrained Environments**|Akshay Jaitly et.al.|[2506.21982](http://arxiv.org/abs/2506.21982)|null|
 |**2025-06-27**|**CAL-RAG: Retrieval-Augmented Multi-Agent Generation for Content-Aware Layout Design**|Najmeh Forouzandehmehr et.al.|[2506.21934](http://arxiv.org/abs/2506.21934)|null|

@@ -17,6 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**A Directed Lazy Random Walk Model to Three-Way Dynamic Matching Problem**|Souvik Roy et.al.|[2507.06126](http://arxiv.org/abs/2507.06126)|null|
+|**2025-07-08**|**From General Relation Patterns to Task-Specific Decision-Making in Continual Multi-Agent Coordination**|Chang Yao et.al.|[2507.06004](http://arxiv.org/abs/2507.06004)|null|
+|**2025-07-08**|**Multi-Agent Debate Strategies to Enhance Requirements Engineering with Large Language Models**|Marc Oriol et.al.|[2507.05981](http://arxiv.org/abs/2507.05981)|null|
+|**2025-07-08**|**Constella: Supporting Storywriters' Interconnected Character Creation through LLM-based Multi-Agents**|Syemin Park et.al.|[2507.05820](http://arxiv.org/abs/2507.05820)|null|
+|**2025-07-08**|**An autonomous agent for auditing and improving the reliability of clinical AI models**|Lukas Kuhn et.al.|[2507.05755](http://arxiv.org/abs/2507.05755)|null|
+|**2025-07-07**|**Evolutionary and Coevolutionary Multi-Agent Design Choices and Dynamics**|Erik Hemberg et.al.|[2507.05534](http://arxiv.org/abs/2507.05534)|null|
+|**2025-07-07**|**Conversational Education at Scale: A Multi-LLM Agent Workflow for Procedural Learning and Pedagogic Quality Assessment**|Jiahuan Pei et.al.|[2507.05528](http://arxiv.org/abs/2507.05528)|null|
+|**2025-07-07**|**Inaugural MOASEI Competition at AAMAS'2025: A Technical Report**|Ceferino Patino et.al.|[2507.05469](http://arxiv.org/abs/2507.05469)|null|
+|**2025-07-07**|**AGACCI : Affiliated Grading Agents for Criteria-Centric Interface in Educational Coding Contexts**|Kwangsuk Park et.al.|[2507.05321](http://arxiv.org/abs/2507.05321)|null|
 |**2025-07-07**|**CREW-WILDFIRE: Benchmarking Agentic Multi-Agent Collaborations at Scale**|Jonathan Hyun et.al.|[2507.05178](http://arxiv.org/abs/2507.05178)|null|
 |**2025-07-07**|**Beyond Features: How Dataset Design Influences Multi-Agent Trajectory Prediction Performance**|Tobias Demmler et.al.|[2507.05098](http://arxiv.org/abs/2507.05098)|null|
 |**2025-07-07**|**From Autonomy to Agency: Agentic Vehicles for Human-Centered Mobility Systems**|Jiangbo Yu et.al.|[2507.04996](http://arxiv.org/abs/2507.04996)|null|

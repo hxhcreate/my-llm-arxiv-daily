@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**MIRIX: Multi-Agent Memory System for LLM-Based Agents**|Yu Wang et.al.|[2507.07957](http://arxiv.org/abs/2507.07957)|null|
+|**2025-07-10**|**Multi-agent Reinforcement Learning-based In-place Scaling Engine for Edge-cloud Systems**|Jovan Prodanov et.al.|[2507.07671](http://arxiv.org/abs/2507.07671)|null|
+|**2025-07-10**|**Position: We Need An Algorithmic Understanding of Generative AI**|Oliver Eberle et.al.|[2507.07544](http://arxiv.org/abs/2507.07544)|null|
+|**2025-07-10**|**Toward Real-World Chinese Psychological Support Dialogues: CPsDD Dataset and a Co-Evolving Multi-Agent System**|Yuanchen Shi et.al.|[2507.07509](http://arxiv.org/abs/2507.07509)|null|
+|**2025-07-10**|**DrugMCTS: a drug repurposing framework combining multi-agent, RAG and Monte Carlo Tree Search**|Zerui Yang et.al.|[2507.07426](http://arxiv.org/abs/2507.07426)|null|
+|**2025-07-10**|**KVFlow: Efficient Prefix Caching for Accelerating LLM-Based Multi-Agent Workflows**|Zaifeng Pan et.al.|[2507.07400](http://arxiv.org/abs/2507.07400)|null|
+|**2025-07-10**|**PILOC: A Pheromone Inverse Guidance Mechanism and Local-Communication Framework for Dynamic Target Search of Multi-Agent in Unknown Environments**|Hengrui Liu et.al.|[2507.07376](http://arxiv.org/abs/2507.07376)|null|
+|**2025-07-10**|**FLoRA: An Advanced AI-Powered Engine to Facilitate Hybrid Human-AI Regulated Learning**|Xinyu Li et.al.|[2507.07362](http://arxiv.org/abs/2507.07362)|null|
+|**2025-07-09**|**Optimizing Communication and Device Clustering for Clustered Federated Learning with Differential Privacy**|Dongyu Wei et.al.|[2507.07320](http://arxiv.org/abs/2507.07320)|null|
+|**2025-07-09**|**Multi-Agent Retrieval-Augmented Framework for Evidence-Based Counterspeech Against Health Misinformation**|Anirban Saha Anik et.al.|[2507.07307](http://arxiv.org/abs/2507.07307)|null|
 |**2025-07-09**|**Graph-Based Complexity Metrics for Multi-Agent Curriculum Learning: A Validated Approach to Task Ordering in Cooperative Coordination Environments**|Farhaan Ebadulla et.al.|[2507.07074](http://arxiv.org/abs/2507.07074)|null|
 |**2025-07-09**|**Federated Learning-based MARL for Strengthening Physical-Layer Security in B5G Networks**|Deemah H. Tashman et.al.|[2507.06997](http://arxiv.org/abs/2507.06997)|null|
 |**2025-07-09**|**MIND: A Multi-agent Framework for Zero-shot Harmful Meme Detection**|Ziyan Liu et.al.|[2507.06908](http://arxiv.org/abs/2507.06908)|null|

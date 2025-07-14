@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.13
+## Updated on 2025.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AGENT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**DatasetAgent: A Novel Multi-Agent System for Auto-Constructing Datasets from Real-World Images**|Haoran Sun et.al.|[2507.08648](http://arxiv.org/abs/2507.08648)|null|
+|**2025-07-11**|**Agentic Large Language Models for Conceptual Systems Engineering and Design**|Soheyl Massoudi et.al.|[2507.08619](http://arxiv.org/abs/2507.08619)|null|
+|**2025-07-11**|**AgentsNet: Coordination and Collaborative Reasoning in Multi-Agent LLMs**|Florian Grötschla et.al.|[2507.08616](http://arxiv.org/abs/2507.08616)|null|
+|**2025-07-11**|**Emergent Natural Language with Communication Games for Improving Image Captioning Capabilities without Additional Data**|Parag Dutta et.al.|[2507.08610](http://arxiv.org/abs/2507.08610)|null|
+|**2025-07-11**|**Finding Common Ground: Using Large Language Models to Detect Agreement in Multi-Agent Decision Conferences**|Selina Heller et.al.|[2507.08440](http://arxiv.org/abs/2507.08440)|null|
+|**2025-07-11**|**Age of Information Optimization in Laser-charged UAV-assisted IoT Networks: A Multi-agent Deep Reinforcement Learning Method**|Geng Sun et.al.|[2507.08429](http://arxiv.org/abs/2507.08429)|null|
+|**2025-07-11**|**Multi-Agent LLMs as Ethics Advocates in AI-Based Systems**|Asma Yamani et.al.|[2507.08392](http://arxiv.org/abs/2507.08392)|null|
+|**2025-07-11**|**Exploring Design of Multi-Agent LLM Dialogues for Research Ideation**|Keisuke Ueda et.al.|[2507.08350](http://arxiv.org/abs/2507.08350)|null|
+|**2025-07-11**|**CRMAgent: A Multi-Agent LLM System for E-Commerce CRM Message Template Generation**|Yinzhu Quan et.al.|[2507.08325](http://arxiv.org/abs/2507.08325)|null|
+|**2025-07-11**|**KAT-V1: Kwai-AutoThink Technical Report**|Zizheng Zhan et.al.|[2507.08297](http://arxiv.org/abs/2507.08297)|null|
 |**2025-07-10**|**MIRIX: Multi-Agent Memory System for LLM-Based Agents**|Yu Wang et.al.|[2507.07957](http://arxiv.org/abs/2507.07957)|null|
 |**2025-07-10**|**Multi-agent Reinforcement Learning-based In-place Scaling Engine for Edge-cloud Systems**|Jovan Prodanov et.al.|[2507.07671](http://arxiv.org/abs/2507.07671)|null|
 |**2025-07-10**|**Position: We Need An Algorithmic Understanding of Generative AI**|Oliver Eberle et.al.|[2507.07544](http://arxiv.org/abs/2507.07544)|null|

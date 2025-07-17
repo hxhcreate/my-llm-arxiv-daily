@@ -17,6 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Beyond Single Models: Enhancing LLM Detection of Ambiguity in Requests through Debate**|Ana Davila et.al.|[2507.12370](http://arxiv.org/abs/2507.12370)|null|
+|**2025-07-16**|**Fast and Scalable Game-Theoretic Trajectory Planning with Intentional Uncertainties**|Zhenmin Huang et.al.|[2507.12174](http://arxiv.org/abs/2507.12174)|null|
+|**2025-07-16**|**Convergence Rate of Generalized Nash Equilibrium Learning in Strongly Monotone Games with Linear Constraints**|Tatiana Tatarenko et.al.|[2507.12112](http://arxiv.org/abs/2507.12112)|null|
+|**2025-07-16**|**Topology Enhanced MARL for Multi-Vehicle Cooperative Decision-Making of CAVs**|Ye Han et.al.|[2507.12110](http://arxiv.org/abs/2507.12110)|null|
+|**2025-07-16**|**Aime: Towards Fully-Autonomous Multi-Agent Framework**|Yexuan Shi et.al.|[2507.11988](http://arxiv.org/abs/2507.11988)|null|
+|**2025-07-15**|**Large-scale distributed synchronization systems, using a cancel-on-completion redundancy mechanism**|Alexander Stolyar et.al.|[2507.11779](http://arxiv.org/abs/2507.11779)|null|
+|**2025-07-15**|**A Cellular Automata Approach to Donation Game**|Marcin Kowalik et.al.|[2507.11744](http://arxiv.org/abs/2507.11744)|null|
+|**2025-07-15**|**STAGED: A Multi-Agent Neural Network for Learning Cellular Interaction Dynamics**|Joao F. Rocha et.al.|[2507.11660](http://arxiv.org/abs/2507.11660)|null|
 |**2025-07-15**|**LF: Online Multi-Robot Path Planning Meets Optimal Trajectory Control**|Ajay Shankar et.al.|[2507.11464](http://arxiv.org/abs/2507.11464)|null|
 |**2025-07-15**|**From Production Logistics to Smart Manufacturing: The Vision for a New RoboCup Industrial League**|Supun Dissanayaka et.al.|[2507.11402](http://arxiv.org/abs/2507.11402)|null|
 |**2025-07-15**|**Dr.Copilot: A Multi-Agent Prompt Optimized Assistant for Improving Patient-Doctor Communication in Romanian**|Andrei Niculae et.al.|[2507.11299](http://arxiv.org/abs/2507.11299)|null|

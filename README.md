@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.17
+## Updated on 2025.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,7 +21,7 @@
 |**2025-07-16**|**Fast and Scalable Game-Theoretic Trajectory Planning with Intentional Uncertainties**|Zhenmin Huang et.al.|[2507.12174](http://arxiv.org/abs/2507.12174)|null|
 |**2025-07-16**|**Convergence Rate of Generalized Nash Equilibrium Learning in Strongly Monotone Games with Linear Constraints**|Tatiana Tatarenko et.al.|[2507.12112](http://arxiv.org/abs/2507.12112)|null|
 |**2025-07-16**|**Topology Enhanced MARL for Multi-Vehicle Cooperative Decision-Making of CAVs**|Ye Han et.al.|[2507.12110](http://arxiv.org/abs/2507.12110)|null|
-|**2025-07-16**|**Aime: Towards Fully-Autonomous Multi-Agent Framework**|Yexuan Shi et.al.|[2507.11988](http://arxiv.org/abs/2507.11988)|null|
+|**2025-07-17**|**Aime: Towards Fully-Autonomous Multi-Agent Framework**|Yexuan Shi et.al.|[2507.11988](http://arxiv.org/abs/2507.11988)|null|
 |**2025-07-15**|**Large-scale distributed synchronization systems, using a cancel-on-completion redundancy mechanism**|Alexander Stolyar et.al.|[2507.11779](http://arxiv.org/abs/2507.11779)|null|
 |**2025-07-15**|**A Cellular Automata Approach to Donation Game**|Marcin Kowalik et.al.|[2507.11744](http://arxiv.org/abs/2507.11744)|null|
 |**2025-07-15**|**STAGED: A Multi-Agent Neural Network for Learning Cellular Interaction Dynamics**|Joao F. Rocha et.al.|[2507.11660](http://arxiv.org/abs/2507.11660)|null|
@@ -2700,7 +2700,7 @@
 |**2023-12-30**|**Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning**|Xin Yu et.al.|[2401.00167](http://arxiv.org/abs/2401.00167)|null|
 |**2023-12-30**|**Contrastive learning-based agent modeling for deep reinforcement learning**|Wenhao Ma et.al.|[2401.00132](http://arxiv.org/abs/2401.00132)|null|
 
-<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,13 +7,19 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.20
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## AGENT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**Well posedness and propagation of chaos for multi-agent models with strategies and diffusive effects**|Alessandro Baldi et.al.|[2507.14058](http://arxiv.org/abs/2507.14058)|null|
+|**2025-07-18**|**NeHMO: Neural Hamilton-Jacobi Reachability Learning for Decentralized Safe Multi-Agent Motion Planning**|Qingyi Chen et.al.|[2507.13940](http://arxiv.org/abs/2507.13940)|null|
+|**2025-07-18**|**Causal Knowledge Transfer for Multi-Agent Reinforcement Learning in Dynamic Environments**|Kathrin Korte et.al.|[2507.13846](http://arxiv.org/abs/2507.13846)|null|
+|**2025-07-18**|**CodeEdu: A Multi-Agent Collaborative Platform for Personalized Coding Education**|Jianing Zhao et.al.|[2507.13814](http://arxiv.org/abs/2507.13814)|null|
+|**2025-07-18**|**Minimum Clustering of Matrices Based on Phase Alignment**|Honghao Wu et.al.|[2507.13678](http://arxiv.org/abs/2507.13678)|null|
+|**2025-07-18**|**Improved particle swarm optimization algorithm: multi-target trajectory optimization for swarm drones**|Minze Li et.al.|[2507.13647](http://arxiv.org/abs/2507.13647)|null|
 |**2025-07-17**|**A Survey of Context Engineering for Large Language Models**|Lingrui Mei et.al.|[2507.13334](http://arxiv.org/abs/2507.13334)|null|
 |**2025-07-17**|**Multi-Agent Synergy-Driven Iterative Visual Narrative Synthesis**|Wang Xi et.al.|[2507.13285](http://arxiv.org/abs/2507.13285)|null|
 |**2025-07-17**|**GEMMAS: Graph-based Evaluation Metrics for Multi Agent Systems**|Jisoo Lee et.al.|[2507.13190](http://arxiv.org/abs/2507.13190)|null|

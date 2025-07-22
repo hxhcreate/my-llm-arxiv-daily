@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.21
+## Updated on 2025.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@
 |**2025-07-18**|**CodeEdu: A Multi-Agent Collaborative Platform for Personalized Coding Education**|Jianing Zhao et.al.|[2507.13814](http://arxiv.org/abs/2507.13814)|null|
 |**2025-07-18**|**Minimum Clustering of Matrices Based on Phase Alignment**|Honghao Wu et.al.|[2507.13678](http://arxiv.org/abs/2507.13678)|null|
 |**2025-07-18**|**Improved particle swarm optimization algorithm: multi-target trajectory optimization for swarm drones**|Minze Li et.al.|[2507.13647](http://arxiv.org/abs/2507.13647)|null|
-|**2025-07-17**|**A Survey of Context Engineering for Large Language Models**|Lingrui Mei et.al.|[2507.13334](http://arxiv.org/abs/2507.13334)|null|
+|**2025-07-21**|**A Survey of Context Engineering for Large Language Models**|Lingrui Mei et.al.|[2507.13334](http://arxiv.org/abs/2507.13334)|null|
 |**2025-07-17**|**Multi-Agent Synergy-Driven Iterative Visual Narrative Synthesis**|Wang Xi et.al.|[2507.13285](http://arxiv.org/abs/2507.13285)|null|
 |**2025-07-17**|**GEMMAS: Graph-based Evaluation Metrics for Multi Agent Systems**|Jisoo Lee et.al.|[2507.13190](http://arxiv.org/abs/2507.13190)|null|
 |**2025-07-17**|**Prompt Injection 2.0: Hybrid AI Threats**|Jeremy McHugh et.al.|[2507.13169](http://arxiv.org/abs/2507.13169)|null|
@@ -2715,7 +2715,7 @@
 |**2023-12-30**|**Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning**|Xin Yu et.al.|[2401.00167](http://arxiv.org/abs/2401.00167)|null|
 |**2023-12-30**|**Contrastive learning-based agent modeling for deep reinforcement learning**|Wenhao Ma et.al.|[2401.00132](http://arxiv.org/abs/2401.00132)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

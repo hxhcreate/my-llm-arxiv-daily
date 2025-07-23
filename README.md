@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**LingBench++: A Linguistically-Informed Benchmark and Reasoning Framework for Multi-Step and Cross-Cultural Inference with LLMs**|Da-Chen Lian et.al.|[2507.16809](http://arxiv.org/abs/2507.16809)|null|
+|**2025-07-22**|**Agentar-Fin-R1: Enhancing Financial Intelligence through Domain Expertise, Training Efficiency, and Advanced Reasoning**|Yanjun Zheng et.al.|[2507.16802](http://arxiv.org/abs/2507.16802)|null|
+|**2025-07-22**|**Uncertainty-Aware Knowledge Transformers for Peer-to-Peer Energy Trading with Multi-Agent Reinforcement Learning**|Mian Ibad Ali Shah et.al.|[2507.16796](http://arxiv.org/abs/2507.16796)|null|
+|**2025-07-22**|**Novel Multi-Agent Action Masked Deep Reinforcement Learning for General Industrial Assembly Lines Balancing Problems**|Ali Mohamed Ali et.al.|[2507.16635](http://arxiv.org/abs/2507.16635)|null|
+|**2025-07-22**|**Augmenting Von Neumann's Architecture for an Intelligent Future**|Rajpreet Singh et.al.|[2507.16628](http://arxiv.org/abs/2507.16628)|null|
+|**2025-07-22**|**Smooth Games of Configuration in the Linear-Quadratic Setting**|Jesse Milzman et.al.|[2507.16611](http://arxiv.org/abs/2507.16611)|null|
+|**2025-07-22**|**A Distributed Actor-Critic Algorithm for Fixed-Time Consensus in Nonlinear Multi-Agent Systems**|Aria Delshad et.al.|[2507.16520](http://arxiv.org/abs/2507.16520)|null|
+|**2025-07-22**|**Arbitrage Tactics in the Local Markets via Hierarchical Multi-agent Reinforcement Learning**|Haoyang Zhang et.al.|[2507.16479](http://arxiv.org/abs/2507.16479)|null|
+|**2025-07-22**|**LLM-Driven Collaborative Model for Untangling Commits via Explicit and Implicit Dependency Reasoning**|Bo Hou et.al.|[2507.16395](http://arxiv.org/abs/2507.16395)|null|
+|**2025-07-22**|**Application of LLM Guided Reinforcement Learning in Formation Control with Collision Avoidance**|Chenhao Yao et.al.|[2507.16382](http://arxiv.org/abs/2507.16382)|null|
 |**2025-07-21**|**LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra**|Seth Karten et.al.|[2507.15815](http://arxiv.org/abs/2507.15815)|null|
 |**2025-07-21**|**Density control of multi-agent swarms via bio-inspired leader-follower plasticity**|Gian Carlo Maffettone et.al.|[2507.15781](http://arxiv.org/abs/2507.15781)|null|
 |**2025-07-21**|**A Framework for Analyzing Abnormal Emergence in Service Ecosystems Through LLM-based Agent Intention Mining**|Yifan Shen et.al.|[2507.15770](http://arxiv.org/abs/2507.15770)|null|

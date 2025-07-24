@@ -14,6 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Symbiotic Agents: A Novel Paradigm for Trustworthy AGI-driven Networks**|Ilias Chatzistefanidis et.al.|[2507.17695](http://arxiv.org/abs/2507.17695)|null|
+|**2025-07-23**|**Fair Compromises in Participatory Budgeting: a Multi-Agent Deep Reinforcement Learning Approach**|Hugh Adams et.al.|[2507.17433](http://arxiv.org/abs/2507.17433)|null|
+|**2025-07-23**|**LLM Meets the Sky: Heuristic Multi-Agent Reinforcement Learning for Secure Heterogeneous UAV Networks**|Lijie Zheng et.al.|[2507.17188](http://arxiv.org/abs/2507.17188)|null|
+|**2025-07-23**|**Regret Minimization in Population Network Games: Vanishing Heterogeneity and Convergence to Equilibria**|Die Hu et.al.|[2507.17183](http://arxiv.org/abs/2507.17183)|null|
+|**2025-07-23**|**JAM: Keypoint-Guided Joint Prediction after Classification-Aware Marginal Proposal for Multi-Agent Interaction**|Fangze Lin et.al.|[2507.17152](http://arxiv.org/abs/2507.17152)|null|
+|**2025-07-23**|**Resilient Multi-Agent Negotiation for Medical Supply Chains:Integrating LLMs and Blockchain for Transparent Coordination**|Mariam ALMutairi et.al.|[2507.17134](http://arxiv.org/abs/2507.17134)|null|
+|**2025-07-22**|**Parallelism Meets Adaptiveness: Scalable Documents Understanding in Multi-Agent LLM Systems**|Chengxuan Xia et.al.|[2507.17061](http://arxiv.org/abs/2507.17061)|null|
+|**2025-07-22**|**New Mechanisms in Flex Distribution for Bounded Suboptimal Multi-Agent Path Finding**|Shao-Hung Chan et.al.|[2507.17054](http://arxiv.org/abs/2507.17054)|null|
+|**2025-07-22**|**Multi-agent Reinforcement Learning for Robotized Coral Reef Sample Collection**|Daniel Correa et.al.|[2507.16941](http://arxiv.org/abs/2507.16941)|null|
 |**2025-07-22**|**LingBench++: A Linguistically-Informed Benchmark and Reasoning Framework for Multi-Step and Cross-Cultural Inference with LLMs**|Da-Chen Lian et.al.|[2507.16809](http://arxiv.org/abs/2507.16809)|null|
 |**2025-07-23**|**Agentar-Fin-R1: Enhancing Financial Intelligence through Domain Expertise, Training Efficiency, and Advanced Reasoning**|Yanjun Zheng et.al.|[2507.16802](http://arxiv.org/abs/2507.16802)|null|
 |**2025-07-22**|**Uncertainty-Aware Knowledge Transformers for Peer-to-Peer Energy Trading with Multi-Agent Reinforcement Learning**|Mian Ibad Ali Shah et.al.|[2507.16796](http://arxiv.org/abs/2507.16796)|null|
